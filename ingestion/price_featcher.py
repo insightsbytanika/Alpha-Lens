@@ -23,3 +23,10 @@ NSE_TICKERS= [
     "AXISBANK.NS",
     "LT.NS" #Larsen and tuobro
 ]
+
+BACKTEST_START="2022-01-01"
+BACKTEST_END=datetime.today().strftime("%Y-%m-%d")
+OUTPUT_DIR=path("data\price")
+SLEEP_BETWEEN=1.5
+
+# Logging setup ─────────────────────────────────────────────────────────────
