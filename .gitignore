@@ -1,0 +1,8 @@
+venv/
+data/audio/
+data/transcripts/
+.env
+__pycache__/
+*.pyc
+*.csv
+mlruns/
