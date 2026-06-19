@@ -30,3 +30,9 @@ OUTPUT_DIR=path("data\price")
 SLEEP_BETWEEN=1.5
 
 # Logging setup ─────────────────────────────────────────────────────────────
+logging.basic.config(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    datefmt="%H:%M:%S"
+)
+log=logging.getLogger(__name__)
