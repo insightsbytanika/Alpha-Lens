@@ -36,3 +36,11 @@ logging.basic.config(
     datefmt="%H:%M:%S"
 )
 log=logging.getLogger(__name__)
+
+#core function
+
+def featch_price_history(ticker :str ) -> pd.dataframe | None :
+    ''' download ohlcv  data for one ticker.
+    returns a clean dataframe or none if the download fails 
+    '''
+    log.info(f"feaching {ticker}")
