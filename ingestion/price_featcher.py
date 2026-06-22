@@ -43,4 +43,18 @@ def featch_price_history(ticker :str ) -> pd.dataframe | None :
     ''' download ohlcv  data for one ticker.
     returns a clean dataframe or none if the download fails 
     '''
-    log.info(f"feaching {ticker}")
+    log.info(f"feaching {ticker}....")
+    try:
+        df=yf.download(
+            ticker,
+            start = BACKTEST_START,
+            auto_adjust=True,
+            postgres=False
+        )
+        if df.empty:
+            log.warning(f"  ✗ No data returned for {ticker} — skipping")
+            return None 
+        
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns= df.columns.get_level_values(0)
+        
