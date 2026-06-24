@@ -52,9 +52,16 @@ def featch_price_history(ticker :str ) -> pd.dataframe | None :
             postgres=False
         )
         if df.empty:
-            log.warning(f"  ✗ No data returned for {ticker} — skipping")
+            log.warning(f" No data returned for {ticker} — skipping")
             return None 
         
         if isinstance(df.columns, pd.MultiIndex):
             df.columns= df.columns.get_level_values(0)
         
+        df.index.name="date"
+        df.columns= [c.lower().replace(" ","_") for c in df columns ]
+        df["ticker"]=ticker
+        
+
+
+
