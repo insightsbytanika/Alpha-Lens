@@ -61,7 +61,14 @@ def featch_price_history(ticker :str ) -> pd.dataframe | None :
         df.index.name="date"
         df.columns= [c.lower().replace(" ","_") for c in df columns ]
         df["ticker"]=ticker
-        
+        log.info(f"  ✓ {len(df)} rows  |  {df.index[0].date()} → {df.index[-1].date()}")
+        return df
+ 
+    except Exception as e:
+        log.error(f"  ✗ Failed for {ticker}: {e}")
+        return None
+ 
+ 
 
 
 
