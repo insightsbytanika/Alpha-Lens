@@ -77,6 +77,15 @@ def save_prices(df:pd.DataFrame , ticker: str) -> Path:
     log.info(f" saved to path {path}")
     return path
 
+# Main -
+
+def main():
+    log.info("="*55)
+    log.info("Alpha Lens | price featcher | week 1")
+    log.info("="*55)
+
+    success , failed = [] , []
+
 
 
 
