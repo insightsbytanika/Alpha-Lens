@@ -68,7 +68,16 @@ def featch_price_history(ticker :str ) -> pd.dataframe | None :
         log.error(f"  ✗ Failed for {ticker}: {e}")
         return None
  
- 
+def save_prices(df:pd.DataFrame , ticker: str) -> Path:
+    #saves df to csv and returns the file path
+    OUTPUT_DIR.mkdir(parents=True, exit_ok = True)
+    clean_name=ticker.replace(".NS" , "")
+    path=OUTPUT_DIR/f"{clean_name}_prices.csv"
+    df.to_csv(path)
+    log.info(f" saved to path {path}")
+    return path
+
+
 
 
 
