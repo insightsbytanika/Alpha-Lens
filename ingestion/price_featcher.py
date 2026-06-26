@@ -96,3 +96,15 @@ def main():
  
         time.sleep(SLEEP_BETWEEN)  # don't hammer Yahoo Finance
 
+log.info("")
+log.info("── Run Summary ──────────────────────────────────────")
+log.info(f"  ✓ Success : {len(success)}  →  {', '.join(success)}")
+if failed:
+    log.info(f"  ✗ Failed  : {len(failed)}  →  {', '.join(failed)}")
+    log.info(f"  CSVs saved in: {OUTPUT_DIR.resolve()}")
+    log.info("────────────────────────────────────────────────────")
+ 
+ 
+if __name__ == "__main__":
+    main()
+ 
