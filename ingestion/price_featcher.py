@@ -85,8 +85,14 @@ def main():
     log.info("="*55)
 
     success , failed = [] , []
-
-
-
-
+    for ticker in NSE_TICKERS:
+        df = fetch_price_history(ticker)
+ 
+        if df is not None:
+            save_prices(df, ticker)
+            success.append(ticker)
+        else:
+            failed.append(ticker)
+ 
+        time.sleep(SLEEP_BETWEEN)  # don't hammer Yahoo Finance
 
