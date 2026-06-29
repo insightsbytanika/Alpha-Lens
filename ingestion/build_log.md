@@ -67,6 +67,11 @@ Next step: test `yf.Ticker('WIPRO.NS').history()` directly to confirm,
 then consider adding retry logic with backoff for transient failures
 like this — real production scrapers handle this rather than just
 logging a failure and moving on.
+**Resolved:** Confirmed WIPRO.NS is valid and active — direct
+`yf.Ticker('WIPRO.NS').history()` call returned clean data instantly.
+The "possibly delisted" error was a transient API failure during the
+batch run, not a real issue with the ticker. This confirms retry logic
+is the right fix, not a ticker symbol correction.
 
 **Possible future Failure Log entry (for README):**
 > "Price fetcher succeeded on 7/8 tickers in first run — WIPRO.NS failed
