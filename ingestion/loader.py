@@ -50,6 +50,41 @@ def clean_text(raw: str) -> str:
     return text.strip()
 
 
-print("functions working")
+def process_transcript(pdf_path: Path) -> Path:
+    """Ek PDF uthao, clean karo, processed folder mein save karo."""
+    raw_text   = extract_text_from_pdf(pdf_path)
+    clean      = clean_text(raw_text)
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = OUTPUT_DIR / (pdf_path.stem + "_clean.txt")
+    out_path.write_text(clean, encoding="utf-8")
+    log.info(f"  -> Saved to {out_path}")
+    return out_path
+
+
+def main():
+    log.info("=" * 55)
+    log.info("AlphaLens  |  Loader  |  Week 1")
+    log.info("=" * 55)
+
+    pdfs = list(INPUT_DIR.glob("*.pdf"))
+
+    if not pdfs:
+        log.warning(f"Koi PDF nahi mili {INPUT_DIR} mein — kuch dalo pehle!")
+        return
+
+    log.info(f"  {len(pdfs)} PDF mili/milin")
+
+    for pdf_path in pdfs:
+        process_transcript(pdf_path)
+
+    log.info("")
+    log.info("-- Done " + "-" * 47)
+    log.info(f"  Clean files yahan hain: {OUTPUT_DIR.resolve()}")
+    log.info("-" * 55)
+
+
+if __name__ == "__main__":
+    main()
 
 

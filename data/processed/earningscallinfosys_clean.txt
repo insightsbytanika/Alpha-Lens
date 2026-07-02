@@ -1,0 +1,784 @@
+Infosys Limited
+Earnings Conference Call
+January 11, 2024
+CORPORATE PARTICIPANTS:
+Salil Parekh
+Chief Executive Officer and Managing Director
+Nilanjan Roy
+Chief Financial Officer
+Sandeep Mahindroo
+Senior Vice President, Financial Controller & Head of Investor Relations
+ANALYSTS
+Kumar Rakesh
+BNP Paribas
+Nitin Padmanabhan
+Investec
+Moshe Katri
+Wedbush Securities
+Ankur Rudra
+JPMorgan Chase
+Bryan Bergin
+TD Cowen
+Keith Bachman
+BMO
+Jamie Friedman
+Susquehanna International Group
+Sumeet Jain
+CLSA
+Yogesh Agarwal
+HSBC
+1
+External Document © 2024 Infosys Limited
+Vibhor Singhal
+Nuvama Equities
+Gaurav Rateria
+Morgan Stanley
+Sandeep Shah
+Equirus Securities
+Kawaljeet Saluja
+Kotak
+Manik Taneja
+Axis Capital
+2
+External Document © 2024 Infosys Limited
+Moderator
+Ladies and gentlemen, good day and welcome to the Infosys Earnings Conference Call. As a
+reminder, all participant lines will be in listen-only mode, and there will be an opportunity for you to
+ask questions after the presentation concludes. Should you need assistance during the conference
+call, please signal an operator by pressing star then zero on your touchtone phone. Please note that
+this conference is being recorded.
+I now hand the conference over to Mr. Sandeep Mahindroo. Thank you and over to you, sir.
+Sandeep Mahindroo
+Hello, everyone, and welcome to Infosys Earnings Call for Q3 FY '24. Let me start by wishing
+everyone a very Happy New Year. Joining us on this call is CEO and MD, Mr. Salil Parekh; CFO,
+Mr. Nilanjan Roy; and other members of the leadership team. We will start the call with some remarks
+on the performance of the company for Q3, subsequent to which we will open up the call for
+questions.
+Please note that anything we say that refers to our outlook for the future is a forward-looking
+statement that must be read in conjunction with the risk that the company faces. A full statement
+explanation of these risks is available in our filings with the SEC, which can be found on
+www.sec.gov.
+I would now like to pass on the call to Salil.
+Salil Parekh
+Thanks, Sandeep. Good evening and good morning to everyone on the call. Wish you a Happy New
+Year.
+Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms.
+For the first three quarters, our revenue grew by 1.8% over the same period last year in constant
+currency. We see lower traction for digital transformation programs and more activity for cost and
+efficiency programs and increasing interest in Generative AI programs.
+Our operating margin was at 20.5%. We delivered this outcome while managing through one-off
+business disruptions. Nilanjan will provide more detail for this. Large deals were at $3.2 bn. 71% of
+this was net new. This included one mega deal. With this, our large deal value for the first three
+quarters stands at $13.2 bn, of which 55% is net new. This is the highest ever large deal value for
+the first three quarters in the fiscal year for us.
+3
+External Document © 2024 Infosys Limited
+We see that with our large deal wins, we continue to win market share and strengthen our position
+through our leading capabilities in helping clients with cost, efficiency, automation programs and by
+leveraging Generative AI, digital and cloud.
+We have seen impact in financial services, telco and hi-tech segments. We see strength in
+manufacturing, energy utilities and life sciences segments. We are seeing strong traction for
+Generative AI programs, leveraging our Topaz capability. We have integrated our Generative AI
+components into our service line portfolio, creating impact for our clients.
+We have 100,000 employees trained in Generative AI areas. We have developed a range of use
+cases and benefit scenarios across different industries for our clients. Some of these areas are
+related to client analytics, process optimization, sales, marketing, knowledge analysis, software
+development, self-service and personalization.
+Some examples of the work we are doing in these areas. We are working with a large global bank
+to support them in their risk analysis program by using a large language model for them. We are
+working with a global food supplier to personalized food experience for their customers and to make
+their operations efficient using artificial intelligence. We are working with a global retail company in
+defining their AI first business transformation strategy.
+Our clients are leveraging all these Generative AI capabilities in Topaz, combined with the cloud
+capabilities in Cobalt to help them navigate through this current business environment and setting
+up for the future.
+Our margin improvement program continues to gain traction. The five pillars, the large organization
+mobilization and steady execution are creating impact. Based on the performance in the first three
+quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year
+'24 to 1.5% to 2% in constant currency.
+Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%.
+As you probably know, Nilanjan is leaving Infosys at the end of this financial year. I want to thank
+Nilanjan for the excellent work he has done and the strong position he has put Infosys in. In addition,
+I also want to thank him for his partnership and his friendship over the past several years. We wish
+him all the best in his future plans.
+With that, let me hand it over to Nilanjan.
+4
+External Document © 2024 Infosys Limited
+Nilanjan Roy
+Thanks, Salil. Good evening, everyone and thank you for joining the call.
+Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency. Sequentially,
+revenues similarly declined by 1% in constant currency and 1.2% in dollar terms. This includes the
+impact of furloughs and one-offs. Volumes remain soft, coupled with seasonality and normalization
+of one-time revenues we had in Q2. While the overall environment remains subdued, our large-deal
+TCV is highest ever on a YTD basis. I will talk about the large deals in more detail.
+Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms. We are
+making steady progress on Project Maximus, the margin improvement plan across five pillars and
+over 20 tracks. This strengthens our confidence that the program will give us the impetus for margin
+expansion overtime.
+Operating margins for Q3 were 20.5%, a decline of 70 basis points sequentially, bringing the nine-month
+margins to 20.8%, which is within the guidance band for the year. The major components of QoQ margin
+walk for Q3 margin are as follows:
+Headwinds of 130 bps comprising of
+• 70 bps from salary increases effective Nov 1st
+• 60 bps from McCamish cyber incident which had an impact on both revenues and costs
+Partially offset by tailwinds of 60 bps comprising of
+• 50 bps benefit from cost optimization including higher utilization and lower SG&A
+• 10 bps from currency movement
+Balance includes impact of furloughs, offset by higher leave utilization and one-off benefits including
+lower provision for post sales client support and lower ECL model losses etc
+Headcount at the end of the quarter stood at 322,000 employees, a decline of 1.9% from the previous
+quarter, which is reflected in improvement in utilization to 82.7% excluding trainees. On-site mix also
+improved by 20 basis points sequentially to 24.4. As mentioned earlier, we continue to improve our
+operating efficiencies.
+LTM attrition for Q3 reduced further by 1.7% to 12.9%. Free cash flow for the quarter was robust at
+$665 mn and the conversion to net profit for Q3 was strong at 90.6%. Our unbilled revenues dropped
+5
+External Document © 2024 Infosys Limited
+for the third consecutive quarter. And consequently, this has partly led to an increase in DSO by 5
+days sequentially to 72 days. Consolidated cash and equivalents stood at $3.9 bn at the end of the
+quarter after a dividend payout of $895 mn.
+EPS declined by 6.1% in INR on a year-on-year basis and grew by 3% in INR for the 9 months period
+ended.
+Yield on cash balances was 6.9% in Q3. ROE improved to 31.8%.
+Large deal momentum continued and deal TCV of Q3 was $3.2 bn, with 71% net new. Consequently,
+our YTD large deal TCV is over $13 bn, which is the highest ever for any comparative period. This
+clearly reinforces our position and strengthens the relevance and strength of our service offerings.
+We signed 23 large deals in Q3, including one mega deal. We signed 8 deals in manufacturing, 6 in
+FS, 4 in EURS, 2 each in retail and communication and 1 in others. Region-wise, we signed 10 large
+deals in America, 9 in Europe, 3 in ROW and 1 in India.
+Coming to industry verticals,
+Inflation, uncertain macro and delay in decision-making continues to impact the financial services
+sector. With increasing cost pressures, clients remain cautious on spending and are reprioritizing
+their programs to deliver maximum business value. Topaz is central to our Generative AI
+discussions, which is gaining momentum and use cases around improving customer experience. We
+also started implementing use cases in some of our clients focusing on improving client experience,
+detecting fraud, etc. Overall, while the near-term outlook remains volatile, we will benefit from the
+recent deal wins and the new account openings.
+Clients in communication sector continues to face growth challenges, which is putting pressure on
+opex spend. Uncertainty about medium-term spend remains with clients, prioritizing cost optimization
+and vendor consolidation. Clients are looking at conserving cash, which is visible in delayed decision-
+making and project deferrals. Our focus on large and mega deals resulted in healthy pipeline and
+deal wins.
+Energy, utilities, resources and services clients remain cautiously optimistic about the demand
+environment with cap on short-term spend. In Energy segment, we are seeing market share gains
+due to consolidation. Our investment on industry cloud solutions and the energy transition, combined
+with extreme focus on human experience, have helped us differentiate, win multiple deals and build
+a strong pipeline.
+6
+External Document © 2024 Infosys Limited
+Manufacturing segment continues to deliver strong performance on the back of new deal wins and
+ramp-up of earlier large deals signed. Growth was broad-based across Europe and the U.S. as well
+as across industrial, automotive and aerospace industries. While the budget remains largely stable,
+clients continue to find ways to channel run savings into newer areas like digital, cloud, data and IoT.
+Pipeline remains healthy with emerging opportunities on various fronts in the ER&D space resulting
+from increased spending.
+In the Retail segment, cost takeouts and consolidation remain the primary focus for the clients. While
+discretionary spend remain under pressure, there are pockets of opportunities, leveraging
+Generative AI, in predictive analysis, real-term insights and decision support areas. Deal pipeline is
+strong, though decision cycles remain long.
+A resilient performance in a seasonally weak quarter and the continued momentum in deal wins,
+coupled with a very large efficient execution engine, gives us confidence for growth in the medium
+term. Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue
+growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms.
+We retain our margin guidance band for the year at 20% to 22%.
+Finally, I would personally like to thank all the stakeholders of Infosys, especially the fabulous finance
+team here for their support over the past five years. As I step down, I look forward to working closely
+with the entire leadership team over the next few months to ensure a smooth transition. Finally, I
+wish Jayesh the very best as he assumes the role of CFO from 1st of April '24.
+With that, we can open up the call for questions.
+Moderator
+Thank you, very much. We will now begin the question-and-answer session. The first question is
+from the line of Kumar Rakesh from BNP Paribas. Please go ahead.
+Kumar Rakesh
+Hi, good evening and thank you for taking my question. My first question was...
+Moderator
+Kumar sir, can I request you to speak up a bit?
+Kumar Rakesh
+Sure. Is this better?
+7
+External Document © 2024 Infosys Limited
+Moderator
+Yes. Go ahead, please.
+Kumar Rakesh
+Thank you. So, my first question was around the new deal wins, which has been pretty strong at $2.3
+bn, it is some of the highest we have seen in the recent quarters. However, that also implies the
+renewals have been weaker. In recent quarters, we have seen renewals to be in the range of $1.5
+bn to $2 bn. In this quarter, it was less than $1 bn. And that could also be the reason for the slowdown
+in the second half, which you are expecting.
+We can understand that the new deal wins would be lumpy and difficult to predict, but you would
+have a timeline on the renewals, when they would be happening and what is the probability that you
+could see winning them back? So how do you see the next quarter or so panning out from the
+renewal perspective, any visibility on that side?
+Salil Parekh
+Thanks for that question. I think my reading of the large deals win is more along the lines that we are
+continuing to do well with renewals and then we have got really excellent net new wins in the $3.2
+bn. As we have discussed at other times, the large deals numbers by themselves vary quarter-on-
+quarter. As you know, last quarter was also extremely large number.
+Having said that, we have on the renewals, a clear sight of what is coming up. We are also benefiting
+in many of these areas from consolidations which Nilanjan referenced. And also where our clients
+are seeing, opportunities for cost and efficiency. So all of that gets combined with the renewals
+coming along at regular cycles.
+Kumar Rakesh
+Got it. Thanks for that. And my second question was around Gen AI. So you have talked about
+100,000 employees being trained on Gen AI. But can you just quantify or share some insights on the
+client engagement side? Anything that you can quantify, number of projects that we are working or
+the amount of deals that we are winning, anything that we can start tracking on that side?
+Salil Parekh
+So there, we are not, at this stage sharing externally any views on revenues or projects and so on.
+To give you color what is happening today is, almost every discussion with clients involves some
+element of Generative AI. And what we have now developed through Topaz is a set of areas where
+8
+External Document © 2024 Infosys Limited
+there is benefit cases, use cases scenarios where there is impact, where we are working across a
+large number of clients on those in different scales, where there are some which are more pilot,
+some which are programs. And that is the three examples that I shared.
+We have also developed strength across a number of large language model, where we have trained
+our teams. And then on how to leverage datasets. Our focus is very much on large enterprises who
+are our clients and the datasets within those enterprises, depending on the usage of where that large
+language model is to be applied.
+We have a very strong business in data and analytics, which becomes the foundation for this
+Generative AI work. We are working to make sure that the benefits are felt across all of our service
+offerings, so we can start to see in new discussions with clients, productivity benefits, which are
+downstream coming from this Generative AI. So at this stage, while we are not externally quantifying
+all of the elements I referenced, that is the sort of color we are seeing across a large number of
+discussions.
+Kumar Rakesh
+Thanks for that, Salil.
+Moderator
+Thank you. The next question is from the line of Nitin Padmanabhan from Investec. Please go ahead.
+Nitin Padmanabhan
+Hi, good evening, thanks for the opportunity. Congrats on the strong deal wins. So I think, first off,
+Salil, anything that you have seen versus the previous quarter in terms of client behavior that
+suggests green shoots on the discretionary side? Or do you think that will continue to be under
+pressure for some time?
+The second question is for Nilanjan. It appears that we will exit the year with margins lower than last
+year. Do you still believe that margin could be better next year versus the current one? We have sort
+of highlighted that as an aspiration at the beginning of the year, so just wanted your thoughts on how
+one should think of that at this point in time? Thank you.
+Salil Parekh
+Thanks. In terms of the client discussions, we have not seen some significant change in one or the
+other direction from what we were seeing last quarter. So some of the digital transformation work or
+some of that type of programs are where clients are not putting focus or attention, whereas the cost
+9
+External Document © 2024 Infosys Limited
+and the efficiency and now even consolidation, we are seeing more and more of that, which is what
+we were seeing last quarter as well. So in that sense, we do not have any change that we have
+sensed at this stage.
+Nilanjan Roy
+So Nitin, on the margin question, I think you have seen this quarter as well, the underlying margins,
+excluding the one-offs are quite resilient and we have talked about now Project Maximus, this is
+nearly the third quarter and a lot of work has been going on. We are seeing the benefits of that, and
+you can see that in our commentary as well. We are very confident about the overall margin outlook.
+Of course, we would not give a number about next year. But really, the multiple tracks around value-
+based selling, around efficient pyramid, around automation and Gen AI, are all working well. So, I
+think that gives us good optimism over the medium term in terms of our margin structure.
+Nitin Padmanabhan
+Okay. Thank you so much and all the best.
+Moderator
+Thank you. Next question is from the line of Moshe Katri from Wedbush Securities. Please go ahead.
+Moshe Katri
+Thanks for taking my questions and congrats on strong bookings for the quarter. First question, any
+color of the ongoing budget cycle for calendar '24? Do you think budgets will be on time? Do you
+think budgets will be delayed? Any color there on that one?
+Salil Parekh
+Thanks, Moshe. On the budgets, in Q3 end of the year quarter the furloughs were in play. We are
+seeing that coming into play in the Q1 calendar year which is our Q4. The budget decisions are
+ongoing and as you know well, these will go through the early part of this month. So, nothing from
+that. We do not see any change in what we were seeing in terms of behavior from the last quarter
+where budgets would suddenly have a different direction.
+So, at this stage, it looks like it is similar to what we were seeing, but everything is not yet closed out
+from our discussions on the budgets.
+10
+External Document © 2024 Infosys Limited
+Moshe Katri
+Understood. And then looking at the deal flow, the large deal flow that went through calendar '23,
+there were some concerns that they are not converting, some of deals are not converting on a timely
+basis. Has that changed in any way in terms of conversion on some of these deals, and when we
+could start seeing that inflection point in revenue growth because of those deals converting? Thanks
+a lot.
+Salil Parekh
+On that, as you are aware, the large deals are obviously giving us the foundation, especially the net
+new and renewal for future revenue. And at the same time, we are also seeing impact of the digital
+programs not moving or digital programs sometimes being stopped. So that combination is what
+gives that revenue outcome.
+At this stage, we have no specific external view on what will happen in the quarter, but our overall
+revenue guidance for this financial year, which is only one more quarter, gives you a sense of how
+we are feeling about that. We will see, because a lot of the large deals, as they start to build up, and
+when the digital capabilities start to have more interest with clients, we will start to see that change,
+I am sure.
+Moshe Katri
+Thanks, Salil.
+Moderator
+Thank you. The next question is from the line of Ankur Rudra from JPMorgan Chase. Please go
+ahead.
+Ankur Rudra
+Hi, thank you. Salil, could you elaborate on what you have seen the client spending sentiment has
+been, on projects that have already been signed, let us say in the last nine months or so on the cost
+takeout side; and on incremental signing of smaller projects? Because we can see on large projects,
+but we do not have a visibility on how your small projects are doing?
+11
+External Document © 2024 Infosys Limited
+Salil Parekh
+Sure. So, on the client spending, where clients have signed recently in the last three, six, nine
+months, that spending is going well, both on cost and other projects, incremental projects, as you
+were describing. On things that were more in the past, that behavior on the cost has continued and
+the incremental projects we have seen even in the past quarter some impact. But what has been
+signed recently, we see those proceeding as per what they have signed.
+Ankur Rudra
+Understood. And you have mentioned several times on the call that there seems to be delays in
+revenue recognition because of project reprioritization. Is there a way of maybe estimating this for
+investors benefit? Like, for example, how much of fiscal '23 or the last 2 years, total contract value
+or signings may have been impacted because of change in client priorities? Or alternatively, how
+much of the signings have been shrinking every quarter, there is one back with new project signings
+for you to stay at the same place?
+Salil Parekh
+We are not in a position to share that externally. We have a view on what we look at, in terms of
+wins, execution and large deals internally. There are also other programs, some small, some mid-
+sizes which go up and down. So that whole internal composition is something which we work with,
+but it is not something which we have shared in the past and are even today sharing externally.
+Ankur Rudra
+Understand. I wanted a color as opposed to maybe a quantification?
+Salil Parekh
+Yes. So same, I think at this stage, the outcome is what we have. We have not given any more on
+that in terms of color as well, Ankur.
+Ankur Rudra
+Understood. Maybe moving to margins. Just one question. Obviously, this quarter, if I take out the
+impact of the ransomware incident, it appears that margins would have been up by 60 basis points.
+Is that right? Number one. Number two, if you could elaborate where we are on the various Project
+Maximus levers? And where is the remaining support, let us say, over next year or so?
+12
+External Document © 2024 Infosys Limited
+Nilanjan Roy
+Yes, we have given the margin walk in the initial script, and quite clear about the one-offs, the salary,
+etc.
+From Maximus, there are a lot of tracks which are currently in play. Utilization is one you are seeing,
+in fact, that is the biggest one, straight up in your metrics, you can see that and how that is flowing
+into margins. There are other internal programs on the pyramid, a lot of work there onsite-offshore,
+is the first time we have seen some positive movement after a lot of quarters.
+On automation and Gen AI, a lot of work going on, with Gen AI coming in with additional sort of levers
+available to us more than the traditional automation which we used to do. Pricing has been much
+better. There is a lot of work happening on value-based selling. And in fact, that is also reflected in
+overall RPP that we are seeing a much more stable pricing, in the underlying pricing regime, and
+that is something which we are pushing on.
+So all the levers are in play. We have quarters where we are able to squeeze more and many new
+ideas. I think with Project Maximus, which have come into the fray as well, looking at large programs
+and whether we can early on get into a margin improvement program rather than what was originally
+budgeted during the bid phase. So there is a lot of stuff happening, and I think we are already seeing
+the early results.
+Ankur Rudra
+A quick follow-up, if I can. There is some concern that some of the cost takeout contracts won in the
+last 9 months may drive some margin headwinds. Is that something that should impact on a portfolio
+basis next year?
+Nilanjan Roy
+That is something we have always talked about. We have a portfolio of contracts in the first, second,
+third, fourth, fifth year. So while new contracts come in, which are initially potentially at lower margins,
+at the same time, we have contracts which have been going into a steady state. Some of these
+questions were raised two, three years back in one of our segments as well.
+And you have seen the improvement for that segment particularly over the period of time where it is
+nearly closer to the average margin for company. So that is something which we have really fine-
+tuned and mastered over the few years. So in that sense, that is always built into our projections and
+forecast.
+13
+External Document © 2024 Infosys Limited
+Ankur Rudra
+I appreciate the color. Thanks and best of luck.
+Moderator
+Thank you. Next question is from the line of Bryan Bergin from TD Cowen. Please go ahead.
+Bryan Bergin
+Hi, good evening, thank you. First question I have is demand by geography. Can you talk about
+pipeline and client spending plans across the U.S. versus Europe, maybe also based on what you
+have in backlog? I am curious if you think the recent trends of North America weakness being offset
+by solid Europe performance is likely to continue or whether that may change as you go through
+fiscal '25?
+Salil Parekh
+On the geography, as you point out, we had good growth in Europe in Q3, weaker in North America.
+In terms of pipeline, we don’t share the pipeline split by geography. We do see our large deals that
+Nilanjan shared by geography in good momentum at least on the large deals on both U.S. and
+European side, but we don’t specifically call out pipeline or outlook by geography within our business.
+Bryan Bergin
+Okay. Any reason that the current growth trajectory should change near term or should it remain
+somewhat consistent?
+Salil Parekh
+So, if you look at guidance for the full year, which is for the remaining quarter, it’s for the entire
+business and we don’t have a specific view that we share externally on the U.S. or Europe there.
+Bryan Bergin
+Okay. Follow-up on the third-party items. So another uptick here, just I think, over 8% of revenue
+now. Can you talk about whether you expect third-party items to continue to rise as mix revenue or
+may this start to come down as you go forward and deal composition potentially change? I am just
+trying to think about sustainable level here as this has moved up meaningfully over the last couple
+of years?
+Nilanjan Roy
+14
+External Document © 2024 Infosys Limited
+Yes. So as we have talked about this before, as we are involved in larger transformation deal, the
+longer-term transformation deals across the entire IT stack, infra, cyber, application development,
+data, I think many of these are bundled deals, which have software, hardware elements in it. And in
+a way, that is also giving us the benefit of taking these larger deals off the table and at the same
+time, we are able to manage our margins as well.
+So, we are able to navigate both, the impact of this. So we have no number in mind to say that this
+is where we target or this is optimal level. As long as we are able to get incremental market share
+and get our margins in-line, which is what the program of Maximus is also about, I think we are
+comfortable with that.
+Bryan Bergin
+Okay. And just last one for you, just on the headcount resourcing plans. Can you just give us a sense
+how you are thinking about resourcing plans near term? I know it was down again, sequentially about
+2%. I am just curious if you have kind of reached a stabilization point?
+Nilanjan Roy
+Yes, so we still have a lot of headroom and we have talked about it in the last two quarters that our
+utilizations are still quite low. We have operated a much higher utilization, 84%, 85% and of course
+in the COVID years, maybe 87%, 88%. So that is one, and we are still below 84% as we speak. We
+also have an on-tap demand fulfillment from our fresher model, so we can absorb in freshers very
+fast, because we do not have to just go for colleges and wait for the annual cycle.
+Now we have a source of supply from off-campus as well. And with attrition slowing down, there is a
+lot of talent, even from a lateral basis available across the country as well. So I do not think that is a
+big concern for us.
+Bryan Bergin
+Good luck to you, Nilanjan. Thank you.
+Nilanjan Roy
+Thank you.
+15
+External Document © 2024 Infosys Limited
+Moderator
+Thank you. Next question is from the line of Keith Bachman from BMO. Please go ahead.
+Keith Bachman
+Hi. Thank you. I want to ask a couple of questions, if I could. First on pricing, you mentioned specific
+segment of pricing, but I wanted to ask about, pricing on renewals, are you seeing pricing pressure
+that is different from past cycles at the time of renewals? And then also, you had good deal signings
+for large deals. I wanted to talk, if you could address pricing for those large deals and how that might
+be impacting your margins? And then I have a follow-up, please.
+Nilanjan Roy
+Yes. We have seen much better pricing stability over the last few years. And in fact, we are also very
+conscious with our value-based selling program that we are not leaving any pennies on the table
+when we are going after deals, because in the hubris, we want to make sure that we are not leaving
+a lot of dollars on the table. So I think there is a lot of work happening there.
+But overall, from a competitive positioning, pricing really has been stable across. And that is reflected
+on the cost pressure that people are also conscious of, in their margins and in where they are.
+So, in that sense, there is no more concern. We, of course, have the one-offs, etc., specific clients,
+specific segments where they are in trouble. And of course, they may want to rebid some of that. But
+overall, it is not been something which is really concerning us in that sense today.
+Keith Bachman
+Okay. And my follow-up relates to duration, this was asked a little bit differently earlier in the call. But
+as you are getting good signings of large deals, is the duration of those large deals extending so that
+investors should be thinking about the book-to-bill being a bit longer?
+Nilanjan Roy
+So, we do not give out the duration of the deal wins. We have deals which come with longer-term
+periods. And you could see some of the announcements we have made. But nothing specifically
+whether they are going up across. So, we do not comment on that.
+16
+External Document © 2024 Infosys Limited
+Keith Bachman
+Okay. Well, then maybe I could sneak in one more. As you just look out over the next couple of
+quarters, if you could just help us on the puts-and-takes on margins that we should be thinking about.
+I am not asking for guidance. You have already said that utilization perhaps is a source of potential
+margin upside as it goes up. I would think that wage pressures would be less going forward, but not
+sure how mix fits into that.
+But anything you just want to highlight beyond the March quarter, but just the puts and takes that we
+should at least be considering as we are creating our margin profile over the next, four, five quarters?
+Nilanjan Roy
+Yes. So, I think one of the earlier question was on this and probably I talked about it in Project
+Maximus, as well. There are other benefits, which we don’t factor in into any of our models. For
+instance, operating leverage, you can see the impact of SG&A benefits on operating margins when
+we were growing during '21, '22, '23. So, that is something which automatically flows into the P&L
+with growth. And in a way it gets reversed, the operating leverage works against you when revenues
+are down. So, that is something from a pure margin perspective, which you know flexes.
+Secondly, similarly on the currency, we don’t build in anything into our programs. And that also comes
+in the future as well, but it is not part of Maximus. Of course, there are things out there, what the
+expectations of dollar movements are. So, these are some things more extraneous as well which
+can impact, but we are more confident of what we are able to control within the 20 tracks of Maximus
+and we have talked about that.
+Keith Bachman
+Okay. All right, thank you.
+Moderator
+Thank you. The next question is from the line of Jamie Friedman from Susquehanna International
+Group. Please go ahead.
+Jamie Friedman
+Hi. Good evening. Nilanjan, in your prepared remarks you expressed confidence in growth in the
+medium term. I was just hoping you could unpack that a little. When you say medium term is that
+just a comment about the fourth quarter or is that longer in duration?
+17
+External Document © 2024 Infosys Limited
+Nilanjan Roy
+Yes. Medium term is medium term. It is definitely more than the fourth quarter.
+Jamie Friedman
+Okay. Thank you. Also, Nilanjan and Salil, I have tried to reconcile when Salil observes the strength
+in the TCV and a record TCV in nine months and when Nilanjan, you used the word subdued in your
+prepared remarks. It seems like you are saying, it is hot and cold at the same time. So, I know these
+are where many of these questions are going, but how can the weather be both?
+Salil Parekh
+Hi, maybe the way that we are thinking about this, we can share with you. The large deals really give
+us good confidence of revenue over the next several periods in terms of the wins, both for net new
+and renewals. And the comment, which was more around subdued, we look at it from a perspective
+of where we see less activity on digital programs and less activity on some of those type of projects,
+where that takes away a little bit from the revenue.
+So, that is the sort of balance in our mind. One of them giving us that revenue outlook and the other
+where clients are under constraints on their own spend, reducing some of that. That is how we see
+the balance on that. Hopefully, that clarifies the comments.
+Jamie Friedman
+Thank you, Salil. I will jump back in the queue.
+Moderator
+Thank you. Next question is from the line of Sumeet Jain from CLSA. Please go ahead.
+Sumeet Jain
+Yes. Hi, thanks for the opportunity. Firstly, I wanted to ask around the one-time loss what you had
+around McCamish, are you expecting it to reverse back in Q4 and include it in your guidance? Or
+will it reverse some time in FY '25?
+Nilanjan Roy
+No, this is one-time. There is no reversal.
+18
+External Document © 2024 Infosys Limited
+Sumeet Jain
+Got it. And secondly, I wanted to check around your platform business. I mean we have seen for the
+last 2 years, there has absolutely been no growth in that particular business. But although we keep
+seeing deal wins around your Finacle platform with various regional banks in the Middle East
+geography and other regional banks in North America as well. So can you share any plans to grow
+that part of the piece where we are seeing the other SaaS companies globally have actually seen a
+lot of traction post the Gen AI offerings and their solutions?
+Nilanjan Roy
+Yes. So I think we continue to do well. I think Finacle business continues to motor ahead, a very nice
+deal wins across. And overall platforms is a more generic usage. And I mean, we track it across
+various things, but Finacle actually overall has been doing very well.
+Sumeet Jain
+So any reasons for the platform business to be flat over the last 2 years?
+Nilanjan Roy
+So I think we can get back to you on that.
+Sumeet Jain
+Okay, that is all I had. Thank you.
+Nilanjan Roy
+Okay. I think Sandeep is just prompting me that we also use it for internal productivity as well for
+services.
+Sumeet Jain
+Okay. Got it. Thank you.
+19
+External Document © 2024 Infosys Limited
+Moderator
+The next question is from the line of Yogesh Agarwal from HSBC. Please go ahead,
+Yogesh Agarwal
+Yes, hi. Just one quick question. The number of employees are down 7% year-on-year, but the total
+wage bill is up around 1% or 2%, which means that the wage bill per head is up around 9%, 10%
+year-on-year. So I would have assumed that the pyramid would have kicked in, in a slower growth
+last few quarters. So any particular reason why the wage bill per head has gone up so much? Thanks.
+Nilanjan Roy
+I think one of the things is the comp increase also has happened this quarter. And, of course, in the
+initial part of the year, we had more lateral movements coming in, in the top end of the pyramid. But
+if you see the latest quarter, you will see a reversal of that. I think the employee costs have come
+down, in this quarter as well. So you will see that trend reversing.
+Yogesh Agarwal
+Great. Thanks. Thanks, Nilanjan, all the best for your future endeavors.
+Nilanjan Roy
+Thank you.
+Moderator
+Thank you. The next question is from the line of Vibhor Singhal from Nuvama Equities. Please go
+ahead.
+Vibhor Singhal
+Yes, hi. Thanks for taking my question.
+Moderator
+Please use your handset. There is an echo in the line.
+20
+External Document © 2024 Infosys Limited
+Vibhor Singhal
+Sure. Is it better now?
+Moderator
+Yes, please go ahead.
+Vibhor Singhal
+Yes, thanks a lot for taking my question. So, Salil, just a question on the deal flow number. I know
+we have already had a bit on it. So, I just wanted to take a bit of feedback. We know this quarter was
+basically on the softer side, both in terms of seasonality and probably furloughs being higher than
+the last year itself. But on the overall demand environment that we are looking at, both, let us say, in
+terms of the cost takeout deals or the discretionary spends or basically the different verticals that we
+are looking at, is there any change in the overall demand environment that we are looking at from 3
+months ago? I mean, when we met for the second quarter results?
+And how do you see this playing out over the next couple of months as clients get into the budget
+cycle and any specific verticals or pockets that you might want to call?
+Salil Parekh
+So, there, you know, the thing that we have observed is, as we look at a large client base, the way
+clients are behaving in terms of spend, we have not seen a change in the way they are looking at it.
+So, we still see, what we were discussing earlier on digital transformation programs being more
+impacted, where cost efficiency being much more in play, there is also more consolidation that we
+are seeing, and that was coming through in the past quarter as well.
+And then, there is a lot of interest in almost every conversation we have, where Generative AI is part
+of the mix. So, in that sense, I do not have a feeling that there is a change that we are seeing. Now,
+this is also the start of the calendar year. We will get a sense fairly quickly on how clients are looking
+at their spend. And as we come to the end of our financial year and as we plan for next year, that
+will give us, let us say, more view into that spending pattern.
+Vibhor Singhal
+Got it. And in terms of the deal flow, I mean, the deal wins that we had in the first half of the year
+were very rock solid deal wins. Any color on some of those deals getting into execution mode driven
+21
+External Document © 2024 Infosys Limited
+by the conversation with your clients? I mean, are we seeing incremental intent from the clients on
+starting those deals, which were maybe a bit delayed on their side? Or, any color on that that we
+have seen incrementally over the last three months?
+Salil Parekh
+So, there we have seen, essentially, in this last 3-month cycle, the deal starting or ramping up being
+as we anticipated. So nothing has changed in this 3-months cycle. There are places in some of the
+large deals where there is need for incremental work, which is also starting to be visible, which will
+hopefully flow through.
+So, there will be no delay that we have seen. In fact, we have seen more of those on track in the last
+three months.
+Vibhor Singhal
+Got it. Thanks for taking my questions and I wish you all the best.
+Salil Parekh
+Thank you.
+Moderator
+Thank you. The next question is from the line of Gaurav Rateria from Morgan Stanley. Please go
+ahead.
+Gaurav Rateria
+Hi. Thanks for taking my question. The first question is with respect to the mega deal signed in 2Q.
+The transition period was expected to be a little longer, and some of them were supposed to come
+into revenues in the fourth quarter itself. So is the expectation remaining similar on that? Or has
+anything changed with respect to the transition period and flow-through of the revenue?
+Salil Parekh
+There, as we had shared previously, it was towards the end of the year and that is where we are, so
+we do not see that changing.
+22
+External Document © 2024 Infosys Limited
+Gaurav Rateria
+Got it. Second question is with respect to the underlying leakage in the business on small deals,
+discretionary spend that has been continuing now for some time. How do you characterize your 3Q
+versus, let us say, 1Q and 2Q has the leakage remained largely similar or has that kind of come
+down compared to the pace at it was leaking in the first two quarters?
+Salil Parekh
+Let me try to give color in the way we look at it. In the last quarter, so in the last three months, we
+have not seen those things change in direction, they appear to be stable or similar.
+Gaurav Rateria
+And is that the similar thing built in your outlook for the fourth quarter as well, when you tightened
+your guided band?
+Salil Parekh
+At this stage that is what we have put into the Q4 outlook, yes.
+Gaurav Rateria
+Got it. Last question is on the margins. Given that you will have some bit of more headwind in fourth
+quarter because there will be full three-month impact of the wages that you have provided for in this
+quarter, your margins probably will have some more headwinds, plus your implied guidance points
+to again, weak revenue trajectory in the fourth quarter also, so no major massive operating leverage
+per se.
+It is just that you are exiting the year with margins closer to the lower end of the guide, is that the
+bottom for the margins? And given the Project Maximus is underway from here on the margin should
+only be going in the upward direction? Is that the way to look for it? I am not specifically looking for
+fiscal '25, but just trying to understand is that the bottom for the margins? Thank you.
+Nilanjan Roy
+Yes, so in Q4, I mean, it will work out of Q3 as well and you know there are puts-and-takes in Q4.
+And like we have said, Project Maximus continues to deliver very strongly and in our overall
+commentary, we have talked about the optimism in the medium-term for our margins coming out of
+Maximus.
+23
+External Document © 2024 Infosys Limited
+Gaurav Rateria
+Thank you.
+Moderator
+Thank you. Next question is from the line of Sandeep Shah from Equirus Securities. Please go
+ahead.
+Sandeep Shah
+Yes, thanks. Thanks for the opportunity. Most of the questions have been answered. Just wanted to
+understand the 60 bps impact on our cybersecurity, is it possible to break down in terms of revenue
+and cost? And is it fair to assume the impact, which could have been there because of the cost, will
+actually no longer be there? It would be a tailwind in the fourth quarter?
+Nilanjan Roy
+Firstly we can’t split it, but both these are one-time impacts - the loss of revenue and the cost impact.
+So, this was like the puts-and-take. So, in Q4, as we see it now, this is not going to be there.
+Sandeep Shah
+Okay. And so even the revenue will come back in the fourth quarter, right?
+Nilanjan Roy
+Yes, so I think in the statement, you have seen that the systems are back substantially by the end of
+December, right? The system is up and running. So I think that part goes away and the work that we
+do in Q4, should translate to revenues.
+Sandeep Shah
+Okay. And Nilanjan for two months of wage hike, 60 bps to 70 bps wage impact looks slightly lower.
+So, is the almost 100% of the eligible employees have been covered? And is it fair to assume the
+wage impact would be much lower in the fourth quarter because it would be one month impact?
+Nilanjan Roy
+Going to be a one-month impact, absolutely. Every time we do a wage hike, we look at, of course,
+the competitive scenario we look at the market, attrition, employees, tenure, what are the pay point
+24
+External Document © 2024 Infosys Limited
+grids. So, it is a very complex exercise. And based on this, this is what we have rolled out. And of
+course, you can see the attrition figures are also good.
+Sandeep Shah
+Okay. And last question, Salil, I think one of the responses, you said the furloughs in the December
+quarter may continue in the March quarter, have I heard correctly or I have been mistaken?
+Salil Parekh
+So there, my point was on more Q3, we had the furloughs and that is a seasonal impact. In Q4, we
+typically see a little bit of that always in our business in Australia and that is really the reference I
+was making.
+Sandeep Shah
+Okay, okay. Thanks and all the best. And all the best Nilanjan.
+Nilanjan Roy
+Thank you.
+Moderator
+Thank you. The next question is from the line of Kawaljeet Saluja from Kotak. Please go ahead.
+Kawaljeet Saluja
+Hey, hi. My question is for Nilanjan. And Nilanjan you know the margins for this quarter, is it based
+on your normal variable compensation provision? Or is that something which has taken a hit in this
+quarter?
+Nilanjan Roy
+So Kawal, we do not talk about the variable pay, of course. I think there will be enough news in the
+papers about that, but we do not give any commentary on variable pay.
+Kawaljeet Saluja
+25
+External Document © 2024 Infosys Limited
+Yes. I mean I think it will make its way to the media after a month, so might as well talk about it now
+Nilanjan.
+Nilanjan Roy
+We never confirm at any case.
+Kawaljeet Saluja
+Okay. Got that. Yes. All the best for your future endeavors, Nilanjan.
+Nilanjan Roy
+Thanks, Kawal.
+Moderator
+Thank you. Next question is from the line of Manik Taneja from Axis Capital. Please go ahead,
+Manik Taneja
+Hi. Thank you for the opportunity. I just wanted to understand over the course of last 9 to 12 months,
+the industry has been complaining about the leakage on the existing projects as well as non-
+extension of discretionary projects. Are you seeing any change on that front? That is question
+number one. The second question was with regards to the expansion in terms of captive centers,
+and we continue to see news flow on that front. Any comments from you on that front?
+Salil Parekh
+I think, on the first part, our sense is in the last quarter, so in this Q3, we have not seen any change
+in the work on those projects that had essentially a similar type of trajectory. On the captive centers
+there, typically, we see that any time there is new technology shifts, whether there was digital or
+cloud or Generative AI, there is definitely more interest in some clients building out captives. Equally
+as technologies age, we see some clients are looking to exit and especially to be more optimized.
+And we have seen that in several of our large deals, if you look back over the last several quarters.
+We have had these where, in addition to the transformation, we have taken on the task of optimizing
+pre-existing captives and so on.
+26
+External Document © 2024 Infosys Limited
+So, we do not see a change. It is just maybe it is that new technology moment where we see the
+activity. But we also see converse activity of things which were let us say, set up 5, 7, 10 years ago,
+which are going through that change or decline in that situation.
+Manik Taneja
+Sure. And one last question from my end, we have been seeing our headcount reduced for the last
+several quarters. Any sense on how we should be thinking about the optimization on this front given
+the kind of deal wins that we have had in the last three quarters?
+Nilanjan Roy
+Yes. So I have mentioned that a couple of times, utilization is something where we have headroom.
+So the decline in headcount really does not concern us too much. And both from availability of talent
+to ramp-up, we now have a very strong off-campus program. This is something over the last three
+or four years, we have perfected post COVID and that is really on tap without having to give out
+requests to colleges one year in advance.
+And of course, from a lateral perspective, like I mentioned, with the market being soft, there is of
+course, talent available even laterally. So in that sense, we are very, very comfortable with any
+volume requirements and ability to fulfill.
+Manik Taneja
+Sure. Thank you and all the best for the future.
+Moderator
+Ladies and gentlemen, that was the last question for today. I now hand the conference over to the
+management for their closing remarks. Thank you and over to you.
+Salil Parekh
+Thank you. Just, first, everyone on the call thanks very much for joining us and for your questions. I
+want to just summarize with a few points. First, we are very excited with the large deals at $3.2 bn,
+71% net new. It really shows the foundation of what we see for the future, very happy with the strong
+margin and also for an extremely strong margin improvement program that is in play.
+Our Generative AI work is really pervasive. It is across all of our client discussions, in our service
+lines and we believe we are building extremely deep capability within our Topaz set of capabilities.
+27
+External Document © 2024 Infosys Limited
+We see continued strong focus on cost takeout, consolidation and we have extreme strength in that.
+We feel good that, that will continue. If that continues, we have a good play into that.
+And then finally, we feel good overall about the resilience of our business given the quarter and the
+seasonality that we had and the overall economic environment. We feel really good about the
+resilience of our business and the future.
+So thank you, everyone, again and look forward to catching up at the next quarter call.
+Moderator
+Thank you very much, members of the management. Ladies and gentlemen on behalf of Infosys,
+that concludes this conference. Thank you for joining us and you may now disconnect your lines.
+28
+External Document © 2024 Infosys Limited
