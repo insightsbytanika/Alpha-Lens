@@ -82,3 +82,11 @@ def process_file(nlp, txt_path: Path) -> Path:
     log.info(f"  -> {len(df)} sentences scored")
     log.info(f"  -> Saved: {out_path}")
     return out_path
+
+def main():
+    log.info("=" * 55)
+    log.info("AlphaLens  |  Sentiment Pipeline  |  Week 3")
+    log.info("=" * 55)
+
+    # FinBERT loading
+    nlp = load_finbert()
