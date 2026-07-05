@@ -88,5 +88,25 @@ def main():
     log.info("AlphaLens  |  Sentiment Pipeline  |  Week 3")
     log.info("=" * 55)
 
-    # FinBERT loading
+    #FinBERT loading
     nlp = load_finbert()
+
+    #finding all the clean files
+    files = list(INPUT_DIR.glob("*_clean.txt"))
+    if not files:
+        log.warning(f"Koi _clean.txt file nahi mili {INPUT_DIR} mein")
+        log.warning("Pehle loader.py chalao!")
+        return
+
+    log.info(f"  {len(files)} transcript(s) mili")
+
+    for f in files:
+        process_file(nlp, f)
+        log.info("")
+    log.info("-- Done " + "-" * 47)
+    log.info(f"  Results yahan hain: {OUTPUT_DIR.resolve()}")
+    log.info("-" * 55)
+
+
+if __name__ == "__main__":
+    main()
