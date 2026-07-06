@@ -22,4 +22,3 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-print("imports working")
