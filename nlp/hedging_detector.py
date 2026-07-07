@@ -40,3 +40,26 @@ HEDGING_WORDS = [
     "cautious", "caution",
 ]
 
+def detect_hedging(sentence: str) -> dict:
+    """
+    Ek sentence mein hedging words dhundta hai.
+    Returns dict with score and matched words.
+    """
+    sentence_lower = sentence.lower()
+    matched = []
+
+    for phrase in HEDGING_WORDS:
+        if phrase in sentence_lower:
+            matched.append(phrase)
+    # Score = kitne hedging words mile / total words
+    word_count = len(sentence.split())
+    score = round(len(matched) / max(word_count, 1), 4)
+    return {
+        "hedging_count": len(matched),
+        "hedging_score": score,
+        "hedging_words": ", ".join(matched) if matched else "none",
+        "is_hedging":    len(matched) > 0,
+    }
+
+
+print("functions ready")
