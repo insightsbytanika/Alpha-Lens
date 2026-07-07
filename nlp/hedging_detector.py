@@ -22,3 +22,21 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+# Hedging words aur phrases ki list
+HEDGING_WORDS = [
+    "expect", "expected", "expecting",
+    "potentially", "potential",
+    "possibly", "possible",
+    "approximately", "roughly",
+    "may", "might", "could", "should",
+    "subject to", "depending on",
+    "if conditions", "we believe",
+    "we anticipate", "we hope",
+    "going forward", "remain cautious",
+    "uncertainty", "uncertain",
+    "challenges", "headwinds",
+    "volatile", "volatility",
+    "monitor", "monitoring",
+    "cautious", "caution",
+]
+
