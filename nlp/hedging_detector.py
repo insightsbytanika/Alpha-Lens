@@ -62,4 +62,4 @@ def detect_hedging(sentence: str) -> dict:
     }
 
 
-print("functions ready")
+
