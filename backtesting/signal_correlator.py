@@ -72,4 +72,6 @@ def get_price_return(ticker: str, call_date: str, days: int) -> float:
     except Exception as e:
         log.warning(f"  Price return error {ticker}: {e}")
         return None
+    
+print("functions ready")
 
