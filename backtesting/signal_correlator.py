@@ -44,3 +44,9 @@ def get_hedging_score(file_stem: str) -> float:
     df = pd.read_csv(hedging_path)
     score = round(df["is_hedging"].sum() / len(df), 4)
     return score
+
+def get_price_return(ticker: str, call_date: str, days: int) -> float:
+    """
+    Call ke baad kitne din mein stock kitna gaya.
+    days = 1, 3, ya 7
+    """
