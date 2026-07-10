@@ -57,4 +57,19 @@ def get_price_return(ticker: str, call_date: str, days: int) -> float:
 
     df = pd.read_csv(price_file, index_col="date", parse_dates=True)
     df = df.sort_index()
+    try:
+        # Call date ke baad ki prices
+        future = df[df.index > call_date]
+        if len(future) < days:
+            log.warning(f"  {ticker} ke paas {days} din ka data nahi")
+            return None
+
+        price_day0 = df[df.index <= call_date]["close"].iloc[-1]
+        price_dayN = future["close"].iloc[days - 1]
+        return_pct = round((price_dayN - price_day0) / price_day0 * 100, 4)
+        return return_pct
+
+    except Exception as e:
+        log.warning(f"  Price return error {ticker}: {e}")
+        return None
 
