@@ -1,0 +1,490 @@
+“Wipro Limited
+Q3 FY '24 Earnings Conference Call”
+January 12, 2024
+MANAGEMENT: MR. THIERRY DELAPORTE – CHIEF EXECUTIVE
+OFFICER AND MANAGING DIRECTOR – WIPRO
+LIMITED
+MR. AMIT CHOUDHARY – CHIEF OPERATING
+OFFICER – WIPRO LIMITED
+MS. APARNA IYER – CHIEF FINANCIAL OFFICER –
+WIPRO LIMITED
+MR. DIPAK KUMAR BOHRA – SENIOR VICE
+PRESIDENT, CORPORATE TREASURER AND
+INVESTOR RELATIONS – WIPRO LIMITED
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Moderator: Ladies and gentlemen, good day and welcome to Wipro Limited Q3 FY24 Earnings Call. As a
+reminder, all participant lines will be in the listen-only mode and there will be an opportunity
+for you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing star then zero on your touchtone phone.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Dipak Bohra, Senior Vice President, Corporate Treasurer
+and Investor Relations. Thank you and over to you, sir.
+Dipak Bohra: Thank you, Yashashree. Warm welcome to our Q3 FY24 earnings call. We will begin the call
+with the business highlights and overview by Thierry Delaporte, our Chief Executive Officer
+and Managing Director, followed by updates on operations and delivery by Amit Choudhary,
+our Chief Operating Officer, and finally financial overview by our CFO, Aparna Iyer.
+Afterwards, the operator will open the bridge for Q&A with our management team.
+Before Thierry starts, let me draw your attention to the fact that during the call, we may make
+certain forward-looking statements within the meaning of Private Securities and Litigation
+Reform Act 1995. These statements are based on management current expectations and are
+associated with uncertainties and risks, which may cause the actual results to differ materially
+from those expected.
+The uncertainties and risk factors are explained in our detailed filings with the SEC. Wipro does
+not undertake any obligation to update the forward-looking statement to reflect events and
+circumstances after the date of filing. The conference call will be archived and a transcript will
+be available on our website.
+Over to you, Thierry. Thank you.
+Thierry Delaporte: Dipak, thank you. Hello, everyone. Thank you for joining us today, very glad to have you here
+and, of course, here to wish you a great year 2024. So I'll begin today's earnings call with, as
+always, an overview of our third quarter results, details of our sectoral performance, the demand
+environment, of course, and then direction for the coming quarter. Earlier today, we reported
+our numbers to the market and our board and I'm pleased to share with you that we're starting to
+see some healthy indicators for growth.
+One, our IT services revenue for the quarter is at the top end of the guidance. Our revenue stands
+at $2.66 billion in reported currency. We've continued to book deals at a healthy pace, but though
+Q3 is typically a shorter quarter due to the year-end holidays, order booking total contract value
+terms stand at $3.8 billion. From that our large deals TCV for the quarter was just over $900
+million. On a year-to-date basis, it actually shows a 20% growth. We booked 14 deals this quarter
+in the greater than $30 million TCV range. By comparison, we had 11 of such deals in the third
+quarter of last year.
+Next point is on net income for the quarter, where we've expanded margin by 1.8% sequentially.
+On operating margin, we stood at 16% despite, I would say, seasonal furloughs and the annual
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+salary increases for our employees. On a year-to-date basis, our margin has actually improved
+by more than 60 basis points.
+As you know, we have consistently invested in our people, in our processes and organizational
+efficiencies over the last several quarters. These investments are paying off. We are seeing it
+every day. Our results demonstrate that at a fundamental level, Wipro is increasingly, I would
+say, more streamlined, proactive and efficient. This has boosted our clients' trust in our teams.
+This has improved our win rate. This is the type of deals we are winning. It's visible in that way.
+That is more of a complex transformation deal is what we are seeing.
+Wipro is not only benefiting from vendor consolidation, but we're also adding new logos, while
+we are continuing to grow our business with existing clients, of course. In fact, our clients tell
+me that they are seeing a more confident and united effort from us, One Wipro. We're leveraging
+the depth and the breadth of expertise and diversity inside Wipro. Contributions from our
+acquired firms, such as Capco, Rizing and Designit, you know them, are more prominent and
+well-received.
+Looking at the demand environment, I'd say the demand environment overall remains cautious.
+Clients are still making conservative investments. They are looking for efficiency. They are
+more focusing on returns on investment and looking for better optimization, I would say, of
+existing investments. But we are seeing some indicators for growth. If you remember, we had
+called out a possible slowdown in the economy as growth in our consulting business slowed. We
+know that when the market turns, consulting will be the first area to bounce back.
+With that in mind, I'm pleased to share good performance from our consulting business with
+Capco reporting a double-digit sequential growth in order bookings, the highest in the last three
+quarters.
+Turning to our strategic market units, looking at America's 1 first, we recorded a strong quarter
+for this unit where we booked half of our 14 large deals this quarter. Revenue in this market
+grew 2% sequentially, led by healthcare, which grew actually 9% sequentially. In our America's
+2 market unit, we continue to see some softness. This is, you know, let's keep in mind this unit
+is primarily a BFSI or BFSI in energy and utilities being, you know, the large part of these units.
+They are seeing still some softness and resulting in a 1.3% drop in revenue Q on Q.
+That said, there's strong momentum in order bookings, which in total contract value terms
+increased 46% sequentially. In Europe, we won four large deals in the third quarter, despite the
+continuing economic weakness. These four new transformative deals add up to nearly $300
+million in bookings. These deals underscore the success of our strategy in this market, having
+said that, revenue from Europe decreased 4.3% sequentially in Q3.
+Across the board, but more specifically in our APMEA strategic market unit, we have worked
+on and -- you know, we've reported on that regularly. We have worked on reducing low margin
+accounts, while slowly moving towards higher value transformation projects. So in APMEA,
+revenues declined 5.4% quarter on quarter. However, the strategy of pivoting towards higher
+value business reflects in the margins we delivered in the region.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Margins rose 240 basis points sequentially to 13.8% this quarter, that's the highest in the last six
+quarters. And once again, we are seeing consulting, especially Capco and Rizing, play a big role
+in the complex deals we are winning in this market.
+To continue this rigor, we made some changes to our growth office recently, you know that.
+With the foundational pillars for sales excellence set out by the growth office over the last two
+quarters -- the last two years actually, we moved some of the growth office functions inside the
+strategic market units, thus creating an even tighter integration with the SMUs.
+With this, we reinforced how we nurture large deals in each geography and we will respond
+faster to changing market needs. Simultaneously, we continued to streamline our operations as
+per plan. We continue to leverage artificial intelligence and automation for efficiency across all
+functions and business areas.
+We continue to add to that the learning and development and re-skilling of our existing talent
+base and besides optimizing our talent pyramid to better serve clients' needs. Multiple initiatives
+are in place. I request Amit to share highlights of some of those programs with you today.
+What I can say with confidence is that Wipro is a better partner for our clients today. We are
+more agile, one that is responding to and evolving with our clients and their needs. Amit, by the
+way, will also share with you highlights of the work done around account delivery and service
+excellence. This really is the centrepiece of our efficiency play and increase agility. We continue
+to invest in areas that we know are going to remain, I would say, fundamental for our long-term
+success.
+And let's start with that. People are our most valuable assets. We awarded our colleagues their
+performance-based annual salary increases recently, as you know. The promotion cycle just
+closed and we'll be making the announcement soon. We've continued to stress on and offer
+training and development options and growth opportunities to our employees.
+This is critical to why people continue to choose to work with and give the best to Wipro. Of
+course, returning to work more regularly after a few years of fully remote work has absolutely
+helped energize the culture and the atmosphere in our offices. Then there's AI.
+We'd be amiss to not share how we are using AI ourselves as an organization and for our clients.
+AI is now moving from the curiosity and experimentation stage to becoming vital, I was going
+to say viral as well, to business strategy. In fact, we can confidently say that every long-term
+large deal now has an AI component.
+A substantial portion of our clients are looking for us to develop use cases tied to their business
+goals. They want us to use AI models to drive tangible results. AI is now embedded across most
+of our existing solutions and offerings.
+In addition, every business line is working to launch new offerings that use AI. That's the way it
+is at the moment. For example, in our full-stride cloud business, an area that's particularly hot
+when it comes to the use of Gen AI is digital workplace services.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Leveraging Gen AI to lighten the load on service desks, deliver faster and better client services
+now part of every RFP in this space. One of our largest deals in Europe this quarter is to
+transform digital workplace services of a multinational telecommunications company. This will
+help improve client satisfaction and reduce operating expenses.
+We will actually build an AI-powered platform for them that provides service desks, on-site and
+remote support services for 100,000 users and 80,000 managed devices across 240 locations
+worldwide. Now, in engineering, we are seeing strong interest for AI in the automotive and
+manufacturing industries in particular. Clients in these industries want AI to increase
+productivity and the R&D process and accelerate new product development.
+With Wipro Enterprise Featuring, we are helping clients accelerate adoption. We are leveraging
+Wipro's Gen AI framework and studio to develop key assets at all levels of the AI stack,
+including models, platforms, solutions. We will help clients with model development,
+performance, privacy and of course compliance.
+We're also building governance frameworks around responsible, sustainable and ethical AI
+development. In fact, we are working with a global healthcare insurer right now to develop a
+Gen AI-powered knowledge research solution to transform their contact center. The goal here is
+to improve patient experience and operational efficiency by cutting the time it takes to analyze
+healthcare plan documents and response time.
+We've also developed a Gen AI-powered assistant for a Fortune 500 investments and insurance
+firm. This assistant improves quality and reduces the time spent in crafting personalized email
+campaigns. Early results show very tangible growth in click-through conversion rate.
+Additionally to those examples, I would say that expanding our relationship with strategic
+partners is a critical part of our ai360 strategy. During the past quarter, we collaborated with
+NVIDIA to help healthcare companies build AI-driven strategies, products and services. This
+partnership with NVIDIA is a great differentiator for us, given our domain expertise in the
+healthcare sector.
+We are also expanding our partnership with IBM to invest in next new joint solutions built on
+IBM watsonx that makes it easier to deploy reliable, responsible and sustainable AI solutions.
+To do all this in a consistent, innovative and scalable fashion, we are preparing our workforce.
+We have now 210,000 Wiproites who have been trained on AI 101 skills.
+We have now rolled out persona-based learning pathways for different roles and functions. Our
+goal is to actually ensure that everyone at Wipro has the skills to fully leverage AI in their
+everyday work and for AI-related client projects. We are accelerating Gen AI adoption internally
+as well by integrating the technology across our entire portfolio of platforms.
+This is resulting in quality and productivity improvements across HR, marketing, sales,
+operations, finance, as well as software development and quality engineering and testing. Our
+investments in our ai360 ecosystem, combined with the strategic value our consulting business
+brings to clients, is the reason we are increasingly the preferred partner for our clients. So, we
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+are confident that we have the right vision, we have the right strategy and the right leadership to
+continue to grow and keep us competitive, resilient and ambitious.
+On to our guidance now for the next quarter. We are guiding for a sequential growth of minus
+1.5% to plus 0.5% in constant currency terms. We expect margins to stay range-bound like in
+the last few quarters. Now, as the market starts to turn around on the back of our transformation
+and efficiency play, we expect to see improvements in the coming quarters.
+With that, I'll turn it over to you, Amit, for your comments.
+Amit Choudhary: Thank you, Thierry. Hello, everyone. I will cover some key areas of business transformation and
+focus programs that have helped us maintain margins despite the current demand environment.
+On the delivery excellence front, our top priority is to deliver best-in-class solutions for our
+clients. We now consistently leverage our four global business line model to create the best
+possible ecosystem to build talent and deliver innovative solutions to our clients. This is being
+supplemented by strong delivery governance, to investing in a better program management, by
+building the delivery leadership cadre, through focused training interventions, AI-based
+assessments, and skilling for emerging technology trends.
+We have a dedicated AI delivery council to identify opportunities to infuse AI into our delivery
+activities. Our account delivery executives are absolutely core to the client experience. We are
+enabling and empowering these delivery leaders to make decisions with a client-centric mind-
+set.
+They are driving initiatives and solution offerings with an AI-first and a one Wipro approach.
+Another area of work has been the restructuring of our low-margin businesses. Thierry talked
+about it briefly, especially in the context of our improved performance in APMEA.
+Low-margin businesses are being reduced steadily through a multi-pronged action plan. Moving
+on to the operational excellence side, Thierry has spoken of how skill is our biggest currency.
+We are working on an end-to-end process to provide the right skill at the right time, at the right
+cost, in the right place.
+We are doing this through an improved forecasting process, proactive skilling through account
+academies, pyramid optimization, improving our talent supply chain through an AI-powered
+talent marketplace, effort optimization, automation, and strong change management. We are
+reducing operating costs and optimizing our organizational design across all units and
+geographies, which is building an agile Wipro better suited in this dynamic market.
+We are heading towards more and more AI-based automation internally, resulting in more
+productivity and better efficiency. Thierry talked about how we are taking AI-led solutions to
+our clients. We have a similar rigor for internal-facing AI applications, like the AI-powered
+talent marketplace, persona-based learning pathways for sales and business teams, developers,
+engineers and architects. We are using AI for simplification of employee user experience as
+well.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+We are aligning our operational structure, skilling academies and Gen AI capabilities to market
+demand, client expectations and also to the evolving process landscape inside Wipro. We are the
+one of the biggest customers of our ai360 ecosystem. These transformation programs and margin
+expansion initiatives are delivering results. Our goals remain profitable growth, delivery
+excellence, and internal capability development, all leading towards sustainable success.
+Now I will hand it over to Aparna.
+Aparna Iyer: Good evening, everybody. Wish you all a very Happy New Year. Let me highlight to you our
+financial performance for the quarter ended December 31, 2023. Following a quarter of strong
+execution, our revenue is at the top end of the guidance range. In constant currency terms,
+revenue declined 1.7% sequentially.
+In terms of margins, as we had called out last quarter, we had steep challenges on the backdrop
+of a weak demand environment, seasonal furloughs as well as salary increases for our employees
+effective 1st December. I'm pleased to share with you that our margins have remained resilient
+as we executed on 3 counts: one, maximizing our revenue performance; two, realizing savings
+from structural improvements of pyramids and fixed price productivity; and three, reducing
+discretionary spend.
+On a year-to-date basis, we've improved our margins by over 60 basis points. We worked on
+rationalizing all aspects of working capital. As a result, in Q3, we have delivered an operating
+cash flows of $576 million. This is 177% of our net income and highest in the last 5 quarters.
+Our gross cash was at $4.6 billion and net cash was at $2.7 billion, both increased year-on-year,
+despite having completed our largest buyback in July.
+Speaking of capital allocation, our Board of Directors have declared an interim dividend of INR1
+per equity share. Our net income for the quarter is at INR26.9 billion, which is an increase of
+1.8% quarter-on-quarter. Our EPS has increased by 2% on quarter-on-quarter basis. Despite a
+weak demand environment, it is heartening to note that on a year-to-date basis, our EPS has
+improved by 2.2%.
+Our EPS for Q3 and year-to-date includes a charge that we have taken in our P&L on account
+of restructuring exercise that we had undergone during the year. I'd like to confirm that we have
+completed the restructuring that we wanted to do and do not anticipate such charges henceforth.
+In terms of other important metrics, our ETR is at 24%, which is in line with what we delivered
+in Q2. Our hedges continue to be in line with our policy and was at $3.4 billion.
+Finally, I would like to summarize the guidance for Q4, as stated by Thierry. We expect revenue
+from IT Services business segment to be in the range of $2.615 billion to $2.669 billion. This
+translates to a sequential guidance of minus 1.5% to a plus 0.5% in constant currency terms.
+With that, we'll be happy to take questions.
+Moderator: Thank you very much. We will now begin the question-and-answer session. We have our first
+question from the line of Moshe Katri from Wedbush Securities. Please go ahead.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Moshe Katri: Thank you and congrats on a strong result. Happy New Year. Thierry, 2 questions for you.
+There's clearly a lot of excitement and bullishness in the market about the prospects for the
+industry for the next 6 to 12 months. From your perspective, looking at visibility in the pipeline,
+do you feel that we're headed towards that inflection point? Maybe you can talk about that.
+And then the second question is on Capco. Clearly, you have a very unique asset there. Maybe
+you can remind us, maybe talk about the metrics. The headcount at Capco, you said that the
+bookings were pretty strong. Talk a bit about the nature of the work and what sort of client
+conversations you're having when you're kind of pitching Capco. Thanks a lot.
+Thierry Delaporte: Moshe, thank you for your question. Let me try to address them. The first one is the outlook. Let
+me rephrase a little bit your comment on the outlook for the service industry. Let me tell you
+what we see. What we've seen is that, first of all, over the last few quarters, it has been a market
+unusually, I would say, slow and exposed to uncertainty.
+I mean, it was visible in some industries, in particular financial services. We've seen it with
+banks reducing their spend, discretionary spend, with technologies who typically were
+significant technology spenders before, and other industries as well.
+Let's be clear, Moshe. The market has not fundamentally changed in the last weeks. What we
+are seeing is, I would say, we are seeing green shoots. We are seeing a certain form of
+stabilization and, in some ways, some pickup in discretionary spend.
+That's what we are seeing. And I think we are trying to be cautious in our optimism because we
+want to continue to see more about it, right? And you know that typically in January, February,
+beginning of calendar year, are the times where, through our interactions with our clients, we
+get a better feel for what will be their budget and what will be their priorities.
+So what I would say is, a little early to tell for the next year or the year soon to start for us, but I
+would say a little bit of green shoots. We've seen, hence, the ability to hit the top of the guidance.
+One element of -- major of this improvement is coming from the performance of our consulting
+business, and in particular of our Capco business.
+Precisely in this industry, financial services, that has seen one of the most steep reductions in
+discretionary spend in the previous quarters, the performance of the team has been really solid
+in bookings during the quarter. That's why we report and share it with you openly. I was the first
+one to recognize that the choice of our strategic decision to invest in consulting was absolutely
+critical to our strategy, essential, key.
+But we also knew that those are the businesses that typically are the first ones to slow down
+when there is a slowdown in the market. They are also usually among the first ones to bounce
+back. Let's just say, it's been a strong performance this quarter and it gives us good optimism for
+the quarters to come.
+You asked about the type of business. Capco is more on the business side and it is on the IT side,
+but it's also on the IT side. That's the strength of Capco. And it's also because Capco have been
+working together with Wipro – with our clients. And therefore, it really goes from all advisory
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+discussions, compliance, all the way to driving transformation, large-scale transformation to
+technology implementation, including AI, Gen AI programs.
+Thierry Delaporte: So, I hope I answered your question, Moshe.
+Moshe Katri: Yes, thank you very much.
+Moderator: Thank you. We have our next question from the line of Girish Pai from Nirmal Bang Equities.
+Please go ahead.
+Girish Pai: Thanks for the opportunity. I want to go back to the Capco situation. You said that there was
+double-digit growth in order bookings in Capco. Can you tell us how material the order bookings
+are? Because for the quarter, you talked about $3.8 billion as order inflow. How much of that
+would have come from Capco? And if you were to compare the order inflow for Capco in the
+December quarter, how does this compare with the all-time high order inflow number that Capco
+had post acquisition? That's my first question.
+Thierry Delaporte: So, Girish, a couple of comments. One, we are not necessarily commenting on specifics of every
+brick of our organization. Okay? So, I'll keep that in mind. Second, I would say the performance
+of Capco is material for the organization, right? So, in good and bad times, Capco is a key
+strategic part of our organization. It's the reality.
+Third, difficult to compare or have a meaningful comparison with when we acquired them
+because between the day we acquired them and now, Capco has grown tremendously. So, it's a
+different business and certainly business has changed. So, not necessarily able to relate to that.
+I think, let's put it that way. There has been a period where Capco has grown very rapidly and
+was driving growth for the entire organization.
+I mean, leading growth, I would say, because everybody was growing. Then, in the time of
+slowdown, Capco has been a little more exposed. And today, we are seeing Capco showing signs
+of bounce back.
+Girish Pai: Couple of follow-up questions on Capco. Was the growth in order book broad-based across your
+various BFSI clients or was it very specific to pockets within BFSI? That's question number one.
+Second question is, for $1 of consulting, what is a typical downstream dollars that you kind of
+get from Capco?
+Thierry Delaporte: That's -- So, the first question. So the first question I would say is, the growth is broad-based.
+It's not like there's been a one account bump or anything. It's broad-based. So, your first question
+is, here is my answer. The second one is, what we call the pull-through, right? Consulting should
+lead to -- It's not always easy to track, but you can expect easily 5x to 6x the consulting business.
+That's what we are seeing with a lot of the projects we sign. And then, the reason why it's difficult
+to answer, Girish, is because there's an evolution of an account development strategy over time.
+And so, when you look at the cycle, a life cycle of an account development, there will be a time
+where there will be a larger component of consulting.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+In some moment, there's going to be a smaller versus the different type of services. And that’s -
+- we are observing this. But the pull-through is significant, that's for sure.
+Girish Pai: Okay, thank you.
+Moderator: Thank you. We have our next question from the line of Sudheer Guntupalli from Kotak
+Mahindra Asset Management. Please go ahead.
+Sudheer Guntupalli: Yes, thanks. Hi, Thierry. Just one question. So, growth in Q3 ended up towards the higher end
+of our guidance band, and you're calling out green shoots of recovery in consulting segment.
+Historically, March quarter has not been so bad for us in terms of seasonality. And after multiple
+quarters of revenue weakness, our base looks mathematically favourable.
+So, in that backdrop, I'm a little perplexed on how to reconcile the lower end of our guidance
+band at around 1.5% decline. So, are we being a little conservative here to keep buffer for any
+potential shocks? Or is there any revenue impact due to the restructuring of the low margin
+business that we spoke about?
+Thierry Delaporte: Sudheer, this is the nature of our guidance, to give a bracket so that they are -- You know,
+because the reality is that we are still in a market where there's things are happening and up and
+down. And there's -- We need to see how this quarter turns. But I think this guidance is sharing
+a, I would say, cautious level of optimism.
+Sudheer Guntupalli: Got it, Thierry. No, I was just surprised as to the lower end here implies the same kind of number
+that we did in December quarter, which is typically very weak seasonally. And this time around,
+almost everybody is seeing higher than expected furloughs. So, I was just trying to understand
+how you arrived at that base case scenario. Is there anything specific that you're looking at or
+just the wide band that you wanted to keep?
+Thierry Delaporte: Well, if I'm not wrong, Sudheer, actually the lower end of our guidance equals the top end of the
+guidance of the previous quarter. So, it shows a trend.
+Sudheer Guntupalli: Got it. Thank you so much. All the best.
+Thierry Delaporte: Thank you.
+Moderator: Thank you. We have a next question from the line of Abhishek Kumar from JM Financial. Please
+go ahead.
+Abhishek Kumar: Hi, thanks for taking my question. Thierry last few quarters, our growth has been challenged by
+some of the project cancellations, leakages, etcetera. Now, as you say, there are signs of
+stabilization. Is the leakage reduced to a level where the incoming revenue from all the deals we
+have won has started to exceed what is leaking out and therefore, incrementally, there should be
+growth? Is that kind of the right understanding?
+Thierry Delaporte: You know, if we look at our performance on bookings, therefore our ability to close deals in the
+market, it continues to be rather good. So, the sales performance has never stopped to be pretty
+good. I mean, the performance for the last three quarters, and we know that through those
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+performance in sales, in particular with significant volume of large yields, this will definitely
+increase our backlog for the quarters to come.
+What was hurting our growth was the discretionary spend. So, typically the smaller type of
+projects, but which in large volume was contributing to revenue growth. In this context, that's
+why you've seen that indeed we've not been able to show growth over the last quarters. We are
+seeing a little bit of a -- probably a significant, I would say, and I don't know how to say it, either
+an end of the discretionary spend or actually a slight pick-up of the discretionary spend.
+But that's where we are seeing a little bit of inversion of the trend for sure.
+Abhishek Kumar: Yes, that's helpful. And maybe the next question is on margin, maybe on the medium term. We
+have done a tremendous job in protecting our margin despite revenue erosion. So, as growth
+comes back, how are we looking at or how should we look at margins over the medium term?
+Should we go back to maybe pre-Capco kind of margin levels? Any colour on margin trajectory
+over the medium term? Thank you.
+Thierry Delaporte: So, I'll reflect a little bit on your question and then I'll ask Aparna to build on or to take this point
+more specifically. What I would say is that for sure, it was important to us to show that through
+our actions around efficiency, productivity, automation, process improvements, all of that deep,
+deep activity inside the organization, the objective was to build a certain level of resilience of
+our margin profile. And indeed we have launched these actions a few years ago at a time where
+we didn't know the market would slow down.
+Actually, this market slowdown has been a proof point that our resiliency has improved
+tremendously over the last quarters. Indeed, you say it, despite the slowdowns, despite, the lack
+of growth, despite, salary increase, MSI to our employees, we've been able to hold our margin.
+So, it gives us certainly a certain level of confidence that with the growth, we'll be able to
+imagine expansion. Aparna?
+Aparna Iyer: Yes, you know, to just add to what you said, Thierry, that when the growth returns, obviously
+you will see an uptick in the margins. But we also need to remind ourselves that, we need to also
+invest for growth. And that will also remain a key agenda for us. There are areas of AI we need
+to continue to invest in our people, in processes. And therefore, yes, there is an expansion
+possible with returning growth, but with investments for growth.
+Abhishek Kumar: Sure. Thank you and good luck.
+Thierry Delaporte: Thank you.
+Aparna Iyer: Thank you.
+Moderator: Thank you. We'll take our next question from the line of Manik Taneja from Axis Capital. Please
+go ahead. Mr. Taneja, please unmute your line. Since there is no response, we'll move on to the
+next question from the line of Dipesh from Emkay Global. Please go ahead.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Dipesh: Yes, thanks for the opportunity. Two questions. First, about in your prepared remark, you
+indicated E&U, where demand remains healthy. But if I look at our performance for the last
+couple of quarters, E&U remains weak, at least from a sequential growth perspective. And E&U,
+where we used to have significant capability compared to some of our peers. So if you can
+provide some sense about, and most of your peers so far indicated E&U is one of the resilient
+verticals from a demand perspective.
+If you can provide some sense, how one should look at the demand trajectory for E&U verticals.
+And second is on manufacturing. Now, manufacturing remains weak for some time. And
+otherwise, manufacturing is showing a strong demand direction. So if you help us understand
+steps you're taking to expand our capability, landscaping, manufacturing, and how one should
+look at it from a medium-term perspective? Thank you.
+Thierry Delaporte: Okay, understood. Thank you, Dipesh. So, first of all, I always caution a little bit any conclusion,
+too rapidly drawn by, looking at a Q-on-Q performance in a sector. Because sometimes, it just,
+happens that in an account or in a geography, one event is slightly impacting the picture. What
+I would say is looking at E&U and manufacturing. So E&U is actually a reasonably good market.
+It's a place where, there's significant investment, whether it's on the engineering side, on the IT
+side. Significant investment made on the AI, Gen AI as well. So, that's a market where, we are
+expecting to see growth for us.
+Manufacturing, you said it, it's been mixed over the last few quarters. But there's particularly,
+for example, if I look at automotive, it is an area where there's significant investments. We are
+really making significant inroads in this industry in particular through our investments, whether
+it's on -- around the car cloud business or whether it's on, autonomous, you know, automation
+and so on. There's a lot that we've been doing and we will see growth over the next quarters for
+sure.
+Dipesh: Okay, I'm looking. Yes, sorry. I'm looking from slightly medium-term perspective. Let's say
+manufacturing, if you look at from size perspective, for us it is 6%-7% adjusted revenue. Now,
+6%-7%, whether you believe it is reflective of the market opportunity or you think it will change
+over the next three, five years? And if it is likely to change, which area we are investing to drive
+that change?
+Thierry Delaporte: You know, you ask me now to look at the crystal ball, right, and tell you what's going to be the
+growth in the next four years in this industry. It's hard to tell. I can tell you that I certainly want
+us to invest in the Energy and Utilities as well as in the manufacturing sectors. Those are two
+key sectors for Wipro. And we have, big ambitions. We are working with large clients and will
+continue to do so.
+Dipesh: Thanks.
+Moderator: Thank you. We have a question from the line of Anmol Garg from DAM Capital. Please go
+ahead.
+
+Confidential-Internal
+Wipro Limited
+January 12, 2024
+Anmol Garg: Hi, thanks for the opportunity. So I have a couple of questions. Firstly, just wanted to understand,
+that when can we start to expect the next headcount addition? So now that we're expecting
+growth to come back, maybe in the medium term, can we expect that we add supply from the
+next quarter?
+Thierry Delaporte: So, Tob, you want to take that one?
+Management: Yes. So, look at the entire supply chain. Today, a low attrition, a headspace for higher utilization.
+We have enough talent pool available. And for certain specific skills which we require, we'll
+continue to hire. So the current environment, we feel that it's from supply will not be a constraint.
+As demand picks up for the quarters, we'll definitely look at hiring in more bigger numbers.
+Anmol Garg: Sure. And secondly, if you can indicate how has been the trends and deal wins in terms of the
+net new versus renewals?
+Thierry Delaporte: Net new versus renewals. So we are not communicating this information. But what I can say is
+that if we look at the large deals, actually, the majority is net new.
+Anmol Garg: Sure. Thanks. That's it from my end.
+Moderator: Thank you. Ladies and gentlemen, that was the last question for today. I would now like to hand
+the conference back to Mr. Dipak Bohra for closing comments. Over to you, sir.
+Dipak Bohra: Thank you all for joining the call. If you have any further questions, please feel free to reach out
+to the investor relations team. Have a nice day.
+Moderator: Thank you. On behalf of Wipro Limited, that concludes this conference. Thank you for joining
+us. And you may now disconnect your lines.
+
+Confidential-Internal

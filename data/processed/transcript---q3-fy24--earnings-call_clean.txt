@@ -1,0 +1,817 @@
+Classification - Public
+HDFC Bank Limited
+Q3 FY24 Earnings Conference Call
+January 16, 2024
+MANAGEMENT: MR. SRINIVASAN VAIDYANATHAN – CHIEF FINANCIAL
+OFFICER – HDFC BANK LIMITED
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Moderator: Ladies and gentlemen, good day and welcome to HDFC Bank Limited's Q3 FY '24 Earnings
+Conference Call on the financial results presented by the management of HDFC Bank Limited.
+As a reminder all participant lines will be in the listen-only mode and there will be an opportunity
+for you to ask questions, after the presentation concludes. Should you need assistance during
+this conference call, please signal an operator by pressing start then zero on your touchtone
+phone. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Srinivasan Vaidyanathan, Chief Financial Officer, HDFC
+Bank. Thank you, and over to you, sir.
+Srinivasan Vaidyanathan: Okay. Thank you Neerav. Good evening and a warm welcome to all the participants. There is
+an earnings presentation deck published on our website. Please refer to it as appropriate. As you
+get to it, in the meantime, let's cover a brief on the macroeconomic environment that operated
+during the quarter before we review the earnings. We continued to see healthy domestic
+economic activity driven by robust government spending, primarily in capital expenditure,
+improvement in domestic manufacturing and resilient services sector performance.
+As you know, the GST collections grew 13% year-on-year.
+Manufacturing and services PMI continued to remain in the expansionary zone. On the
+consumption side, improved consumer demand driven by sector spending resulted in robust
+growth across various sectors.
+RBI kept its rate unchanged at 6.5% and retained its stance unchanged at “withdrawal of
+accommodation and modestly reduced its inflation forecast in the second half of the year. As we
+look ahead, the economic environment is poised for strong growth. India's year-on-year GDP
+growth for FY'24 is estimated at about 7%. And for FY'25, GDP growth rate is expected to be
+around 6.5%, continuing to be one of the fastest-growing major economies in the world.
+Let's go through the key factors of the bank's growth journey. Advances can be referred to on
+page 7 and 8. Gross advances are at INR 24.7 trillion as of 31st December, reflecting the
+sequential momentum of INR1.1 trillion or 4.9%. Retail advances grew 3.3% quarter-on-quarter,
+primarily driven by strong performance in the mortgage business.
+Retail mortgage disbursements of INR460 billion during the quarter, grew 18% over prior year.
+In the CRB business, it continued its strong momentum, registering a quarter-on-quarter growth
+of 6.7%. Wholesale segment, excluding non-individual loans of eHDFC grew 1.9% sequentially.
+Non-individual loans of eHDFC aggregated to INR0.99 trillion compared INR1.03 trillion as of
+last quarter end.
+Focus on deposits continued. Looking at Pages 7 and 9, total deposits as of December end
+amounted to INR22.1 trillion, primarily comprising of retail deposits, which is at 84% of total
+deposits. Retail deposits, which are the bedrock of this franchise, grew well over INR530 billion
+or 2.9% during the quarter, while non-retail deposits reduced by INR118 billion quarter-on-
+quarter resulting in total deposit growth of INR411 billion or 1.9% during the quarter.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Current account deposits ended the quarter at INR2.6 trillion, registering a growth of INR80
+billion or 3.2% sequentially and INR280 billion, 12.3% over prior year. Savings deposits as of
+December end at INR5.8 trillion grew INR99 billion or 1.7% sequentially and over INR440
+million or 8.3% year-on-year.
+Overall CASA deposits ended the quarter at INR8.4 trillion, resulting in a CASA ratio of 37.7%.
+Term deposits aggregated to INR13.8 trillion as of December end and grew by INR232 billion
+or 1.7% during the quarter.
+On the distribution footprint expansion, referring to Page 10, it reflects our branch network,
+which stood at 8,091 outlets as of December end. Overall, there has been an increase of 908
+branches over the last 12 months. During the quarter, we added 146 branches, which is at the
+rate of 1.6 branches per day.
+Payment acceptance points are at 4.8 million, a year-on-year growth of 25% as adoption of
+Vyapar App built momentum. In CRB, our rural business reach expanded to ~210,000 villages,
+a growth of ~60,000 villages over last year.
+In the customer franchise building, we added 2.2 million new customer liability relationships
+during the quarter and around 7.4 million relationships so far in the current fiscal year. Our
+customer base stands at 93 million customers. This provides an opportunity to further engage
+and deepen our relationships.
+In order to position us for greater engagement, we have added ~41,000 employees over the last
+12 months and ~10,000 during the quarter.
+On cards, we issued we issued 1.6 million new cards in the quarter. Total card base stands at
+19.9 million.
+You'll see on page 11; balance sheet remains resilient. LCR for the quarter was 110%, capital
+adequacy ratio was at 18.4%, Tier 1 ratio at 16.8%.
+Let's start with net revenues on pages 12 and 13. Net revenues for the quarter were at INR396
+billion, which grew by 25.8% over prior year. Net interest income for the quarter, which is 72%
+of net revenues, and is at INR285 billion, grew by 23.9% over prior year. The core net interest
+margin for the quarter was at 3.4%, and on an interest earning asset basis, net interest margin for
+the quarter was at 3.6% and was flat to prior quarter.
+Getting to details of other income on Page 15. Total other income at INR111 billion. Fees and
+commission income, which is almost close to two-third of the other income was at INR69 billion
+and grew by 15% over prior year. Retail constitutes approximately 94% of fees and commission.
+FX and derivatives income at INR12 billion was higher by 12% compared to prior year of INR11
+billion.
+Net trading and mark-to-market income were at INR15 billion for the quarter, prior quarter was
+at about INR10 billion. Other miscellaneous income of INR15 billion, includes recoveries from
+written-off accounts and dividends from subsidiaries.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Referring to Page 16 on operating expenses for the quarter, which were at INR160 billion, an
+increase of 28% over prior year. Cost-to-income ratio for the quarter was at 40.3%. Cost to assets
+was at 1.9%.
+Coming to the asset quality on Page 17 to 19, the GNPA ratio was at 1.26% compared to 1.34%
+in prior quarter and 1.23% prior year. Out of the 1.26%, about 15 basis points are standard, but
+the core GNPA ratio is at 1.11%. However, these are included by us in NPA as one of the other
+facilities of the borrower is in NPA. Net NPA ratio for the quarter was 0.31%. Prior quarter was
+at 0.35%.
+The slippage ratio for the current quarter is at about INR70 billion or 26 basis points. Last quarter
+was at about INR78 billion. During the quarter, recoveries and upgrades were INR45 billion.
+Write-offs in the quarter were at about INR31 billion. There was no sale of NPA accounts during
+the quarter.
+On the provision side, total provisions reported were around INR42 billion. And excluding the
+contingent provision, it was INR30 billion as against INR29 billion during the prior quarter and
+INR28 billion for the prior year. As I just mentioned, the total provisions in the current quarter
+included additional contingent provisions of approximately INR12 billion, and it is pertaining
+to investments in AIF on a prudent basis. The fair value of AIF is up by INR5 billion, but 100%
+provisions are being taken at book value.
+The core specific loan-loss provisions for the quarter of around INR26 billion as against INR25
+billion in the prior quarter, the provision coverage ratio was at 75%. At the end of current quarter,
+contingent provisions and floating provisions were approximately INR154 billion, general
+provisions were INR105 billion.
+The total provisions comprising specific floating, contingent and general were about 159% of
+gross nonperforming loans. This is in addition to security held as collateral in several of the
+cases. In addition, the bank holds contingent provisions of INR12 billion on a prudent basis to
+AIF I just mentioned. Floating contingent and general provisions, excluding the contingent
+provision on AIF were about 105 basis points of gross advances as of December end.
+Coming to credit cost ratio, the total annualized credit cost ratio for the quarter, excluding the
+contingent provisions I just referred to, was at 49 basis points, prior quarter was also at 49 basis
+points.
+Recoveries, which are recorded as miscellaneous income amounted to 13 basis points of gross
+advances for the quarter as against 16 basis points for the prior quarter. The total credit cost
+ratio, net of recoveries was at 35 basis points in the current quarter as compared 34 basis points
+in the prior quarter.
+The profit before tax was at INR194 billion, which grew by 19.8% over prior year. After INR15
+billion of tax provisions which are no longer required, consequently to the favourable orders
+received, net profits after tax for the quarter was at INR164 billion, grew by 33.5% over prior
+year.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Summaries of subsidiaries can be seen on Pages 21 to 26. On HDB -- to cover on HDB, the
+quality of the book continues to see sustained improvement with a gross stage 3 of 2.25% as of
+December against 3.73% as of prior year-end -- prior year. Provision coverage on Stage 3 book
+stood at 68%. Profit after tax for the quarter ended December increased to INR6.4 billion against
+INR6 billion for the quarter ended September 30. ROA and ROE annualized for the quarter of
+December stood at 3.1% and 19.9%, respectively. Earnings per share for the quarter was at
+INR8.04 and book value per share stands at INR164.6.
+Now getting to HDFC Life on an IGAAP basis. The profit after tax for the quarter ended
+December was at INR3.7 billion, grew 16% year-on-year. India embedded value at INR452
+billion improved 20% compared to prior year.
+On AMC, quarterly average AUM at INR5.5 trillion grew 24% year-on-year. Profit after tax for
+the quarter amounted to INR4.9 billion, registering a year-on-year growth of 33%. Earnings per
+share for the quarter was at INR22.9.
+HDFC ERGO on an IGAAP basis: Profit after tax for the quarter ended December was at INR1.3
+billion, registering a growth of 6% year-on-year and a solvency ratio at 187% as of December
+end.
+HSL, our securities company, the total reported revenue for the quarter -- total reported net profit
+for the quarter after tax was INR2.3 billion as against INR2 billion in Q2 '23. Earnings per share
+in the total was INR144 and book value per share stands at INR1,253.
+On ESG, kicking up our CSR commitment, the bank has undertaken multiple projects across
+India, with an aim to address critical developmental issues such as sustainable livelihood,
+education, soil and water conservation, and key ratings and awards are in Page 27 for reference.
+In summary, our results reflect robustness in growth across various parameters driven by
+employees passionately working with our customers to execute the business model, which has
+resulted in an advances growth sequentially of 4.9% and 2.9% sequential momentum in retail
+deposit growth. Profit after tax for the quarter increased by 33.5% versus prior year, delivering
+a return on assets in the quarter of about 2% and return on equity of about 15.8%. Earnings per
+share reported in the quarter is at INR21.6 on a standalone bank level and INR22.7 at the
+consolidated bank level. Book value per share on a stand-alone basis is at INR556, and on a
+consolidated basis, it is at INR576.
+With that, may I request the operator to open up the line for questions, please?
+Moderator: Thank you very much. The first question is from the line of Mahruk Adajania from Nuvama.
+Please go ahead.
+Mahruk Adajania: Yes hi, good evening. Sir I have two questions basically, and the first one in general is on deposit
+growth. So, in general there's a lot of noise around RBI having a discussion with banks on LDR,
+plus deposit growth has been very, very tight in November and December irrespective of whether
+you've had a discussion with RBI or not. So how do you view deposit growth and LDR from
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+here on? If you could give us some sense, target or guidance on how LDR will pan out, or what
+LDR are you looking at, in FY '25?
+And a related question to that is that if deposit taking remains tight irrespective of the LDR
+debate, then what would you choose? Would you choose to offer higher rates compared to
+competition because you ask rate for deposits is on the higher side now? Or would you choose
+lower margins if the deposit situation remains like this for say two quarters?
+Srinivasan Vaidyanathan: Thank you, Mahruk, for asking. If I miss anything, come back, but let me start with your first
+one in terms of the deposits and the CD ratio itself, right? It probably addresses a broader point
+that many of them would have. If you think about -- first of all, any conversations with RBI is
+confidential, and it is between the regulator and the bank. So we will not be able to talk about
+any individual conversations or anything else. Keep that aside, your main point is in terms of
+the rate of growth of deposits as well as on the CD ratio, given where it is. So let's talk about
+that.
+Now on the deposits if you see. Firstly, on the deposits I do want to mention that how we
+approached it here. At an overall level, our deposits grew by INR411 billion. At an overall level,
+our deposits were at that level. So INR411 billion. That's the total growth that we had. Within
+that, if you see the retail deposit growth of INR530 billion and 2.9% during the quarter.
+However, non-retail deposits reduced by INR118 billion, INR118 billion quarter-on-quarter it
+reduced, almost 3.3% reduction sequentially in the nonretail deposit. Again, it is a very price
+sensitive space. We chose not to participate and get that price thing up. And we wanted to focus
+more and more on granular there. So that's one.
+And if you think about the individual component of various deposits, we did -- I talked about
+the current account growing at 3.2%, and within the current account, the retail current account
+constitutes 72% and has been growing 3.8% sequentially. And the savings account deposits I'll
+come back and talk about the savings as such, right? There is something on the savings which is
+-- we need to see that, right - where you are seeing two things on savings. One, given the rate
+where we are in peak is the preference for time deposits. Two, in terms of the spend, we are
+seeing good amount of spend that is happening from the customers. In our own base, we can see
+18%, 20% spend from -- on the issuing side -- on the acquiring side from a cards point of view.
+So people are spending. And one other measure or yardstick, we look at -- aggregate of our card
+customers, what is the balance that they have, right? If you look at the card ANR versus the
+deposit against it, almost 5.4x they have, right? That means for every 100 that I have as my card
+balance outstanding, I have 5.4x that in my savings -- in my deposit account in the bank.
+So there seems to be more spending room there to go. So that's one. And from a rate cycle point
+of view. And how do you overcome that is to get more customers. I talked about 2.2 million
+customers, 7.4 million. These are the kind of what we have. Now coming to the -- what does it
+all do from a deposit growth..
+Mahruk Adajania: Sir?
+Srinivasan Vaidyanathan: Yes. I'm here. Can you hear?
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Moderator: Yes, Mahruk, now you are audible.
+Srinivasan Vaidyanathan: So getting to our CD ratio as such, right? Yes, the LDR, which is the CD ratio that you alluded
+to, it's a little more than 110% as we close the quarter. Over a period of time, if you see in this
+quarter, how did we manage the balance sheet. We had INR1.15 trillion growth in loans, if you
+see. And we funded that through INR411 billion on deposits. And you had investments going
+down by about INR485 billion and cash and cash equivalent by about INR96 million.
+So essentially, we funded that by the balance sheet somewhat coming -- not on the asset side.
+We got that self- funded through some lower investments. That is what we're seeing in the LCR
+ratio going down to 110%. So some of the securities came down and cash came down as the
+ICRR ran down on October...
+Mahruk Adajania: I'm unable to hear you.
+Srinivasan Vaidyanathan: Neerav, can you hear?
+Moderator: Yes, sir. Sir, line for Mahruk has dropped. We'll move to the next participant. Next question is
+from the line of Pranav from Bernstein. Please go ahead.
+Pranav Gundlapalle: Hi. Good evening. Thanks for taking the questions.
+Srinivasan Vaidyanathan: Good evening.
+Pranav Gundlapalle: I think a question, again, related to deposits, the one question. When you think about deposits
+this quarter instead of say the INR400 billion that you accreted, if you had to double or triple
+that number, which is the biggest constraint? Is it the LCR, where you are hitting the constraint?
+Or is it simply the cost of deposits, or is it the lack of good lending opportunities? Where are
+you seeing the biggest constraint?
+Srinivasan Vaidyanathan: Yes. The biggest constraint is in the area of deposits, right? And if you look at what has happened
+in the system, very important to look at the liquidity in the system, how it has moved. If you see,
+it has been positive ever since Q1 '20. The system liquidity has been positive since Q1 '20. And
+now it has moved to a negative territory. All the way, if you look right now, this is the first
+quarter -- full quarter - Q3, that it is a negative INR664 billion, right? That's the negative situation
+in the quarter, system has gone down by, that's the average that you're seeing.
+So it is the lack of liquidity in the system. Rightfully so if you look at how RBI has managed,
+there is no rate change that has happened. But the inflation that spiked four months ago, five
+months ago, has been managed through liquidity constraints, right, through working on the
+liquidity side. That is what has happened on a temporary basis.
+But over quarter-to-quarter, this is happening, but it is coming after more than three years, three
+and a half years, right? We are seeing liquidity on the negative, which has been there. If you
+look at last 10 years, there have been several quarters in the past in '13 or in '15, 2013, 2015,
+where it has been negative. But this order of magnitude negative is very recent, in the last three
+months it has become negative. So that deposit is an important ingredient, that is the important
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+constraint to growth, right? And we are at it. And within that, I will tell you retail has done
+reasonable. We would have liked retail to do 50% more, 80% more than where we did. But it is
+the wholesale, if you see not just a lack of growth, it's a degrowth in the non-retail on the deposit
+side. That is where it is very price sensitive. We chose not to participate in that price as much as
+possible.
+We have avoided that so that we can consume some liquidity that we have and at the same time,
+make progress on the asset side. But that can't continue for long, as you know. LDR ratio is at
+110-something. So we do need deposits to be kicking in for the loans to be operating. That also
+answers what Mahruk was asking, very similar thing that you're asking. Yes, we do need the
+deposits to be coming in.
+Pranav Gundlapalle: Thanks, Srini.
+Srinivasan Vaidyanathan: Thank you very much.
+Moderator: Thank you. Next question is from the line of Suresh Ganapathy from Macquarie Research.
+Please go ahead.
+Suresh Ganapathy: Srini, so just to understand what is going to drive your margins in the future. Because if I look
+at it this quarter, you have sold off INR50,000 crores, your LCR is at 110%, you can't go below
+that. There is no excess liquidity assets at 110% LCR, right, and funding costs may remain
+elevated. So when you are saying I want to go from 3.4% to 3.7%, incremental CASA
+mobilization is getting to be a challenge.
+Term deposit growth is high. Your HDFC Limited borrowings are sitting there at 70-odd percent.
+So deposit growth is looks difficult to meet your own loan growth requirements. When are you
+going to replace the eHDFC Limited liabilities. So amidst all these challenges, what will drive
+your margins, say, from 3.4% to 3.7%, say, over the course of next 18 to 24 months?
+Will it be yield on loans? Because it doesn't look like it can go through cost of funds? That's the
+first question. If you can elaborate the movement in margins. Some indication as to what will be
+the components and how are you going to manage the eHDFC Limited liability replacement
+with deposits, point number one?
+And the second thing is, 1,500 branches doesn't look like it's happening this year because we
+have only opened 290 branches -- sorry, 270 this year. So going to fall short of your 1,500
+branches target by a wide margin. What is the thought process there? Over to you, Srini.
+Srinivasan Vaidyanathan: Okay. Yes, thank you. I'll take the second one first, topically, from a branches point of view,
+yes, there are a little more than 500, 550 branches in the pipeline as we closed the quarter. And
+we are targeting somewhere maybe 800 to 1,000 branches or so, right? If we do 1,000 branches,
+it would be good. A little more than 500, 550 branches are in the pipeline. So that's something
+on the branches. 1,500 is not something that will happen by March, right? 1,000 is something
+that is possible. But at this time, we are having about 500 plus in the pipeline, that's 570 more
+precise in the pipeline.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+The second aspect of it is in terms of your levers for margin and the deposits as such at total
+level. If you look at the mix of products that we are having, the mix of products, one of the
+important levers is the retail mix to be enhanced, right? Retail mix has been continuously coming
+down. And that is something that will help us to go. And off late, in the recent times, if you see,
+we haven't had that kind of a market rate of growth on the unsecured as such. Our personal loan
+has been growing 2% to 3% over the last two quarters.
+So we do have opportunity space there. That's part of our credit kind of process, where
+periodically, they calibrate up and down. And now we believe that the overall credit both from
+an NPA point of view and credit cost point of view are at a benign state. And so whatever testing
+and other things we may do, we are positioned to have a good growth there. That's one.
+Retail asset growth, particularly the non-mortgage retail asset, where there is a yield, needs to
+come up. And the mortgage is another big opportunity that we have, both existing customers,
+where we have almost 4.8 million preapproved, prequalified databases to go through, which we
+have done in our existing base who are eligible that we are making offers and talking about it.
+And also 5.6 million customers who already have somewhere we are targeting that.
+So that's -- in terms of the retail mix needs to go up, that is an enhancer for the margin. And to
+some extent, it picks up on the ROA too, right? So that's an important mix. That's not what we
+have seen in recent times. In the recent times, the wholesale growth has been overwhelming the
+retail loan growth. We do need to reverse that. That's part of the process in terms of what we are
+going through.
+Now getting to what are the other levers, which you also mentioned, but there are headwinds on
+that, right, CASA ratio. We are at 37.7%. Even before merger, we were 42%. Over a long period
+of time, we were 42%, 43% thereabouts. We are confident of getting the CASA ratio back up.
+There are two aspects to the CASA ratio. One is the customer spending will abate at some point
+in time.
+And the second thing is that we are getting new customers. That is why it is important to get
+new customers, 2.2 million new customer liability relationships were brought in, in this quarter,
+7.4 million over the nine-month period. It is important to bring new customers and get them to
+a maturity. So that is an important thing that we are working on to get that from a CASA ratio
+to go back up.
+And also we're at the rate cycle -- the rates haven't moved for several quarters now. And by all
+accounts, we are at the peak of the rate cycle. And the deposit repricing that needs to happen in
+a quarter or so should be done, because the rate cycle started in May '22, and then the CASA
+should be back to its normal growth, right? So that's something on the CASA ratio. We are
+waiting for that to come.
+The other aspect that you said, borrowings, whether the borrowings can -- how do you replace
+the borrowings with deposits? Yes, 8% of our balance sheet was borrowing, now 21% is
+borrowings. We do need to change that from -- to deposit funding. But one other aspect that we
+have started to pursue even in this quarter is that the borrowings can continue as borrowing. So
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+we got INR7,500 crores of long-term affordable housing bonds that we have, infrastructure
+bonds that we issued in this quarter.
+The economics of that are like a deposit, not like a CASA deposit but like a time deposit, right,
+slightly better than a time deposit because you obviate the PSLC cost because the affordable
+housing is tagged against it. We do have almost INR1 trillion of affordable housing in our assets
+stable that we can stack to. The deposit insurance cost is obviated. And so there are some benefits
+that come. So it equates to slightly better than our time deposits at an overall level. But that
+doesn't mean we do not need CASA, but there are other opportunities on the borrowings, too.
+Suresh Ganapathy: Okay. And just one final question on cost saving. You guys have said you will bring down from
+40% to 35% over the course of next five years. I know it's a long journey, the fact that you're
+opening lower number of branches. Can we get to see some benefits, not quantifying, but some
+benefits in that reduction next year FY'25? At least there has to be a journey in that 500-basis
+point reduction, right? So we were at 40.4 -- I don't know, last quarter, and we are at 40.2 or
+something like that, I mean, around the same range. So, do you think it can really come down in
+the next one year or so? Sorry. Thanks. It's the last question.
+Srinivasan Vaidyanathan: We are with you, Suresh, on that. Yes, we do expect normally -- while we don't give a forward-
+looking outlook, but on the cost to income, we have always said that we want to take it down to
+the mid-30s. And that we will progressively take it down on not just towards the back end, but
+there should be an expectation that the cost to income should be improving. And it is a function
+of certain efficiencies through better digital offering, that's one.
+Several things that are in the pipeline on technology rationalization is one that is a good tailwind
+that should account for it. And the second thing is that as we work on some of these margins,
+which is both the asset mix, the CASA mix and the borrowings mix moving towards deposits,
+as we work towards that, the numerator is also an important contributor to get to that.
+Suresh Ganapathy: Okay. Thank you so much.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Thank you. Next question is from the line of Rahul Jain from Goldman Sachs. Please go ahead.
+Rahul Jain: Yes. Thanks. Good evening, Srini. Two, three questions. Number one, the whole debate between
+LDR and LCR. For you as a management team, what is it that you're focusing on? I know you've
+put out a certain trajectory for LDR, but right now the LCR has kind of come off to 110% as the
+previous participant pointed out, 110%, clearly, there's not really much room for it to go down.
+So what really is a key number to focus on for you all?
+Srinivasan Vaidyanathan: Okay. Listen, both are important. It's like you need to walk and chew gum, right? You need to
+do both, which means LCR, as we have said before that we'd like to operate between 110% to
+120%. We were at several quarters, 113%, 114%, 115% thereabouts. Then for a quarter, we went
+up, and then we have consumed -- as we see in this quarter, we have consumed, right? So it is
+important around that level to keep that level of cushion to some extent, right? That's one on the
+LCR.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+LDR is important, right? We do want to ensure that the mix of funding moves more towards
+deposits. So LDR is important from that sense. And if you see, currently 110%. Then if you look
+at where can this go. Where can this LDR go? You look at our LDR prior to merger, it's very
+important, right, a recent discussion that is developing. Prior to merger, our LDR was at 85%,
+right? Then now it's at 110%. And if you remove the merger effect of the assets and the deposits
+on this, the LDR is more like a 89%, right.
+And if you look at our historical range of what the bank has operated LDR over a long period of
+time, around that 85%, 87% that's kind of a range that's where we operated, historically, if you
+think about our LDR, that's where we operated. So the -- and today, if you strip out the merger
+effect, it's about 89%. So essentially, the LDR is a function of what has happened on the merger.
+It's about two quarters run on the merger- we have run through two quarters, and we do have a
+kind of a path where we do want to replace borrowings with deposits and grow further loans
+with the deposits. That's the kind of a thought process. And so you should expect that the LDR
+to go down progressively over several quarters to come.
+Rahul Jain: Yes. The reason why I asked this question also, Srini, is because we've bottomed out on LCR
+and we can't really go down any further. LDR is clearly elevated. So clearly, loan growth outlook
+and the visibility there on is looking a little difficult given the environment that we are in. So
+what do we prioritize, growth or margins? Regardless, growth and clearly, the loan growth has
+to come off for us to start and bringing these ratios to a more acceptable range. Or if you have
+to grow, then margins really takes a knock because you'll have to offer the increase in deposit
+rates further. So how are you trying to balance these two?
+Srinivasan Vaidyanathan: Okay. So I do want to one thing mention, right. We are not caught up, and we are not into one
+level of rate of growth as such, right. If you look at our rate of growth, there are sometimes we
+are slower, sometimes we are faster. But all we have done is that over a period of time, we have
+always doubled in every four to five years. That's what we have done, right. quarter or even a
+year can be different.
+But over a period of time, that is what we have done. So growth is not something that we are
+caught up with saying this is the rate of growth that we want. Over a period of time, we want to
+because that's the investment we have done, we need to harvest returns on those.
+So we are focused on returns. So that takes you to the margin, right, would you focus on margin
+or growth. We certainly do not want growth for the sake of growth. If you look at our wholesale
+growth, we had 1.9% in the quarter. Enough demand was there. There were several banks
+undercutting, and we'll let that move on, right. We don't need to be participating if it does not
+give returns, we don't want to be there. And so that's something that we are focused on. We want
+to do the products that are going to give us the returns.
+Now on the margin, very important that you talked about the margin. Margin is important, but
+the first passing is about the returns. What does it give from an overall ROA point of view. That's
+first part. Then it comes, because when you do a product pricing or a product choice to do to a
+customer, you're looking at returns more than the margins as such. Margins to the extent that the
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+mix appropriately gets calibrated, the margins -- for us, we have never had this margin
+conversation because our mix has been predominantly retail and the retail rate of growth over a
+decade, if you see, has always outstripped the wholesale. So there was not a necessity. There
+was no conversation about any margin because it comes with a hefty margin. And it comes with
+a credit cost also. And our credit cost is at a very benign state of sub-50 basis points right now.
+And if you look at our credit cost, adjusted for the mortgages, you'll see that the mortgages
+because of the denominator in the lower loss rates, when credit cost, what does the mean on the
+credit cost, call it 70, 80 basis points that's the mean and pre-mortgage merger 100, 110 basis
+points.
+So what we -- due to the mix change that has impacted the margin that has come through in the
+credit cost line. So certainly, we are focused on profitable growth. But I hope that answers you
+in some manner that you are trying to seek.
+Rahul Jain: Just two small questions. The branches, you said this year maybe 1,000. So is this a new
+trajectory that we're looking at? Or you'll go back to 1,500 or thereabouts in the following years?
+Srinivasan Vaidyanathan: See, again, I'll tell you one other constraint that we are also working through on the branches
+with this URC. This URC is something that is required, right. The mix between the unbanked
+rural centre and so on. Selecting that availability. What is that URC that is available so that we
+are able to get that mix appropriately. So there is a targeted percentage with a regulatory target
+on URC that is more internally we would do, but we need to have a mix between the URC and
+the non-URC so that we can grow progressively across in a balanced manner within the
+regulatory approval. So that is what it is.
+So if you look at whether we go back to 1,500, I think Sashi has alluded to that over a period of
+time, we do want to get to the 13,000, 14,000 type of branches, not just for the sake of branches.
+It is the geographical presence that we can have so we can tap into the pockets of both the
+deposits and lending opportunity in that area. So it's not just deposit, deposits and also the
+lending opportunity in the area. So we would be there, but there is no hard kind of -- we're not
+going to push ahead with only one number. But currently, this is what we are seeing.
+Rahul Jain: Just a small question on the infra bonds. So you raised some money in the last quarter, I think
+INR7,000 crores, INR7,500 crores. Do you have eligible assets even sitting on the balance sheet
+against which you can keep raising this infra bonds? And how much would that be?
+Srinivasan Vaidyanathan: We have eligible assets close to INR1 trillion, as I mentioned. So that's part of -- which is -- it
+can have a qualification in the sense that you may have PSL benefits because we will take it off
+the top line to the extent that you're able to tag the bond and the affordable housing. And you
+will get the other benefits that I mentioned, that the cost on the PSLC or the deposit insurance,
+those things are obviated.
+But still, any day, we need CASA. But to the extent that there are time deposits, this economics
+is better than even -- slightly better than the time deposits due to these. Yes, there are enough
+asset room, if that's the question, do we have enough assets on the asset side to face off against
+these infra bonds, yes.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Rahul Jain: Thank you so much, Srini.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Thank you. Next question is from the line of Kunal Shah from Citi Group. Please go ahead.
+Kunal Shah: So given that the overall liquidity is tight plus the deposit traction all said and done this quarter
+has not been very encouraging. So when do we see in terms of tweaking the rates, given that
+now at least the repo rates have sustained, would we ever look at raising deposit rates beyond
+7.2% just to make sure that we are on our target to get the deposits and at least sustain the growth
+momentum even on the asset side.
+So will there be a thought -- no doubt, you have earlier said that we will look at branch expansion
+that's going pretty slow. Even in terms of like activation of the field force still not that great
+response. So at what time do we look at tweaking the rates just to ensure the deposit traction is
+what we were envisaging earlier, yes?
+Srinivasan Vaidyanathan: Okay. See, deposit pricing is not a tool that we are having in our sales and relationship process,
+which means it is not a driver. The conversation would never go to say, I'm the best price to
+deposits, come here. It's not a conversation because that's how -- if you look at some of the
+comparative pricing on our deposits with our peers, we are more or less in that line, right, with
+our top peers, that's the kind of a pricing that we are positioned to. So we're not trying to
+differentiate on the pricing. We're trying to differentiate on other offering features. That's one
+on that.
+Second, in terms of the market share, you touched upon the growth rate and the market share. I
+do want to allude to say that we do believe that on an incremental basis, 18%, 20% market share,
+we do garner, right. That's part of the -- whatever is the size that we have got, whatever is the
+level at which we are growing, we continue to maintain that superior rate of growth to the market,
+gaining market share on an incremental basis, getting that in the high teens to 20 type of
+incremental market share. Rates are not a play. We are not -- and that is part of the reason why
+the non-retail deposits degrow by 3.3% in this quarter.
+Kunal Shah: Yes. Okay. And secondly, with respect to tax write-back. So last time when there was a write-
+back, you indicated that maybe it might not repeat and we should see it normalizing towards 25-
+odd percent. But that benefit is still continuing. So if you can highlight in terms of, is it expected
+to continue what is actually leading to this kind of -- or maybe a lower tax rate, I would say? Or
+maybe this is like the investment gains, which have been there. It's on that count if you can just
+highlight that?
+Srinivasan Vaidyanathan: The tax benefits that we booked in are consequent to two things. One, there were certain
+favourable orders received relating to e-HDFC Limited past assessment. So that's one. And two,
+there were some favourable orders received relating to the bank for the past year. So that is based
+on those assessments, you have determined that certain provisions are no longer required. That's
+-- and it depends on time to time.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+And there is no such kind of a routine timing that I can predict when these orders come and when
+we get done. But yes, these are episodic from that sense. We receive favourable orders, we asses
+and we take it. And in this quarter, we have had two of them like that, yes.
+Kunal Shah: Okay. So all orders which have been received, which have been favourable, they are more or
+less accounted for now?
+Srinivasan Vaidyanathan: More or less. Yes.
+Kunal Shah: Okay. And lastly, if you can highlight in terms of the maturity of the borrowing, eHDFC Limited
+borrowing over next one year, which is falling due, okay? And any quarter, we would see any
+kind of volatility in that maturity?
+Srinivasan Vaidyanathan: Maturity profile is 20,000, 25,000. There is no big maturity at least over the next two to four
+quarters. It is evenly there. There's not a spike of INR1 trillion going away in a quarter or INR0.5
+trillion going away in a quarter that kind of profile. And I think annually, we do publish the
+profile, and you should soon get to see that, yes.
+Kunal Shah: Okay. Good. Thank you.
+Moderator: Thank you. Next question is from the line of Chintan Joshi from Bernstein. Please go ahead.
+Chintan Joshi: Thank you. Can you hear me?
+Srinivasan Vaidyanathan: Yes, Chintan. Go ahead, please.
+Chintan Joshi: Hi, Srini. So can I go back to the LD ratio discussion? What I'm hearing from you is that it does
+need to come down, but also growth will remain intact. So I'm trying to square the circle, how -
+- like the only way LD ratios improves is if you grow deposits faster than lending?
+Is that what we should expect by FY '25? And the pace of that, if you can talk about -- do you
+have some target in mind? Or do you look at market conditions and do your best? How should
+we think about this?
+Srinivasan Vaidyanathan: Thank you. One thing I do want to mention is that the growth rate -- sustainability of the growth
+rate is not irrespective of what the CD ratio is. CD ratio has to improve, right? As I mentioned,
+typically, we have been in that mid-80s to high 80s. The merger took it to where it is today, past
+the 100. And over a period of time, we do need to bring it down.
+So we can't keep the CD ratio to be growing all the time. That's not a proposition that we are
+envisaging. So that takes the second part of what you asked in terms of the deposit growth and
+how you should think about the rate of growth.
+Yes, we do envisage that the deposit rate of growth should outpace the loan rate of growth. And
+for the CD ratio to progressively come in and for the economics to work, the deposit rate of
+growth should be at least 300, 400 basis points higher than the loan growth, only then the
+economics will work better. So yes, that is kind of a thought process that we have.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Chintan Joshi: Sir, the other question I have is on borrowings and debt securities. If I look at eHDFC Limited
+balance sheet as of FY '23, there was about 1.7 trillion that was going to mature over the next
+year as of FY '23. However, we have not seen that mature. If anything, borrowings have gone
+higher today than the pro forma combined FY '23 balance sheets.
+Is this -- what was the thinking behind this? Because one way of looking at this is there was an
+opportunity to reduce borrowing, but it was not taken because there was profitable lending
+growth out there. Is that the way you thought about it? Or if you can explain that thinking would
+be helpful?
+Srinivasan Vaidyanathan: Okay. See, in this time period, now two quarters have gone by after the merger. And the
+borrowings have remained or actually gone up in this quarter by almost INR209 billion it has
+gone up, out of which about 7,500 is infra bonds, which economics work well, we have taken
+that. The rest are either market borrowings or other treasury-related actions.
+So it is only one item which is the infra bond, which is the borrowing as such that has gone up.
+The rest are market-related activities, which are there, right, in that borrowing. The other aspect
+of it is that should you expect this to go down at the maturity? I think another person was asking
+about the maturity itself over the next several quarters.
+Yes, there are maturities coming, and we envisage to the extent that economics work, we will
+have a similar replacement. If not, it has to be replaced by deposits. And that is part of how the
+rate of growth of deposits need to outpace the loan growth. Otherwise, we will not be able to
+keep up with the loan rate of growth.
+Chintan Joshi: Understood. And finally, on the CRB business, which is growing really fast. What is the overall
+lending yield of the CRB loan book so that we can understand what is the mix impact on the
+overall lending yield from the CRB given that it's growing so fast?
+Srinivasan Vaidyanathan: Okay. The CRB yield comes in about between 9% to 11%, depending on product. There are
+certain products that go above that. There are certain products which are around that 8.5%, 9%.
+But on an average, it's slightly above 9% type of yield at an aggregate level.
+But there are several products, as you know, within the CRB segment from business banking to
+emerging corporates to agriculture loans to SLI loans to the commercial vehicle and so on and
+so forth. So it's a different price point. But on an aggregate average, if you look at it, it's north
+of 9%.
+Chintan Joshi: So it is in line with the overall group lending yields. It's not above the average of the balance
+sheet, it is in line with it.
+Srinivasan Vaidyanathan: It's a good assumption. Yes, it is not above the average. It is at that level, not dragging the overall
+average down as such in any meaningful manner, yes.
+Chintan Joshi: Understood. Thank you.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Moderator: Thank you. Next question is from the line of Nitin Aggarwal from Motilal Oswal. Please go
+ahead.
+Nitin Aggarwal: Hi, good evening. Thanks for the opportunity. Srini, two, three quick questions. One is on the
+Bandhan Bank stake sale that has happened in this quarter. So if you can quantify the gains on
+the sale, how much has flown in this quarter from that?
+Srinivasan Vaidyanathan: See, I talked about that 15 billion or so on the overall, I mentioned. So not necessarily -- I won't
+talk about any individual particular item, right, but from an overall point of view, I did talk about
+the mark-to-market and trading treasury investment portfolio income 14.7 billion, 15 billion,
+right, which is there.
+Nitin Aggarwal: Right. So this is included in the total, but you're not like giving the separate number for that?
+Srinivasan Vaidyanathan: It is included. Yes.
+Nitin Aggarwal: Okay. And secondly, on the Credila, have you booked the gains in this quarter or it will come in
+4Q? Like how are you looking at that?
+Srinivasan Vaidyanathan: Okay. No, Credila, nothing has been booked in the December quarter. We are waiting for
+regulatory clearance before the transactions can close. So we are working through -- or the
+potential purchaser is working through certain things to provide. And we are hopeful to close
+soon, but there is no particular concrete time that I can give, right? They have to go through
+approval process before it can conclude.
+Nitin Aggarwal: Okay. And lastly, on contingent provisions. This quarter, we have made INR1,200-odd crores
+of contingent. So any particular levels you want to reach or is it just like the flowback of the
+excess gains that we are having right now that we are using that? So any thoughts around how
+do we look at this contingent provision number?
+Srinivasan Vaidyanathan: Okay. See, the contingent provision that we built in the quarter, 12.2 billion, we attributed on a
+prudent basis towards the AIF, right? There is RBI regulation to account for and look at AIF in
+a specific manner. So we took the chance to say on a prudent basis, we need to provide, and so
+we did build a contingent provision against this.
+As I mentioned, the fair value of the AIF is almost 5 billion more than the carrying book value,
+but we made 100% provision on a prudent basis. So again, we evaluate this quarter-to-quarter.
+But that's the process, that's a regimented process to look at its quarter-to-quarter. There is no
+such targeted level of build or release that we have. We will assess it every quarter and certainly
+at every year-end.
+Nitin Aggarwal: Right. Okay. Thanks so much Srini. Thanks a lot.
+Moderator: Thank you. Next question is from the line of Abhishek Murarka from HSBC. Please go ahead.
+Abhishek Murarka: Yes, hi. Good evening, Srinivasan. Thanks for the opportunity.
+Srinivasan Vaidyanathan: Good evening, Abhishek.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Abhishek Murarka: Okay. So one question is on the unsecured loans. So after the RBI circular on risk-weighted
+assets and all, so the nudge that has been happening on NBFCs as well. What is your approach?
+So part one, what is your approach to unsecured loans, especially personal loans? Will that slow
+down?
+If yes, when you were talking earlier about bringing up the yield on non-mortgage retail assets,
+how does that affect that strategy? And second, on NBFCs, again, what's the approach? Will you
+limit the percentage mix? Or will you sort of limit the absolute exposure? How do you plan to
+move ahead?
+Srinivasan Vaidyanathan: Okay. Yes. Let's look at the retail unsecured that you alluded to. See, the retail unsecured is
+extremely profitable product, and we like it. And it has to go through our credit filter. And we've
+been in that for a long time. And one of the best scorecards we believe we have that. If you look
+at the delinquency profile on that, it's fantastic.
+The delinquency profile, the NPA profile is better than the secured book that we have. So we
+like it. There are times it gets calibrated up and down, and we are confident of growing the book.
+And let me tell you one important thing on that unsecured as such. Premerger, on the retail book,
+our unsecured component was 41%. Post-merger, it is about 22%. So if anything, we created
+more kind of a runway for faster growth.
+But when we say faster growth, we are not talking about something that is a 25%, 30%
+thereabouts kind of rate of growth. For us, faster growth is to go into high teens to 20% type of
+rate of growth. That's what we have had in the past. That's why I'm more than telling you what
+we will do and trying to tell you what we have done. And we think that, that is what we will do
+rather than do something new about it. So we have enough headroom, enough runway and
+opportunity on that. It's an extremely profitable product. So that's something to keep in mind on
+the unsecured.
+NBFC, see, our approach to NBFC has always been one for lending, we do want that. For
+corporate houses, part of various NBFCs affiliated to corporate houses, something that we work
+with because that's a much broader relationship across the corporate group that we have. So that
+is quite profitable, and we like it and we work through that.
+One thing that I do want to mention is that, yes, the risk weights do add in terms of the capital
+that is required for it. Irrespective of that, we look at the profitability. They are quite highly
+profitable at the enhanced risk weight, both ROA or ROE that you see, and we like to go with
+that.
+Abhishek Murarka: So there will be no sort of approach to limit the, let's say, percentage of overall exposure to
+NBFCs in light of whatever nudges have come from the regulator, or caution, let's say, that
+would have come?
+Srinivasan Vaidyanathan: Correct. The way to think about it is that where it is to be directed lending, which is priority
+sector is number one preference, right? And by the way, some of our NBFCs are government
+sponsored NBFCs, right? So -- and they're not into consumer lending at all. And so I do want to
+distinguish. Of course, the circular does not distinguish between different categories of NBFCs.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+So our NBFC does not necessarily need to be lending only to consumers or of segmentation,
+which is lower than the bank-targeted segmentation for lending, no. NBFCs are also
+government-sponsored, government-linked NBFCs are there, where we have a good relationship
+with them.
+Abhishek Murarka: Okay. And just another one on the cross-sell. At the time of the merger, we were talking about
+how you benefit from cross selling your products to the customers who are coming to the fold.
+How do we track that? And when do we start seeing those cross-sell benefits, either in terms of
+high retail fee or can you start disclosing some sort of cross-sell metrics? So how do we track
+whether that's really accruing or it's taking time?
+Srinivasan Vaidyanathan: Very good. Thanks, you touched upon that. I'll tell you two, three things that we will start to
+publish and show it to you. One is that we said we want savings accounts. That's one, because
+we want to offer banking, not just a mortgage product. So if you look at one month, the last
+month, the December -- In October, we showed to the broader world in terms of how various
+digital approach that we have taken to offering this bundling of products. Savings account is an
+important part of the product suite that we offer.
+Among the disbursals that we had, in one month, if you take 40,000-plus disbursals, first
+disbursals because I'm not counting for the disbursals which are on-going, right, second
+instalment, third instalment, leave that to the side. On the first disbursals that have happened in
+the month -- in December, roughly half-half is, existing to bank and new to bank, half-half of
+that. Among that half, which is the new to bank, almost 65% of them we have penetrated with
+the savings deposit.
+So we've gone with the 65% penetration to start with, I'm talking about the December, where we
+are. And that penetration comes with the deposit balance, at least one to two months of EMI,
+which is INR30,000 to INR35,000 on an average we have taken from the customer base where
+we have opened. So we'll publish this. So one is savings account as a product and what is the
+penetration on that. That's number one. And I give you an example of 65% of new to bank, first
+disbursals, we have had that, and we want to take it to 90, 95, 99.
+We'll keep tracking and reporting that. The second one is the credit cards. We're just beginning
+on that one, we will report on that as a product in terms of how we are offering credit cards. The
+third is consumer durable. Consumer durable, again, one is the offer. The second one is a
+drawdown because the customer will not -- we will make that offer on the consumer durable,
+customer will drawdown a month or a quarter or six months later as the house is ready for the
+person to move in.
+So -- and then over a period of time, we will bring in the other products. So insurance also is
+something that we'll start to disclose, to see the penetration level of insurance. The things like
+the demat account and the mutual funds and those sorts of things, over a period of time, we will
+come with that. But there are nine products that we will come up with, out of which three are
+digitally enabled. The rest will be soon, and we will start to report them and show it to you.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Abhishek Murarka: Sure. Thanks. Srini, had to get some more granularity because the value that will help us figure
+out how the cross-sell effort is going. So, thanks for taking that.
+Srinivasan Vaidyanathan: Thank you. We will put up a page or two from next time and we will have that.
+Abhishek Murarka: Sure. Thank you.
+Moderator: Thank you. Next question is from the line of Anand Bhavnani from WhiteOak Capital.
+Anand Bhavnani: Thank you for the opportunity. I have a question on the consumer behaviour. This has more to
+do with seeing revolve rates on credit card being much lower than pre-COVID levels. Similarly,
+on the savings account side, the growth rate is weak. So, can one surmise that because of good
+apps available on mobile devices, consumers are now being very active and not giving in to the
+inertia on both the asset side, the credit cards, they are not revolving.
+They are just taking personal loan or something? And similarly on the liability side, the slot
+consumers are moving away their deposits to an account where they're getting 7%, 8%, whereas
+we are giving, let's say, 3.5%. So have you done any behavioural analysis on both assets as well
+as liability side to see how across the broad spectrum of your customers, is there any data to
+prove through these thesis?
+Srinivasan Vaidyanathan: See, in terms of the customers -- you touched upon the revolver. Thank you for touching upon
+that. See, the revolvers haven't grown. If anything, actually, in this quarter, we do -- we did see
+a slight reduction in revolver percentage, right? We're not seeing that. And in some other
+questions, I would allude to how card bunch of customers. Customers who have credit cards and
+savings accounts with us and you see their balances are five times, little more than five times --
+5.4 times their balances is what they have in the deposit accounts.
+So that is also healthy. It was less than four, three years ago. Now it is 5.4. So it has grown.
+That's the second thing. The third thing in terms of whether some of the digital properties are
+enabling, less use of card revolving and alternatives. See, in our customer segment, that's not
+something that we are seeing because it is – which is more of -- the segment that we have chosen
+and working on is little more higher rate.
+That means little higher score customers. I think we have talked about the revolver one to three
+months and four to six months and six-plus months -- call it, six-plus months revolvers. Across
+these three revolving categories, we are not seeing pickup happening. So that's part of the
+customer base, and that's part of the cash that they have, or some of them have got impacted
+through the COVID and come out of it and not survived and come through it and not indulging
+in any of these things.
+And some of them who do, take it for a short period of time, right? So that's the one to three
+months category if you see they take for some short personal loan or they don't want a two-year
+or a three-year or whatever the tenor, personal loan, they want it for a short period of time, they
+don't mind taking it. So we do think that the category is very attractive and very nascent, because
+you know that there are only kind of 90 million-100 million credit cards in this country.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+And we would expect that to be north of 500 million. So we have enormous room to go. The
+other aspect is that whether alternative payments UPI or anything, those kind of things or direct
+debit system, that would only increase the balances in the savings account. So somebody who is
+using UPI previously was drawing down cash and paying through.
+So the cash was going out of the bank. Now the cash is in the bank account and is using UPI. So
+it only enhances -- anybody using UPI only enhances balances in the account. So there are pluses
+and minuses across all of these. But at the end of the day, the customer segmentation that we are
+working with, we're confident that, that would bring in the balances and grow, as the economy
+grows.
+Anand Bhavnani: Sure. But the question is whether the minuses are overwhelming the pluses because the account
+opening these days is less like an hour's affair and if a bank is offering 7%, 8%, and we are
+seeing these banks which are offering 7%, 8% are seeing very high growth rates on their liability
+side. So is it that the smart customers of yours are now using these properties and it's a structural
+change and hence, it will be a headwind to our deposit accretion targets?
+Srinivasan Vaidyanathan: Okay. But there are two -- again two things I want to respond to. One is the -- if you look at us
+from a market share point of view, we have been gaining market share. Our market share is at
+about 10.5%, and it continues to grow. On an incremental basis, I think I alluded to our
+assessment is 18% to 20%. So that's -- we are keeping up with that. Yes, there may be some
+customers who go. But from our rate offering point of view, we offer -- you're talking about the
+savings account rate. But on a time savings account rate is what we offer, 3%, 3.5%.
+On the term deposit, we are more or less in line with the competition, significant peers. If you
+see, we are more or less in line with that on a term deposit rate point of view. From a savings
+account, yes, we do continue to -- that doesn't mean somebody else cannot grow. We are
+growing. And think about it, still the public sector banks from where all of the private sector
+banks, including the ones that you alluded to offering 7% or 8% on savings account, those are
+all in the private sector segment.
+And the market share -- is coming from the public sector, because all the private sector banks
+are gaining market share.
+Anand Bhavnani: Yes. Thank you. And all the best.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Thank you. Ladies and gentlemen, we will take that as the last question. I would now like to
+hand the conference over to Mr. Vaidyanathan for closing comments. Over to you, sir.
+Srinivasan Vaidyanathan: Okay. Thank you, Neerav. Thank you all for participating. We appreciate you dialling in at this
+hour. If any more questions, comments, or clarifications are required, please feel free to reach
+out to us. Our Investor Relations team would be happy to connect directly to you or with me,
+and we can have a conversation. Thank you. Bye-bye.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+January 16, 2024
+Moderator: Thank you very much. On behalf of HDFC Bank Limited, that concludes this conference. Thank
+you for joining us. You may now disconnect your lines. Thank you.
+
+Classification - Public

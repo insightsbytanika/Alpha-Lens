@@ -1,0 +1,651 @@
+Classification - Public
+“HDFC Bank Limited
+Q2 FY '24 Earnings Conference Call”
+October 16, 2023
+MANAGEMENT: MR. SASHIDHAR JAGDISHAN – MANAGING DIRECTOR
+AND CHIEF EXECUTIVE OFFICER – HDFC BANK
+LIMITED
+MR. SRINIVASAN VAIDYANATHAN – CHIEF FINANCIAL
+OFFICER – HDFC BANK LIMITED
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Moderator: Ladies and gentlemen, good evening, and welcome to HDFC Bank Limited Q2 FY '24 Earnings
+Conference Call on the financial results presented by the management of HDFC Bank. As a
+reminder, all participant lines will be in the listen-only mode and there will be an opportunity
+for you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing star, then zero on a touchtone phone.
+Please note that this conference is being recorded. I now hand the conference over to Mr.
+Srinivasan Vaidyanathan, Chief Financial Officer, HDFC Bank. Thank you, and over to you,
+sir.
+Srinivasan Vaidyanathan: Okay. Thank you. Thank you, Neerav. Good evening, and a warm welcome to all the
+participants. Our MD and CEO, Mr. Sashi Jagdishan, has joined us today to provide an overview
+of the business before we get into the quarterly results. Sashi, over to you to get started, please.
+Sashidhar Jagdishan: Thank you, Srini. Thank you for allowing me to steal your talk time. I'll keep it as brief as
+possible. This being the first results post the merger, I thought of sharing my thoughts. It's such
+a pleasure to connect with you all after a very long time. As you know, we just consummated
+one of the largest mergers in recent times with seamless integration of people, processes, and
+systems. And that too, without any external help. This showcases the power of our execution.
+The day one merged balance sheet was audited by the 31st of August, and the team disclosed
+this to the world at large around mid-September.
+The presentation, which they did to the analysts brought out some of the one-offs on account of
+the debt-funded liquid assets to meet the liquidity coverage ratio, the LCR, as per banking norms.
+As you know, sometimes the assumptions and cash flows that an NBFC does is going to be -- is
+different from that what a bank would do. And so therefore, there was some amount of buildup
+of liquidity to meet those liquidity coverage ratio norms and also provide an extra cushion to
+take care of contingencies. As luck would have it, there was an incremental CRR, which was
+announced, and this cushion came in extremely handy.
+Obviously, it came with a cost, which is approximately 25 basis points between the liquidity
+buildup and the ICRR impact. I think Srini will talk about it more in detail in this call. The
+presentation also brought about the day one adjustments to equity, which was one of the asks of
+all you -- of this fraternity to say what will be the day one equity and with all the adjustments
+that one would do on merger. I think a lot of people probably mistook some of them to be
+destroying of value of the equity, but it's not. If you look at it deeply, and I'm sure most of you
+would realize that these are all accounting and timing differences, which means that these
+benefits will accrue over time from hereon.
+A lot has been spoken about the non-retail book of erstwhile HDFC Limited. Surely, there was
+a bit of an incremental spike in an account, which was standard, but had to be restructured. And
+as per the norms, when you restructure, even if it's a performing asset, it tags -- it gets tagged as
+an NPA. Yes, there could be some tail remaining from this book, which could slip into
+substandard in the future, but the impact to the overall bank's gross NPA will not be significant
+at all.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+In fact, I can categorically say that the bank will not incur any incremental costs or losses on
+account of this book into our P&L going forward. And this is something, is because of the
+realizable value of security, the provisions that we have made is going to be adequate enough to
+cover some of the exposures that we have inherited.
+A lot of questions and question marks come about what we are planning to do on the construction
+finance. It is going to be extremely important. It's going to be an important part of our mortgage
+business.
+We have just absorbed the contours of this book. You will now start to see the construction
+finance book growing steadily from here on. And that will sort of help in building not only the
+top line but also some of the margins back. If you have seen the results, which has been released
+a couple of hours ago, I think it showcases the execution capability, which is what we're known
+for, which is what we have constantly spoken about as well and even demonstrated.
+Let's look at some of the key metrics. Look at the deposit accretion of INR1.1 lakh crores. That
+translates on an apple-to-apple basis of a sequential growth of 5.3%, which if you analyse it, it's
+upwards of 20%, 21%. And mind you, this is, almost 83% to 85% of that is retail. One would
+wonder and one -- probably one of the questions that you may have is what happened in June,
+which I think we may have explained, but let me articulate it slightly better is that when the
+liquidity cushion was being built on the other side, that is in HDFC Limited, we decided that we
+will not roll over some of the large ticket deposits even for a few basis points as well. So
+we let some of them go and that is masked, these outflows in the large ticket deposits, the non-
+retail deposits masked the core momentum in the retail ones. So we are very sanguine and very
+confident that funding is never going to be an issue, and you will see the kind of execution that
+we are capable of going forward as well.
+Look at the loan growth. We have also accreted on an apple-to-apple basis, INR 1.1 lakh crores
+during this quarter. These are high-quality assets, whether it is corporate, whether it is CRB, the
+commercial /rural / MSME book or the retail book - extremely high-quality book where we're
+extremely comfortable from the quality of the book now and into the future. But look at the kind
+of sequential apple-to-apple growth rate. At 4.9%, it's an annualized growth rate of 19.6%. So
+when you look at these two metrics, it’s very strong, very healthy numbers, which is what we
+have mentioned several times over that even on such a large scale that we -- the bank will have
+the energy to continue to grow at a pace that we have done in the past even on such a larger
+book.
+The NIMs. You know, I think the presentation in mid-September called out that there will be,
+kind of an impact, because of the liquidity cushion and the incremental CRR impact of about 25
+basis points. We had said that we will -- the core margins on a total asset basis, on a pure
+arithmetic should be somewhere between 3.7 to 3.8%. So when you adjust for this 25 basis
+points, we are at a lower band of the 3.65%. That's all right. I mean, that's something that we --
+I'm sure, with time, we will recoup some of the margins as we substitute the high-cost bonds
+with deposits and the changing mix of our business, loans mix more-and-more towards retail.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Look at the Return On Assets. Despite that, I think the company maintained the Return On
+Assets around the 2% mark and the ROE at the 16.2% mark. So the top-line growth and the
+profitability has been intact, and it is something that will only improve going forward. This being
+the first quarter, we wanted to ensure that the fabric of HDFC Limited's profits on mortgages is
+maintained, especially in the retail mortgages. We wanted the teams to settle down and we
+wanted them to slowly but surely start to energize themselves and galvanize the home loan
+disbursal momentum.
+We have mentioned in the early release that they did the highest ever retail mortgage loans of
+170,000 in numbers and a INR48,000 crores of disbursals, the highest ever. This demonstrates
+that this is a start, this is the tip of the iceberg. It's just now a matter of time where we now will
+start to sweat the franchise, both the distribution and the customer franchise to take this forward.
+But what is going to be exciting is when we launch our digital journeys for bundling products
+during this quarter. That will be incremental in terms of icing on the cake.
+So the innate strength of the institution to galvanize energy, to execute consistently even on a
+larger base is what we have demonstrated year after year for 28-plus years. As one can see, in
+the recent results, the bank is poised to silently deliver the core growth that you have just seen
+in this quarter, and I'm very confident and sanguine that it will continue to do so quarter-after-
+quarter even on a larger scale, maintain the profitability in the range of 1.9% to 2.1% as in the
+past.
+So without much ado, I just wanted to tell you that we are extremely excited about this merger,
+and we will slowly but surely demonstrate to the world that how we will execute the way we
+have done in the past.
+So over to you, Srini. Thank you so much.
+Srinivasan Vaidyanathan: Okay. Thank you. Thank you, Sashi, for those opening remarks. Now let's get on to the main
+highlights. I want to start with the macro context that provided a good healthy tailwind in the
+quarter, right? We continue to see good domestic demand conditions and push from government
+through capex. You know well that the GST collections were healthy and manufacturing services
+PMI are in the expansionary zone, the key logistics indicators were quite healthy and good. RBI
+kept its rate unchanged at 6.5%. And as we look ahead, we see the environment is good for
+robust growth. Our estimate of the GDP growth for this year FY '24 is 6.3%, which will
+demonstrate that it's one of the fasting growing economies of the world.
+Now if you look at some of the key factors in the bank's growth journey, on the distribution
+footprint expansion, our branch network stands at 7,945 outlets as of -- branches as of September
+30. Overall, there has been an increase of 1,446 branches over the last 12 months, including 85
+branches in the quarter. In addition, we are operating over 400 branches of erstwhile HDFC
+branches as -- under the bank banner now and are progressively developing other banking
+product capabilities as we go through the year.
+Payment acceptance points are currently at 4.9 million, a year-on-year growth of 43% as
+adoption of Vyapar app builds momentum there. In the CRB, which runs the SME businesses,
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+the rural business reach expanded to 1.85 lakh villages, and it's on track to go to the objectives
+of over 2 lakh villages in the near term. Gold loan processing, that we started vehemently a few
+quarters ago is now offered in 4,544 branches, an increase of 53% over prior year.
+In the customer franchise building, we added 2.7 million new liability relationships during the
+quarter. Our base -- customer base stands at 91 million, including those added in the merger.
+This provides the opportunity to further engage and deepen customer relationships. In order to
+position this for greater engagement with those customers, we've added 16,000 people during
+the quarter.
+On cards, we issued 1.7 million cards in the quarter, taking the total base to 18.8 million. The
+granularity on the deposit focus continues with total deposits currently at INR21.7 lakh crores,
+grew by INR1.1 lakh crores in the quarter on a comparable basis, 5.3% sequentially. Term
+deposits have been the bedrock of this growth given the interest rate scenario and the customer
+preferences, aggregated to INR13.6 lakh crores, registering a healthy growth of 7.8%
+sequentially.
+Savings account deposits stands at INR5.7 lakh crores, and grew by INR9,000 crores or 2%
+sequentially. Current account stands at INR2.5 lakh crores and that's INR18,000 crores over
+prior year. Retail of which current account constitutes 72% and grew by 3% sequentially. So we
+are focusing more-and-more on the retail current account as we go along because as the corporate
+or -- the wholesale current account gets managed professionally through various treasuries, the
+retail current account offers the biggest opportunity there.
+Overall, CASA deposits ended the quarter at INR8.2 lakh crores, resulting in a CASA ratio of
+37.6%. This is after the impact coming from the merger, which came from HDFC Limited, the
+term deposits that got added into our base.
+On the advances side, the gross advances at INR23.5 lakh crores reflects a sequential momentum
+of about 4.9%. Retail advances grew 3.1% sequentially. CRB advances grew 9.7% sequentially.
+The Wholesale segment grew, excluding the non-individual loans of HDFC Limited, grew 5.8%
+and the non-individual loans of the HDFC Limited is now at INR1.03 lakh crores compared to
+INR1.09 lakh crores as of the beginning of the quarter.
+We continue to pursue the technology and digital kind of a foray. PayZapp 2.0 currently has 3
+million registered users and handles a daily volume of 2.5 lakh transactions. SmartHub Vyapar
+platform handles monthly transactions of INR19,000 crores and provides monthly disbursals of
+INR650 crores. Xpress Car Loans brings and contributes almost 30% of our car volumes. HDFC
+Bank won the customer service hub, the AI-driven channel platform serving contact centers
+nationwide, serving 30 million engagements as interactions with 15 million customers monthly
+through e-mail, social care, WhatsApp and chat banking and phone banking services. Balance
+sheet remains resilient. LCR for the quarter was 121%, absorbing the 4-plus percentage points
+coming from the ICRR. Capital adequacy ratio is at 19.5%, with CET1 at 17.3%.
+Let's get to the net revenues for the quarter, which were at INR38,093 crores, grew by 33% over
+prior year. Net interest income for the quarter at INR27,385 crores, which is 72% of net revenues
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+grew by 30% over prior year. The core net interest margin for the quarter was at 3.65% on total
+assets and 3.85% on interest-earning assets after absorbing the debt funded cost for additional
+liquidity and merger management, the reported net income -- net interest margin for the quarter
+was 3.4% on total assets and 3.6% on interest-earning assets.
+Getting to the details of other income. Total other income was INR10,708 crores. Fees and
+commissions constitute two-thirds or 65% of other income, was at INR6,936 crores and grew
+by 19.5% over prior year. Retail constitutes 92% of fees and commission, demonstrating the
+granularity of the fees and commission income. FX and derivatives income at INR1,221 crores,
+was higher by 12.8% compared to the prior year. Net trading and mark-to-market income was
+INR1,041 crores for the quarter. Prior quarter was INR552 crores and prior year was a negative
+INR387 crores.
+Other miscellaneous income of INR1,510 crores includes recoveries from the written-off
+accounts and dividends from subsidiaries. On the operating expenses for the quarter, which were
+at INR15,399 crores represents the cost to income for the quarter at 40.4%. Our pre-provision
+operating profit was at INR22,694 crores and represents around eight times the total provisions
+from a coverage point of view.
+Coming to the asset quality, the GNPA ratio was at 1.34% as compared to 1.41% on a pro forma
+as of July 1 that we mentioned and last year as you know, it was 1.23%. Out of the 1.34% as of
+this quarter end, we have about 22 basis points which are related to restructured accounts, which
+are restructured accounts in erstwhile non-retail HDFC Limited, which are current and
+performing but have been classified as NPA according to the extant guidelines.
+Net NPA ratio was at 0.35%. The slippage ratio for the current quarter is at 32 basis points, about
+INR7,800 crores. During the quarter, we had recoveries and upgrades that were INR4,500 crores
+at 22 basis points. Write-offs in the quarter were INR3,250 crores, approximately 17 basis points.
+There were no sale of NPA accounts during the quarter.
+On the provision side, the total provisions reported were around INR2,900 crores against
+INR2,850 crores during the prior quarter and INR3,250 crores in the prior year. The core specific
+loan loss provision was around INR2,500 crores against INR2,700 crores in prior quarter. The
+provision coverage ratio was at 74%. At the end of current quarter, contingent and floating
+provisions were approximately INR15,600 crores, general provisions were INR10,100 crores.
+Total provisions comprising specific, floating, contingent in general were about 156% of gross
+nonperforming loans. This is in addition to securities held as collateral in several of the cases.
+Floating, contingent, and general provisions were about 1.09% of gross advances as of
+September end.
+Now coming to credit cost ratios. Total annualized credit cost ratio for the quarter was 49 basis
+points, prior quarter was 70 basis points and prior year was 87 basis points. Recoveries which
+are recorded as miscellaneous income, amount to 16 basis points of gross advances for the
+quarter as against 19 basis points for the prior quarter. The total credit cost ratio, net of
+recoveries, was at 34 basis points in the current quarter compared to 51 basis points in the prior
+quarter and 64 basis points in prior year.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+The profit before tax was INR19,790 crores and grew by 39% over prior year. After INR1,000
+crores write-back of tax provisions no longer required consequent to favourable appellate orders.
+Net profit after tax for the quarter was INR15,976 crores, which grew by 50% over prior year.
+Now a few sentences on our subsidiaries before we get to the summary. HDBFS is on Ind AS
+basis, disbursements were at INR14,150 crores, higher by 43% over prior year. Loan book at
+INR78,000 crores, grew 5.8% sequentially. Customer franchise grew to 13.6 million customers
+with 6.3% additions during the quarter. Quality of the book continues to see sustained
+improvement with gross stage three at 2.38% as of September against 4.88% in the prior year.
+The provision coverage of Stage 3 book stood at 68%. The profit after tax for the quarter was
+INR601 crores compared to INR471 crores from prior year. The ROA and ROE annualized in
+the quarter was 3.2% and 19.6%, respectively. The earnings per share in the quarter in HDBFS
+was INR7.59 and the book value per share in HDBFS is at INR158.
+Now getting to a few other subsidiaries, HDFC Life, on an IGAAP basis, the profit after tax for
+the quarter ended September increased to INR377 crores compared to INR326 crores in the prior
+year. In the HDFCAMC, again, this one on an Ind AS basis, profit after tax for the quarter
+amounted to INR438 crores, registering a year-on-year growth of 20%. In HDFC ERGO, this
+on an IGAAP basis, because they are different standards, profit after tax for the September
+quarter increased to INR236 crores compared to INR177 crores in the prior year, registering a
+growth of 33%. Securities / HSL has a network of 2,203 branches and the net profit after tax was
+INR214 crores as against INR191 crores for same time last year.
+I want to take the opportunity to provide a quick update on ESG. We further strengthened the
+integration of ESG and climate change risk assessment into our credit appraisal process for
+corporate borrowers. We also have finalized a sustainable finance framework to classify loans
+and advances as green, social, and sustainable in alignment with International Capital Market
+Association principles.
+Now getting to the summary. Our results reflect the robustness in growth after consummating
+the merger, 5.3% sequential momentum in deposit growth, 5.7% sequential momentum in retail
+deposit growth and advances growth at a sequential increase of 4.9%.
+Profit after tax for the quarter at INR15,976 crores increased by 50% versus prior year. The
+consolidated profit after tax for the quarter is at INR16,811 crores, delivering the return on assets
+in the quarter of about 2% and return on equity of about 16.2%. Earnings per share in the quarter
+on a stand-alone basis is INR21.1 and at a consolidated bank level, it is INR22.2. The book value
+per share on a stand-alone bank level is at INR534 and at a consolidated level, it's at INR553.
+With that, may I request the operator to open up the line for questions, please.
+Moderator: Thank you very much. We will now begin the question-and-answer session. First question is
+from Mahrukh Adajania from Nuvama. Please go ahead.
+Mahrukh Adajania: My first question is on margins. So of course, you've explained that is the ICRR and the excess
+liquidity on Limited book. But would there be any other adjustments in the NII while moving
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+from Ind AS to Ind GAAP for HDFC. Like for instance, HDFC's NII in Q2 FY'23 was around
+45 billion, 46 billion, right? So, would that be restated significantly under Ind GAAP?
+Srinivasan Vaidyanathan: Mahrukh, maybe we will have a session about what the Indian GAAP and Ind AS would be.
+There are several differences that happen. I'll give you, for example, there's several of them: on
+the nonperforming loans, in Ind AS, you accrue for interest. In IGAAP, you don't accrue for
+interest, if the loan is nonperforming. That is an example, actually, right? so there are several
+differences that happen -- and so -- and the time has elapsed and the profile of the balance sheet,
+including the interest rate structure of the balance sheet is different now versus what it was at
+that time. So they are not comparable as such. They are different regulatory regime, different
+accounting standards, different regulatory regimes and the composition of the balance sheet is
+different.
+Mahrukh Adajania: Correct. But most of the margin decline from pro forma 3.7 to 3.4 is largely excess liquidity and
+ICRR or...?
+Srinivasan Vaidyanathan: See the way you think about it is that the balance sheet is funded with debt, right? There is a
+level of additional borrowing that has been exercised and that is debt borrowing that has come
+on. And debt borrowing comes in at a cost that is north of 8% or so. So that's part of how there
+is a transition post the merger, as part of the merger management, we carried additional, one way
+to describe this is additional liquidity. But if you think about what is there, where does it reflect?
+It reflects in the cost of funds. So that's where the cost of funds is higher.
+Mahrukh Adajania: Got it. Makes sense. Sir, my next question is on the tax rate. So, given that there were favourable
+decisions and that's why the tax rate fell, does it normalize to 25% next quarter or...?
+Srinivasan Vaidyanathan: Yes, there is this onetime effect if you take it out, whatever is the normal tax rate, if you look at
+last quarter of the past year, we've been around 25%, 24.9% 25%, thereabouts. That's where we
+have been. So, there's no difference from that, yes.
+Mahrukh Adajania: Okay. And sir, just one last question. Sir, so do you see margins -- how long would it take for
+margins to come back up to 3.6, 3.65%, like two to three quarters, would the exit margin for FY
+'24 be at that level? Or would it take longer?
+Srinivasan Vaidyanathan: Mahrukh, I think Sashi alluded to say that there are a few things, right? One is the utilization of
+this to a better mix of loan originations, particularly focused on the retail shift, is something that
+would bring this to a normal level over a period of time. Then there are other choices to make.
+But given that these are -- this funding is the longer-term funding that we've chosen, as part of
+the merger management, we need to get through by building assets which are of a better yield.
+Srinivasan Vaidyanathan: Got it. Thanks. Thank you.
+Management: Thank you.
+Moderator: Thank you. Next question is from the line of Kunal Shah from Citigroup. Please go ahead.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Kunal Shah: Yes. Thanks for taking the question. Sir firstly, maybe what Sashi highlighted earlier that in
+terms of the rundown in the wholesale portfolio of erstwhile HDFC, is it more or less done? Or
+should we see it getting towards...?
+Srinivasan Vaidyanathan: Kunal, if I request you to slightly come closer to mic and speak up, I can hear, but not as great.
+Kunal Shah: Yes sorry. Now if it's better. So I was just saying whether this rundown in wholesale portfolio,
+is it largely done? Because earlier we thought that it can come down to INR80,000 crores-
+INR90,000-odd crores from INR1.3 lakh crores. But in the opening remarks, you said like it
+should largely be done and now we should see the growth coming through in the construction
+finance portfolio?
+Srinivasan Vaidyanathan: See, that is the kind of a direction. If you think about it, it (eHDFC Ltd wholesale book) has got
+three components. One component is to do with the construction finance, which from a bank
+positioning, and strategically, would feed into the retail, we want to grow this portfolio, right?
+We have the risk assessment framework - we want to grow within the framework that we have.
+The second component of the book is the LRD book, Lease Rental Discounting. That book is
+also a growth-oriented book and will be assessed and grown. The third component is a small
+component of a corporate loan book that will be assessed as part of the overall exposure to
+various corporates that we have, and we'll take a decision about, what is the overall exposure.
+Yes, the direction, what Sashi alluded to is on the construction finance. And it equally applies
+to LRD too, but all of this is in the context of overall exposure to corporates that we have.
+Kunal Shah: Sure. Got that. And secondly, in terms of other income, was there any one-off maybe pertaining
+to IGAAP transitioning for HDFC or this is like now the overall fee income trajectory, which
+we should see, and there is no one-off in this line item now?
+Srinivasan Vaidyanathan: So the fee income that you saw, which is INR6,900 crores -- yes, INR6,936 crores, yes, that is a
+normal level of fees. And if you look at how we have in the past seen, the fee, which is a 65%
+of the other income is the fees, right? And this fee line has got multiple from asset origination
+fees to liability product fees to payment transaction type fees to wholesale banking fees to third-
+party distribution fees.
+There are seasonalities - up and down. It happens because there are certain quarters where you
+see for various considerations, it could be tax considerations, or for origination consideration, it
+goes up or down. But when you look at it over a period of time, historically, this has been in the
+mid- to high teens, right? That's where the fee component has moved.
+And that's where I will tell you to look at it, is if you look historically, that's the range of which
+had. This quarter, if it was 19% -odd, again, quarter-to-quarter, there's seasonality. But when
+you look at a year, two years in the past, it's mid- to high teens.
+Moderator: Kunal Shah, sorry to interrupt you. May I request you to join in the queue again.
+Kunal Shah: Sure.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Moderator: Thank you. Next question is from the line of Parag Thakkar from Anvil Wealth. Please go ahead.
+Parag Thakkar: Yes. So first of all, I would like to congratulate the entire team for bringing up the deposit number
+to such a good number, about INR1 lakh crores. I think it requires a lot of efforts and you all did
+it brilliantly, especially in the quarter when it was a merger quarter. And we had this onetime
+ICRR hit plus this liquidity hit. So overall, I'm very, very happy with the performance.
+First of all, I would like to congratulate you all. And second, let me say that 1.92% to 2.1% ROA
+is possible. The growth rate above 15% or 17%, 18% of the merged entity is also possible, right?
+Srinivasan Vaidyanathan: Parag, firstly, thank you for the recognition, and we appreciate. These are the things that keeps
+us charged and ensures that we drive to the best potential both the market has to offer and the
+people here are capable of delivering. Thank you for those compliments. Now getting to the
+question that you asked in terms of the growth rate, see, more than thinking about the forward-
+looking growth rate, but growth rate is underpinned on two things: one, market rate of growth.
+Typically, in the past, we have seen the market rate of growth anywhere from 10% to 12%,
+depending on the year, you will see rate, the nominal rate of GDP times 1 or 1.1, 10% to 12% is
+what you will see. And what we have always endeavoured and that is what historically we have
+delivered is premium on that, right, 5%, 6% thereabouts - the premium on the market rate of
+growth is what we delivered. That is where the market share gains come from that additional
+growth rate over the market that we do. And so now take this to, what is the kind of a market
+share gain? If you see over a period of a three years, five years, if you see, it's about 400 basis
+points or thereabouts market share gain, either side of the balance sheet. That's a similar type of
+market share gain.
+And when you gain that, currently, if you look at the recent times, the share in the market --
+market share gains is faster than what it was five years ago, meaning the larger distribution and
+the bigger the scale, the opportunity space for gaining more market share is available, and that
+is what in the recent times that we have done. So that's -- I want to leave the thought process
+there. This is how we think, and that's how we are capacitized to drive.
+Parag Thakkar: Got it. And sir, you have opened around 2,200 branches in the last two years. So when do they
+start showing productivity, your opex to asset ratio will -- should come down, right, logically
+because they will become more productive now in terms of gathering deposits as well as
+advances?
+Srinivasan Vaidyanathan: Yes, sir. It will come over time. But as we keep adding more and more new branches, one weighs
+the other. But if you look at two years ago branches, very important that you touched upon, if
+you look at what we opened about two years ago and look at that cohort. And when we look at
+that cohort of branches about how they are performing, right, our model shows that, it should be
+breakeven in two years' time and about 90%-plus, slightly above 90% of the branches have
+broken even in about 20-21 months. We have another 10% of the branches to breakeven. And
+when that does, that's the average of, call it, 22 months to 24 months breakeven. So they are all
+following a scripted model in terms of how they deliver.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+We are confident that, all of them start to pay back sooner. But we continue to add branches,
+right? That's why when you see a part of the cost is -- when there's a credit opportunity, credit
+costs as you heard, it's at about 49 basis points. And if you look back, what is the -- how does -
+- where does it revert to mean, right? At what level does it revert to mean at some point in time?
+Call it, 80, 90 basis points or in the pre-mortgage book, we would have said that it is 90, 100
+basis points is the mean, where it can revert over a period of time, whenever this normalizes,
+benign conditions normalize, maybe with the margin, it is more closer to the 80 basis points or
+something reversion to mean.
+But the point to mention to you is that, for every 10 basis points of credit cost opportunity that
+we take from a timing point of view, right, within the return framework, ROA framework, we
+take this opportunity on a timing to invest. It's about 1% to 2% of cost to income that gets
+invested there. And so that is what -- and we are trying to say, as we make those investments, it
+should start to pay back. So we can now look at those ones which are more than two years old,
+and those cohorts are performing well. And we're now starting to look at the last 12 months'
+cohorts, and we will keep tracking them as we go.
+Parag Thakkar: Correct. Sir, just one last question because everybody is concerned, now that you have gathered
+deposits of more than INR1 lakh crores, that concern is gone. But till last quarter, everybody
+was concerned about how we'll fund. And as Mr. Sashi rightly pointed out in the beginning that,
+we are not concerned about the funding part now. But going ahead, so for example, we have
+Credila, we have a stake in HDB Financial Services. Anyway, we have mandated to list right by
+FY '25.
+And that will also unlock some value. And of course, that will provide us some funding also. So
+just -- can you just throw some light on direction of monetizing the stakes in various entities
+which we have in order to fund our growth. Because that much pressure will be lesser on the
+deposit engine, right?
+Srinivasan Vaidyanathan: Yes. Your points are well taken, and appropriate timing, those will be considered for either, but
+of course, at the right kind of value. Yes, your thought process are right and from a timing point
+of view and from a consideration point of view, it will all depend upon the appropriate valuation.
+Moderator: Thank you.
+Parag Thakkar: Thanks, sir.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Next Question is from the line of Atul Mehra from Motilal Oswal. Please go ahead.
+Atul Mehra: Yes. Hi, good evening and thanks for the opportunity. Sir, I have just one simple question. In
+terms of the non-retail NPA for HDFC Limited, how much of this was unanticipated at the time
+of the merger? And how much of it is in terms of already anticipated and built for the -- in the
+swap ratio that we had. Maybe if you can throw some colour on that? Thank you, sir.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Srinivasan Vaidyanathan: Okay. Yes. See if you look at the book and look at this book over a period of six quarters, at
+least now, it has been on a decline, right, which is -- this book has been assessed from a bank
+risk assessment perspective. And it has been -- there has been a degrowth that has been
+happening.
+So go back to the June '22 quarter, it was flat. And then from then on, there was a minus 4% or
+a 5%, then a minus 6% and a minus 7% and so on. And the recent quarter is a minus 6%. So the
+risk assessment, we want that book. Sashi mentioned it, we want to grow that book.
+But before you grow the book, we have to assess in terms of the exposure for kind of facility
+and so on, so that you are balancing the risk over a period of time. And that's what has happened.
+And we are at a stage where we feel comfortable with the quality of the book as we see now
+with the provisions of approximately what we described, we had provision coverage ratio at 74%
+or the contingent provisions we have at 66 basis points and it's all post-merger, it's not just
+premerger, encompassed well. And we are looking at a book that is strongly positioned.
+Atul Mehra: Right. Got it, sir. Just one clarification on the same point. Did any of -- in terms of the
+incremental stress come as a surprise to the internal management like to the bank management?
+Or this was something that you had already anticipated while you had worked out the numbers
+at the time of the merger?
+Srinivasan Vaidyanathan: See, the risk assessment is a dynamic risk assessment. That is why on every quarter basis, you
+see certain things slips and certain things recover and upgrade. And it is a continuous process.
+What is true at a point in time is not true at every point in time. It keeps changing.
+Atul Mehra: Right. Got it, sir. Thank you and all the best. Thanks.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Thank you. Next question is from the line of Suresh Ganapathy from Macquarie. Please go
+ahead.
+Suresh Ganapathy: Yes, hi. I had Just two questions. One is Sashi said, 83% to 85% of that INR1.1 trillion is retail
+deposits, right? So it's about INR85,000 crores is what you mobilize out of INR1.1 trillion. Is
+that right?
+Srinivasan Vaidyanathan: That is right, 83% is retail, yes.
+Suresh Ganapathy: Yes. So seen it as INR85,000 crores, which is the effective number absolute, what would be the
+Basel III LCR quarter-on-quarter addition? The reason why I'm asking is last quarter, it was
+INR66,000 crores. I want a like-for-like quarter-on-quarter addition for the Basel III retail
+deposits because this number seems to be way different from this INR85,000 crores. Is it possible
+to share that number?
+Srinivasan Vaidyanathan: I don't have it offhand; we'll look at it and share, but Suresh, just to say that the Basel
+classification is different, right? And there are different factors that apply in that classification.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+So there is no one-for-one mapping. The point I'm trying to say is that the retail, which is the
+branch-managed deposits that we have is not one-for-one retail definition as per Basel.
+Suresh Ganapathy: Okay, fine. And last question is on the synergy itself, right? Of course, these are very early days.
+We have seen pickup -- slight pickup in mortgage growth and also what your subsidiary reported
+numbers and apparently, the counter share has gone to 70% in your bank branches, HDFC Life.
+So just wanted to understand on the qualitative aspects, what are the things where you have
+already started seeing, not in terms of, as I said, quantifiable, but better traction. It could be
+anything like cross-selling of loans or products? Anything that you can give us would be great?
+Srinivasan Vaidyanathan: Suresh, we are focused on a few things. One, they are our subsidiaries, and we work very closely.
+And the engagement level has gone up significantly before the merger and certainly after the
+merger. And one is about the sales process itself, right, in terms of -- so customer comes in into
+a branch and works with an RM or an RM visits a customer for various sales processes.
+The sales support has significantly enhanced, in terms of making the product features and the
+product kind of dynamics much more articulative to the customers. So that is the process. And
+not only at the -- when you go into one of the metro regions, you will find that it is at a top notch.
+But the process has to be broad-based across the country, which is bigger very well. That's one,
+right, in terms of getting that.
+The second is also getting the -- closing it out from an immediate turnaround time point of view.
+That has also been a great deal of a focus to ensure that a customer doesn't need to wait to get
+the product consummated, you're able to turn around quite fast. That gives enormous confidence
+to the RMs to pitch a product to a customer.
+Because you know that it gets -- the turnaround time is pretty soon, pretty fast, and the product
+will be in the hands of the customer that we could consummate. So there have been some of
+these qualitative or kind of a relationship process that is enhanced and it will pay results as we
+go along.
+Moderator: Thank you. Next question is from the line of Abhishek from HSBC. Please go ahead.
+Abhishek: So the first one is, can you just quantify the LCR now on a merged basis. And also how much
+of the HDFC Limited deposits were retail as per the LCR classification, if you can share that
+number, it will be useful?
+Srinivasan Vaidyanathan: I did give out, the LCR was at an average 121% after absorbing the ICRR for most of the quarter.
+Your second aspect of the question was to do with the retail component?
+Abhishek: Of the HDFC Limited deposits that came in.
+Srinivasan Vaidyanathan: I think the retail component was slightly above two third, it's merged into the total organization,
+there is no particular special tracking that we look at as -- this is HDFC Limited, and this is
+HDFC Bank kind of thing, it's all part of one.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Abhishek: Got it. And in terms of conversion of HDFC Limited loans from the current PLR to repo-linked,
+what percentage has been done? And yes, what's the progress on that?
+Srinivasan Vaidyanathan: Abhishek, all of that has done -- has been done, right? And it's available for the customers who
+are in the bank -- bank customer could view it in the system on the screen when you log in, you
+can see -- but yes, it has been done.
+Abhishek: I think we had a December deadline for it, right? So we should be -- like the entire book would
+be on repo now or by December anyway, it would be on repo, the most of it?
+Srinivasan Vaidyanathan: Well, no, it is -- the December deadline is for various customer communication and customer
+assertion and so on and so forth, which we are working through various alternatives to
+accomplish.
+Moderator: Thank you. The next question is from the line of Rajiv Pathak from GeeCee Holdings. Please
+go ahead.
+Rajiv Pathak: So I think in the opening remarks, you alluded to like a 25-bps hit on the margins because of the
+ICRR and the excess liquidity. So you would have taken approximately say INR1,900 crores a
+quarter of this hit. So now this will, from next quarter start getting normalized, right? So next
+quarter, we should be tracking a median of 3.85% and then maybe inch up to 4% over the next
+3, 4 quarters? And on the loan growth, do you think a 4.5%, 5% quarterly run rate is possible
+going forward?
+Srinivasan Vaidyanathan: Yes. Rajiv, we don't give forward-looking guidance in terms of what we will grow, but we can
+point to past and give the kind of how we have done and how we are capacitized to repeat what
+we have done. But in terms of the margins that you talked about, we did allude to that there is
+an impact due to the merger management and thereby, funding certain liquidity requirement to
+transition and come and it has been debt funded.
+And so it's not a short-term debt funded to enter and exit. And so that's -- it will take some time.
+And even Sashi alluded to that in terms of how we grow it in the form of better mix, higher
+yielding retail products to grow. And I also mentioned about that and which is how we will
+approach to get that.
+Moderator: Next question is from the line of Saurabh Kumar from JPMorgan. Please go ahead.
+Saurabh Kumar: Sir the excess liquidity that you're referring to sir, this will be the difference between LCR and
+organized...
+Moderator: I'm sorry, we again lost your audio.
+Saurabh Kumar: Will that be the excess liquidity you will referring to?
+Srinivasan Vaidyanathan: Saurabh, we lost you, man. If you come back again, we'll hear you.
+Moderator: The next question is from the line of Piran Engineer from CLSA.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Piran Engineer: Sir, firstly, could you quantify your SLR ratios as of quarter end?
+Srinivasan Vaidyanathan: No, we don't say what it is, but we can tell you we carry more than what is required. So there is
+a mandatory SLR of 18%. We carry more than that. That's part of the -- that's not something that
+we talk about.
+Piran Engineer: Okay. Fair enough. And sir, just secondly, on the branch opening. Just wanted to understand,
+last 2 quarters have been a bit weaker than expected. Why is it that branch opening is always
+back ended?
+Srinivasan Vaidyanathan: Very, very important and good. See, what happens in the branch process. So it's very important
+-- you asked a very important thing. For opening up a branch, there are a few things that go into
+it. One is our marketing team. Second is our credit analytics team : scans the geography in the
+country to determine our presence and certain other banks presence in the vicinity and maps it
+with the potential, potential not just of deposits, but potential of even advances.
+There's a third, marketing looks at what is our market share. That means if you look at our
+distribution market share -- is about 4.5%, which means our branches are 4.5% of country's
+branches close to getting to be -- close to 5%, but still 4.5% of countries branches. And our
+deposit market share is slightly above 10%.
+So we have a 2x of deposits to distribution market share. So we look at see where we are more,
+where we are less and what is the vicinity of the catchment area where we can get the deposit
+concentration into our bank. So this analysis is done. And then there are two other constituents
+that enter at this stage.
+One is our infrastructure team that tries to scout around to see, is there a property available? Our
+credit analytics both from a liability and asset analytics have given something. Our marketing is
+proposing a particular location to go for it, our infrastructure team will come and say whether
+they can get it or not get it.
+Because it’s the availability space, which is the biggest constraint. So I'm able to articulate that
+it is not about we know where we want to open the branches. It is the right kind of property of
+the branch space, that is availability, that is a constraint.
+Now once that is done, enters our legal to ensure that the landlord who is leasing the property to
+us has got the title and it's appropriately there so that we keep up our image that it's a property
+that somebody is appropriately owning and we are able to lease it. So these are several of these
+that go in.
+And when we go through this process and get there, it gets bunched up in the second half than
+the first half. That's what we have seen over the last 2 years, that we have seen too. As much as
+we would like it to be even through the year, there are other constraints of availability, and that
+makes it tough for us to get there.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+And this is a machine, as you know, that's right, it's opening not 100, 200, it's a machine that
+needs to run and so when we are opening 500 branches in a quarter, the preparation, and the
+legwork for that is a pretty long lead into getting there.
+Piran Engineer: Okay. Just lastly, in terms of personal loans last couple of quarters, especially this quarter has
+been a slowdown. Just wanted to understand how much of it is deliberate versus market-led
+competition?
+Srinivasan Vaidyanathan: Yes. I believe the market is quite good and underpenetrated. We have enormous, I think, the
+preapproved base, and we published that in the May month also where our pre-approved personal
+loan base is pretty high. And the demand is quite good. So no question about that. In terms of
+the growth rate, we have about 15%, 15.5% year-on-year growth rate.
+We expect that -- yes, it has been in the -- sometimes it's been in the 20s, sometimes it has been
+in the high teens. But in the recent times, it has been in that 15%, 16% range. But we are
+confident that this is a strategic growth area for us. And the more customers we bring in and
+more they go through the seasoning process and monitoring process, we get the canvas even
+more opened up for an opportunity on personal loan.
+Moderator: Next question is from the line of Manish Shukla from Axis Capital. Please go ahead.
+Manish Shukla: Srini, you acquired about INR6.35 lakh crores of liabilities from HDFC Limited. What would
+be the average cost of those liabilities?
+Srinivasan Vaidyanathan: That includes the borrowing you're talking about, right?
+Manish Shukla: Yes, borrowings plus deposits, it was INR6.35 lakh crores.
+Srinivasan Vaidyanathan: Manish, I will direct you to what we have published. The cost of funds is up by about 80 basis
+points at an aggregate level. Most of that is driven through the incoming, you'll be able to see
+that. You'll be able to deduce and work it out. We have published the cost of funds at an
+aggregate level.
+Manish Shukla: Understood. And of these liabilities, roughly, if you can give an approximation of the maturity
+over either the next 6 months or 12 months, if you, have it? What proportion of these liabilities
+will mature?
+Srinivasan Vaidyanathan: That also, I think HDFC Limited has published as of May or June -- the team can point you to
+the right place where it is.
+Manish Shukla: No, no, we have it as of March, but during June quarter, they added a significant amount of
+liabilities, which is why I wanted to know as of June. We have it as of March?
+Srinivasan Vaidyanathan: They are longer term, Manish.
+Moderator: Thank you very much. Ladies and gentlemen, we have come to an end of the time allotted for
+the call. I would now like to hand the conference over to Mr. Vaidyanathan for closing
+comments. Over to you, sir.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+October 16, 2023
+Srinivasan Vaidyanathan: Okay. Thank you, Neerav. We appreciate all the participants dialling in today and spending time
+with us. We are available through the week or through the next week, whenever you all need
+any other clarifications we can provide, we'd be happy to. You know the contact of our Investor
+Relations team, Bhavin Lakhpatwala or others. Please stay in touch and get to us whenever you
+need to. Thank you. Bye-bye.
+Moderator: Thank you very much. On behalf of HDFC Bank Limited, that concludes this conference. Thank
+you for joining us. You may now disconnect your lines. Thank you.
+
+Classification - Public
