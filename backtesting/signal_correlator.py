@@ -33,3 +33,14 @@ TRANSCRIPT_MAP = {
     "transcript--q2-fy24-analyst-earnings-call_clean": ("TCS.NS", "2023-10-11"),
     "wipro q3fy24-earnings-transcript_clean": ("WIPRO.NS", "2024-01-17"),
 }
+
+def get_hedging_score(file_stem: str) -> float:
+    """Transcript ki hedging CSV padhke overall hedging % nikalta hai."""
+    hedging_path = DIR_PROCESSED / (file_stem + "_hedging.csv")
+    if not hedging_path.exists():
+        log.warning(f"  Hedging file nahi mili: {hedging_path}")
+        return None
+
+    df = pd.read_csv(hedging_path)
+    score = round(df["is_hedging"].sum() / len(df), 4)
+    return score
