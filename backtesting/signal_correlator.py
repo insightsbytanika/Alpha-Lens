@@ -50,3 +50,11 @@ def get_price_return(ticker: str, call_date: str, days: int) -> float:
     Call ke baad kitne din mein stock kitna gaya.
     days = 1, 3, ya 7
     """
+    price_file = DIR_PRICES / f"{ticker.replace('.NS', '')}_prices.csv"
+    if not price_file.exists():
+        log.warning(f"  Price file nahi mili: {price_file}")
+        return None
+
+    df = pd.read_csv(price_file, index_col="date", parse_dates=True)
+    df = df.sort_index()
+
