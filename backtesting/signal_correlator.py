@@ -22,4 +22,14 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-print("imports working")
+TRANSCRIPT_MAP = {
+    "earningscallinfosys_clean": ("INFY.NS", "2024-01-11"),
+    "infosys limited earnings confrence call july 18 2024_clean": ("INFY.NS", "2024-07-18"),
+    "infosys limited q2 fy24 earnings confrence call oct 12 2023_clean": ("INFY.NS", "2023-10-12"),
+    "reliance19012024-Q3-FY2023-24-Transcript_clean": ("RELIANCE.NS", "2024-01-19"),
+    "Transcript of the Q2 2024-25 Earnings Conference Call held on Oct 10, 2024_clean": ("HDFCBANK.NS", "2024-10-10"),
+    "Transcript of the Q3 2023-24 Earnings Conference Call held on January 11, 2023_clean": ("HDFCBANK.NS", "2023-01-11"),
+    "transcript---q3-fy24--earnings-call_clean": ("TCS.NS", "2024-01-11"),
+    "transcript--q2-fy24-analyst-earnings-call_clean": ("TCS.NS", "2023-10-11"),
+    "wipro q3fy24-earnings-transcript_clean": ("WIPRO.NS", "2024-01-17"),
+}
