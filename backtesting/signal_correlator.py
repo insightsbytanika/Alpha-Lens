@@ -84,4 +84,20 @@ def build_dataset() -> pd.DataFrame:
         if hedging is None:
             continue
 
+        r1 = get_price_return(ticker, call_date, 1)
+        r3 = get_price_return(ticker, call_date, 3)
+        r7 = get_price_return(ticker, call_date, 7)
+
+        rows.append({
+            "file":         file_stem[:40],
+            "ticker":       ticker,
+            "call_date":    call_date,
+            "hedging_pct":  hedging,
+            "return_t1":    r1,
+            "return_t3":    r3,
+            "return_t7":    r7,
+        })
+
+    return pd.DataFrame(rows)
+
 
