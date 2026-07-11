@@ -73,5 +73,15 @@ def get_price_return(ticker: str, call_date: str, days: int) -> float:
         log.warning(f"  Price return error {ticker}: {e}")
         return None
     
+def build_dataset() -> pd.DataFrame:
+    """Saare transcripts ka hedging score aur price returns ek table mein."""
+    rows = []
+
+    for file_stem, (ticker, call_date) in TRANSCRIPT_MAP.items():
+        log.info(f"Processing: {file_stem[:40]}...")
+
+        hedging = get_hedging_score(file_stem)
+        if hedging is None:
+            continue
 
 
