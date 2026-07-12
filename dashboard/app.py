@@ -27,3 +27,15 @@ st.divider()
 # ── Sidebar ───────────────────────────────────────
 st.sidebar.title("Controls")
 st.sidebar.markdown("AlphaLens v1.0")
+
+@st.cache_data
+def load_hedging_data():
+    """Saari hedging CSVs ek table mein."""
+    all_data = []
+    for f in DIR_PROCESSED.glob("*_hedging.csv"):
+        df = pd.read_csv(f)
+        df["source"] = f.stem.replace("_clean_hedging", "")
+        all_data.append(df)
+    if not all_data:
+        return pd.DataFrame()
+    return pd.concat(all_data, ignore_index=True)
