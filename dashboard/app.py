@@ -19,4 +19,11 @@ st.set_page_config(
     layout="wide",
 )
 
-print("imports working")
+# ── Header ────────────────────────────────────────
+st.title("📈 AlphaLens")
+st.subheader("Earnings Call Intelligence System — NSE Listed Companies")
+st.divider()
+
+# ── Sidebar ───────────────────────────────────────
+st.sidebar.title("Controls")
+st.sidebar.markdown("AlphaLens v1.0")
