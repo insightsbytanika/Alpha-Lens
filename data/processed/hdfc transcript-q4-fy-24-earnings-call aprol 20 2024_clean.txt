@@ -1,0 +1,797 @@
+Classification - Public
+“HDFC Bank Limited Earnings Call”
+April 20, 2024
+MANAGEMENT: MR. SASHIDHAR JAGDISHAN – MANAGING DIRECTOR
+& CHIEF EXECUTIVE OFFICER – HDFC BANK
+LIMITED
+MR. SRINIVASAN VAIDYANATHAN – CHIEF FINANCIAL
+OFFICER – HDFC BANK LIMITED
+BHAVIN LAKHPATWALA - EXECUTIVE VICE
+PRESIDENT – HDFC BANK LIMITED
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Moderator: Ladies and gentlemen, good evening, and welcome to HDFC Bank Limited’s Q4 FY '24
+Earnings Conference Call on the Financial Results presented by the Management of HDFC
+Bank. As a reminder, all participant lines will be in the listen-only mode and there will be an
+opportunity for you to ask questions after a brief commentary by the Management. Should you
+need assistance during this conference call, please signal an operator by pressing star then zero
+on your touchtone phone. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Srinivasan Vaidyanathan, Chief Financial Officer, HDFC
+Bank. Thank you. And over to you, sir.
+Srinivasan Vaidyanathan: Thank you very much. Good evening, and a warm welcome to all the participants. You would
+see some earnings presentation deck posted. Kindly download them as appropriate or you could
+refer it online and use that. We have Sashi Jagdishan, our CEO and MD, with us today. We will
+have opening remarks. And soon after that, we'll get to the Q&A and take you on from there in
+terms of any other clarifications or questions that you have.
+With that, welcome, Sashi, and please take it over.
+Sashidhar Jagdishan: Thank you, Srini, and thank you all for joining this call. Yes, it's quite a while since I joined an
+Earnings Call. So I may be a bit rusty, but do pardon me for that. Ever since the famous, or some
+of you may call it infamous, Q3 Earnings Call Results, we have received a lot of feedback from
+several of you.
+With all humility, we have incorporated most of the feedback, so we are grateful for that. Thank
+you for that. I may have mentioned in the past, maybe in the last investor conference that I came
+on, it's important to reiterate that this is a completely new organization. The merger with a
+nonbank financial entity, the eHDFC Limited and the bank has landed a certain set of day one
+financials, and so there is a new starting point across all metrics. This is a new organization.
+So it will be -- we have to, not only you but even us, we have to desist from having any
+comparisons vis-a-vis the stand-alone financials of either the bank or even the erstwhile HDFC
+Limited. We are now 9 months into the merger. The core metrics have remained stable since the
+time we merged with HDFC Limited. What does this demonstrate? This demonstrates that the
+underlying resiliency and the energy of the stand-alone franchise of the bank is very stable. And
+this is what something that all of us have witnessed over the last 30 years.
+So this should be a bit of a positive for all of us, whether inside or externally, that the resiliency
+of institution continues despite a very adverse macro condition. What's the focus that we are
+now focusing internally? The key focus over the medium to long term, the medium as I define
+it between 2 and 3 years, is to focus on improving our profitability metrics defined as the ROAs
+and the earnings per share. To achieve that, what is key is to ensure the most important focus is
+the sustainability of our deposits franchise, especially the retail deposits franchise.
+And that's going to be achieved not because of any shortcuts that we can take. Yes, there is a
+price environment. There's a market intensity. There's a competitive environment that is there.
+That's a reality. But how do we ensure that we are on par with some of the key players in the
+market and we don't try and overprice ourselves or don't bid for some of these deposits, that is
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+the strength of the franchise. We have done that and probably as we go along, and that will be
+reflected in some of the financial metrics of the organization. The key to this sustainable
+momentum is our enhanced customer engagements and elevated service-first culture.
+We are not saying that after 30 years, obviously, there's a reason why we have reached this kind
+of excellence in this deposit mobilization franchise, but we have realized that if you have to be
+even better, the only way is to elevate the customer service-first culture and we have a lot of
+measurement and monitoring mechanism in place internally for that. So the intensity of the same
+is going to be heightened and that's what we're driving and that's somewhere reflected even in
+this tighter environment that we have seen. We will continue to invest in distribution, in people
+and technology.
+In fact, our operating leverage will be harnessed over a period of time to using enhanced tech
+and digital infrastructure. It's not something new, but we have always emphasized not just now,
+but for a long period of time that we are not a quantity player, whether for liabilities or whether
+for assets as well. Our focus is on quality, which is a balance between risk and margins. In
+several cases and several points of time, we have demonstrated that whenever there are any
+adverse or early indicators on the risk side, we tend to grow slow or if there is heightened
+competition or irrational competition, both on the liabilities and assets side, we are happy to give
+up that kind of a share.
+So we're happy to grow slow. These kinds of gyrations will be there, not just now but even in
+the future. And so these are the kind of adjustments that we tend to do. But we have seen in the
+past that hardball price-based strategy is not a sustainable strategy. This will also pass. And I
+guess, over a period of time, people who continue to stay and not vacate the place will survive
+and will thrive as well.
+I know a lot of you are very eager to get some guidance and outlook on some of the metrics, and
+I don't blame you all for that. And it is something that probably is necessary for your model
+building. But unfortunately, we have realized that it's not just now but even in the past, that
+providing a guidance is something kind of a distraction towards our long-term objectives. We
+would like to stay focused. So we shall -- I know you will try and ask for a lot of outlooks and
+guidances in various ways, during the course of this call, I'm sure.
+But we will be steadfast in trying to ensure that we don't give them. I know you will scream
+saying that we are continuing to carry on truisms and not giving any tangible outlook, but I can
+assure you that we will have an anchor in terms of the profitability metrics, which is the medium-
+to long-term view, which I can say is, which is already there in the deck, which is pretty healthy
+but with a bias of -- on an increasing trajectory.
+The quarter 4 results are a manifestation of the hard work of the entire workforce of HDFC Bank
+and ably led by the leadership team. It's a great opportunity for me to thank each one of my staff,
+which -- all my ground force for rallying around despite the challenging macro environment. If
+you've seen the deck, I would like to just summarize that we continue to gain market share in
+deposits, despite and not -- and I think it will be visible that we have kept the cost of deposits
+rather range bound.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Our asset growth has adjusted to recoup the liquidity buffer. So if you've seen for the full year,
+the incremental credit deposit ratio or loan deposit ratio is more or less similar to what we have
+always done. In fact, the advances mix is more or less towards better yielding segments like
+retail and CRB.
+We did have one-off gains during the quarter, but we have nullified the impact with an equivalent
+one-off provision. Our asset quality continues to be very pristine. All our portfolios across
+segments, including early indicators, continue to be benign. We have, as a part of prudent risk
+management, created a countercyclical provision, which is a provision in good times. And this
+is something that we have done in the past, and this is one of our philosophies right through.
+There is a certain rationale for creating these provisions, which we will sort of call out when you
+-- during the Q&A. We believe that such provisions really enhances the resilience of the balance
+sheet. I think even after adjusting all these one-offs and nullifying the same, the core return on
+assets is in the range that we've operated in the past, and that should be a great indicator for the
+future as well.
+So I think we will pause, I'll pause, and the three of us are here to take more questions from
+anyone of you. Thank you.
+Srinivasan Vaidyanathan: Thank you, Sashi. Let's open up the line for questions and so that we can take it as it comes
+along.
+Moderator: Thank you very much. The first question is from the line of Mahrukh Adajania from Nuvama.
+Please go ahead.
+Mahrukh Adajania: Thanks Sashi for the opening remarks. My first question, I know you said you will not give
+guidance, but if you see our deposit mobilization, it has been very strong. It came out in the
+business update. And the interest expenses for the 2 quarters are not very different from each
+other.
+So do we see a bulk of the expenses of this quarter -- or fourth quarter's mobilization coming
+into the first quarter? And also in terms of LDR, I mean I think you possibly laid out in the
+beginning about retail deposit mobilization being a key focus. But still, in terms of LDR, would
+you want to reach 100 or below in an accelerated fashion?
+Sashidhar Jagdishan: Mahrukh, good to hear from you. Let me try and answer the latter question first. As I mentioned,
+the focus is primarily going to be trying to see how we can focus on the core retail deposit
+franchise. And obviously, when we talk about the core retail, it's largely the small granular
+deposit set, it is the key there. But for us, the way we define retailers, what are the kind of
+segments which are there around the branch catchments and which is there and also what is
+already there in the portfolio.
+When we talk about the retail momentum, obviously, we have a certain market, which you have
+alluded. We try to ensure that we -- the price point at which we offer is on par with some of the
+larger banks that offer similar rates, and we are not an outlier. Just because we need to have this
+as an imperative, doesn't mean that we will go out to pay anything that comes about. As I
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+mentioned as a part of the opening remarks, we are not in that price game at all. And one of the
+reasons that you're seeing a little bit of stability in the cost of funds between 2 quarters is a
+resultant of maintaining parity and equivalence in terms of the rates that we offer across our
+segments.
+As regards the loan deposit ratio, yes, our priority is to raise as much as possible. But obviously,
+it has to be subject to the liquidity environment and the competitive environment. As and when
+it becomes benign, obviously, we can raise more. But if it is going to be intense, then we will
+have only a certain proportion to raise. While the quarter 4 mobilization is extremely healthy, I
+must sort of upfront tell you that there are some transitory involuntary flows that will also come
+in, which is obviously more than what we had anticipated. But even adjusting for that, the retail
+ones are rather healthy, which is there in the deck. So will I be able to maintain this kind of
+momentum, etcetera?
+As you know, you take a long-term average of over 6 years or so, there is a certain proportion
+of total deposits, which come in Q1, which is probably the lowest as a proportion. Q2 and Q3
+are more similar in terms of proportion and the largest part of the proportion in a year comes in
+the fourth quarter, and which is what we have. And this is not something anything different from
+what we see in the banking system.
+This is a very similar pattern that is there, plus or minus some kind of a change. So the LDR is
+a function of what we mobilize. And obviously, if you have to commit the loans, it has to be out
+of our core franchise, the core mobilization and not transitory mobilization. You probably know
+this much better.
+We also have -- or we would be having bond maturities erstwhile HDFC Limited, which will
+mature every year. And there is a maturity pattern, which is there for next year. So the first
+priority is to keep reserves and the balance is to repay some of the bond maturities. And if you -
+- and the balance and the residue is where we will deploy in our core assets.
+So willy-nilly, all things remaining same, your LDR or incremental LDR will be a tad lower for
+a couple of years than what we have seen in the past because we have this obligation of repaying
+some of the bond maturities. So is that going to be hampered? I feel not because as long as we
+maintain discipline on ensuring that we don't go below price point on the yield on certain
+products across customer segments, as long as we don't go above a certain threshold on the
+pricing of liabilities, I think we'll be able to maintain stability in our margins and at the same
+time, we may have other levers, which will come our way to offset some of the lower LDRs
+going forward. So this is a broad outlook. I'm not going to fall into the trap of giving any number
+outlook, but this is -- you can guess by now, that this is the general thought process that we have.
+Mahrukh Adajania: Thank you very much. That was very helpful. Thank you.
+Moderator: Thank you. The next question is from the line of Pranav from Bernstein. Please go ahead.
+Pranav Gundlapalle: Thank you for the presentation. I have two questions. First is regarding the earlier comments on
+the pricing discipline, Sashi, I think, how does the bank gain comfort that it's irrational
+competition and not a new normal in terms of competitive intensity? Especially given that for
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+most part of the last decade, we had a large part of the sector almost missing in action, right? So
+that is one.
+And second question is on the PSL. How is the bank positioned on the PSL front? And should
+we expect any sort of an impact, big impact when the requirements on the erstwhile HDFC
+portfolio picks in later this year? Thank you.
+Sashidhar Jagdishan: So thank you, Pranav. The fact is that I cannot sort of predict how the competition is going to
+behave. All I can tell you is we have sufficient history, which suggests that the price-based
+competition or price-based strategy is not a sustainable strategy, and it's only a short-term
+strategy at the most. We have seen it in the mid of 2000s on a certain asset product.
+We see -- we have seen it in multiple products over the years, and we have a rich experience to
+that effect. Frankly, as I said over the last months, we have been witness to this. We have actually
+experienced rather intensely, the competitive environment, which also borders on some amount
+of, what should I say, heightened rate wars on the liability side because liquidity was tight and
+probably there were a lot of other compulsions for other competitive players, which forced them
+to sort of price their deposits higher.
+But I mean since the most infamous quarter three, where all of you have probably done a lot of
+research, frankly, Q3 was actually a classical quarter where we chose or elected not to do so.
+Now can I predict this that this will not happen? Absolutely not.
+But I can tell you one thing that none of the organizations will have the ability to continue this
+kind of heightened irrational pricing for a long period of time. It is important for us to be focused,
+continue to get the granular momentum, principally out of our product and service offerings,
+which is the reason why one of the strategic objectives that we have laid out as an organization
+is to elevate the customer service culture.
+Let me explain it in very simple terms what we mean by that. Frankly, as you -- probably all of
+you know that I have now travelled rather well over the last 18 months across the length and
+breadth of the country. We have a fantastic team at the ground level. We are very proud of them.
+I'm very proud of the leadership team at the ground level. I think there is a kind of a congruence
+in terms of the strategic goals of focusing on granular deposits, focusing on service-first culture.
+Now to a customer, the customers' needs are very limited. He would either have a financial need
+in the form of an account, opening a savings account or a checking account or he may need an
+insurance, he may probably need to deploy his surpluses in mutual funds or in equity instruments
+or any other alternative instruments or even have a need for a loan, it could be any kinds of loan.
+The fact that the bank has now with mortgages, the entire suite of product offering, all that is
+needed is how do we respond in a manner that depicts a lot of respect to the customer.
+The speed of response is what we are looking at. It may be very, in your words, Pranav, very
+“truistic”, in terms of very generic and this is not something measurable. I can assure you that
+we have a reasonable amount of measurement. We have tasked our supervisory architecture,
+which is 10% of the total workforce to -- in their KRAs to be measuring and monitoring all that
+comes in from a customer and try and see how we turn it around in the shortest possible time.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+We have the objectives of the supervisory architectures to ensure that the helpdesk front line
+shake the entire organization to be able to wow the customer. And that's the only sustainable
+way of ensuring that we get our primary banking from our customers, our higher wallet share.
+The very fact that we are incrementally gaining more share than what we have on stock basis. I
+mean if you look at the incremental deposit market share, over a period of time, we have gained
+more than what we have as a stock, which means that this particular so-called strategy is
+working.
+We just want to elevate and enhance this. And despite the kind of intense competition, which
+continues to be existing or which was there both in quarter three, in quarter four as well. We
+have gained reasonable market share means that strategy is going to work and if we just pull up
+our socks -- we have a long way to go -- we are not saying we’re there, we are perfect, but that's
+the opportunity. And as we execute this to the T, I'm telling you this is going to be one of our
+greatest achievements over the next medium to long term. So that's part one.
+Part two is on the priority sector. It's not going be easy. Let's face it. We have, if you really look
+at our pricing sector obligations and our achievement, I'm not too sure that is where in the public
+domain, but probably…
+Srinivasan Vaidyanathan: It will be published or it will soon be published, because these are -- annually published.
+Sashidhar Jagdishan: Okay, so Pranav, this will be published. You will see that we have organically, maybe that may
+not be visible to you. But I can tell you that we have organically achieved our overall priority
+sector and most of the sub-targets as well. There are two particular sub-targets, which are small
+and marginal farmers and weaker section, which are joined to the hip. These are the two ones,
+which are not so easy to achieve.
+And - but having said that the spread at which we have now distributed over the last three, four
+years in terms of geography, in terms of focus, by the commercial rural bank team, by the rural
+banking team and the sustainable livelihood initiative team, we believe that this typical trajectory
+will be going up, but I don't want to sort of give you any false hopes to anybody both internally
+and externally.
+This is one area that we have to ride on in inorganic ways of meeting these two sub-targets. And
+we are pretty much ceased and aware of the impact of when the third of the HDFC book starts
+to kick in from October onwards. And it will have an impact, but is it something that we are
+going to -- is it already embedded in our plan? Absolutely so.
+So when we talk about core profitability metrics, it has subsumed the drag arising out of this. So
+I'm not sort of going to be apologetic that we may not be meeting some of the sub-targets rising
+on this enhanced addition of the home loan stock in the priority sector reckoning, but we have
+factored that in our plans.
+Srinivasan Vaidyanathan: And important to add a couple of things. In order to position ourself, at least in the medium-term
+to come, we expanded to 225,000 villages now where we operate. Now we embarked on working
+around those villages to go and mine more customers into that. So that the basic foundation has
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+been set in terms of 225,000 villages. We believe we reached that point of where we want to be
+to do that. That's one.
+Second is, in the recent times, a couple of years ago, we were call it 117,000 small and marginal
+farmers. 117,000, that's the number. Due to various mining and various activities, today, we
+stand at a little more than 3.5 million small and marginal farmers. So that's at a -- we've
+accelerated the pace at which we are getting this, so it's not something in a quarter or in a year,
+we could get to where we want to get.
+We are inorganically meeting certain things that we need, but we'd love to meet it organically,
+that fundamental -- the building blocks for that are laid and that's why we are progressing on
+those.
+Sashidhar Jagdishan: But let me sort of make it rather practical and pretty much this - however, whatever we do, the
+ticket sizes of small and marginal farmers and weaker sections are going to be small. So even if
+-- and there is a finite capacity and population of this in the universe where we can have a share,
+even if we were to nibble away more share, that number times the ticket size that we can do will
+still not meet the regulatory thresholds that are asked for. So I'm being realistic that we have to
+as much as possible try and comply that through inorganic means.
+Srinivasan Vaidyanathan: At an aggregate level the overall PSL for March '24, is published or to be published, we are a
+little more than 52% achieved at the -- against the target of 40%. And at the same time, last year,
+if you see March '23, we were about 45% achievement. Now we have enhanced that be closer
+to a little more than 52% achievement.
+Sashidhar Jagdishan: Thank you.
+Pranav Gundlapalle: Thanks a lot.
+Sashidhar Jagdishan: Thank you, Pranav.
+Moderator: Thank you. The next question is from the line of Kunal Shah, Citi Group. Please go ahead.
+Kunal Shah: Yes. Firstly, with respect to the borrowings, there was a rundown. But maybe if you can help
+both with respect to the borrowings as well as the deposits in terms of the average, so would we
+have got the benefit of this entire borrowings rundown through the fiscal or this was also more
+towards the end of the quarter? And similarly, if you can highlight the average LCR, that could
+also help maybe period-end this 115-odd percent, yes?
+Sashidhar Jagdishan: See whilst, I will have Srini and Bhavin to get in with the actual numbers, but what I remember
+is, see, there are two types of borrowings. There are these normal treasury borrowings, which is
+in the -- which are market borrowings in the shorter end of curve, which is for day-to-day
+liquidity management, short-term management, which sort of moves up and down depending on
+the short-term flows, the transitory flow that we would be getting into the bank. So the period-
+end number, which probably is what you're looking at, which is slightly larger of almost about
+700 or 750.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Srinivasan Vaidyanathan: 750, out of which INR29,000 crores is either commercial paper or term borrowings that came
+from HDFC Limited and the rundown. The rest are treasury activities because towards the end,
+there is a treasury activity. You can see that there is also cash, huge cash that we were carrying
+at quarter end. And so treasury manages that size of the balance sheet. But 29,000, on an average
+about 15,000 is what changed on that line.
+Sashidhar Jagdishan: So Kunal, what if you are looking at, this is not the high cost borrowings of erstwhile HDFC
+Limited, which ran off. In fact, the CPs were a part of that stock, but the cost of the CPs, as you
+know, is rather smaller as compared to some of the long-term bonds. And since the bank cannot
+sort of have CPs on its books and this is something that is a part of forbearance, therefore, we
+have let it go. So this is the high-cost borrowing maturities, which is what probably you're
+looking at, will start to happen from FY '25 onwards.
+Kunal Shah: Sure. And second, in terms of lending grades and incremental spreads, so have we increased the
+lending rates across the product segments and just trying to make sure that our incremental
+spreads are very near to what are the reported one. And as you highlighted in terms of the levers
+to offset the LDR contraction, would lending rate be one of them? And have we taken some
+action in the last two, three months on that front?
+Sashidhar Jagdishan: No, you're right. I mean, see the -- we realized that if we have to ration the funding mobilization
+into -- and deploy a part of it, build liquidity buffers and then the residue is what we need to do,
+the best way is to increase the threshold yields across customer segments and that's what we
+have done. But let me also bring in a little bit of reality check out here. Is it something that I can
+continue to do every quarter? May not be, because there is a market which is there, which is real,
+and there is -- beyond some point in time, we may not even get some of the loans. So I think we
+have done whatever we had to do until now. Maybe there is some small probabilities of
+increasing rates is there across segments, but nothing significant.
+But you're right, I think as of now, we are at respectable levels. And if we see the -- if you don't
+see any incremental cost of funds moving up, then we should sort of have stability in the yields
+as we have at the moment. But if there are changes in the interest rate environment, in the interest
+rate competitive environment, on the funding side, we may have to re-examine the incremental
+yields on loans across customer segments as well. And some part of it, which we have -- you
+have seen, say, in the corporate segment, which is showing a degrowth and some other products
+as well, is a function where we have elected not to participate because the yields have -- in the
+market have been much lower than our threshold levels as well.
+So if I'm not too sure whether I've answered what you are looking out for. Yes, yields have been
+one of the levers to bring down the LDR and we will use it as long as -- and we probably will
+use it even in future if the situation demands.
+Kunal Shah: Sure. And if I can squeeze in one last question on this ex-gratia provisioning of INR50,000-odd
+crores, what is that related to? Is it...
+Sashidhar Jagdishan: Yes, yes, I will. I will. I'm happy that you've asked this question.
+I think we have -- as you know the institution has consummated one of the most complex and
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+largest mergers with erstwhile HDFC Limited. It was – there was a lot of hard work that
+happened both to the run up to the merger and also at that point in time and subsequent to that
+on a much larger balance sheet, I think -- and overlaid by a very complex and a very adverse
+liquidity situation in the system, I think the teams have rallied to adjust to this new norm, the
+new entity, as I was just mentioning in the opening remark and also they work hard. They have
+worked hard after being battered from all fronts -- at the ground level. I think this is just to ensure
+that -- and as you know even, in the last couple of years, we've had a heightened attrition as well.
+It is our endeavour to ensure that the large part of our ground workforce, which is 90% of the
+total manpower is motivated, and this is a way of trying to say thank you to them. And this is
+not recurring. This is going to be a onetime ex-gratia that we have provided for. And why not,
+we had a one-off gain. And I thought this is a way to motivate the young workforce and on a
+onetime basis. So that's the objective.
+Kunal Shah: Okay. Thanks and all the best.
+Moderator: Thank you. The next question is from the line of Chintan Joshi from Autonomous. Please go
+ahead.
+Chintan Joshi: Thank you. Can I ask a big picture question and then a follow-up on this lending rate point that
+we just discussed? HDFC has had a fantastic track record over the last two decades of growing
+faster than most of the other private sector banks, increasing market share like no one else in the
+system. You are at pretty good levels, 11% plus on deposits... you have a fantastic track record
+over the last two decades and the market shares have built up as a result. From here, if you think
+about the next decade, do you still think HDFC is a bank that can outgrow the private sector? Or
+is it now more about playing on scale and getting the scale benefits rather than trying to grow
+faster than the rest of the sector? That was the first one, and I have a follow-up on the lending
+rates.
+Sashidhar Jagdishan: See, yes, as I mentioned in the opening remark, Chintan, we have a great distribution. We have
+our complete bouquet of products and services. So we have the energy to offer and gain this kind
+of -- and we have been acquiring customers with the spread and also with the hunger. And that's
+one of the reasons why we have been, as long as competition is rational, as long as the price
+points are reasonable, I think we are happy to participate and that's the period that will reflect
+the gain of market share.
+Now since you're talking -- asking for a long-term perspective, as I mentioned even in the
+previous question, we strongly believe that competition, and you go by the past track record also
+apart from pockets of exuberance, which probably will not last too long. And assuming the
+competitive intensity continues to be the same, as long as the pricing is rational, I think we have
+all the elements to ensure that we continue to gain market share or nibble market share. Now
+you used the word private sector banks. I'm not talking about just private sector, I'm talking
+about nibble away share from the banking system at large because there are many players out
+there.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+There are some who probably may be offering similar kinds of products and services, some may
+not be. So obviously, wherever there is a gap in product and service offering, is where our
+strength comes in. But I can assure you that the focus that we have been getting in, in terms of
+more, which is a lot more hard work than shortcuts that one would normally take in terms of, as
+I mentioned in the previous question, the speed of reaction, speed of response.
+Ensuring that we have a priority in terms of service-first culture, all that is necessarily going to
+benefit in the medium to long term because this is what the customer wants, and this is exactly
+what we want to do. We want to move away or we want to ensure that this is the core focus and
+not sort of a push-based mechanism at all. So in the 10 years, I think, if you see, currently, I'm
+not too -- I don't have the numbers, but I think our market share on deposits would be somewhere
+between 10% and 11%.
+Okay, maybe slightly around that. Okay, slightly about 11%. So we may -- you may think that
+we are a large bank. At 10%, we are very small, actually. So the largest bank in the country is
+having a market share of almost about 20% plus. So the gap is very large. There's a huge amount
+of opportunity. And so, as long as we stay focused, keep our heads down and just focus on our
+long-term strategic objectives of just customers in mind, frankly, we don't see any reason why
+we should not continue the way we have done in the past in terms of gaining incremental market
+share.
+As I said, all this is -- there will be short-term period, as we have seen in first quarter, as we have
+seen in the fourth quarter where there would be some amount of irrational pricing. In such
+periods of time, we may not grow, we may elect or choose to grow slow. And these are things
+that you will have to factor in and not sort of question as to what happened.
+So -- but in the medium to long term on a longer trajectory, absolutely, this is going to be our
+core focus and everything else revolves around this core strategy. So if that is going to be the
+focus, then I -- here, this outlook, I'm happy to even sort of provide that over the next 10-year
+period. Will we continue to gain share? Absolutely.
+Chintan Joshi: And that leads nicely into the second one, which is, on the competitive dynamic, every bank that
+we've listened to in the last two, three quarters has been complaining about deposit competition
+about cost of funds, irrational pricing. And HDFC took the step of trying, increasing the
+threshold lending rates. When that happened, what kind of reaction did you see from your
+competitors? Did you see them following you to a degree in raising the lending rates? Or you
+just kind of outright lost some of the lending opportunities? What was the competitive outcome
+of that?
+Sashidhar Jagdishan: So Chintan, good question. The reality is that in the shorter period, there would be multiple
+objectives of each of the banks, which would determine whether they follow or not follow. So
+as we have seen practically, there were banks, which were happy to follow us and there were
+banks which did not follow us.
+Now obviously, these compulsions are there and these compulsions would play out to know
+whether this is going to be sustainable or not only in the medium to long term. So since you
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+asked the question specifically as to what were the reactions, I'm telling you there were equal
+amount of people who sort of followed us in terms of raising some of the rates because I guess
+they were all waiting for the leader to take the initiative and there were others who did not do so
+as well, which is reflected in some of the segments degrowing.
+Chintan Joshi: If the short-term gyration kind of plays out, if you're consistently using this higher threshold
+lending prices, that might be encouraging the system to kind of follow suit or is that being too
+optimistic?
+Sashidhar Jagdishan: Yes, absolutely, Chintan.
+Chintan Joshi: Okay.
+Sashidhar Jagdishan: Completely agree. This is what I believe if -- should be there. And I think time will tell us. Time
+will play out -- we'll have to wait and watch how this plays out.
+Srinivasan Vaidyanathan: I would add one thing. If you look at even the AA or the AAA names if you see, the bond spreads
+in the market, the movement of bond spreads, even this quarter it's been up and if you look at it
+over a period of six months or nine months, the bond spreads did go up. But the loan spreads are
+lagging, right, and we do see some of the competition pricing far lower than the cost of deposits
+itself. So that's in terms of how we have. We've been rational to be following this, but you can
+compare the bond spreads and see how they are going up and not the loan spreads.
+Chintan Joshi: Thank you.
+Moderator: Thank you. The next question is from the line of Rahul Jain from Goldman Sachs. Please go
+ahead.
+Rahul Jain: Thank you. Good evening Sashi. Good evening Srini. Sorry for bad throat. Just wanted to put
+across some thoughts and would be painting some scenarios if I may. What I've heard you, Sashi,
+so far speak it appears to me is that we are -- we seem to be in a balance sheet fixing mode and
+we would sort of use all the possible levers to bring the LDR down?
+And in that context, what you talked about margins versus LDR in response to previous
+questions. So I want to check with you, we saw 4 basis point of margin expansion with quarter
+basis in your presentation.
+And that also corresponded into the LDR drop. If we see scope for further margin expansion, do
+we get to a scenario where the LDR drops could be even more meaningful as we move forward,
+of course, subject to wherever there is a scope given that there are contractual obligations in
+place. So that's question number one.
+Sashidhar Jagdishan: Okay, let me answer the question number one. See, as I said, -- I'm not sort of keeping a certain
+anchor on a margin and working out a strategy. This is -- that is never -- as I probably said it in
+the opening remarks we just want to have one anchor because a margin and Rahul, you probably
+know this much better is a function of the demand from each of the customer segment.
+It's a function of the pricing behavior in each of the segments and the competition at that point
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+in time. Three, it's a function of the business mix. And so I don't want to have that as an anchor
+at all. But having said that we are very clear that we're not going to chase growth for the sake of
+growth.
+In the past, there have been some periods of customer engagement and customer commitments,
+but now that we have absolute control on the ship post the merger, we are very clear that we'll
+deploy basis what we mobilize. So the -- I believe and as I mentioned a few minutes ago that
+from here on I believe the margin, even if it's stable is something that will be delighted because
+we want to ensure that the cost of incremental deposits continues to be range bound and then
+whatever thresholds we have laid out a -- little bit of tweaking.
+We will ensure that the margins either remain stable. And the business mix is what will then
+determine the margin movement also because if I continue to have more / higher proportion of
+retail and CRB, all things remaining same it will have a positive impact on the margin. So that's
+not something that we are focusing.
+We want to -- as I said we want to anchor our thought process in terms of seeing stability of
+metrices with a positive bias moving slowly and surely over the next 2 years to 3 years. So I'm
+not sort of giving any outlook on that, but I'm very clear that I want to maintain stability. We are
+not going down the risk ladder to oust as well and neither are we going to go down the price
+ladder anymore.
+So if we have to sort of drop off some volumes, so be it, okay. Profitability is extremely
+important. It has to make economic sense otherwise no, all things remaining same. The fact that
+now we have a perfect control or we have the control on our assets and liability movements, the
+margin accretion should be a function of how we substitute our bonds that come up for maturity
+over a period of time with deposits.
+And that is where you will start to see that kind of momentum. But you have to be patient because
+these are things that will happen only on defined time lines. It's not something that I can call. So
+it has to be a gradual path. In the meantime, if the organization grows, builds stability on its
+metrics including the core ROA and earnings at over a 2-year to 3-year period, has a positive
+trajectory.
+I think, that's a big positive for us because, when in the medium-to-long term, when you have
+subsequently and finally exhausted the high-cost bonds. trust me we would have not just
+liquidity, we will have the ability to unleash growth with profitability coming back to the pre-
+merger levels as well on a core basis.
+Srinivasan Vaidyanathan: CASA mix is also one of the important elements in this and that's not what we can drive. It's a
+customer propensity and customer preference in terms of what the mix of between CASA and
+the TD they need, and we are balanced in offering.
+Sashidhar Jagdishan: In a high interest rate scenario, Rahul, normally, you probably go back in time, the CASA ratios
+have been a little tepid. And this is exactly what we have been seeing because incrementally we
+are seeing in the system as well, people are spending, people are moving monies into other
+alternative instruments.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+So effectively, the household savings themselves have also started to come down. So these are
+structural changes that are happening. But having said that, these are things that is there at a
+system level. We can't be cribbing. I think we have enough opportunity to incrementally gain
+share even on CASA and that's our endeavour. And that's something that you have to look at it
+on a longer-term basis.
+Rahul Jain: Thanks. Very helpful. The other question was on the cost of deposits and deposit mobilization
+given that the system is still pretty much operating in a tight liquidity environment, the rates are
+still pretty much elevated. You talked about pressure on household savings, the alternatives, is
+it the interest rate sensitive, alternatives are also very high. We have a kind of -- it seems that
+the cost of deposits has stabilized for us. It was down, as per presentation marginally in this
+quarter.
+So does it mean that we will not be seeing an increase now, we've kind of stabilized on that?
+And if market -- if the competition is bidding up for deposits, we might choose to let go off like
+the way we did it in the third quarter. And therefore, the cost of deposit is something that you
+have control over or how would you react to it?
+Sashidhar Jagdishan: Great question. If there is irrational competition absolutely and we will not be apologetic. As I
+said, while most of you did not like what we did in quarter 3, the reality was there was sort of
+heightened war on deposits and which we elected not to chase. But having said that, if you've
+seen over the last 12 months I think there has been stability in the rates that we offer across
+tenors on our retail deposits whether it's the granular retail deposits or some higher ticket sizes
+as well.
+We have not changed and it's pretty much reflected in the stability in the cost of deposits. But if
+there are changes because you never know the, life is very uncertain. What's happening in the
+Middle East is also extremely uncertain. How that sort of impacts global rate scenarios and hence
+has a ripple effect on India, is something that we have to watch.
+And if there is continued hawkish stance on the monetary policy and we continue to see rates
+elevated at the system level and probably that also leads to a little bit of tightening on the
+liquidity. These are aspects that we really would not have a handle on. And if all the other large
+competitive banks were to raise rates, we cannot be an outlier.
+We have to maybe match to that, but it doesn't mean that beyond that, I mean, where we will not
+chase is beyond the card rates. If at all even we chase then, of course, we will have to chase even
+the threshold yields on our loans as well.
+But beyond the card rates, even if we were to change the rate, would we be chasing bid base
+deposits? Absolutely no. There is a certain proportion we will patronize because our customer
+segment is across multiple segments. It ranges from individuals to corporates and there is a
+certain proportion that we have always patronized.
+I think largely about 84% to 85% is retail and non-retail is about 15% to 16%. As long as we
+maintain this balance, I think we are all right. But do we go to extra mile to go for volatile bid
+based transitory flows? Not really.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Rahul Jain: Very helpful Sashi. Just one last question I would like to squeeze in with regards to the
+provisioning that we have done in this quarter to absorb and to offset the gain through Credila
+stake sale. News reports also talked about you are looking to be maybe in a sell stake in HDB
+Financial Services.
+So just wanted to understand the choice of provisions that you've made here, floating provision,
+which is generally very hard to dip into without RBI approval. So next year again the core credit
+cost doesn't come down, it remains in that band, so shareholders don't get to benefit from these
+stake sales even now or in the future.
+And when the merger happened there was an impact on the book value because of these
+investments. So what's the thinking that the management team is having here? Why floating and
+why not contingent provisions that can be used in the future?
+Sashidhar Jagdishan: Very happy that you asked this because that's exactly what we wanted to convey. Floating
+provision is actually a counter cyclical provision which is made in good times. It does not reflect
+anything that's adverse in the portfolio or in our early indicators at all. We have a pristine asset
+quality.
+Our early indicators across segments are even better and that is pretty much what we had
+anticipated. So unlike in a contingent provision which is precautionary in nature against certain
+standard exposures that may possible because of certain potential contingent events could slip
+into the delinquent buckets in stress scenarios, that is the reason why we provide contingent. But
+here we don't have any - - what shall I say -- any reason to do that is contingent. We've put in a
+floating. We are very much cognizant of the fact that we have to take prior approval of RBI,
+which reflects the fact that the resiliency of our balance sheet and our credit portfolio, which
+means that if the organization has taken the courage to put it in floating, it all means that things
+are pretty good and that is what we want to convey.
+Rahul Jain: Can this be used in an event of ECL implementation?
+Sashidhar Jagdishan: No. See, the point is, I think the bank's pricing and the bank's financials are such that it prices
+for the expected credit loss. The contingent is something that is very specific on certain events
+or certain potential events that may happen or may not happen, so that's contingent event.
+Floating is something that you will dip in when there are some adverse unanticipated events in
+the future. You don't do it because you're anticipating anything, but you do it because you want
+to bring in resiliency and you are actually trying to say that in good times, why do you want to
+be there is of course a lot of debate in literature whether / why don't you take it straight to profits.
+I'm sure a lot of people on the call who probably would be thinking it’s better to I would have
+loved this going into the book straight. In fact, you should sort of probably come up -- and I'm
+telling you that you can consider this as a deemed book, a deemed attrition to book.
+But having said that, I believe that this is not something that we will invoke for a long time to
+come. This is something -- an investment for the future. It is only getting the balance sheet
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+stronger so that you are protected any unanticipated movement say, 5 years, 10 years, 15 years,
+20 years from now and we are not going to be apologetic of doing so.
+But is it something that we'll be doing every time we have a one-off? Sorry, that's not what I'm
+trying to say. This is something that we have taken a call now and we will evaluate periodically
+as and when any further instances happen in the future.
+Srinivasan Vaidyanathan: And for now this qualifies for Tier 2 capital within regulatory limits, and so it is part of the Tier
+2 capital and total capital as a floating provision.
+Sashidhar Jagdishan: And it sort of now is about 0.5% of the total loan book as we speak?
+Srinivasan Vaidyanathan: Yes, the floating position is about 50 basis points. The contingent provision is about 59 basis
+points combined about 109 basis points within reasonable limits of...
+Rahul Jain: Thank you so much. Very helpful. Thanks for being patient and responding to my question,
+Good job to you and your team and good luck for the future.
+Sashidhar Jagdishan: Thank you, Rahul. Thank you very much.
+Moderator: Thank you. Ladies and gentlemen, due to time constraints, the last question is from the line of
+Santanu Chakrabarti from BNP Paribas.
+Santanu Chakrabarti: Thank you for the opportunity. First off, congratulations on a strong show, especially on the
+retail deposit front. I have 2 questions. And parts of this discussion have been reported before.
+But I just wanted to clarify your thinking on the incremental loan growth dynamic, just want to
+put to get any uncertainties about this?
+Sashidhar Jagdishan: Absolutely. Let me do this. I mean, you're talking about the…
+Santanu Chakrabarti: Just a moment, I'm saying that if, for example, corporate loans rising was a little better this
+quarter, it was 15 basis points better on the 5% that you've let go. Would it have changed your
+appetite? Or if your credit strategy tethered really to LDR? I just want to get clarity on this. At
+the margin, is pricing the primary driver of whether you do that extra 3%, 4%? Or is LDR the
+primary consideration? I have another question about the CRB business, but if you continue with
+this, then we can move on.
+Bhavin Lakhpatwala: Santanu, for each of the segment, we have a risk-based pricing model. And if within the risk-
+based pricing model, if any business comes in, that is how the allocation of capital and liquidity
+happens. And so it's very theoretical to say, if corporate was at 15 basis points higher, it will
+depend again on which corporate customer, which segment, which -- whether it's an existing or
+a new customer and a variety of things, which is taken into consideration before an allocation of
+liquidity or capital happens. So it's not an LD or CD ratio driven to say we're going to reduce
+here or reduce there. Obviously, if I have a lower liquidity, then where I'm going to get a higher
+risk reward is how the allocation will happen. But it is not purely pricing or margin, as you have
+mentioned.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Santanu Chakrabarti: Right. So that's exactly what I wanted to get clarified because it's getting kind of interpreted, I
+guess, among some quarters that it's primarily LDR-driven, right. So just wanted to get clarity
+on deposits part.
+My second question relates to the CRB business. Now obviously, it seems to be going pretty
+well in terms of growth. And of course, again, it's key to your PSL compliance and, of course,
+down the line margin defense and expansion hopefully. So what I really appreciate is, if you
+could provide some texture on strategic products. I mean, what's happening maybe some
+geographical sense, maybe some product sense, so that we can get a little more granular sense
+of where the growth is coming from? And what are you hopeful about, what are you watching
+out for?
+Sashidhar Jagdishan: So on the geographic sense, we need to get back to you because I don't have off hand or the team
+probably, at this juncture, in this call, may not have the details of geography, but we can probably
+sort of mail that to you separately or put it up in the domain later. But if you really look at the
+focus in CRB, we're very clear that considering the fact that this is one of the significant feeders
+for our priority sector requirements. The growth has come in from the priority sector segments
+such as the micro enterprises, such as the small and marginal farmers and also in terms of the --
+or the agri -- other agri customer segments and the weaker section, which is a sustainable
+livelihood initiative segments as well.
+Business Banking-- there are other medium enterprises and large ticket smaller enterprises,
+which have seen tepid growth, which is in line with what we have been focusing. I mean we
+need to ensure, as I said, we stepped up our threshold levels, the wheels, last quarter, and we are
+happy to sort of see growth coming in only from the segments that I mentioned, if we have to
+even pay down some of the larger ticket sizes, even in the CRB segment, so be it. So the
+geography spread, we will come back to you later, but this is a broad composition of segments
+which has seen healthy growth during this particular quarter.
+Srinivasan Vaidyanathan: I'll add so that you can put that to rest. We did expand our small and medium enterprise business
+to 715 districts across the country. We also mentioned about the 225,000 villages for certain
+agriculture and allied product distribution. And so what we saw is that the overall asset growth
+is a reflection of the efforts of each business group to accelerate new customer acquisition,
+particularly in the deeper geography, where the competition is less.
+And we can get at the right price point that we like and at the quality that we like as opposed to
+only playing around with the metro and urban area, where the competition could be high from
+the price point of view. We would like the quality, but the price could be detrimental to what we
+like. And so this balanced approach of expanding to various geographies is what has played out
+in terms of getting this origination.
+Sashidhar Jagdishan: And mind you, just to add or conclude to what Srini has just mentioned, we are very clear, our
+underwriting policies are very consistent. So even getting into deeper geography is at our --
+within our policy parameters. We don't go down to the risk ladder just because we are in deeper
+geographies as well.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Santanu Chakrabarti: Perfect. If I might crave your indulgence with a small follow-up. So obviously, you've held back
+on your branch expansion a little bit, does that impact the plans for CRB in any way in the next
+2, 3 years -- longer time line.
+Sashidhar Jagdishan: My dear friend, I know all of you are taunting me because I may have in my exuberance given
+my vision and you all have taken that guidance saying that I would like to achieve. I do not know
+somewhere, some number, I may have stated in the past or some other at the time of the merger,
+announcing the merger. While that is the vision, it doesn't mean that people are implementing,
+there is a certain practical reality.
+It's not -- as I mentioned, we are not going to cringe on branch expansion just because it's going
+to increase my cost or increase my cost to earnings because these are strategic imperatives and
+we are not going to cringe on some of these strategic expenditures, whether it's distribution,
+whether it's technology, whether it's appropriate levels of people as well.
+But having said that, the quantum of branches that we can open depends on multiple factors.
+One of them being the bandwidth in terms of what we can set up in terms of finding the right
+place, the right location, having the commensurate -- meeting regulatory requirements in terms
+of what we can add, in terms of the unbanked rural centers and also the opportunities in terms
+of finding the right manpower and a lot of other aspects and factors as well. So there are times
+where we have had the energy to do much more, which we demonstrated, say, maybe, I think,
+last year.
+Srinivasan Vaidyanathan: Last year, 1,481.
+Sashidhar Jagdishan: 1,481. This year, it's somewhere close...
+Srinivasan Vaidyanathan: 917.
+Sashidhar Jagdishan: Closer to 1,000. We did prior to that about somewhere about 700. So it varies, but I think the
+pace of branch expansion is -- has gone up maybe in the recent past as against what we did. Yes,
+I mean I realized that whilst the endeavour is to increase and step up the distribution because
+ultimately, it doesn't mean that the mobilization is just a function of branches, it is important.
+But look at the productivity. Our productivity has been going up as well, which means that
+whatever we have been opening, we are not compromising on letting the productivity down. So
+the branch adjusted for the HDFC Limited acquisition of deposits, if you look at the -- maybe
+the deck, I think the deck may have it or if not, I'll tell you, last year was about 260 -- 2.6 billion.
+Srinivasan Vaidyanathan: INR260 crores.
+Sashidhar Jagdishan: INR260-odd crores per branch. Now it is about INR270 crores per branch adjusted for the
+merger, the deposits that came in from HDFC Limited as well. So which means that our branch
+strategy is actually working because India is a large country. We still believe the potential is
+there to expand. There is -- look at it, the large part of India, which is about 60% to 70% of India
+is in the semi-urban and rural geographies.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Whilst the per capita is still low, but it is growing and it will grow fast. So we want to put up
+investments now. These are all investments for the future. This is not something that's going to
+contribute significantly to our deposit mobilization now. But it will in 5 years, in 10 years and
+15 years, these are going to be significant drivers of deposit mobilization. So we are not cringing
+on that.
+We would love to add more, but obviously, there's a finite capacity in terms of the various factors
+that I just mentioned. So yes, there are several things that are possible. We would love to do
+more, but it's not something, don't box me, don't count or rather, as I said, I've restated with all
+humility that no more guidance. And forget my guidance that I had given, but we will continue
+to invest in the distribution architecture. Thank you.
+Srinivasan Vaidyanathan: We also supplemented -- we have Smart Banking lobbies, 148 of them, which don't count as
+branches. But we did add 75 Smart Banking lobbies in this year. So those are different formats
+of distribution expansion and reach.
+Santanu Chakrabarti: Sir, I can't speak for others, but I'm very happy to hear that personally. Because I think the
+momentum you guys have got in CRB clearly, for that to go forward and longer term, if you --
+what you're saying indeed comes through in terms of liability mobilization, then it's investment
+into the future. So I mean, I'm very happy that your short-term profit considerations don't dry
+down.
+Sashidhar Jagdishan: No, thank you for that. Let me then -- probably, I think we have gone beyond our normal time,
+but let me just sum it up. Look, don't dismiss this franchise. We are going through a period of
+transition. It's like the coastal road, which is very close to our place, when people were -- when
+it was getting built, we were all sort of having a lot of problems with it or we were trying to
+navigate our traffic around it. But now when it's up and running, people are so delighted.
+That's the kind of -- we will have our day when the proportion of borrowings comes down. And
+when that will be there, we will have enough momentum in terms of funding, which we can then
+unleash in terms of growth as well. So -- but it doesn't mean even during this period, as I said
+and I maintain that, we will maintain stability on our profitability metrics more so in the ROAs
+and the EPS, etcetera, on a core basis, and we will try and ensure that we have a positive bias in
+the trajectory over the next 2 to 3 years.
+We're rather confident. And I think the entire bank is extremely charged and galvanized. I know
+a lot of people probably are wanting to even ask some questions on the senior exits. So I can tell
+you that not just now, but go over the last 20 years, we have seen stalwarts who have come in
+and gone, but the organization has continued to roll forward, move forward with a lot of energy
+and more gusto, which means that what they've created is a very institutionalized organization
+with a lot of depth in management, many levels below me.
+So we are not person dependent. We are process-driven and process-dependent and that's the
+beauty about this organization. It's an auto engine, and this will chug along in any kind of an
+environment with the kind of business philosophy that we've always maintained.
+
+Classification - Public
+Classification - Public
+HDFC Bank Limited
+April 20, 2024
+Srinivasan Vaidyanathan: Thank you, Sashi, with that. And I appreciate you all joining us today. If you have any more
+questions or any other inputs you need, feel free to reach out to us, our Investor Relations team,
+Bhavin or Aseem are available. And so will I be available at some point in time whenever you
+need. With that, we can sign off for today. Good evening, and have a great weekend. Bye-bye.
+Sashidhar Jagdishan: Thank you all. Thank you.
+Moderator: Thank you. On behalf of HDFC Bank Limited, that concludes this conference call. Thank you
+for joining us, and you may now disconnect your lines.
+
+Classification - Public

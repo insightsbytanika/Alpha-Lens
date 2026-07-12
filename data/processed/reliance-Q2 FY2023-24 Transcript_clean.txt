@@ -1,0 +1,647 @@
+RIL Q2 2023 - 2024
+Media & Analyst Call Transcript
+27 October 2023 20:00 IST
+Call Participants:
+• Sh V Srikanth, CFO, Reliance Industries Limited
+• Sh B Srinivasan, President, Reliance Industries Limited
+• Sh Kiran Thomas, President, Reliance Jio Infocomm Limited
+• Sh Anshuman Thakur, Head of Strategy, Reliance Jio Infocomm Limited
+• Sh Dinesh Taluja, CFO & Corporate Development, Reliance Retail
+• Sh Sanjay Roy, Senior Executive Vice President – E&P, Reliance Industries Limited
+Duration: 01:00:50 minutes
+Presentation Link:
+https://www.ril.com/getattachment/8e445f56-1ae8-4482-a74a-
+e8971c6fcd7f/Financial%20Presentation%20-%20Q2%20Results.aspx
+Meeting Video:
+https://www.ril.com/InvestorRelations/FinancialReporting.aspx
+• Sh B. Srinivasan 00:00:04 – 00:00:31 (Introduction)
+• Sh V Srikanth 00:00:32 – 00:09:17 (Consolidated Financials)
+• Sh Kiran Thomas 00:09:18 – 00:22:38 (Digital Services)
+• Sh Anshuman Thakur 00:22:39 – 00:27:27 (Digital Services - Financials)
+• Sh Dinesh Taluja 00:27:28 – 00:41:50 (Reliance Retail)
+• Sh Sanjay Roy 00:41:51 – 00:45:45 (Hydrocarbons - Exploration & Production)
+• Sh V Srikanth 00:45:46 – 01:00:50 (O2C Business, Summary and Closure)
+© Reliance Industries Limited 2020 1
+Transcript:
+Sh B. Srinivasan 00:00:04 – 00:00:31 (Introduction)
+Good evening, everyone. As always, deeply grateful for joining us on a Friday evening to
+listen to us. Today, we will actually provide you the highlights of our second quarter of FY 24
+presentation. First, V Srikanth would talk about the consolidated numbers first, followed by
+Kiran and Anshuman on Jio performance, then Dinesh will walk you through Retail, then
+Sanjay Roy for the E&P, and then Srikant will be back again for O2C and Summary. Over to
+you Srikanth.
+Sh V Srikanth 00:00:32 – 00:09:17 (Consolidated Financials)
+Yeah. Thanks, Srini. Good evening to all of you. Let me start off with the highlights for the
+quarter. It was a quarter of the EBIDTA as a record at almost about ₹45,000 crore, which is
+about $5.4 bn, about 30% Y-o-Y and we saw performance across all the segments. Net profit,
+we delivered close to ₹ 20,000 crore that is $2.4 bn, up 30% Y-o-Y. The consumer business
+very strong. Retail as the highest quarterly EBITDA, with strong footfalls, and 80 bps margin
+expansion.
+On digital services growth led by network leadership, strong subscriber addition and growing
+5G adoption, with more than 70 million people having migrated to the 5G network. The O2C
+EBIDTA was very strong on the back of domestic demand, which held up very well, and firm
+fuel cracks, specifically PVC Delta. Another upside came from our KGD6 gas production,
+which was sharply up, and which actually led to strong performance for oil and gas segment.
+So, just the quick highlights before, I'm sure, my colleagues will take you through in more
+detail. If you look at Retail at ₹ 77,000 crores, the revenues were up 19%, and the EBITDA
+₹ 5,820 cr, which was up 32%. So, as you can see, on a Y-o-Y, the store expansion numbers,
+the area under operation at 71.5 million square feet, which is again up 31%. We saw this
+quarter, the festive demand and growth across segments. In fact, we had the best-ever
+Independence Day Sale, which was, for consumer electronics, recorded a 23% growth. If you
+see the store additions, we had 471 new stores in this quarter. And then you see the growth
+over the year, and it is more than 2,000 stores. Moving to the digital services, revenue close
+to ₹ 32,000 cr, up 11%, and the EBITDA ₹ 13,500, up 12.5%. Again, if you see the subscriber
+addition, we had 11.1 million additions, and on a full Y-0-Y basis, it is 32 million.
+© Reliance Industries Limited 2020 2
+The data traffic was also higher at close to 29% growth which is 36.3 bn on a Y-o-Y basis,
+clearly you can see traction across and the fact that the offering is significantly differentiated,
+has led to customer engagement, which as you're also seeing, translating in terms of
+earnings.
+On O2C side, revenue of ₹ 1,48,000 cr, which is lower by 7.3%. That's more on the back of
+oil prices. If you were to see on Y-o-Y, oil prices were lower by almost 14%. But look at
+EBITDA at ₹, 16,300 cr, which is up 36% Y-o-Y. This is on the back of both volume increase,
+which is up 6%, it was on the back of gasoline cracks, which was up 47%, and even PVC
+margins were higher, we continue to benefit from optimizing feedstock sourcing.
+Overall, SAED was lower with weakness in the middle-distillate cracks. On the downstream
+chemical side, deltas were impacted by subdued global demand in well-supplied market. So
+therefore, it had an impact in terms of margins. However, the offset has been the fact that the
+domestic demand has held up pretty-well. If you look at polymer, demand is up 25% on Y-o-
+Y; polyester demand is up 12%, and oil demand is up about 5%. So overall, the Indian
+demand is holding very well and given that we are largest supplier, with more than 85% gets
+supplied into the domestic market so we benefited.
+So, you could see the downstream sector restocking with lower prices because these prices
+are, some of them are at two year or three-year lows. So, you could see demand coming in
+terms of restocking.
+On the oil and gas side, as I highlighted, the revenues at ₹ 6,620 cr, up at 72%, and the
+EBITDA at ₹ 4,800 crore, up 50%. And these are these are all time highs, also when you look
+at it, it is benefiting from strong incremental volume both gas and condensate from the MJ
+Field.
+As we just looked at the numbers, just the KG-D6 production alone is now on an average
+averaging about 28.3 MMSCMD, versus last quarter when it was in 19 MMSCMD in the
+second quarter of FY23.
+So, these are the numbers when you bring them together you know revenues of ₹ 2,56,000
+crore almost flat there, but EBITDA as I highlighted is ₹ 45,000 crore which is up 30%. And
+when you look at it, as I mentioned you saw, all the EBITDA have been higher across the
+board, all the segments have done well. In this quarter, you could see that the flow through
+EBIDTA going into the net profit.
+© Reliance Industries Limited 2020 3
+On a standalone basis, if you were to see, JPL is up 12%, RRVL up 21%. You can see that
+the net profit growth in the consumer business were tempered by higher depreciation with
+accelerated asset growth and higher network utilization.
+This is the bridge for second quarter before Y-o-Y, again, across the board you can see all
+the businesses contributing and primarily on O2C side you can see the sharp increase there
+on the back of gasoline and PVC margins. Oil and gas, you know the EBITDA was driven by
+volumes in KGD6. Retail benefiting from a much more broad-based revenue growth.
+Each of these categories, for example, fashion and lifestyle was up 32%, grocery 33%
+consumer electronics about 11% and digital services again benefiting from the from the
+numbers that I talked to you on the subscriber growth as well as ARPU was slightly higher
+contributing to the overall mix.
+This is just the sequential quarter the highlighting the fact that in the O2C segment. fuel
+cracks, PVC delta, you know, helped in terms of delivering on the numbers and oil and gas
+the ramp up of MJ field and on retail, benefiting from the store expansion, higher footfalls that
+we saw and the festive season campaigns etc. All of them done their bit in terms of seeing
+the growth and on digital services, data traffic growth we're starting to see the benefit of Jio
+Bharat Phone and the increase in subscribers both on a quarter-on-quarter basis as well as
+year-on-year basis. And then bring it to the balance sheet, the net debt at ₹ 1,17,727 cr is
+lower by ₹ 8,000 crores versus what it was in March.
+And you know our operating cash flows which we have been highlighting funded largely the
+capex of ₹ 38,815 crore, which, as you know primarily was towards 5G rollout and for building
+our retail ecosystem. The net debt was lowered on the back of the fund raise that we did ₹
+10,347 crore, for Reliance Retail, which raised from QIA and KKR. So, that is reflected in the
+net-debt number the amount which we have raised an incremental ₹ 4,967 cr from ADIA, you
+know comes through, will come in October. And, you know, we do expect that the capex
+intensity will significantly decline given that the 5G network rollout is expected to be
+completed by the end of this year. So, overall, cash flows continue to be strong, balance
+sheet is strong and the fact that they continue to have superior rating augurs well with this I
+am going to request Kiran and Anshuman to take us through on the Jio side.
+Sh Kiran Thomas 00:09:18 – 00:22:38 (Digital Services)
+As usual, we'll start with the key business updates and follow it up with the operating metrics
+and the financials. I think the key theme this quarter has been the phenomenal rollout which
+continues of Jio’s True 5G. As we speak, over 1 million 5G cells are deployed by Jio on a
+© Reliance Industries Limited 2020 4
+pan-India basis, which is also being used now by more than 70 million subscribers who have
+migrated from our 4G services to 5G. So, while the utilization is getting turned up against the
+investment on the capacity that we are building, in total more than 1,50,000 towers today,
+across the country carry both the bands the 700 MHz band as well as the 3500 MHz band
+spectrum.
+And as we speak, the monthly 5G traffic has crossed 1.5 Exabytes, on a monthly basis. Now
+the key story here is that there are nominally more than one operator in addition to Jio rolling
+out 5G across India. But the fact on the ground is that more than 85% of the 5G cells deployed
+in the country today are from Jio. So that is the real reason why you are seeing the rapid
+adoption on our network as opposed to other operators.
+This 5G roll out significantly enhances our already well-established position in the market.
+We are seeing dramatic adoption across key segments especially the youth segment. They
+are really heavy users of data, and we can see that the adoption of Jio True 5G is the highest
+in this segment.
+Equally, if you look at the penetration of premium devices on Jio’s network, looking at the
+numbers that we had in March of devices which are having an average selling price of more
+than 20,000 rupees as a benchmark, this has doubled between March and September. So
+that actually indicates that the premium experience and the premium services that Jio True
+5G is rolling out across the country is also attracting people who have bigger aspirations.
+Equally, in addition to the mobility network, we also launched JioAirFiber, which is our fixed
+wireless offering, which is a promise of providing fiber like speeds over 5G spectrum to
+residences. This is augmenting our already well established JioFiber, which is our optical
+fiber-based service, but really taking it to the next orbit with respect to the speed at which it
+can be rolled out across India.
+And the unique thing that Jio is able to do that because of the fact that we are rolling out the
+standalone version of 5G as opposed to our competitors who are using non-standalone. We
+are able to use advanced technologies like network slicing, which means that we are able to
+create dedicated capacity for homes, which are not interfering with the capacity that we're
+deploying for mobility, which gives superior service to both audiences by leveraging the same
+physical capacity that we have on a pan-India basis.
+Also worth mentioning is that there are some very interesting analogies which are being, I
+would say, launched by some of our competitors who seem to indicate that their 5G rollouts
+have resulted in many people joining the network. What is really left unsaid is that more
+number of customers have actually left those networks. And Jio is the only operator today in
+© Reliance Industries Limited 2020 5
+the country who has a consistent positive net adds, whereas the rest of the industry is actually
+quite negative when it comes to net adds.
+We can talk about that gross adds, but in the net adds story there's only Jio, who has added
+more than 11-odd mn customers. I think another testament to the fact that you have the 85%
+capacity share as well as the pan-India roll out, rapid adoption of premium customers and the
+youth segment on a network. All of that is further reinforced by a unique first-in-the-world type
+of a recognition that we have received.
+Ookla which is a well-established provider of benchmarking services, especially when it
+comes to coverage speed and quality, for the very first time in the world anywhere in the
+world across, in the developed countries and so on, the very first time [awarded] Jio all the
+nine out of nine awards that they announced when it comes to mobile services. Everything
+from the fastest mobile network to the best coverage to the overall best network, the best
+mobile gaming experience, the best video experience, customer rating in terms of the top-
+rated mobile network, and specifically on 5G, the fastest 5G, the 5G mobile gaming and the
+best 5G mobile video experience. So, all nine metrics that they announced, Jio has won
+outright.
+The other leg that we are very much focused on, and this has been a consistent theme from
+the times we have launched, is to eradicate 2G services from India. So, this is what we call
+creating a 2G-Mukt Bharat. Most of our 4G network and the 5G network is pan-India. It is the
+highest quality most affordable network. But there remains a problem with affordability of
+devices, which has still kept out a lot of 2G customers from being able to join our network
+and take advantage of all the very services that we offer.
+So, JioBharat is a recent step that we have made in that direction. We have launched a series
+of devices, multiple models under this umbrella of JioBharat. The entry price point of this
+device is less than ₹1000, which is I would say is on par with most 2G phones if you can think
+about it. And we are offering a fully capable 4G entry-level smartphone in the hands of the
+2G customers in India and we are seeing a substantial adoption of that, especially through
+MNP. So, that means people are actually porting their numbers and coming to this device.
+And the real secret behind that is even on such a sharply priced device, we are able to offer
+a rich video experience both on streaming video on demand as well as live and even features
+like UPI which obviously brings inclusion.
+All of these services are really creating a differentiated offering even on a sharply priced
+device. It is something that 2G users are loving. And in addition to that entry-level price point,
+we are also creating a good better best type of a ladder where people have an option to even
+© Reliance Industries Limited 2020 6
+go for bigger screens and other added features for a slightly more. Like putting in a little bit
+money, they are able to go after slightly better devices as well. So big lineup of devices that
+we are offering to the 2G segment in India, and we are confident that the dream of 2G Mukt
+Bharat will happen sooner because of this.
+On the AirFiber side, which is our, like I said, the fixed wireless, we are seeing tremendous
+demand. We launched it very recently in a few cities across India. Very shortly, we are looking
+to open it up across India. What we're finding is a large proportion of the non-fiber covered
+areas are really the ones clamouring for this device. Because they've seen what JioFiber can
+do in certain parts of the country. And they have a very quick way to get those services into
+their homes.
+What we are doing as we speak is obviously ramping up the entire supply chain of all the
+equipment that is needed to connect these homes using 5G technology. And also ramping
+up obviously the additional go-to-market aspects, including feet on street who can go and
+install at these homes. I think really the target for us is that ambition that we had of connecting
+north of 100 mn premises in the quickest possible way, is now getting rapidly and substantially
+accelerated because of this AirFiber.
+And if you look at the plans that we have also dig in. There's a whole platter of plans that
+people can choose from anywhere as low as 30 Mbps to all the way up to 1 Gbps of speed
+that they can choose from. At the top end, it absolutely mirrors the capabilities that we have
+from our optical fiber service. So, there's a full lineup of services extremely affordable, content
+with rich bouquet of content, everything from live channels to OTT apps, including in most of
+the plants, even popular services like Netflix, Amazon Prime and of course JioCinema from
+the Jio stable, in addition to 14 other well established OTT apps, all bundled as part of the
+subscription that people take on their Fiber and AirFiber plans.
+On the enterprise side, yes, we are making progress. Today, as we speak, in addition to
+mobility and home that I spoke about, if you look at all of the large, big enterprises in the
+country, Jio is present across 85% of them. So that means we have a relationship with more
+than 85% of the of the large and big enterprises, the top 20 banks and more than 400 EFSI
+accounts. It is a big segment in India, in the financial sector, won on Jio connectivity today.
+When it comes to bids from the government sector, again we are seeing more than 80% win
+rate when it comes to open bids. Again, showing recognition and adoption of Jio services
+both in enterprises as well as large enterprise segment. Also happening is beyond
+connectivity. Now, we have a whole slew of other services spanning the Internet of Things,
+Connectivity platform as a service, and Cloud. And what we are seeing is more than one out
+© Reliance Industries Limited 2020 7
+of four enterprise customer, that's more than 25%, already is using two or more Jio services.
+I would say that rate of additional Jio services is also increasing with every passing day. And
+the heartening thing in all of this is that while we are deploying our 5G services. I spoke about
+both on the mobility, the home segment and also on the enterprise segment. The great news
+is that all of this is supported by our own indigenous stack that we have built and an entirely
+cutting-edge next-generation stack, cloud native to the core. Today, it is handling 100% of
+the 5G traffic that is operationalized on the Jio network.
+We are also now starting to deploy our own software-defined radios into our network. I would
+say in terms of adoption of the latest 3GPP standards, we are among the best in the world.
+We probably even add up the world when it comes to adopting some of the objects. Not just
+adopting but operationalizing at scale some of the more advanced features as we spoke
+about in Jio True 5G, all of them backed by our own operating stack as well. In addition to
+the core 5G technology, we also have the operation support system and the business support
+system.
+Increasingly on Jio’s own software stack, more than 100 unique types of network elements,
+we are able to build on our own as well as from our global technology partners. We are able
+to manage through to this time. The 5G core is ORAN compliant. ORAN is one of the more
+advanced radio access network technologies that the world is looking to adopt. They're only
+compliant with respect to supporting those. And at the heart of it is a large network with so
+many moving pieces cannot be managed by humans. So largely, the entire AI ML stack that
+is required to manage this at scale and continuously optimize it is also something that we
+have done.
+So, this entire end-to-end stack, which is required to operate this cutting-edge 5G network,
+is already deployed and operating at scale. And this positions us extremely well to compete
+in the private 5G market, which is obviously what is relevant for enterprises not just in India
+but globally. And also, to be the partner of choice for many telcos even if you're looking
+beyond the shores of India. So that's something that we can also be looking forward to.
+I think I'll hand it over to Anshuman who can talk about operating numbers and financials.
+Thank you.
+© Reliance Industries Limited 2020 8
+Sh Anshuman Thakur 00:22:39 – 00:27:27 (Digital Services - Financials)
+This quarter, the numbers increased by 11.1 mn. So, it's been a steady increase quarter after
+quarter unlike all the other operators who have been losing subscribers in this period. And
+scaling up of the digital platforms, combination of which has resulted in the revenues going
+up at the consolidated level to ₹26,875 cr and EBITDA going up to ₹13,528 cr at 13% Y-o-Y
+increase in EBITDA. As I said 11.1 mn subscribers net addition during the quarter. So, we
+ended the quarter at 459.7 mn subscribers with an ARPU of ₹181.7.
+The ARPU has been growing again certainly, quarter after quarter, and mostly on account of
+the improvement in subscriber mix as well as greater data consumption. Please do keep in
+mind that we currently do not charge for the 5G services. It's a standard that the services are
+commercially made available. We are still rolling out the network. So that data consumption
+is not leading to any additional revenue at this point in time.
+In terms of data traffic, very strong growth. The total data traffic for the quarter was 36.3
+Exabytes, up 29% Y-o-Y with increasing usage on both the 5G network as well as higher
+engagement. So, we are leading the industry transition now into the 5G phase.
+On the mobility side, with our 5G superior network and the JioBharat devices for the 2G users,
+for them to upgrade to digital services. And then AirFiber for homes and SMBs which is also
+now launched and gradually ramping up in the market. As I said we have been increasing
+the pace of subscriber addition with our superior network and more service. Better quality
+service offerings that we are giving over the last few quarters, the pace of subscriber addition
+has picked up. And with the 5G roll out getting completed, they should only accelerate.
+We added three exabyte of data traffic for the last two consecutive quarters. So, data traction,
+the overall data consumption on the network continues to grow very very rapidly. And that's
+really sign as you know, we're always very focused on creating the whole digital ecosystem,
+getting people more engaged, more active on the network. That clearly is happening over the
+last few quarters. The per-capita monthly data usage has increased by 40% Y-o-Y to 26.6
+GB per user per month now and the AirFiber will further accelerate the subscriber momentum
+in the next few quarters.
+Coming to the key operating metrices for RJIL, our connectivity business. Our customer base
+as I said, we ended the quarter at 459.8 mn subscribers. That was a customer addition of
+11.1 mn subscribers. ARPU for the quarter came in at ₹181.7. And you know this was mainly
+on account of better subscriber mix and increased data usage. Again, reminding that we are
+not currently charging for any of the 5G data consumption on the network. The total data
+© Reliance Industries Limited 2020 9
+consumption was at 3600 cr GBs and voice consumption continues to remain very healthy.
+Moving on to the financial numbers for RJIL, for the connectivity business the operating
+revenue for the quarter was at ₹44,750 cr and the EBITDA was at ₹13,059 cr. EBITDA margin
+increased further to 52.8% playing out the operating leverage theme that we've spoken about.
+And as we start getting more traction on 5G and home, we will expect this to continue to grow
+further.
+And a summary of the Jio Platforms Limited consolidated financials – gross revenue for the
+quarter was at ₹31,537 cr, operating revenues at ₹26,875 cr, which in $ terms is $3.2 bn for
+the quarter. EBITDA came in at ₹13,500 cr ($1.63 bn) for the quarter, with EBITDA margin at
+50.3%. And profit after tax of ₹5,300 cr. And its growing by 2% Q-o-Q, but almost 12% Y-o-
+Y growth in the profit after tax for this quarter.
+With that I'm going to hand over to Dinesh to go over the results summary for Reliance Retail.
+Thanks.
+Sh Dinesh Taluja 00:27:28 – 00:41:50 (Reliance Retail)
+Hi, good evening, everyone. On the retail business, we delivered a 19% Y-o-Y on growth in
+gross revenues, which is a pretty healthy growth. If we look at across consumption baskets,
+grocery grew at 33% on Y-o-Y basis, fashion lifestyle grew at 32%, while consumer
+electronics consumption basket grew at 11% Y-o-Y. The EBITDA growth was at 32%. We
+continue to see the benefits of operating leverage. Our EBITDA margin from operations was
+8.1%, which is a 70-basis points growth on Y-o-Y basis. Grocery and Fashion Lifestyle
+continue to be the key drivers of growth in EBITDA for our business.
+As we discussed earlier, we raised ₹15,314 crores of equity, from Global Investors – QIA,
+KKR and ADIA. We also completed the transfer of our warehousing assets to an InvIT entity
+and a total consideration of ₹5150 cr was received on 25th October.
+Our operating metrics continue to show significant scale. Our footfalls grew at 41% Y-o-Y.
+The customer base was up 27%, and our number of transactions was up 25% on a Y-o-Y
+basis.
+We continue to invest in expanding our store network. We opened 471 new stores during the
+quarter. The total retail area stands at 71.5 mn.
+© Reliance Industries Limited 2020 10
+We continue to focus on launching new formats to better serve our customers as per their
+needs. During the quarter, we launched our new format called Yousta, which is a fast fashion-
+focused, youth-focused format, which is doing reasonably well, and we are scaling up this
+format in the coming quarters.
+M&A continues to be a core part and theme for us to expand our capabilities. During the
+quarter, we completed acquisition of majority stake in Ed-a-Mamma which is a kids wear
+brand as well as we completed acquisition of a controlling stake in Superdry IP for India, Sri
+Lanka and Bangladesh territory. So, we own the IP, and we can expand further categories in
+this brand.
+Our overall revenue of ₹77,148 cr, EBITDA at ₹5,820 cr, our digital and new commerce
+businesses contributed 19% to our gross sales during the quarter. So, broad-based growth
+across channels.
+Looking at the financials, our revenue was ₹77,148 cr which is $9.3 bn. EBITDA from
+operations was at ₹5,600 cr, which is $675 mn, 8.1% margin. Our total EBITDA was ₹5820
+cr, which was an 8.4% margin and profit after tax of ₹2790 cr, which is $336 mn.
+We will be covering some of the key highlights across our consumption baskets. So, on the
+consumer electronics the focus continues to be on expanding our store network.
+We had the best ever Independence Day sales on August 15 which was up 23% on Y-o-Y
+basis. The growth was quite broad based, driven through launch of new categories. There
+were mobile phone launches. There were promotions being run across different categories
+as well as some of the regional festivals which were during the quarter all of them contributed
+towards growth.
+ResQ, which is a big differentiator for us, which helps us control the service that we provide
+ourselves to the customers rather than being dependent on third parties, that continues to
+grow our network as well as improve the service quality.
+Our product brands grew. It launched new products as well as expanded the range that we
+offer in our existing categories. We launched the QLED TVs during the quarter, the merchant
+base where our products are present was up 2.6x on Y-o-Y basis and this continues to be
+the focus for this business.
+Our JioMart Digital business, the growth was led by phones and high-end televisions. There,
+our merchant base was up 44% on Y-o-Y basis.
+© Reliance Industries Limited 2020 11
+Moving on to Fashion and Lifestyle, offline business delivered pretty robust growth, this was
+in spite of the festival quarter falling entirely in the current quarter versus last year, part of the
+festival shopping happened in Q2. So, we had a reasonably robust quarter.
+As I spoke earlier, we launched the Yousta format and we are seeing very good traction, very
+good reception, reviews from the customers. We also launched a new concept store under
+our flagship Trends brand. It's future ready store with a lot of tech and immersive shopping
+experience and we have received very good response from customers, and we will be looking
+at scaling up this concept further.
+We continue to strengthen our own brands. Most of what we sell in our stores are our own
+brands and we continue to explore various partnerships. Performax, which is our active wear
+brand, tied up with All India Football Federation to sell products, merchandise. Also, Point
+Cove which is another brand tied up with Viacom 18.
+We continue to invest in design and sourcing ecosystem, to enhance our fast fashion
+capabilities and reduce concept to market time, so that we have faster inventory turn around
+as well as we have a good pulse on what's selling in the market. We have relevant fashion in
+our stores. Just as a reference point, we added 1000+ new options every day during the
+quarter. It's a reflection of the success that we have been able to achieve in our design to
+market cycles.
+AJIO, which is our online platform, continues to do very well and grow from strength to
+strength. We focussed on catalogue expansion, options count were up 50% Y-o-Y, a lot of
+brands are our own brands which are available only on AJIO. We had AJIO All Star Sale
+during the quarter, which went off very well. We had strong momentum on new customer
+additions as well and we added over 2 mn customers during the quarter. Our partner brands’
+business continues to dominate and lead in the premium brands and luxury segment, as you
+know we have the widest portfolio of international brands and designer brands in the country.
+We continue to look for and partner with more brands and add into our portfolio.
+During the quarter we acquired majority stake in Ed-a-Mamma, which is a kids wear portfolio
+brand, that further helps strengthen our kids wear portfolio. Superdry is one of the successful
+brands in our portfolio. We strengthened our partnership with the brand by acquiring a
+majority stake in IP rights for India, Sri Lanka and Bangladesh territory. This is a very
+important brand for us, and we look to scale this up further.
+© Reliance Industries Limited 2020 12
+AJIO Luxe, which is our online luxury platform with luxury brands, again continues to add
+new brands on to the platform as well as options which are available. The option called was
+up 61% on a Y-o-Y basis.
+Our Jewels business continues to do well. We had a good momentum and an improvement
+in operational metrics despite the gold rates continuing to be high, the focus remains on
+differentiating in the market through new designs, new collections, themes which are relevant
+for each market. During the quarter, we launched Varalakshmi, which is a South-focused
+regional collection, and we launched two national collections Bella 6.0 and Aabhar.
+Our new businesses in Lingerie, we are making good progress. We are the largest player in
+this segment now. We continue to build on some of the marquee properties that we've built
+over the years. So, our flagship event – Grand Lingerie Festival did very well. It drove a lot of
+traffic across both our offline as well as online channels. We are looking to expand this
+category across our formats, so Trends, Azorte, Centro, Blushlace, which is our multi-brand
+lingerie and beauty format which we recently launched; across all these formats, we continue
+to expand our in-house brands and we operate across the spectrum from mid-premium to
+luxury.
+We are focusing on general trade so that these brands have wide distribution, which will
+further deepen the penetration, and that continues to be a focus for all our brands in the
+portfolio within this segment. We also continue to launch and enhance the portfolio through
+new launches – thermals, athleisure, and pajama sets is what we launched during the quarter.
+Urban Ladder - It's an omni channel business, the focus is on providing more and more touch
+points to the customer, where the customers can touch and feel the product through
+experience centers and as well as by online or in the stores. We are also expanding the
+category by putting it under many of the Smart Bazaars that we've launched so that it adds a
+new category into our Smart Bazaar portfolio. We've also recently forayed into the institutional
+sales within the segment.
+On the grocery side again, we had a very strong quarter – 33% growth on a Y-o-Y basis. The
+growth was driven by our supermarket, hypermarket formats – Smart and Smart Bazaars,
+which continued to do very well. Our flagship ‘Paisa Vasool’ sale during August was a very
+big success. We had the highest single day sales on 15th August. We continue to push for
+general merchandise and other non-food categories and that share continues to go up.
+We had an interesting, collaboration with many prominent brands to promote our Smart
+Bazaar formats – ‘Smart Bazaar Chaliye’ campaign. It was an industry first initiative where a
+© Reliance Industries Limited 2020 13
+lot of brands actually funded this initiative, driving traffic onto our stores. As the festival
+season started, especially some of the regional festivals, we focused a lot on gift packs and
+other festive categories, which saw very good traction.
+One of the themes for us has been to look at regional brands, regional products, and take
+them nationally that adds, that helps us differentiate ourselves as well as promote these
+regional brands, take them pan-India, which helps them scale much faster. So that's
+something that we continue to focus on, in addition to premiumization, which is a which is a
+continuous theme for us.
+We also continue our integration of our B2B grocery business with Metro, and that's
+something that's under progress. This will help us provide an omni-channel experience to
+merchants and further strengthen our value proposition for the segment.
+Our consumer brands business continues to have strong momentum across categories.
+Beverages: We had launched Campa earlier this year and we had phenomenal success. We
+have launched many other brands in the general merchandise staples category – we
+launched Independence, all of them continued to do well. The focus for the business has
+been to expand the distribution channel and deepen the engagement with general trade. We
+delivered 4x growth in revenue in this business, during the quarter. Beverages – it did
+exceedingly well and was up 7x on a Y-o-Y basis. Campa has had very good traction. As
+some of you might have seen we launched a cricket themed energy drink called Campa
+Cricket to ride on the World Cup wave and that has seen very good reception from customers.
+Independence brand, which we had launched earlier in the year, continues its growth
+momentum. We are now expanding it nationally as well as expanding it to multiple categories.
+Our online businesses, JioMart and Milkbasket continue to demonstrate sustained growth.
+There is consistent increase in traffic as well as average bill values. We've been able to grow
+our average bill values on JioMart meaningfully through various initiatives. We on boarded M
+S Dhoni as the brand ambassador and launched the JioUtsav campaign in October, which
+has seen very good success.
+Our Grand Independence Sale saw very strong growth in traffic as well as growth in GMV of
+some of the newer categories like fashion and general merchandise that we have introduced
+onto the platform as we endeavour to develop JioMart as a cross category horizontal platform.
+We continue to focus on platform enhancements to improve the experience for our customers
+as well as vendor partners. As some of you might have seen, we introduced the SMART
+ingress in the grocery, for grocery, within JioMart. So now Smart Bazaar is available online.
+© Reliance Industries Limited 2020 14
+Whatever you buy on the store is available on JioMart as well and gets delivered to your
+home in 24 hours, if you were to order online.
+Our catalogue expansion continues. Option count was up 3X on a Y-o-Y basis. The seller
+base is up 2X on a Y-o-Y basis. So, very good progress on developing the 3P category.
+That’s it, now I’ll hand over to Sanjoy for Oil & Gas segment.
+Sh Sanjay Roy 00:41:51 – 00:45:45 (Hydrocarbons - Exploration & Production)
+Thank you, Dinesh.
+Very good evening to everyone on the call. just recap of the quarter gone by. As you can see,
+we have a pretty robust quarter on the back of KGD6 gas and condensate production.
+Essentially, in terms of quarterly performance in a year-on-year basis, we have seen a 72%
+jump in revenues, which is about ₹6,620 crores.
+In terms of the EBIDTA we've seen a performance of greater than 50% about ₹4,766 crores.
+This is mainly driven by the improvement in production that we end up seeing cause ramping
+up production from the block from the various fields from MJ field to about 30 mmscmd
+cumulative from KG-D6.
+As such in prices were better as compared to the last quarter.
+In terms of KG-D6 MJ gas and condensate field, we successfully completed the
+commissioning as well as the performance test all eight wells are on production, even as we
+speak, and are under ramp up we are close to 30 mmscmd.
+In terms of CBM the production remained steady in the base production, and in terms of the
+40 well program that we have initiated, we expect production ramp up to commence from the
+fourth quarter of FY24.
+We are continuously looking for opportunities in terms of creating resources, so we will be
+drilling our first exploration well, in early November. This is as part of our infrastructure that
+exploration efforts.
+© Reliance Industries Limited 2020 15
+In terms of production as you can see, we are well on course to achieve 30 mmscmd which
+is nearly 30% of India's gas production and also nearly 24 to 25,000 barrels of condensate
+that's what we expect to achieve. Our focus will be enough to sustain this production going
+forward.
+In terms of the overall markets in a mixed aspects in terms of the supply side, we did see
+strikes in Australia and a few leakages in some of the pipelines, consequently, did see low
+supplies. However, we saw storages that historically high levels at about 96% versus five-
+year averages of 87%. Now, overall, the LNG demand was quite tepid, and what we what we
+expect now is in the short term, the winter will play a key role. The severity of the winter will
+dictate gas price movements.
+Overall, the Indian gas market demand remains quite strong. In fact, in the quarter gone by,
+we saw consumption of almost 180 mmscmd up 10% from the earlier quarter of 162
+mmscmd, mainly driven by gas-based plants from the power sector also from CGD.
+As such, we are also aware that the ceiling price has been notified for this first half. We will
+be revising the prices to $9.96 mmBtu for the second half of the year. So overall, we expect
+gas prices to remain firm and production to continue at 30 mmscmd.
+Thank you.
+Sh V Srikanth 00:45:46 – 01:00:50 (O2C Business, Summary and Closure)
+Thanks Sanjay.
+Moving to the last presentation on O2C.
+Revenues that are Rs 148,000 crore, lower by 7.3% on a year-on-year basis. That’s more
+driven by the crude price that on a year-on-year basis fell by 14%.
+We had a strong performance in as far as the EBITDA is concerned – up 36% on a year-on-
+your basis, and almost 7% up on a quarter-on-quarter basis.
+The year-on-year performance that you see in EBITDA was on the back of strong gasoline
+cracks up 47%. In petrochemicals, PVC delta was up 7%.
+© Reliance Industries Limited 2020 16
+We also benefited from a strong domestic demand environment, and we will see those
+percentages in subsequent slides.
+Again, continue to benefit from feedstock sourcing. Of course, on the SAED side, while at Rs
+606 crores it was lower than what it was in same time last year, which was Rs 4,039 crore,
+but it was also in a way compensated by the fact that mid distillate cracks itself were lower.
+Petchem downstream contribution was impacted by lower delta – PE down by 8%,
+Polypropylene down 17%. The whole polyester chain, if you were to see, it was down about
+13%. So clearly downstream was impacted by deltas, of course also the fact that it is the
+context being subdued global demand environment as well as the fact that it was well
+supplied.
+But in our case, it was to some extent was offset by the fact that we had higher domestic
+sales, and also in a way benefitted from the sharp decline in ethane prices, which is down
+46%. So, the lower delta was to some extent offset by Indian demand, as well as the fact that
+ethane prices were lower.
+Quarter-on-quarter was again benefiting from fuel cracks and PVC delta, which was up 23%
+on a quarter-on-quarter basis.
+This is the broader business environment.
+If you were to see, overall demand environment looks strong with global oil demand, at 102.7
+mb/d – up 2.5 million barrels per day. Location wise if you see, China was almost 2.2 mb/d
+out of that. And then the rest of Asia was about 0.5 mb/d.
+Again, when you see it from categories, the demand was significant in jet, which was more
+than a million barrels per day demand. Also, gasoline was pretty strong at 0.7 million barrels
+per day. So, oil demand has been good.
+Indian demand has been strong that is across each of the transportation fuels the demand
+has been strong. When you look at Polymer and Polyester demand - Polymer is up 25% year-
+on-year, polyester demand up 12% year-on-year. So that has been pretty good.
+And overall, when you look at refinery operating rates, unsurprisingly it is up on the back of
+firm demand for refined products. Though the cracker operating rates were slightly lower
+given product demand trends.
+© Reliance Industries Limited 2020 17
+This is just the breakup of the domestic oil environment. You can see that petrol demand was
+up almost 6%, the demand for diesel was up 4%, ATF was up 14%. So broad thematic is
+really the fact that there is strong momentum in industrial activity, that is demand from mining,
+the passenger vehicle sales, air passenger traffic – if you want to see the percentage of traffic
+was up 22% y-o-y.
+So, all these contributed to the overall number of 5.3 percent.
+Going to the polymer side, as I mentioned, up 25% year-on-year, and a lot of it we saw
+channel restocking, given that PE and PP prices are actually at 2/3 year low. So, you saw
+that kind of demand coming in. But broad-based, the demand is coming through in durables,
+in packaging and infrastructure sectors, in E-commerce. So, it's much more broad based.
+PVC benefiting from the demand for wires and pipes and infrastructure projects. And some
+of the government schemes like ‘Har Ghar Jal Yojana’, and ‘Pradhan Mantri Krishi Sinchai
+Yojana’, we are seeing it in terms of having a positive impact on demand.
+On the polyester side, up 12% year-on-year, and here the pull has been clearly PET, given
+that it's up 28%, and also both PSF and PFY demand improved ahead of festive season.
+Moving to the Delta environment, you can see that PE and PP were weak, both on a year-
+on-year basis as well as a quarter-on-quarter basis. These are broadly global trends with
+demand being a bit subdued and excess supply continuing there. So, when you translate in
+percentage terms, you can see that PE and PP deltas were lower by 8% and 17%
+respectively. So, here the product price fell significantly more than what the input prices of
+naphtha fell, hence the impact on the overall deltas.
+PVC was the exception in the sense that it was 7% higher on the year-on-year basis than it
+was 23% higher on a quarter-on-quarter basis, benefiting from a very sharp fall in EDC prices.
+Also, ethane cracking economics remained favorable versus naphtha. That is the 46% fall
+that I talked about in my previous slide. So that's the broader environment for polymers.
+On the polyester side, both year-on-year and quarter-on-quarter, you can see the weakness.
+Year-on-year prices, the whole chain delta is lowered by 13%. Again, impacted by slower
+demand recovery in China and on the quarter-on-quarter basis, this has been impacted by
+the weak global demand.
+© Reliance Industries Limited 2020 18
+And if you look at regional PTA deltas that was down 27% with increase in PX prices. But the
+fact that there was strong demand in India helped support those margins. MEG was
+significantly weaker due to strong naphtha prices.
+On transportation fuel, if you look at gasoil demand per se, it grew by only 0.2 million barrels
+per day to a total of almost 28.8 million barrels per day. Again, that was a bit mixed. Different
+locations were higher, for example, Asia Pacific and Middle East were higher, but they were
+all the offset in Europe, Latin America, North America. So, you saw that kind of regional
+divergence in demand, and also when you look at cracks, you know, from $41.1 dropped to
+$28.8, because it was exceptionally high in second quarter of last year. Also, there being
+European weakness, which also pressured cracks. But on a Q-o-Q basis, there was a sharp
+jump, because the inventories have started going up – the fact remains that at 543 million
+barrels it is still lower than the 5-year averages. So, that inventory being lower is also getting
+reflected in the way people are stocking up in anticipation of the tightness because of the
+heating season.
+We also saw the impact of export ban by Russia for diesel, the refinery outages all of them
+playing to a strong quarter-on-quarter performance is concerned.
+Jet / Kero, this product saw a sharp increase, more than a million barrels per day increased
+to seven and a half million barrels again demand coming in Asia Pacific, North America as
+well as Europe. And while year-on-year demand was lower, because if you recall in second
+quarter of FY 23, the reopening led the deltas much higher. But overall, you can see that on
+a quarter-on-quarter basis very sharp increase. This is $14 to $26.
+That went up because you're seeing much more sweeter crude slate processing in the
+refineries and that is on the back of OPEC cut, and so we saw more heavier go to the market.
+So sweeter crude meant lower mid-distillate yields, and therefore, refineries also prioritizing
+diesel or jet. Therefore, you saw the shortfall there translating in terms of higher deltas for Jet
+/ Kero. Also, strong standalone Jet / Kero fuel demand has been pretty good.
+And on the gasoline side, you can see that overall demand went up to 27.1 mbpd. Again,
+gasoline grew by about 0.75 million barrels per day with essentially demand in Asia Pacific,
+North America and Europe. Overall, you can see gasoline cracks improved because of lower
+inventories because of unplanned refinery outages. Also, China demand has been strong
+with the reopening.
+© Reliance Industries Limited 2020 19
+On the quarter-on-quarter side, this has been supported by supply disruptions. We saw some
+of the refinery closures in Germany, in Rotterdam. So, we saw that having an impact on the
+pricing.
+If you look at the operating performance, production meant for sale at 17.1 million tonnes,
+and apart from the margin and demand that we talked about in the previous slides, when you
+look at operating performance, you can see that we prioritized alkylate and high RON
+gasoline exports. Given the premiums, we focused on placing mid distillate products given
+the higher demand in Europe.
+Overall, because chemical demand has remained subdued. We have optimized the
+production to focus more on the lighter outputs. Gasifier performance has been pretty strong,
+which also helped in minimizing the fuel mix and also eliminating LNG sourcing.
+This quarter we have started planned shutdown of CDU, Catalytic Cracking unit and a Coker
+and ROGC that was initiated in the second half of September for regular maintenance and
+inspection.
+Overall, how we see the O2C business. So, we do think that demand is expected to remain
+strong even when if we are to look at estimates from IEA. You're seeing that for next year,
+we are talking about still 0.9 million barrels per day increase to ’23, which shot up by 2.2
+million barrels. So, demand for fuel remains strong.
+The refining system is definitely tight, which will keep the margins at above mid cycle levels,
+planned shutdowns, unplanned shutdowns all of them given the tightness in the refinery
+system, this will cause margins to expand.
+On the global downstream chemicals, the margins are expected to remain blocked in the
+near term given the given the supply overhang, but any moderation in supplies from China
+and any improvement in global demand will drive margin upcycled.
+For India, of course, for an Indian market perspective where we are a key player and then
+you know more than 85% of our products go there the demand environment is extremely
+strong and it is directly linked to GDP growth rates. So, that outlook remains strong, and we
+may have an edge there and the fact that, the broader geopolitical tensions, things like oil
+production cuts by OPEC, all of them are expected to keep both price and margin volatilities
+heightened. From our O2C point of view, from a business perspective, it does look pretty
+constructive for us.
+© Reliance Industries Limited 2020 20
+Going to the last slide on summary, just wanted to say that you've heard through all the
+presentations, earnings have been strong across all businesses and very strong operational
+performance. Net debt you saw has been loaded with the capital raise and importantly also
+strong capital, strong operating cash flows which has funded all the capex. We think that
+capex will peak in FY24 with completion of the fast track of 5G rollout by the end of this year.
+And overall earnings momentum in consumer business, we see a high visibility of growth.
+And given that these businesses come with high operating leverage. And given the way we
+have expanded our footprint, the investments that we are doing on technology platforms, new
+products across the range, we have a very constructive view of the business, that is evolving.
+Overall, as I mentioned on fuel side market, it's a tight fuel market, domestic demand is good
+and very limited downside builds are happening in this market.
+On the upstream side. In MJ field, production ramp up is happening, and broader outlook is
+that supply uncertainties will keep gas prices elevated.
+Overall strong business portfolio and execution to drive returns and value creation.
+Thank you with this. I come to the end of the presentation and let me take this opportunity to
+wish you all a very happy Deepawali as we are going into November.
+Thank you so much.
+© Reliance Industries Limited 2020 21

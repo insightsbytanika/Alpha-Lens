@@ -1,0 +1,852 @@
+L&T Finance Ltd.
+Q2 FY26 Earnings Call Transcript
+October 16, 2025
+Management Personnel:
+Mr. Sudipta Roy (Managing Director & Chief Executive Officer)
+Mr. Sachinn Joshi (Chief Financial Officer)
+Mr. Raju Dodti (Chief Operating Officer)
+Mr. Karthik Narayanan (Head – Investor Relations)
+
+INTERNAL
+Moderator:
+Ladies and gentlemen, good day, and welcome to L&T Finance Limited Q2FY26 Earnings Conference Call. As a
+reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to ask
+questions after the presentation concludes. Should you need assistance during the call, please signal an operator
+by pressing star then zero on your touch-tone phone. Please note that this conference is being recorded. We
+have with us today Mr. Sudipta Roy, Managing Director and CEO; Mr. Sachinn Joshi, CFO; and Mr. Raju Dodti,
+COO; and other members of the senior management team.
+Before we proceed, as a standard disclaimer, no unpublished price-sensitive information will be shared during the
+conference call. Only publicly available documents will be referred to for discussions during interactions in the
+call. While all efforts would be made to ensure that no unpublished price-sensitive information will be shared, in
+case of any inadvertent disclosure, the same would, in any case, form part of the recording of the call. Further,
+some of the statements made on today's call may be forward-looking in nature. A note to this effect is provided in
+the Q2 results presentation sent out to all of you earlier.
+I would now like to invite Mr. Sudipta Roy to share his thoughts on the company's performance and the strategy
+of the company going forward. Thank you, and over to you, sir.
+Sudipta Roy:
+A very good morning, everyone. I welcome you all to the Investor call for Q2FY26. Joining me today on the call
+are – our CFO, Mr. Sachinn Joshi, our COO, Mr. Raju Dodti and other members of the senior management team
+of L&T Finance. On behalf of the entire L&T Finance team, I would like to extend our festive wishes to you and
+your families and the broader investor community.
+Similar to our previous calls, today’s call is divided into two sections, taken up sequentially by myself followed by
+our CFO – Mr. Sachinn Joshi, who will be talking about the overall business metrics & financial performance.
+During my interaction with you over the course of the last 2 years, I have spoken about the various investments
+we were making in strengthening the company and upgrading our capabilities across domains, including the
+various transformative initiatives undertaken by us. In this call, I will provide further details about the results we
+are seeing from those initiatives and their long-term impact on the business. As far as our core business franchise
+is concerned, it stands in a good shape, which is evidenced by the numbers posted by us in Q2FY26 and I am
+hopeful that in the remainder of FY26 this performance trajectory will continue.
+Post our commentary, we will be happy to take questions on the call.
+Macro-economic outlook
+Before we delve into the highlights of the quarter, I would like to give you some flavour of the current
+macroeconomic scenario and sectoral outlook.
+India’s recent credit rating upgrades reflect growing global confidence in the country’s economic resilience and
+growth prospects, amidst heightened trade uncertainties. Growth remained resilient, on the back of private
+consumption aided by rural demand and fixed investment supported by buoyant government capex. Headline
+inflation has also seen significant moderation during H1FY26, mainly due to a sharp correction in food prices and
+is projected to remain close to the lower end on RBI’s target band in 2025-26.
+Agriculture sector prospects remain favourable despite flooding caused by heavy rainfall in several states,
+including grain bowl states like Punjab, where crops have been destroyed and rainfall deficiency in east and
+northeast India impacting crops. This favourable prospect is supported by above normal monsoons in most
+regions, adequate reservoir levels, and supportive policy interventions. Rainfall over the country as a whole during
+the 2025 South West monsoon season was above average at 108% of its long period average, albeit unevenly
+
+INTERNAL
+distributed. The area sown under key kharif crops like rice, pulses, sugarcane, coarse cereals, etc. are 1-6%
+higher than last year. Reservoir levels stand at 90%, exceeding the levels recorded a year ago as well as the
+decadal average. Intense rains towards the end of season in pockets of Karnataka, Telangana, Maharashtra,
+Gujarat, Rajasthan and Punjab have impacted standing crops in some parts. However, the early trend of mandi
+arrivals indicates a delayed but healthy crop output overall. Prompt relief measures for the farmers and higher
+MSP prices should provide further support.
+As far as Rural demand is concerned, it continues to remain buoyant with upbeat tractor and motorcycle sales
+and strong growth in fast-moving consumer goods sales in rural areas. The GST 2.0 reforms are expected to
+further boost private consumption and domestic demand. Revival in the discretionary spending of households in
+both rural and urban areas is already reflecting in high festive sale volumes and consumer sentiments and should
+support credit expansion in the quarters ahead.
+With liquidity conditions improving during the first half of FY26, domestic financial markets remained resilient and
+relatively stable. Monetary policy, along with liquidity easing measures, have contributed to favourable financial
+conditions by influencing both money and bond markets. Concomitantly, credit demand has witnessed an uptick
+in the recent months as well.
+Going ahead, lower inflation, rising capacity utilisation, and congenial financial conditions continue to support the
+growth outlook. The government's continued thrust on capital expenditure, GST 2.0 reforms and improving credit
+conditions should boost aggregate demand conditions in the near-term and help to sustain strong momentum in
+the NBFC sector with healthy credit demand.
+Q2FY26 Highlights:
+To start off with this quarter’s highlights, I would like to share that the microfinance sector has shown green shoots
+of recovery this quarter and we have seen sustained resilience and uptick in both disbursement volumes and
+collection efficiencies in our microfinance portfolio. The performance of the LTF portfolio is a result of the strong
+credit underwriting and stringent association norms implemented over the years and further sharpened over the
+course of the last few quarters. I am happy to share that directionally, the overall credit cost for the organisation
+has started its downward trajectory owing to the various process interventions and implementation of Project
+Cyclops in fulcrum businesses like Two-Wheeler and Farm loans and is expected to tend towards normalisation
+in the second half of FY26. I will speak about them in greater detail during the course of the call.
+I am pleased to inform you that we have achieved a quarterly Consolidated PAT of Rs 735 Cr, registering a growth
+of 5% QoQ and 6% YoY, with the retail book crossing the ₹ 1 lakh Cr milestone, now standing at Rs. 1,04,607 Cr,
+reflecting a growth of 18% YoY. The Consol booksize registered an increase of 15% YoY, reaching Rs. 1,07,096
+Cr, while the RoA came in at 2.41% in Q2FY26.
+Given the fact that quarter 2 for BFSI is traditionally a weak quarter, we are pleased to inform that we recorded
+our highest ever quarterly disbursement of Rs. 18,896 Cr, a growth of 25% YoY and 8% QoQ, driven by a strong
+performance across all our lines of business. I would like to point out that this growth in Q2FY26 is driven by
+organic business expansion and we expect the additional boost from GST 2.0 especially in the Two-Wheeler and
+Farm segments to be registered in Q3FY26. Our Rural Business Finance disbursements achieved normalisation
+during the quarter with a disbursement of Rs 6,316 Cr, up 12% QoQ and 16% YoY, based on continued
+improvement in collection efficiencies, giving us the confidence to expand disbursements and markets, while
+continuing to follow the stringent sourcing and portfolio norms. Our Two-Wheeler business saw a QoQ
+disbursement growth of 18% and Personal loans disbursements expanded by 50% QoQ driven by increased
+funnel off-take from our big tech partnerships (slide 53 of the Investor Presentation).
+
+INTERNAL
+Next, I would like to provide an update on the impact of the Karnataka ordinance. Last quarter, I had mentioned
+that we had started seeing uptick in collection efficiencies and a positive momentum in growth from Karnataka
+across monthly and quarterly tenors. The quarter saw a 70bps improvement in monthly collection efficiency which
+increased from 98.48% in June’25 to 99.18% in September’25. We expect the collection efficiency will continue
+to trend upwards in Karnataka in Q3FY26. The pan India ‘0 DPD’ collection efficiency improved by 15bps to
+99.50% from 99.35% during the previous quarter.
+I would now like to give you an update on the performance of the newly acquired Gold loans business. I am happy
+to share that the Gold loans segment acquired significant momentum during the quarter outperforming our
+expectations with a quarterly disbursement of Rs. 983 Cr and the highest ever monthly disbursements of Rs. 423
+Cr in the month of September. In the coming quarters we are working on expanding our geo-presence across the
+country through branch expansion with ~200 new branches focused on areas with high cross-sell potential. In this
+regard, our model of integration of gold finance branches into multi-product ‘Sampoorna branches’ augurs well
+with our aspiration to become a leading pan-India gold finance player. By the end of FY26, we plan on establishing
+a distribution strength of 330+ gold loan branches.
+Coming to our large partnerships initiative, continuing with the momentum established with Amazon Pay, Cred
+and PhonePe, the overall Personal Loans disbursements for the quarter from big tech partnerships, including that
+from our newest partner Google Pay reached Rs. 1,138 Cr, pushing our overall Personal Loans disbursements
+for Q2 up 50% QoQ and 114% YoY at Rs. 2,918 Cr. While the uptick is steep, I would like to highlight that we
+have been keeping a strong focus on credit and risk guardrails, while we continue to extensively leverage partner
+trust signals. I am confident that we will continue to scale up this business in a risk calibrated manner and expand
+our origination momentum with existing partners while fostering partnership with few more big tech players.
+You would recall that I had made the announcement in Q1FY25 of the deployment of beta version of Project
+Cyclops, our AI-powered digital underwriting engine and since then Project Cyclops now powers 100% of
+underwriting in Two-Wheeler, Farm Equipment and SME businesses. It will be implemented in Personal Loans in
+Q3FY26 and we are readying the decks for implementation in Rural Business Finance and Mortgage business in
+FY27. The leading credit performance indicators from the Project Cyclops underwritten portfolios in the above
+lines of businesses remain extremely encouraging and our technology teams have been hard at work to improve
+the versions of Project Cyclops with every passing quarter. It is to be noted that we are currently in the version
+3.0 of the software whose processing capacity has been improved from 100 TPS (Transactions Per Second) at
+launch to 1,400 TPS at present.
+We continue to see encouraging trends with sharply lower portfolio bounce outcomes and NNS (Net Non-starters)
+trends in the Project Cyclops underwritten Two-Wheeler Finance portfolio in comparison with the non-Project
+Cyclops portfolio, while there has been a sharp reduction in Net Non-starters (NNS) for tractor customers through
+identified dealership rationalization in the Farmer Finance portfolio. The total number of cases disbursed in the
+Two-Wheeler Finance vertical through the Project Cyclops engine crossed 7,50,000 during the quarter while more
+than 21,000 cases were disbursed in the Farm Equipment Finance segment through Project Cyclops. As a
+consequence, the NNS for the Two-Wheeler Finance portfolio reduced to 0.47% for September’25 from 2.36% in
+December, 2024, which has also contributed to a reduction in the overall gross credit cost for LTF during the
+quarter. We will be sharing deeper insights into portfolio performance of Project Cyclops portfolios in our Investor
+Digital Day scheduled on November 6, 2025. We are confident that as disbursements through this engine scale
+up across businesses, our portfolio quality will get significantly enhanced with lower bounce rates and early non-
+starters, thereby leading to a reduction in the overall credit cost trajectory for the organisation.
+
+INTERNAL
+Our next transformative initiative, ‘Project Nostradamus’, a state of the art, first in industry AI driven automated
+real time portfolio management engine leveraging traditional as well as alternate data went live in ‘beta mode’ for
+Two-Wheeler Finance in August’25, with data dashboards for early warning and proactive portfolio management
+to monitor performance down to an individual micro-market cluster. We will also be giving previews of Project
+Nostradamus during our Investor Digital Day on November 6th. I am confident that we will be able to make Project
+Nostradamus live for all lines of business by the end of the year.
+I am happy to share that our investments in cutting edge technology and strengthened credit frameworks and
+underwriting have started showing early signs of impact in the gross credit cost trajectory for the organisation. We
+have been progressing towards a fundamentally stronger credit cost paradigm, with credit costs (before utilisation
+of macro prudential provisions) reducing from 3.80% to 2.98% between Q4FY25 and Q2FY26 (slide no. 8 in the
+Investor Presentation). Consequently, with a projection of further improvement in credit profile after full scale up
+of Project Cyclops and Project Nostradamus, we expect overall credit costs to trend lower in the medium term.
+In my last call I had mentioned L&T Finance being assigned its first ever international rating, I am happy to share
+that we received a rating upgrade from S&P on August 14, 2025, with the long-term rating moving from "BBB-
+/Positive" to "BBB/Stable" and the short-term rating moving from “A-3” to “A-2”, a result of the upgrade in India's
+sovereign rating. These ratings are investment grade and are now on par with India's Sovereign Credit Rating.
+This favourable assessment significantly enhances our ability to access global capital markets, thereby enabling
+further diversification of the liability franchise and the deepening of our lender base.
+Update on Lakshya 2026 Goals
+Now, I would like to share an update on our quarterly performance against the Lakshya 2026 goals:
+• The first milestone was to achieve Retailisation of >95% by FY26. We achieved a retailisation of 98% in the
+last quarter and it remained at the same level during Q2FY26, with the retail booksize crossing the Rs.1 lakh
+Cr mark.
+• The second milestone, on the loan book growth front, we had set ourselves a retail book growth target of 25%
+against which we have achieved a CAGR growth of 27% between Q4FY22 to Q2FY26.
+• On the third milestone which is on the Asset Quality front, we maintained the Retail GS3 & NS3 levels closer
+to the threshold levels (GS3<3% and NS3<1%) despite the macro challenges and segment specific
+challenges in the microfinance segment, our Consol. GS3 and NS3 stood at 3.29% and 1.00% respectively.
+• On the fourth and last milestone of RoA, we achieved RoA of 2.41% in Q2FY26. We remain committed to
+continuous improvement in the RoA trajectory as the segment headwinds in the microfinance sector dissipate
+and the downstream benefits of better credit process control and underwriting through Project Cyclops start
+materialising.
+I am also confident that with the improving collection efficiencies in the microfinance portfolio (including recovery
+in Karnataka), we will not require utilisation of any further amount from the macro prudential provisions from
+Q3FY26 onwards. During this quarter, the Board approved utilisation of Rs. 150 Cr of macro prudential provisions.
+After the utilisation of the said provisions to the extent of Rs. 150 Cr, the residual macro prudential provision at
+the end of Q2FY26 stands at Rs. 125 Cr.
+Double Click on the 5 pillars of execution
+As mentioned earlier, I would now like to give a brief update on the 5 pillars of execution that we had enumerated
+in October 2023 and continue to be in implementation mode against the same.
+
+INTERNAL
+1. Customer Acquisition - Our focus remains on broadening our customer funnel, both by deepening our reach
+in existing segments and broadening our geographical and digital footprint through partnerships. In the Rural
+Business Finance vertical, apart from focusing on retaining our credit-tested customers we continue to acquire
+new non-leveraged MFI customers through geo-diversification, leading to an uptick in the activation of new
+villages villages during the quarter. We are also expanding our geographical footprint in the states of U.P.,
+Maharashtra and Andhra Pradesh. With overall improvement in the credit risk environment in the industry,
+our customer acquisition velocity moved northwards across all lines of business in Q2FY26 and we expect
+this positive trajectory to continue over the rest of the year. Further details around customer acquisition and
+repeat share are available on slides 14 & 15 of the Investor Presentation.
+2. Sharpening Credit Underwriting - The continuous expansion, improvement and validation of Project
+Cyclops scorecards remain paramount for us. Project Cyclops is fully implemented and operational for Two-
+Wheeler, Farm Equipment, and SME businesses. The implementation for Personal Loans is scheduled for
+Q3FY26, while rollouts for both Home Loans & LAP and Rural Group Loans & MFI are planned for the fiscal
+year FY27. Our model risk management and machine learning operations teams are now fully functional
+giving us a strong structural framework to implement and monitor an increased density of algorithms and
+scorecards across various lines of business.
+3. Futuristic Digital Architecture - We continue to work on upgrading our technical capabilities and our focus
+on continuously strengthening our IT framework remains unabated. I have already spoken about Project
+Cyclops and Project Nostradamus. I would like to make a special mention of our PLANET App, which has
+emerged as a powerful digital channel for our customers while serving as an important servicing tool. Our
+PLANET app which crossed over 2 Cr total downloads till date, received the award for “Best Digital Experience
+in Finance” at the Global Fintech Fest, 2025. I am confident that through this app, we will constantly harness
+cutting-edge technology to simultaneously enhance customer experience as well as improving our operational
+metrics. Please refer to slide no.60 & 61 in the Investor Presentation for operating metrics on the app.
+4. Brand Visibility - We continue to capitalize on our integrated marketing campaigns, leveraging our brand
+ambassador, Jasprit Bumrah. During the quarter, we also ran campaigns for our Two-Wheeler and Farmer
+Finance businesses, while participating as an Associate Sponsor in the Asia Cup '25.
+I am delighted to announce that the second edition of our flagship BFSI-AI event ‘RAISE’ with the theme
+‘Accelerating financial services with AI’, which is scheduled to take place on 7th November, 2025 at the Jio
+World Centre, in Mumbai will be bigger and grander, with a very interesting line up of international and national
+speakers and technologists. We urge you to visit the event website ‘www.ltfraise.com’ and register for the
+same.
+5. Capability Building - On capability front, we are committed to fostering an environment where every
+employee feels valued, empowered and inspired, making us truly an employer of choice in the financial
+services sector. On this front, we continued to strengthen our organizational capabilities through robust
+employee recognition programs. These include the Champions League (recognizing over 200 top performing
+employees across the country) and the Zonal Star Awards (honouring over 1,100 top performing employees
+across key regions), ensuring continued motivation and development of our employees.
+
+INTERNAL
+I will now request Mr. Sachinn Joshi, our CFO, to take you through the financial updates.
+Financial updates
+Sachinn Joshi:
+Thank You, Sudipta. As always, I will be walking you through the financial performance of the company for the
+quarter.
+Quarterly Performance:
+• Consol NIMs + Fees for Q2FY26 remained stable at 10.22% on QoQ basis and down by 64bps YoY
+• Consol PAT for the quarter at Rs. 735 Cr up 6% YoY and 5% QoQ
+• Quarterly retail disbursements stood at Rs. 18,883 Cr, up by 25% YoY and 8% QoQ
+• Retail book stands at Rs. 1,04,607 Cr (up 18% YoY and 5% QoQ). Our Consol book stands at Rs. 1,07,096
+Cr, up by 15% YoY and 5% QoQ
+• Consol RoA stands at 2.41%, down by 19bps and up by 4bps QoQ
+• Consol RoE at 11.33%, down by 31bps YoY and up by 47bps QoQ
+Retail Businesses:
+Rural Business Finance
+The business registered quarterly disbursements of Rs. 6,316 Cr, delivering a strong momentum with a growth of
+16% YoY and 12% QoQ. The book size reached Rs. 27,460 Cr, up by 3% YoY and 3% QoQ respectively, in
+Q2FY26.
+Farmer Finance
+In the Farmer Finance vertical, quarterly disbursements stood at Rs. 1,654 Cr in Q2FY26 (down by 7% YoY and
+25% QoQ). Postponement of purchases owing to GST rate rationalisation anticipation led to a lower offtake in the
+month of September. The book size reached Rs. 15,943 Cr, reflecting a growth rate of 10% YoY and 1% QoQ.
+Urban Finance
+The segment comprises Two-Wheeler Finance, Personal Loans, and Home Loans & LAP.
+• Two Wheeler Finance: The Two-Wheeler business registered quarterly disbursements of Rs. 2,512 Cr in
+the quarter, up by 5% YoY and 18% QoQ. The book size increased to Rs. 13,013 Cr, up 3% YoY and 6%
+QoQ. Notably, 88%+ of Two-Wheeler Finance disbursements in Sept’25 was from the Prime segment as
+against 53% for the month of March’24. This reflects our focus on quality growth and risk-adjusted returns.
+• Personal Loans: In the Personal Loans business, we achieved a quarterly disbursement of Rs. 2,918 Cr
+translating into a growth of 114% YoY and 50% QoQ with the book size reaching Rs. 10,878 Cr, an increase
+of 52% YoY and 16% QoQ, attributed to the successful scale-up of the big tech partnerships.
+• Home Loans & LAP: Moving on to Housing, we achieved quarterly disbursements of Rs. 2,713 Cr, up by 7%
+YoY and a degrowth of 2% QoQ, with the book size at Rs. 27,407 Cr, an increase of 26% YoY and 4% QoQ.
+Growth in the segment was supported by newer partnerships and a strong network of distribution channels.
+• SME Finance: In the SME business, quarterly disbursements stood at Rs. 1,468 Cr, up by 18% YoY and
+15% QoQ. The book stood at Rs 7,465 Cr (up 44% YoY and 7% QoQ). The focus continues to be on building
+
+INTERNAL
+diversifying sourcing channels and expanding sourcing funnels through new partnerships to boost
+disbursements.
+• Gold Finance
+In the Gold loan business, quarterly disbursement stood at Rs. 983 Cr and the closing book stood at Rs 1,475
+Cr at the end of Q2FY26.
+Let me now hand over the call back to Sudipta to make his closing statements.
+Sudipta Roy:
+Thank you Sachinn. In closing, I would like to state that our teams remain fully focused on capitalising on the
+strong base we have built over the last few quarters and increase the acquisition velocity in the coming quarters.
+The impact of many of our credit and technology initiatives will start becoming more visible in our financials in
+Q4FY26 and the full scale will playout in the next financial year. Our investments towards best-in-class technology
+that can act as a force multiplier for our businesses will continue unabated as we continue to work towards
+achieving our long-term business goals which will be outlined in our Lakshya 2031 plan in April 2026.
+I thank you all for joining us today. I once again now wish you all a very happy Diwali. The floor is now open to
+questions.
+Moderator:
+We will now begin with the question-and-answer session. The first question is from the line of Praful Kumar from
+Dymon Asia.
+Praful Kumar:
+Hi, Sudipta, hi Sachinn, hi everyone. Congratulations, sir, on great execution. Sir, one -- first question is that given
+that macro prudential provisions are largely used and next year will be much better given all the underlying macro
+drivers and each of our geographies stacking up very well. Would it be prudent for us to rebuild the provisions in
+good times as they have helped you in bad times?
+Sudipta Roy:
+Yes. Thanks, Praful, for that question. As we have indicated in some one-on-one conversations earlier, we would
+be looking at rebuilding back the macro prudential provisions as and when we have the opportunity of doing that.
+So as an organization, we are committed to rebuilding it back. However, we would like to rebuild it back from
+some of the realizations from our ARC portfolios, which some of them are in very advanced stages of resolution.
+And we probably will have some realizations from them over the next 18 months to 24 months period. And
+whatever over realizations that we have from them will go towards building the macro prudential kitty once again.
+So it will not be an immediate exercise. We'll kick off that exercise immediately, but because these assets will
+keep on resolving over the next near-term horizon, as and when they resolve, we will continue to build the macro
+prudential provisions from that over realizations.
+Praful Kumar:
+Understood. And sir, one small question. You had a superb treasury management and the cost of funds is
+reflecting, one of the first NBFCs to reflect it meaningfully. Despite that NIM plus fees is flat QoQ, is this more the
+risk calibrated returns that you are contemplating in terms of business model? That's the way to look at it?
+
+INTERNAL
+Sudipta Roy:
+Yes. Sachinn, you want to take that?
+Sachinn Joshi:
+Yes, sure. So NIM plus fee if you look at each component of the NIM, the yields as we have spoken over various
+calls, over last -- from the time we began our Lakshya 2026 journey. Initially the NIM actually went up because
+the yields started going up since we were moving towards retail. A time came about 1.5 years back when the
+overall retailisation sort of got over, around 95% we had reached, after which the further increase in yields was
+not possible because retail book replacing wholesale book led to that increase. Post that, last four-five quarters,
+we have seen that microfinance sector has gone through a challenge and the disbursements also were very
+calibrated. This led to other businesses growing more than the Rural Business Finance, which naturally meant
+that the change in mix resulted in the yields coming under slight pressure. But as we have seen in this quarter,
+the Rural Business Finance, the disbursements have again picked up and we believe we have now come through
+a major part of that crisis, where our collection efficiencies are already 99.50% as of September. And as this book
+continues to grow, the pressure will naturally ease. We have also begun from last quarter the journey of growing
+our gold loan business. This quarter was also very good. We did about Rs. 923 Cr. September month actually
+was about Rs. 400 Cr plus. So as these higher-yielding book starts growing, we will see the pressure on yields
+coming down.
+We believe that NIM plus fee in the range of 10% to 10.5% seems to be possible. I'm thankful for the interest rate
+cycle to really change and we are now in the downward cycle. RBI has already given a 100 basis points repo cut.
+There are also talks about further rate cuts coming in. Yes, because of the way we grow our liability book, the
+PSL advantage that we have, the mix of that book in terms of short, medium and long-term assets helps us in
+terms of building up a shorter-term book as well in the form of commercial paper. The shorter end of the curve,
+you've seen that the interest rates have been lower. And we are yet to fully take advantage of that. If you look at
+the composition of CPs in this quarter's number is just about 7%, average may be about 8% to 9%, but yes there
+is a scope to grow this book right up to 13% to 15%. This as well as the full benefit of the rate cut has not yet been
+passed on by all the banks.
+So we believe that there will be still some room to have a reduction in weighted average cost, but significant part
+of it has actually come in. The third component of this is the fee component. The fees this quarter has been down
+by about 18 basis points on a quarter-on-quarter basis. But I think the range is very clear, from 1.75% to 1.9%
+has been the range. And if we continue within that range, I think we should be able to manage the overall NIM
+plus fee in the range of 10% to 10.5%.
+Sudipta Roy:
+Yes. And I'd like to just add to what Sachinn said is that our business units are continuously being tasked to
+improve their yields across the disbursements. And so there is a very sharp focus on making sure that we maintain
+the yields and with the upward bias across all our lines of business, while maintaining the asset quality as well.
+So overall, yes, as I would like to echo what Sachinn said, our objective is to maintain it in the corridor of 10% to
+10.5%. And we are reasonably confident that we should be able to do that.
+Praful Kumar:
+Fair enough, sir. Thank you and all the best.
+Moderator:
+Thank you. The next question comes from the line of Mahrukh Adajania from Nuvama Wealth Management.
+
+INTERNAL
+Mahrukh Adajania:
+Hi, congratulations to you and your team. I just had a few questions. Firstly, the housing disbursements are a little
+soft on a sequential basis. So is it that you really want to focus on other segments because they are higher
+yielding? So that's my first question. And then, in general, there has been a growth surprise in the BFSI segment.
+Do you see this sustaining? I mean what's your view? And if you could give some colour on fees. I know that you
+said that because of MFI they are stressed, but for better yielding products, would you like -- or to move up the
+credit risk curve, would you like to sacrifice some yields? Is that the way to look at some fees? Is that the way to
+look at it because the benefit on credit cost can be substantially higher?
+Sudipta Roy:
+Yes. So I'll take them one by one. So the first question was about Home Loans. So we -- obviously, as you can
+understand that post the rate cut, there have been significant downward pressure on the revision of the Home
+Loan rates as well as well as the market has transmitted and the market has become very competitive, especially
+for Home Loans. So what we have been doing is that we have been judicious in terms of not entering into a full-
+blown rate war and operating in segments where we'll still get the rate efficiency and focusing more against Loan
+Against Property. So overall, our loan against property disbursements have gone up and our pure home loan
+disbursements actually has sort of remained on an even keel, which has led to the little bit of moderation in the
+overall mortgage portfolio growth. And we expect that this will remain in this state for the next couple of quarters.
+Obviously, we are -- we will look at way by which we can sort of take our or maintain our home loan yields as well.
+But obviously, the market is very competitive and sort of downward facing in terms of rates. So that is the reason
+for that. The second question was -- is that -- I didn't get you. You were saying that it has been -- the growth has
+been surprising? No, I didn't catch that. BFSI growth you said.
+Mahrukh Adajania:
+No, in general, so not too many results have come, but there has been banking business updates. And all of them
+have reported better than -- most of them have reported better-than-expected growth. So there is a growth surprise
+in the BFSI segment. Do you see it sustaining is my question?
+Sudipta Roy:
+Yes, Mahrukh. I see it sustaining. Obviously, you see, if you see the last 18 months the regulator had been
+extremely cautious on growth and the regulator had been pressing the brakes on growth for quite some time.
+However, I think the sort of the asset quality clouds, which were also there on many of the segments, like personal
+loans, microfinance, has reasonably resolved. And that is why you can see that some of the growth spurt is coming
+back.
+Our microfinance business, if you see the disbursement this quarter has been Rs. 6,300 crores. The previous
+highest of our microfinance disbursement was in March 2024 when we crossed Rs. 2,000 crores. And this quarter,
+both in the month of August as well as in the month of September, we have seen -- both months, we have done
+Rs. 2,000 crores plus. So obviously, there is a demand in the market and there is space in the market for
+organizations to grow. For example, if you look at our Two-wheeler disbursements on a Q-o-Q basis, they have
+grown by 12%. Our personal loans disbursement on a Q-o-Q basis has grown upwards of 100%. And primarily,
+that is because of our focus on our digital channels and all of them have fired in. So yes, there is a growth bias.
+And I would like to add to that that the numbers for this quarter really do not reflect the GST 2.0 volumes. And if I
+look at the trajectory in October, especially in our Two-wheeler and in our Farm business, there are an order of
+magnitude difference from what we saw in September. And I do believe this is not only for us, but this will be seen
+overall in the industry as consumer sentiment improves, as overall asset quality cloud lifts and as well as there's
+a massive push towards consumption, thanks to the GST 2.0 reforms and overall customer sentiment improving.
+So, I do believe H2FY26 for BFSI will be a very strong quarter for growth. And I expect this trend to continue in
+the latter part of H2 and maybe into FY27 as well. Your third question was on fees?
+
+INTERNAL
+Sachinn Joshi:
+No. Moving up the credit risk curve.
+Sudipta Roy:
+Yes. So -- so see, what -- we are very, very clear. The fact is that we will do business, and I have guided on
+several occasions that as an organization, we want to build a cycle resilient business. Now what do you mean by
+cycle resilient business? Cycle resilient business is that as and when the business moves to cycles or the
+economy moves to cycles, there will be crest and troughs in the credit risk sort of trajectory. You have to sort of
+box the crest and troughs in a tight narrow band, so that even when the cycle turns, the risk cost of your portfolio
+does not go beyond a particular pain threshold. And for that, you can deliver that only when you have about
+roughly 80% to 85% portfolio, that is the back-of-the-envelope sort of calculation that we have in what I call cycle
+resilient customers. So yes, obviously, as you move up the cycle, there will be a little bit of downward bias on
+yields, etc, because your better-quality customers will probably expect a little bit of lower rates. But again, there
+are ways of balancing that. Customers on digital delivery channels tend to be a little less rate agnostic than
+customers on physical delivery channels. So overall, obviously, it's a continuous optimization exercise. And I'm
+quite happy to note that our teams have been sort of faring quite well on this. And on back of the implementation
+of Cyclops, it also helps us fine price the segments. That means if I have a couple of segments, I am able to
+pinpoint the risk cost that would arise out of the segment and price it accordingly. So that the risk-adjusted yield
+that is expected of us operates in a tight trajectory, and the credit cost also operates in a tight trajectory.
+So, this is the philosophy going forward. And this is something that as we gain experience more through Cyclops,
+Cyclops has been in operation for about 18 months -- about 14 months now, 14-15 months now. As we gain more
+experience, the science will become far, far more sharper and will help us maintain a very, very tight trajectory
+going forward.
+Sachinn Joshi:
+I'll just add -- part of just to add, you know, as part of this strategy, in fact, just to bring the pressure down on our
+dependence only on the rural business finance, we have acquired gold loan business, and that will be one of the
+key thrust areas because that's a secured book and reasonably good yields. So, we would like to try and balance
+out. Your question was also on the housing piece, whether it will be -- whether we are soft peddling that. But the
+fact is that housing book being secured, it's absolutely necessary to be a part of your balance sheet. But at the
+same time, you cannot accelerate the growth to a level where your NIM plus fee starts getting impacted. So, it will
+surely be a significant part of the book. It is a significant part, but it has to be supported well by a mix of both
+secured as well as unsecured books, reasonably high-yielding portfolio so that we have -- we are in a position to
+give decent RoAs and RoEs that we have targeted for.
+Mahrukh Adajania:
+Okay. Thank you so much. Thanks a lot.
+Moderator:
+Thank you. The next question comes from the line of Kunal Shah from Citigroup.
+Kunal Shah:
+Yes. Congratulations for a good set of numbers. Firstly, maybe in terms of the credit cost trajectory. So earlier
+also, you had indicated that by end of FY26, we would be closer to 2.3% to 2.5%-odd. And this would be without,
+I would believe, now the utilization of the buffer. But as you indicated like the larger part of the benefit of all these
+
+INTERNAL
+investments on the credit underwriting side will reflect in FY27, how should we eventually look at the normalized
+credit cost over the medium term.
+Sudipta Roy:
+Thanks, Kunal. What we would like as an organization to aim for a 2% credit cost trajectory. That is what we would
+aim, aim for a 2% credit cost trajectory. So over the medium term, the numbers will tend towards that. Obviously,
+on a Rs. 1 lakh crores book with what I call a number of high-velocity businesses like Two-Wheeler, microfinance
+and some of the climate-dependent businesses, on which we literally, as an organization, have no control, like
+farm business, etc. This have a little bit of cyclicality in this. So though, our objective through our credit models is
+to take out the cyclicality as much as possible, but we do believe that over the near-term, that means in FY27,
+we'll trend closer to that 2% target. It's very difficult for me to put my finger on and say which quarter we will hit
+that. But directionally, you will see the movement. You will see directionally see the movement. We are already
+seeing the movement through the early indicators of our Cyclops underwritten portfolio. And as you can see, the
+three businesses, three, I would call the high-velocity businesses, like Two-Wheeler, Farm as well as now in SME,
+they are already under Cyclops. We're implementing personal loans this quarter. Over the next quarter and
+probably the first half of FY27, we'll see the implementation in home loans, loan against property as well as rural
+business finance. So overall, I do believe that through those interventions and through the automated portfolio
+monitoring that we have, which allow us to see risks much earlier, then it becomes apparent. So, we should be
+able to trend closer to that 2% risk cost trajectory.
+Kunal Shah:
+Yes. And you shared the numbers with respect to bounce rates in Two-Wheeler and net non-starters in Farm
+equipment. But if we want to understand maybe how the credit cost behavior in these two particular segments
+have been. We have earlier indicated, by September, we should see it picking out and thereafter second half
+should see a much better improvement out on those front. So, if you can highlight maybe apart from those early
+indicators, how is the credit cost in these two segments? Where is it settling? And for 2% number, what are we
+expecting these two segments to contribute in terms of the overall credit cost, yes?
+Sudipta Roy:
+Kunal, probably going into a couple of, sort of data points over the call might -- this call might be difficult, but I
+would urge you to attend our Investor Digital Day, where we will give the investors a flavor of this. So, we will try
+to give some granular flavor of this, which I believe will paint a much more coherent picture than me giving some
+numbers on the call, which might not give the full picture. So, I would request you that the answers to this will be
+provided on the 6th of November 2025 in our Investor Digital Day.
+Kunal Shah:
+Sure. And if one last question, I can squeeze in. So, particularly on the growth, like again, LAP, SME, consumer
+loans, everything is growing quite significantly. So do we see this scale up continuing? Are we confident with
+respect to overall personal loans, SME and LAP given maybe there are maybe tariff concerns out there, personal
+loans, not very sure if it is -- maybe most of them are indicating it is stabilizing and improving. But what is the
+scale up and what is the proportion which we can take in these three particular portfolios?
+Sudipta Roy:
+See, again, this is what I would say is that we will have risk calibrated growth. So, the fact is that you have to
+understand that -- what we have originally guided, we have originally guided is that AUM growth rate between
+20% to 25%. This is what we have guided. So again, at times, there are gaps in the market when everything is
+
+INTERNAL
+benign, you might -- and you can have a little bit of higher trajectory of growth. However, our growth is, as we
+have said in many occasions that, we are a risk-first technology- first company. And the fact is that our growth
+appetite is tempered by the indications of market risk or emerging risk that we continuously see. So as of now,
+we see good growth potential ahead, and we are reasonably confident, thanks to Cyclops sort of tapping that
+growth, without letting any risk hotspots developing in our portfolio. So back of GST 2.0, we see a good spurt in
+farm business, tractors. We see a good spurt in Two-Wheelers. But again, when we are participating in that spurt,
+we are very, very clear that we only take that segment of customers that matches our risk profile. Now if that gives
+us a 20% growth, so be it. If that gives us a 25% growth, so be it. But the fact is that -- so please understand.
+Here we are not chasing any particular growth number. What we are chasing is risk calibrated growth. Now if the
+risk calibrated growth makes us hit a particular number, that is the number that we'll report to the market.
+So -- but given the fact that we are seeing good customer sentiment, good consumption sentiment and the GST
+2.0, especially in the wheel segment pushing disbursements. And it's not only about GST 2.0, for example
+personal loans. Personal loans, our digital channels have fired really well because the fact is that the extensive
+model building that we do with each of these partners, with a particular risk cost in mind, help us sort of catch a
+customer of a particular credit profile. And given the fact that if this digital channels start firing -- because you
+have to understand that in acquisition, the digital channels, if properly delivered -- if they properly deliver the
+customer experience, is the least frictionless way of acquisition. And sometimes if the channels are operating at
+their full stack efficiency, your growth can be very, very high without compromising on risk.
+So, overall, it's a -- many factors are here at play. We -- but again, I would like to send the message that we are
+not chasing any headline growth number. We have guided for an AUM growth for the full year between 20% to
+25%. We are confident that we'll hit that. But given if there are gaps in the market, if there are benign spots in the
+market, if there are markets where risk-calibrated growth is strong, we will not shy away from participating in that.
+Kunal Shah:
+Sure. Got it. Thanks. Thanks and all the best.
+Moderator:
+Thank you. The next question comes from the line of Kaitav Shah from Anand Rathi.
+Kaitav Shah:
+Yes, sir. Congratulations on your -- on a good set of numbers. Sir, if you can share about when you started the
+journey and as of today, some technological changes that have happened and which you would like to highlight
+Digital Day coming up, but just for our understanding couple of highlighted points that, you know, you would like
+to -- that stand out for you, that would be great for us.
+Sudipta Roy:
+See, I think the biggest sort of change has been our underwriting through our Cyclops underwriting engine. So it
+is pretty state-of-the- art, already in Version 3. And I'll be very, very honest, when we started building it, and we
+will give double clicks on some of the results during our Digital Day, when we started building it, we probably did
+not anticipate the impact of that on some of these high-frequency portfolios so quick. So, some of the results came
+in very thick and fast and which helped us also optimize that channel also very, very fast, and has given the --
+actually the confidence to scale up our volumes as well in this festive period. So, that has been really a
+transformative initiative. And it's not that it has -- it is delivering result only in the Two-Wheeler business. It is
+delivering in Farm. It -- SME has gone live. We are seeing the leading indicators in SME also within 2 months, in
+terms of reduced net non-starter numbers. So -- and I'm 100% certain that it will give the benefit in personal loans
+as well and SME and MFI and mortgage as it goes -- gets implemented in those going forward.
+
+INTERNAL
+The next tool, which is Nostradamus, which is our automated portfolio management engine. Again, I do believe
+that it is something the market is probably not fully aware of what has been built, and we will take the covers off it
+during our Digital Day. So, you will see sort of the beta version of it during the Digital Day, and we'll be demoing
+it as well. So that has been another significant achievement.
+The introduction of our copilots for underwriting, especially the GenAI-based SME copilot, wherein a file which
+used to previously take about anywhere between 3 to 4 hours to underwrite is currently being underwritten in sub-
+30 minutes. And to the extent that the SME copilot also tells the underwriter for the PD questions. It also -- so it
+sort of indicates. So, that has been quite -- and it's a new rollout that has happened. It went live about a couple of
+days back. That has been -- and overall, the stabilization of the core engineering platform, the movement of omni
+platform sales force for all our lines of business, barring microfinance as of now. And also, for example, our
+PLANET app. Our PLANET app in terms of servicing has been extremely transformative. A large amount of our
+servicing and sort of cross-sell and acquisition is now carried through our PLANET app. I'm not so sure whether
+all of you are aware that our PLANET app got awarded the Best Digital Finance Experience Application in FY25
+in India in the Global Fintech Fest. We have spent quite a lot of time, effort and energy in sort of building PLANET
+to absolutely global standards in terms of user experience and user interface. So that was a vindication of that in
+receiving that during the Global Fintech Fest. And this is not the stop. The fact is that our GenAI-based collection
+sort of initiatives, including our entire collections calling through voice bots has sort of matured over the last 2 to
+3 months, and we expect to scale it up much further and deploy it in customer service as well as in collections
+with even more frequency across all our lines of business. So overall, I think for us, technology is moving forward
+on all facets, in credit underwriting, in acquisition, in customer servicing, in collections as well as simplifying the
+operating processes within the organization as well.
+So, as I said, the philosophy of being technology-first is taken very seriously by people in the organization right
+now. And as an organization, we are focused on lifting the tech DNA of the entire organization. So in a way, I think
+over the last 24 months, this transformation has gone out quite well.
+Moderator:
+The next question comes from the line of Avinash Singh from Emkay Global Financial Services Limited.
+Avinash Singh:
+A couple of questions. First one is on operating expenses. So there is kind of a material improvement there. Also,
+if you can sort of guide, I mean, going ahead, once things sort of normalized, you have kind of a different way of
+-- I mean, like your digital sourcing picks up and all kind of things happens. Where is the kind of a steady state
+probably this opex to AUM will look likely in FY27? I just wanted to know the sustenance of this kind of
+improvement. And the second, the 2% credit cost guidance you are referring to over medium term, is that kind of
+assuming some changes to your product mix or is it largely based on the current product mix which you have and
+with all these -- kind of your Cyclops eventually going to all the product lines, and that leading to the improvement?
+Sachinn Joshi:
+Thanks, Avinash, for your question. Firstly, let me address the operating expenses related question. The opex, if
+you recall, we have guided that our opex plus credit cost, which started off as a 7% kind of thing. Slowly and
+steadily, you would have seen that it has been coming down. It was actually 4% opex, plus 3% credit cost. Credit
+cost, you've already seen that we actually guided it down to around 2.3% to 2.5%.
+The operating expenses, there are 2 components to it. One is the business-as-usual expenses, and the other is
+the investments that we have been making. You see quarter-on-quarter some changes happening in terms of
+percentages, more to do with the investments which have been -- which don't happen absolutely on a week-to-
+week or a month-to-month basis. We have been investing in setting up branches. Last quarter, we have actually
+set up 84 rural LAP branches. We have also set up meeting centers, about over 150 meeting centers. We have
+also acquired the gold loan business. So that has also impacted in terms of the incremental opex plus the goodwill
+
+INTERNAL
+that was paid -- the premium that was paid to acquire that business. So, all these are components which go in.
+And then, of course, the investments in technology. Sudipta spoke about how we have been investing in building
+up Cyclops, Nostradamus and all. So I think it's a mixed bag. We will continue to be in this growth phase for at
+least next 15 to 18 months minimum. So, there will be investments because we have to ensure that the future
+remains intact in terms of building up top line.
+The businesses which we built now, especially the last 2 to 3 years, we have built up on SME, micro LAP, personal
+loans and now we have acquired gold loans. So there will be investments in continuing to build on these
+businesses plus expansion that we take up for these businesses we'll need some -- both operating expenses as
+well as capital expenditure.
+So, the range now will surely come down from 4% to -- 4% plus 3% to somewhere around -- 7% will come down
+to about 6.5% and then to 6%. So as these investments stop, you will see this -- directionally, the operating
+expenses coming even below 4%. But I think there is some time for it because it's very easy to bring down that
+cost, but then we have to keep the future in mind.
+On the credit cost piece and the RoA targets that we have talked about, yes, the key businesses we are already
+into. We will be starting to work on our Lakshya 2031 plan shortly. We should be done with it, with the Board
+approvals by April next year. And we would perhaps at that point of time come up with some new businesses. But
+what we talk about at this point, a significant part of the RoA tree that we spoke about would be -- is a construct
+based on the current businesses that have enough potential to grow. I hope I have answered your question.
+Avinash Singh:
+Yes. Very clearly. So that 7% going to eventually 6.5%, eventually to 6%, so probably are you looking like the 6%
+kind of a thing in FY27 or beyond?
+Sachinn Joshi:
+Yes, FY27, it's quite possible. Like I said, as of now, there is some visibility on what investments we want to make,
+right? But as we move into the next year, we will -- if we take a call on introducing some business, then yes, there
+will be investments required. So rather than going by the percentages, I would suggest that we need to look at
+where the investments are going in and whether they are going to help us in terms of maintaining the RoA, RoE
+trajectory and then building on it.
+Sudipta Roy:
+See, one of the things that we have to understand here is that a large proportion of the cost profile of an NBFC
+also is collections costs. And the fact is that as the credit clears and as the portfolio quality improves, you see a,
+pari-passu, dip in collections costs. So, what happens is that it's a multiplier impact. Your credit cost reduces, your
+collections cost also reduces. And the speed at which that your credit cost reduces, pari-passu, your collections
+cost will also reduce at the same speed. So in -- what we expect is that over the medium term, as our portfolio
+credit cost comes down, you will see a release in the credit cost as well -- collections cost as well. And this too
+will overall push us to -- as Sachinn guided, from that 7% to a 6% trajectory. And we do believe that achieving
+that somewhere during FY27 is possible. But again, it is contingent on how the market behaves, what is the
+environmental condition at that point in time, is there a long tail risk, which we do not know right now develops.
+So, it is too early to comment on this. But I do believe that we should see it sooner than later.
+Moderator:
+The next question comes from the line of Bhavik Dave from Nippon Mutual Fund.
+Bhavik Dave:
+Sorry if I am repeating my question because I was out of the call for the first 30 minutes.
+
+INTERNAL
+Moderator:
+Bhavik, I am sorry to interrupt you. There is too much of background noise.
+Bhavik Dave:
+Okay. So, two questions. One is on the consumer business. Just wanted to understand when we scale it up in
+terms of disbursement, what is a commensurate cost? Because when I look at your cost line item, that's dipping
+down. And incremental growth is coming from consumers, where I believe that the payouts are reasonable in
+terms of originating the business by via partners? So, I just want to understand how is that chugging along, and
+the growth is higher there, and the costs are inching down? That's one.
+And second question is on, again, on the Stage 2 provisioning. What would be the exit for the Stage 2 provisioning
+coming down quarter-on-quarter? And declining trend, is it because of the better outcome that we're seeing on
+Cyclops underwriting or is it -- what is the story there will be interesting to hear that?
+Sachinn Joshi:
+Yes. Bhavik, the first question with regard to the personal loans business. So, the Personal Loan business, as
+Sudipta mentioned, this quarter, almost 40% of the disbursements have happened through the financial
+partnerships that we have tied up. The commercials on that are different for each partner. But very clearly, the
+commercials are much lower than the normal DSA costs, which otherwise are incurred. So, you will see that the
+cost of doing this business are much lower as well as the fact that the funnel -- the customers that come through
+this funnel are much more -- are much better in terms of quality because they are more salaried, prime kind of
+customers, more bank-like.
+Number two, the Stage 2 provisioning that you talked about. Stage 2 provisioning, Stage 1 and 2 had the macro
+prudential provision sitting over there. And as we have been utilizing the cover from Stage 1 and 2 has been going
+down. So, it's just arithmetic.
+Bhavik Dave:
+Perfect. Just one clarification on the previous answer is, on the cost that we incur on acquiring these loans and
+consumers, that is all capex -- that is all expensed out in the quarter itself and would have to pay 1%..
+Sudipta Roy:
+Yes. So, I'd like to add to what Sachinn said. What we do is that typically -- typically on digital channels, you tend
+to get a little bit of higher realization than you would get from the same customer on a physical channel. For
+example, if the customer is willing to give you a 13% rate of interest -- agree to a 13% rate of interest on a physical
+channel. The same customer when delivered digitally, probably will agree to 14%-14.5%, primarily because the
+speed of delivery is much, much higher to the customer. So, generally on digital channels, you tend to have a little
+bit higher realization.
+And the second thing is that the digital channels are, I would say -- there are -- if you look at expenses of channels,
+your DSA channel or direct sales channel is the most expensive channel, followed by the digital channel, which
+is the partnership channels. Organic digital channels are actually the most expensive, where you generate organic
+leads from Google or from Facebook, etc. But the direct partnership channels are in the middle cost level, which
+means that they are cheaper than the DSA. And obviously, the quality that comes along with it primarily because
+of the various data exercise and the consumption of trust signals from some of these partners, quality is an order
+of magnitude different.
+So, from a P&L standpoint, risk adjustment standpoint, the cohorts are far more better than probably even the
+DSA cohorts. And the last channel is obviously, which you originate on your own is the cheapest -- is your own
+cross-sell base, or your own pre-approved base. So, these are the 3 sort of cohorts through which you acquire
+
+INTERNAL
+customers. Again, for us, it's very important to maintain a fine balance between both because we would also not
+like to maintain a concentration of origination in one channel. We would like to distribute the origination across a
+couple of channels. So that's why you will find us operating in the DSA channel, you will find us operating in the
+digital channel as well as you'll find us operating in our own channel as well as our preapproved channel. But
+overall, the objective for all of us is to make sure that the origination cost is as low as possible and obviously,
+again, with an eye on quality.
+Moderator:
+We take the next question from the line of Prithviraj Patil from Investec.
+Prithviraj Patil:
+Yes. So, my one question is on the MFI part. So, if I look at the 0 DPD collection efficiency that's been mentioned,
+it's largely in line with what was the last quarter -- last couple of months. It's at 99.5%. So, do we expect this to be
+the new normal in the MFI lending space or is it supposed to get better from here? Like if you could just throw
+some light on how to look at this?
+Sudipta Roy:
+So, you see the 0 DPD collection efficiency, obviously, is at 99.5%, but there is some improvement over what it
+was last quarter.
+Sachinn Joshi:
+99.35%.
+Sudipta Roy:
+Can I have the last -- 99.35%, right? So, the 0 DPD collection efficiency for pan-India was 99.35% at the end of
+last quarter. It is about 99.5%. So there has been a 15 basis points improvement over the last 3 months period.
+See, again, we are improving slowly in this. So, the pace of improvement will probably slow down going forward.
+But again, a large discriminant on this was Karnataka on which we have given the data on Karnataka during the
+call, where Karnataka, we have seen a significant improvement over the last quarter. Over the last quarter in
+Karnataka, we have moved from about 98.18% to 99.06%, and we ended September with 99.18%. This is
+available in Slide 38 of our investor presentation.
+We expect this to move further. Over a period of time, which is as we -- between Q3 and Q4, we'll move to about
+99.6% -- we hope we'll move to about 99.6%. However, I know we have to see how it pans out in the market. And
+-- but yes, to answer your question, there will be an upward bias to this particular number. But the climb up from
+this particular level will be slow.
+Prithviraj Patil:
+Okay. And if I can just ask another question on the cost of funds?
+Sudipta Roy:
+Yes.
+Sachinn Joshi:
+Yes.
+
+INTERNAL
+Prithviraj Patil:
+So, the cost of funds has come down dramatically. So, I just wanted to know what is the reason behind that.
+Because if we look at the fixed floating split that you have given for the one-year gap, the assets -- the repricing
+assets are higher than the liabilities. I just wanted to know why the cost of funds have come down.
+Sachinn Joshi:
+So, a couple of reasons. We had actually gone for some ECB borrowings in fag end of Q1, but the drawdowns
+and all have happened in tranches. Those have come in at better rates. There have been -- you would have seen
+the overall mix where we have the direct bank loans PSL and bank loans non-PSL. There are loans which actually
+come up for -- which are linked to, I would say, either the T-bills or a variable rate, which leads to reduction.
+Number three is the commercial paper rate, the short-term rate. We just made a mention of the fact that gold loan
+business has also picked up. So, our ability to actually -- the ALM permits us to have more short-term assets and
+correspondingly short-term liabilities in the one-year bucket, which enables us in also taking advantage of the
+short-term rates.
+So, it's a mixed bag and add to it, the liquidity that has to be kept. RBI has been keeping enough liquidity in the
+system of about Rs. 1.5 trillion to Rs. 2 trillion on an ongoing basis. That also ensures that we don't have to keep
+liquidity the way we otherwise keep when situation -- external situation is a bit tense. So, it's a mix of all these
+things, which has actually resulted in a reduction in the overall weighted average cost.
+Moderator:
+The next question comes from the line of Shreepal Doshi from Equirus.
+Shreepal Doshi:
+Hi, sir. Congrats on a good set of numbers. My question was on personal loans again. So, in that, what is the
+customer profile that we're targeting, the CIBIL benchmark and also the pricing that we have at a blended level
+for that segment? And just harping on the channel partners. So, what are the typical payouts there for DSA and
+for the online channel?
+Sudipta Roy:
+So, our focus on personal loans is pure salaried customers. That is our focus area. So, we want to build a portfolio
+that is 80%, 85% salaried, on the Personal Loan side. So, when we -- for example, if you look at our DSA channel,
+we do not source customers who are non-salaried. So similarly, on our digital channels, the focus is on acquiring
+salaried customers. So that's from a customer segment point of view. You can say the average pricing of our
+Personal Loans product, it varies by channel, but it -- the average pricing varies between 15.5% to 16.5%. So,
+this is the average pricing of our personal loans portfolio.
+And in terms of payouts, the DSA channel typically has a payout of 3%, which is not known -- which is now known
+widely in the market. But the fact is that for digital channels with every digital partner, we have a different
+arrangement. So, there are some partners who operate on a low origination fee and a share of profits for portfolio
+breakeven. So, there are varying models that you have. So, it will be very difficult for me to paint in one particular
+sort of blend.
+Shreepal Doshi:
+Okay. So then 15.5% to 16% is a blend -- is a yield bracket. So, then what is the CIBIL benchmark that we have
+for these customers? And also, so 27% of these customers are existing customers wherein you're doing cross-
+sell, I guess. So, these -- so that -- so what would be the original, or let's say, the base case product that these
+guys would have taken from us?
+
+INTERNAL
+Sudipta Roy:
+Yes. The base case -- the cross-sell customers are mostly seasoned vintage Two-Wheeler customers. So,
+majority of our cross-sell comes from season vintage Two-Wheeler customers. And if you would want to know
+what is the average, CIBIL benchmark score would be 750 plus is what we would be targeting for most of the
+customers. And again, if a customer has a much higher score, probably they will get a little bit of risk-adjusted
+rate. But average would be about CIBIL 750 plus.
+Moderator:
+The next question comes from the line of Chintan Shah from ICICI Securities.
+Chintan Shah:
+Yes. Thank you for the opportunity and congratulations on the performance, steady-state performance. So firstly,
+just harping on the credit cost part again. So, we believe probably it could be around 2-percentage odd by -- over
+the medium-term. What -- so how are we looking at the portfolio mix over the medium-term, say, by FY27 and
+given that now, MFI, we already have the guardrails and so it would be a slow moving portfolio for us. So, what
+would be the typical other portfolios which will be growing at a faster pace? And how would that compensate for
+the yield part? Yes, that's the first question.
+Sudipta Roy:
+Over a period in time, we want to move to a secured-unsecured profile of about 65-35, over a period of time. But
+currently, we are -- our first port of call would be -- about a 60-40 level would be our first port of call. So Gold
+Loans that we acquired, obviously, is a secured high-yield portfolio. As you heard earlier in the call that we'll be
+doing 200 more branches during this period in time. So, we will be sort of deploying these 200 branches in the
+latter part of the year. And then obviously, we have our sort of matrices into high risk, medium risk and low risk.
+So overall, the way we look at the portfolio is that Gold Loans will continue to grow. Gold loans is a fully secured
+high ROA, low-risk product, is actually probably the lowest risk product as of now. Then you have mortgage. But
+mortgage, again, we will balance the growth on mortgage primarily because of the downward rate considerations
+that we have.
+Personal loans, the one we originate -- Personal Loans, obviously, we will originate in a risk-calibrated fashion.
+MFI, I believe that the geographies that we are expanding, we'll see reasonable growth. I think on a steady-state
+basis, 15% growth on a year-on-year basis on MFI is still possible. I'm not advocating that MFI should grow at
+15%, at a 25%, 30% level as we saw in the previous two years. But I do believe that a 15% growth rate on MFI is
+a safe speed to grow.
+SME, if you see post implementation of Project Cyclops, we are very, very confident of our credit paradigm in
+SME. So SME business, especially the prime SME business is what we will continue to grow. And Two Wheeler
+gives us a lot of confidence right now, given the leading indicators from Project Cyclops are fully visible to us and
+we know that the signs of acquiring risk-calibrated prime customers is working. We will continue to accelerate
+that. And on the Two Wheeler business, the Two Wheeler business has been tasked within those paradigms to
+take the rates up northwards by giving -- delivering a much better experience to customers. And so -- and on the
+tractor business also, we are seeing a lot of credit efficiencies, a lot of collections cost efficiencies. And given the
+fact that we have healthy reservoir levels, we have good GST 2.0 benefits where the headline GST on tractors
+have been slashed from 18% to 5%. I do believe that this segment will see very good growth rate in H2 and even
+going forward into FY27 as well.
+So overall, all these -- all categories of our businesses will continue the strong growth trajectory upwards. And as
+I said earlier in a question, the focus on maintaining the sort of the yields on all these businesses is very, very
+strong, and we'll try to maintain that.
+
+INTERNAL
+Chintan Shah:
+Sure. And just one last thing from my end. I think you had earlier guided for around 2.8% exit RoA by Q4FY27.
+So, this is -- this still holds, right? And does this include any benefit from the SR recoveries?
+Sudipta Roy:
+No. See, the 2.8% to 3% RoA that we have said that we expect to hit somewhere around exit FY27 is without
+factoring in any SR benefits. It is on an organic basis.
+Moderator:
+The next question comes from the line of Shweta from Elara Capital.
+Shweta Daptardar:
+Congratulations on good set of numbers. Sir, I just have one question. Given the fact that we have implemented
+Project Cyclops now on the MSME financing verticals as well, sir, can you substantiate or quantify in terms of
+demonstration of improvement in asset quality parameters, say, bounce rate reductions, etcetera? And any
+headwinds do you still see persisting in MSME portfolio? And how overall trends are stacking up in the industry?
+That's my one question.
+Sudipta Roy:
+Thanks, Shweta. The SME business, Project Cyclops full implementation has happened only 45 days back. There
+has been a smaller sort of -- and when you implement this, we go in a graded fashion. We take a small portfolio.
+We implement it. And then over a period of time, over, which is 3-4 months’ time, we sort of flip the entire portfolio
+into Project Cyclops. So, the leading indicators of bounce rates, etcetera, on the SME portfolio, SME underwritten
+Project Cyclops portfolio, Project Cyclops underwritten portfolio is encouraging. But I would say it is too early for
+me to give any indications that it is working well. Probably by the time we move into the Digital Day on the 6th of
+November, we'll have some early reads. So, on the 6th of November, probably we'll be able to answer this question
+of you with a far greater degree of confidence than immediately that whether there is a meaningful difference. We
+have seen a small cohort. There is a meaningful difference in a small cohort. But by 6th of November, we probably
+will see a full month of underwriting coming through. So probably we'll be able to give more nuanced details there.
+So -- and overall on the SME segment, yes, we saw some risk develop on the outside margin, especially on SME
+ticket sizes of Rs. 25 lakhs and below. But if you see our average ticket size on SME is between the range of Rs.
+65 lakhs to Rs. 70 lakhs -- sorry, Rs. 29 lakhs, sorry. Yes, Rs. 29 lakhs. So, we operate on the -- in the UBL,
+especially, we operate on the higher end of the spectrum. And we saw some of this risk on the margin developing
+almost 6 months back. And we acted at that particular point in time and tightened our guard. So as of now, we
+see dissipation of some of those initial risk indicators that we had seen. And after Project Cyclops has got
+implemented, we are pretty confident of the risk trajectory going forward.
+Moderator:
+We take the next question from the line of Abhijit Tibrewal from Motilal Oswal Financial Services Limited.
+Abhijit Tibrewal:
+So just trying to understand this, like in the previous few participants, you gave a very detailed commentary on
+how we are looking at growth across our different segments. If you could also cover what are the asset quality
+trends, again, qualitatively, in the various product segments where we are...
+
+INTERNAL
+Moderator:
+Abhijit, I do apologize to interrupt you there. Your voice is not audible.
+Sachinn Joshi:
+We can't hear you.
+Moderator:
+Abhijit, we do apologize to interrupt you there. Sir, Abhijit has left the call and the question queue. Ladies and
+gentlemen, we take that as the last question and conclude the question-and-answer session. I now hand the
+conference over to Mr. Sudipta Roy for his closing comments.
+Sudipta Roy:
+Thank you. Thank you for joining us on the call. I -- before I close, I would like to invite all of you for our Digital
+Investor Day on the 6th of November. The invites of that will be going out shortly from our Investor Relations team.
+On the 7th of November also, we have RAISE, which is our AI conference, which is organized by L&T Finance.
+And this year, we have got a marquee lineup of speakers. And this is going to be bigger and better than last year.
+And we have Pitch Point this year, which is the AI start-up competition, as well. All the details and the agenda is
+available on www.ltfraise.com.
+All our investors will be auto registered for RAISE as well. And we will be happy if you can share part of the time
+out of your busy schedules with us on 7th of November as well, where in the demo section, we'll be showcasing
+some of our sort of tech developments as well, which are in live -- in production.
+This quarter obviously has been the quarter in which we continue our normalization trend towards some of the
+business lines which had seen some headwinds in the previous couple of quarters. On the back of GST 2.0 and
+on the back of the good monsoons, I think we're going to see very good consumer sentiments in H2, which will
+lead to greater offtake of products and services and which will obviously boil down into better credit demand. And
+we are hopeful as an organization, we'll be able to participate in that in a calibrated fashion.
+I wish all of you and all of your families a very happy Diwali and best wishes for the festive season ahead. Thank
+you so much, and I look forward to meeting many of you on the 6th of November at our Digital Investor Day.
+Thank you so much.
+Moderator:
+Thank you. On behalf of L&T Finance Limited, that concludes this conference. Thank you for joining us, and you
+may now disconnect your lines.
+*Since the transcript has been derived from a voice recording tool, necessary corrections have been made to remove anomalies as well as manifest but inconsequential factual discrepancies,
+repetitions in Q&A which would have unintentionally crept in, if any

@@ -1,0 +1,590 @@
+“Wipro Limited Q4 FY’24 Earnings Conference Call”
+April 19, 2024
+MANAGEMENT: MR. SRINIVAS PALLIA – CHIEF EXECUTIVE OFFICER &
+MANAGING DIRECTOR, WIPRO LIMITED
+MS. APARNA IYER – CHIEF FINANCIAL OFFICER,
+WIPRO LIMITED
+MR. SAURABH GOVIL – CHIEF HUMAN RESOURCES
+OFFICER, WIPRO LIMITED
+MR. DIPAK BOHRA – SENIOR VICE PRESIDENT
+(CORPORATE TREASURER & INVESTOR RELATIONS), ,
+WIPRO LIMITED
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Moderator: Ladies and gentlemen, good day and welcome to Wipro Limited Q4 FY’24 Earnings Conference
+Call.
+As a reminder, all participant lines will be in the listen-only mode and there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need assistance
+during the conference call, please signal an operator by pressing "*" and then "0" on your
+touchtone phone. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Dipak Bohra – Senior Vice President (Corporate Treasurer
+& Investor Relations). Thank you and over to you, sir.
+Dipak Bohra: Thank you, Yashashri. A Warm Welcome to our Q4 Financial Year ‘24 Earnings Call. We will
+begin the call with the “Business Highlights and Overview” by Mr. Srinivas Pallia – our Chief
+Executive Officer and Managing Director, followed by Updates on “Financial Overview” by our
+CFO – Aparna Iyer, afterwards, the operator will open the bridge for Q&A with our Management
+Team. In this call, we also have our CHRO – Mr. Saurabh Govil.
+Before Srini starts, let me draw your attention to the fact that during this call, we may make
+certain forward-looking statement within the meaning of Private Securities Litigation Reform
+Act 1995. These statements are based on management current expectations and are associated
+with uncertainties and risks which may cause the actual results to differ materially from those
+expected. The uncertainties and risk factors are explained in our detail filing with the SEC. Wipro
+does not undertake any obligation to update the forward-looking statements to reflect events and
+circumstances after the date of filing.
+The conference call will be archived and a transcript will be available on our website.
+With that, I would like to hand over the call to Srini. Thank you.
+Srinivas Pallia: Thank you, Dipak. Good evening and good morning, everyone. Thank you for being here today.
+I am honored to be here as the CEO of this remarkable organization. My memories of joining
+Wipro in February 1992 straight from the Indian Institute of Science Campus are still fresh in
+my mind.
+I’ve been with Wipro for more than 30-years. I am proud to say that it’s such a unique company,
+the way it has combined profits and purpose, very strong global brand, present in over 60
+countries, leading in technology and committed to sustainability, diversity and inclusivity.
+As you know, I’ve been in the CEO’s role for about two weeks now. Through internal and
+external conversations, and the press reports I have read, I am aware of the high expectations for
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+my role. Despite my extensive experience as a business leader, stepping into the CEO’s role for
+the first time feels profound especially when it comes to leading this iconic institution.
+As I go through many emotions of this transition, one thing stays strong – My unwavering belief
+in Wipro, our values, our people, our clients and above all our resilience.
+Last year posed big challenges for the whole industry. It has affected Wipro’s performance too.
+The economic environment is still uncertain and there might be more challenges in the short-
+term.
+However, the opportunity before us is limitless. We are on the brink of a major technological
+shift. Every client I talked to across all industries is eager to leverage AI to shape the future of
+their business.
+And at Wipro, we have been gearing up for this moment. We have made substantial investments
+to strengthen our capabilities across the organization. We have a global and diverse team. We
+have made bold moves in M&A, acquiring companies like Capco and Rizing which have boosted
+our consulting capabilities and we have simplified our operating model.
+The building blocks are firmly in place, and I am committed to expanding on this even more.
+While I remain optimistic about the long-term, it’s important to be transparent, there’s still a
+considerable amount of work ahead of us.
+Our immediate priority is to accelerate growth. Before diving into the financial performance for
+Q4 and the full year, I want to discuss the “Five Focus Areas” we will concentrate to revitalize
+the company:
+1. Accelerate large deal momentum by working closely with clients and partners.
+2. Strengthen relationships with large clients and partners and further invest in accounts
+that have the potential to grow into large accounts.
+3. Focus on industry-specific offerings and business solutions, led by consulting and
+infused with AI.
+4. We will continue to build talented skill which is now AI-ready and able to deliver
+industry-specific business solutions.
+5. Finally, continue to simplify our operating model and focus on execution rigor with
+speed.
+As you see, the core tenants of our strategy remain unchanged. What’s important is how we build
+on these five priorities and adapt as necessary to accommodate technological shifts and market
+conditions. By years of experience in the markets, have taught me that integrating strategy with
+rigorous execution yields tangible results. And that’s where our focus will remain this year.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Now, let me turn to our “Financial Performance for Q4 and the Financial Year ending March
+2024”:
+In Q4, our IT services revenue grew sequentially by 0.1% in reported currency. If you recall, last
+quarter, we had talked about seeing green shoots in our consulting business. The traction
+continued in Q4, reflected in Capco’s sequential revenue, growing by 6.6% and order bookings
+growing by 43.6%.
+Talking of “Order Bookings,” in Q4, total order booking stood at $3.6 billion and for the full
+year it was $14.9 billion.
+Coming to “Large Deals,” in Q4 we won 18 large deals against 14 large deals in the previous
+quarter. In TCV terms, our large deal bookings for Q4 was $1.2 billion. For financial year 2024,
+we recorded large deal bookings TCV of $4.6 billion. This was a growth of 17.4% as compared
+to the previous year.
+For our FY’24, our revenue was $10.8 billion in reported currency. We continued to increase the
+percentage of revenue from our top five and top ten clients. Also, we added three more clients
+to the $100 million-plus bracket in FY’24. Six out of our top ten accounts grew on a sequential
+as well as on a year-on basis in Q4.
+Moving on to “Margins,” in Q4 we saw a further expansion to 16.4%. This is a 40 basis points
+improvement over last quarter. We closed FY’24 with a margin of 16.1%, an expansion of 50
+basis points over FY’23.
+Like I said earlier, we will continue to make investments in building capabilities and strategic
+acquisitions. In Q4, we took a majority share in Aggne, a leading consulting and managed
+services company, serving the insurance and insure tech industry. This allows us to strengthen
+our value proposition in a fast growing part of the insurance vertical.
+Expanding on our substantial investments in AI, in Q4, we launched the Wipro Enterprise
+Artificial Intelligence-Ready Platform with IBM. It’s a new service that will allow clients to
+create enterprise level, fully integrated and customized AI environments.
+Let me share one example of a win in Q4 that came from an AI-powered solution tailored to our
+consumer business. A leading global apparel brand chose Wipro as its strategic partner to
+implement Gen AI solutions for driving their digital transformation. This actually involves
+implementing large language models to improve search, recommendation engines, and enable
+hyper personalization at scale. All done responsibly.
+Before I hand it over to Aparna, let me share our “Guidance for Q1”:
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+We are guiding for a sequential growth of (-1.5%) to (+0.5%) in constant currency for Q1’25.
+We expect margins to stay range-bound like in the last few quarters.
+The next few months will be crucial as we steer the company towards growth. As a passionate
+hiker, I deeply connect with these words from Junko Tabei, the first woman to climb Mount
+Everest. She said, “Even it was hard, you can reach the peak if you climb step-by-step.” Of
+course, I seek the trust and continued support of all of you, our clients, our associates, partners
+and media as we move forward.
+Thank you. Let me now hand it over to “Aparna to Share More Details on our Financial
+Performance. Over to you, Aparna.
+Aparna Iyer: Thank you, Srini. Good evening and good morning, everyone.
+Let me highlight to you our “Financial Performance for Q4 and Full Year-ending March 31st,
+2024”:
+On IT services revenue for Q4, we delivered a reported currency growth of 0.1% sequentially
+and (-0.3%) in constant currency terms. For the financial year ‘24 IT services revenue declined
+3.8% year-on-year in reported currency terms and 4.4% year-on-year in constant currency terms.
+Let me also give you some color on our “Market Unit Performance”:
+Please note that all revenue growth numbers are in constant currency terms.
+In Americas-I, we continued our momentum of strong booking in Q4. We booked eight large
+deals in Q4, adding up to a total contract value of 587 million. For the full year, order bookings
+in TCV terms in A-1 grew by 24.9%. Q4 revenue for this market declined 1.8% on sequential
+basis, while the full year revenues grew 0.2% year-on-year. Our healthcare sector grew by 18%
+in full year in FY’24 year-on-year.
+Americas-II market unit grew 1.9% quarter-on-quarter on the back of strong performance in
+Capco, BFSI, Hi-Tech in Canada. On a full year basis, the revenue in this market declined by
+6.1% year-on-year. Almost 60% of our revenues in this market comes from the BFSI sector and
+as Srini mentioned in his speech, we are starting to see a return to stability in the sector led by
+Capco.
+In Europe, revenue decreased 0.1% sequentially in Q4 and decreased by 7% on a full year basis.
+While Germany and UK continue to remain impacted due to slowdown in demand environment,
+we are seeing a recovery in sectors like Switzerland and Southern Europe that grew 1.7% and
+1.6% in Q4. Southern Europe, as a sector, grew 14.6% year-on-year in FY’24.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+We also continue to see strong traction on the order booking side in Europe. In Q4, we’ve won
+five large deals adding to a TCV of more than $300 million.
+APMEA revenues declined 2.2% quarter-on-quarter and 4.5% for the full year. Our strategy in
+APMEA has been to move towards high value transformation projects and reduce low margin
+accounts. The success of our strategy is reflecting in our margin improvement of 235 basis points
+for the full year.
+In terms of “IT Services Operating Margins,” our continued rigor on improving operational
+excellence has helped us expand our operating margins by 40 basis points in Q4. This is after
+absorbing the impact of two additional months of salary increase in Q4. On a full year basis, our
+margins are at 16.1%; they have improved by 50 basis points year-on-year.
+Our net income and EPS for the quarter increased by 5.2%. Despite being impacted by a
+challenging macroeconomic environment, it is encouraging to know that our EPS for the full
+year grew by 0.8%. The increase in EPS was after absorbing the one-time restructuring charges
+of INR6,814 million during the year.
+We generated cash flow of $626 million in Q4 and $2.1 billion for the full year, which is at
+182.6% of our net income in Q4 and 159% of our net income on a full year basis. This is our
+highest cash flow in recent years. Our gross cash as a result is at $4.9 billion and net cash was
+at $3.2 billion. Both have increased year-on-year despite completing our largest buyback in July
+of 2023. In terms of some other important metrics that we’ve always shared, our ETR is at 24.5%
+for FY’24 versus 23% in FY’23. Our hedges continue to be in line with our policy; we had about
+$3.1 billion of FOREX derivative contracts as hedges at the end of Q4.
+Finally, I would like to reiterate the guidance for Q1’25 stated by Srini; we expect our revenues
+from IT services business segment to be in the range of $2.617 billion to $2.670 billion. This
+translates through a sequential guidance of (-1.5%) sequential to a (+0.5%) in constant currency
+terms.
+With that, I now hand over to the operator for questions.
+Moderator: We will now begin the question-and-answer session. We will take our first question from the
+line of Moshe Katri from Wedbush Securities. Please go ahead.
+Moshe Katri: Looking at the five focus areas that you mentioned, I am going to look maybe at three of them.
+Large deal momentum, what needs to get done to get there? Are you talking about restructuring
+sales, sector-specific offerings led by consulting in AI? Are we talking about more strategically
+using Capco given their expertise? And then you talk about simplifying the operating model.
+Are we planning a restructuring in terms of the various segments of the business?
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Srinivas Pallia: Thank you, Moshe. Appreciate your question. Let me answer in terms of the structure and
+operating model. I said we will continue to simplify our operating model, but the focus actually
+will be more on the execution rigor and with speed. That was the key message, Moshe. Now
+coming to the large deals, we want to create this large deal momentum and one of the things that
+we want to do is be more proactive with our clients and with our partners. And the second part I
+think a question that you said is we want to go very specific with the specific business solutions
+both on the cost transformation side and also on the business transformation side which is a lot
+more industry-focus with consulting-led and AI-infused. I think that’s how we want to
+differentiate our large deals going forward.
+Moshe Katri: Can you talk a bit about how you’re planning to use Capco? I think you have a very unique asset
+that Wipro has not leveraged efficiently enough in the past since the transaction. So, what’s going
+to be different here under your leadership that Wipro with Capco down the road?
+Srinivas Pallia: Consulting for us is going to be a strategic advantage and Capco plays a significant role here as
+you said, Moshe. Now, there are a couple of things that we want to do with Capco. Capco for us
+in the context of BFSI, is going to be tip of the spear for us. So, what we want to look at is an
+end-to-end from a consulting-led to execution. The entire story is what we want to take to our
+clients. And we’re getting a lot of good traction as we speak. There are places where the clients
+find it very interesting that a consulting company can actually execute and manage the end-to-
+end process areas for them. So, we will continue to collaborate much stronger in front of the
+clients, both leveraging Capco’s capabilities and it is going to be a very strategic advantage for
+us.
+Moderator: We have our next question from the line of Abhishek Kumar from JM Financial. Please go ahead.
+Abhishek Kumar: My first question is on Capco growth. You mentioned you saw both sequential growth and strong
+bookings. I am just trying to reconcile this with the comments that we hear about discretionary
+spend, especially in BFSI remains sluggish. So, what explains strength in Capco, maybe if you
+can highlight certain areas where Capco is winning deals?
+Srinivas Pallia: So, your observation is right, Abhishek. In the last two consecutive quarters, we have had a
+sequential growth both in order book and revenues. I think what we are seeing is in the BFSI
+sector, these are green shoots, we have seen some of the discretionary spend coming to us in the
+context of consulting. The second part is also wherever we are leading in with the Capco as the
+tip of the spear for us, we’re getting that advantage around the deals that we are working on and
+there’s a lot of synergy deals that we are working together going forward. So, that’s an advantage
+that we want to leverage and that’s a differentiation we want to do going forward.
+Abhishek Kumar: Maybe let me follow up on this. Then given the strength here and BFSI stabilizing, I was just
+wondering why this is not translating into slightly better guidance for next year, at midpoint, we
+still see decline sequentially, so what explains slightly weaker guidance for Q1?
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Aparna Iyer: Hi, Abhishek. Just wanted to share with you that the overall demand environment, we don’t see
+a material change. I think it’s very similar to how we saw it at the beginning of this calendar
+year. So, the macroeconomic environment and the challenges around lower discretionary spend
+remain. What we’ve shared is that we are seeing green shoots in Capco in the set of the portfolio
+of clients that Capco works with, we are beginning to see some kind of stabilization, and the
+growth that Capco has shown in Q4 is very encouraging. As far as Q1 is concerned, they are
+continuing to have stability. Now, this is coming in after a few very rough quarters for Capco.
+So, you should read it in that context, Abhishek. Okay? Overall guidance visibility? Of course,
+green shoots of healthcare and Capco are part of it, but also the overall macroeconomic
+environment and the softness is also very much a part of it. So, this is what we have guided
+based on what is visible to us now.
+Abhishek Kumar: I just noticed a sharp uptick in the top client revenue this quarter. Anything to read into this – is
+it one-off? What explains the sharp increase in top line?
+Aparna Iyer: Abhishek, you would recall sometime in Q2, I think we had shared that in a couple of our large
+accounts, we had one bookings that aggregated to about half a billion dollars each, right. Now,
+one of those clients has actually gone ahead and become our top client. So, we’re very pleased
+to share with you that our top client is now a different one that what we’ve had for several years
+and we’re very happy with the progress that we’ve made, that’s what we would like to share,
+that’s why you’re seeing the momentum.
+Srinivas Pallia: Abhishek, just to add a few more color to that. Our large deal pipeline continues to be strong
+and does consist of mega deals as well. We are also well-positioned to sustain and further
+improve our large deal and mega deal wins going forward.
+Moderator: We have our next question from the line of Ravi Menon from Macquarie. Please go ahead.
+Ravi Menon: I guess the first question is on the top ten. You’ve seen the top client, but even the top two to
+five that has seen growth, your BFSI is actually seeing pretty strong growth as well, healthcare
+also seems to be doing well. So, the ones that are actually not doing well seem to be relatively
+smaller segments like communications or hi-tech. Could you give some color around whether
+the weakness in these segments is the reason why you’re still looking at muted growth outlook
+for next quarter? And should we expect that in your biggest verticals you’re actually seeing
+growth?
+Aparna Iyer: Ravi, yes, this quarter for us in terms of BFSI, we’ve seen a quarter-on-quarter sequential growth
+after at least four quarters of being very soft. Healthcare has continued to do well and we will
+continue to see the momentum build on. We are very happy with both our positioning, offerings
+and the kind of growth that we are seeing in that sector.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+ENU (Energy and Utilities) and Manufacturing, we do believe that has been soft for Wipro and
+there is some muscle to be built. We have a good pipeline, we have interesting deals in the fray
+and We will see how they convert, more hopeful of getting back to growth in the second half in
+these sectors. Consumer and life sciences, again, it continues to be impacted by the overall spend
+environment going to higher inflation. Those are the broad colors that we wanted to share with
+you from a sector perspective. And therefore it’s a little bit of a mixed bag. So, yes, we are seeing
+green shoots and we’re seeing early signs of stability because now we’ve had two quarters where
+we’ve consistently seen… not just consulting, but other parts of BFSI coming around, but very
+early to say whether this is deterministically shifting, right, so we continue to remain cautious
+in that space. We’ve shared with you an outlook that basically has components of everything
+that I’ve just taken you through.
+Ravi Menon: The utilization number is at 84.8%. This exclude all the acquisitions, right? So, how should we
+think about where say for example Capco’s utilization might be, should that be a margin lever if
+the BFSI demand comes back?
+Aparna Iyer: Certainly, we don’t share our utilization including some of the acquired entities that is current.
+Overall utilization even outside of the acquired entities, we’ve seen a very remarkable progress
+that we’ve made over the last four to five quarters in that lever. We’re very happy with where
+we are and we hope to sustain it even as the demand comes back and maybe we will have to
+invest for growth at some point in time, but for now, we will try and hold to that utilization. In
+Capco, certainly that is a lever and we’ve got an incredible asset, like Srini said, we have to drive
+more synergy wins and basically press on the revenue acceleration in Capco and that should do
+a lot of good to the margins as well.
+Moderator: Thank you. We have a next question from the line of Kawaljeet Saluja from Kotak. Please go
+ahead.
+Kawaljeet Saluja: Hey, Srini. Many congratulations on your elevation to the CEO role. I have three questions for
+you, Srini. The first one is the fact that you have been with the organization for more than three
+decades, and you have been quite a remarkable performer. However, you cannot say the same
+thing for Wipro organization as a whole. So, what is your view or what is your assessment for
+the reasons for Wipro's challenges and aspects of Wipro's business that require a fix?
+Srinivas Pallia: Thanks, Kawaljeet. I think, thanks for the compliment as well. Having been here for three
+decades, all I can say is that if we continue to focus on those five key priority areas that I called
+out just now, and definitely execute that with the speed and the rigor that we need to bring in, I
+think we can make a difference. So, to me, strategy with a combination of execution is what can
+give us the outcomes that we are looking for.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+The second part, Kawaljeet, in the recent past, as Wipro is an organization, we have high
+exposure to discretionary spending. And hence, we have sometimes the softness on BFSI during
+those periods, and that could be another factor that you would have seen as grow a little slower.
+Kawaljeet Saluja: So, you basically think that there is nothing wrong with just those portfolio challenges, etc.
+Those are tactical challenges which are there, you know. And just a simple focus on execution
+would do the trick.
+Srinivas Pallia: So, Kawaljeet, if you look at it the way we are structured, we have got the four markets, right?
+And each of the markets are different. They have different responses to the macro environment
+that we are looking at. So, that's number one. Second is, if you look at Wipro as a company, in
+the last few years, we have gone through significant transformation. And for a transformation
+like this, sometimes we have to make some adjustments across the organization, and this can
+lead to different views.
+I think from my perspective, my vantage point, my knowledge of our clients and our business,
+and of course the point that you made, having lifelong connections across our company should
+help us move us into actually tractions quickly, Kawaljeet. That's what I am looking for.
+Kawaljeet Saluja: That's fair. The second question that I had, Srini, is that your organization has seen plenty of
+churn, senior executive churn. So, what are the measures that you will put in place to reduce the
+churn levels?
+Srinivas Pallia: Sure, Kawaljeet. Maybe I will ask Saurabh to respond to that.
+Saurabh Govil: So, Kawal, I must tell you that over the last two weeks Srini has taken over and the general
+euphoria among employees that somebody who started his career in the company has reached
+the very top. So, I generally believe that if growth comes back, opportunities are there for people
+to grow. They are seeing people growing. Aparna is another example for us who started a career
+here. People will be keen to continue to see that this is the place for them to make their careers.
+So, that's what they will.
+Having said that, as Srini called out that structures and strategies are not changing. But leadership
+will evolve. There is a living organization. There will be some people who would move one kind
+of stuff. But there is no major disruption in the way we are going to work, organize ourselves.
+So, I don't see that much of a challenge as we move forward.
+Srinivas Pallia: And Kawaljeet, we want to develop talent internally, right, and also have a strong line of leaders
+in our pipeline. And that's another focus area for us going forward.
+Kawaljeet Saluja: The final question that I have for you, Srini, is that I remember some time in 2020 you had a
+magic wand. You actually struck fairly nice lucrative two mega deals in the retail vertical. But
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+the organization has been silent on mega deals since. Has the muscle memory weakened on the
+mega deals or good news is around the corner?
+Srinivas Pallia: Good question, Kawaljeet Saluja. I think the way we have structured ourselves in terms of going
+after the large deals and mega deals is to try and focus not only on how you pursue a deal, but
+how do you originate a deal, how do you shape the deal and the entire process around that. So,
+that becomes very critical for us.
+So, in fact, what I would like to do is for the sales team on the ground, across the markets and
+across the industries, try and create a proactive pipeline because that becomes very critical for
+us because you work along with the client and the partner in a deal pursuit, right. The probability
+of winning is also much higher. So, what we want to do, what I want the team to do is stay
+focused on those proactive deals as we move forward.
+Also, if you look at earlier, we had mentioned in Q2 that we had won close to $0.5 billion deals
+in two of our large accounts and one of the two accounts, Kawaljeet, now has gone on to become
+one of the largest customers, largest clients for Wipro. So, that, you know, we have seen that
+momentum also happen.
+Kawaljeet Saluja: You have been very patient with me. So, I will just squeeze in one large question. So, please
+don't mind. Finally, on Capco, I guess Thierry's view of Capco integration was a light touch
+integration, keep that as a separate organization. Do you agree with that approach, and would
+that approach continue or you would see a much tighter integration of Capco with the Wipro's
+overall portfolio?
+Srinivas Pallia: So, Kawaljeet, I think keeping the Capco brand as it is a strategic business, but what is more
+important, Kawaljeet, is I look at Capco or any of our consulting business domain and consulting
+teams to be the tip of the iceberg for us. So, when you go in front of the client, you go in as one
+Wipro in the context of how you are going to solve it. But what is very important is the kind of
+CXO connects Capco has. I think that is something that the rest of the Wipro organization can
+actually leverage. So, I would say that we are going to focus on a joint positioning and a building
+discipline sales campaign that can deliver the best for the Wipro in that particular segment.
+Moderator: Thank you. We have our next question from the line of Gaurav Rateria from Morgan Stanley.
+Please go ahead.
+Gaurav Rateria: Many congratulations Srini on your new role. My first question is again with respect to your
+success in mega deals. When you look at the overall internal win, your mega deal participation,
+your win rates, where do you think the work in progress is there? Where do you think you need
+to make some changes? Is it more about your participation or is it more about your win rates?
+Just trying to understand what needs to be fixed to be able to participate more in the mega deals.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Srinivas Pallia: So, Gaurav, if you could just repeat the question, I just lost you for a minute, sorry.
+Gaurav Rateria: Yes, my question is with respect to your mega deal success. Just trying to understand is this
+require more fixing on the participation side, proactively creating pipeline side or is it more
+about the win rates? You participate but the win rates are not so good. Just trying to understand
+what requires to be changed to be able to more consistently deliver some of the mega deals.
+Srinivas Pallia: So, thank you. I got the question; I think absolutely there are two parts to it. What is important
+for us is to be very proactive within the market, whether it is our clients or partners or the
+influencers in actually sourcing the deals and then kind of shaping the deals which are very
+specific to those industries. The way you solve it and the way the business objectives of the
+clients are met also becomes very critical.
+So, it's both. There is a combination of both which actually lead us to a better win ratio going
+forward, Gaurav. And I have seen the experiences wherever we have worked very well with the
+clients and ahead of the curve, I think our probability of winning has gone up. What we want to
+do is become lot more consistent, lot more repetitive across our markets and across our
+industries.
+Gaurav Rateria: My second question is with respect to Capco. It will be great to understand what kind of deals
+are coming in terms of the nature of the work and is it more broad-based across large number of
+clients? Is it more concentrated with a few clients? Is it just a tip of the spear engagement that is
+coming right now? Is it also involving some amount of downstream work? Probably that will
+help us in getting some comfort in how sustainable this trend that you are seeing is. Thank you.
+Srinivas Pallia: No, absolutely, Gaurav. I think there are two ways, two opportunity sets that we have with Capco.
+One is Capco going on its own, doing consulting work for them, which is a lot more, a different
+buyer within that particular organization. But what we are focused on is the synergy deals, with
+the Capco being the tip of the spear and helping us in the downstream, because that is where we
+can actually win a lot more large deals and mega deals.
+Now using Capco, we have an advantage in terms of shaping the deal, because you can be a lot
+more focused in the context of the customer process areas and the customer's business problem
+that we are trying to solve, and then put the downstream revenue, which could be either a cost
+transformation or it could be a business transformation, Gaurav.
+Gaurav Rateria: And the recent success that you have seen in the last two quarters, is it more again on the synergy
+deals that you have seen, things coming back, or is it more independent work of Capco that is
+seeing some success?
+Aparna Iyer: It's both, Gaurav. You know, certainly it is secular, we are seeing a secular uptake across the
+service offerings of Capco across geographies, and it is led, it's more broad-based. Also, we are
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+winning good synergy deals, and the collaboration has only increased in the last four quarters.
+Given the macroeconomic environment and the fact that the deals were harder to combine, we
+have certainly built a muscle on synergy also a lot better. Both are coming into play.
+Gaurav Rateria: Last question from me, Aparna. How to look at the conversion of net income into operating cash
+flow on a sustainable basis? I know this has been a fantastic year for Wipro, but going forward,
+more on a sustainable basis, what should be the right way to look at it?
+Aparna Iyer: If you look at just our historical performance, we have always been between what, like 85 to
+110% of free cash flows is what we generate as a percentage of net income. And that's a good
+number to target. Yes, I think FY '24 was a very good year for us in terms of free cash flow
+generation and we will continue to work on all fronts.
+Moderator: Thank you. We have our next question from the line of Kumar Rakesh from BNP Paribas. Please
+go ahead.
+Kumar Rakesh: My first question was, Srini, you talked about large deal acceleration. Well, I understand that
+mega deals haven't been around a lot, but large deal performance has been quite fairly good over
+the last two years. From what used to be about 600 million on an average two years back, you
+have been consistently doing about 1.1 billion or quarterly large deals. But that has not been
+reflecting into stronger growth. So, when you talk about that you plan to work on large deal
+acceleration, what does that mean and how should that translate into growth?
+Srinivas Pallia: So, a couple of things. One is when I say large deal acceleration, Kumar, the idea here is that
+obviously you got to have a lot more deals in the pipeline. So, there again, my ask is that we
+have to be proactive on those large deals. What that means is can you shape the deal even before
+the deal comes out, right? And this you can obviously do with many of the large clients where
+you have a very strong relationship. So, that's number one.
+So, second is the size of the deal and the frequency of the deals, if you can slightly increase, that
+can give us a momentum going forward. Now, in terms of converting the large deal of TCVs to
+revenue, maybe I will ask Aparna to make a comment.
+Aparna Iyer: So, Rakesh, this is again something that I think is not just us, but it's just the nature of the market
+that the conversion is lower. It is because A, while we continue to win these deals and replenish
+the bucket, there is a discretionary spend environment, which is weighing on our revenue
+performance, right?
+So, we are continuing to see ramp downs that are happening where existing projects finish but
+are not getting replenished at the same pace. So, that is again weighing down in terms of the
+conversion from bookings to revenue. And I think that's the major aspect.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Also what has happened is while the momentum is much stronger on the large deals and the
+larger deals, the smaller deals' buoyancy has certainly slowed down. At least in the last four
+quarters, we have seen that. So, those are two things that are weighing on the revenues.
+Kumar Rakesh: My second question was around the number of clients less than 1 million. So, for the last few
+quarters, we have been pruning our smaller accounts, smaller clients. But in this quarter, on a
+sequential basis, it has increased. So, is this one-off or there is a change in strategy now, how we
+are looking at these smaller accounts?
+Aparna Iyer: There is no change in strategy, Rakesh. Our strategy has only got more firm. We are looking for
+profitable growth and we will continue to pivot ourselves in a few geographies where we are not
+in high-value transformative work that in new age opportunities that we want to be. We would
+like to pivot our service offerings. And in that context, we did take action, especially in APMEA.
+As a case in point, I spoke about it. So, what you are seeing quarter-on-quarter, can we manage
+it? There will be volatility that will play out quarter-on-quarter. But I can assure you there is no
+fundamental shift in strategy. We will continue to focus on profitable growth and mine deeper.
+Srinivas Pallia: So, Rakesh, just add two more points to that. One is, I think it's not just the number of accounts,
+but the quality of the accounts we have, which is very important for us going forward.
+Second is, if you look at our, we have continued to add accounts in greater than $100 million
+bucket. In fact, we added three accounts in that particular bracket. So, that's another one. We
+want to keep tracking and keep moving. Got it.
+Moderator: Thank you. We have our next question from the line of Yogesh Aggarwal from HSBC Securities
+and Capital Markets. Please go ahead.
+Yogesh Aggarwal: Srini, first of all, congratulations on your promotion. Just a couple of questions I have. Firstly,
+on the structure, a few years back under Thierry, Wipro moved to the geographic structure, which
+was a bit of a unique setup compared to other companies. So, are you looking to go back to the
+vertical structure? Just any thoughts on that? And then I have a follow-up, please.
+Srinivas Pallia: I think the four strategic market units that we have and the four GPS structure that we have, it
+will continue. No plans to make any changes, Yogesh.
+Yogesh Aggarwal: And the second thing, Srini, I mean, your headcount continues to decline. It's down like 10%
+and 87% utilization. So, just sometimes get a feeling, are you guys even looking at any kind of
+an imminent pickup in growth? Because this is quite a bit of tightening, operational tightening
+happening.
+Saurabh Govil: So, Yogesh, Saurabh here. You know, headcount has come down. It was driven by operational
+efficiency. As you see, our utilization has been all-time high in Q4. We have the supply side, you
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+know, as demand picks up, we will be able to quickly ramp up and we are comfortable on that
+spot. So, I don't see that as a challenge. We just have learned; I think we as an industry that all
+of us are over-hired at a point of time in this post-COVID. So, we just want to be more cautious,
+more judicious and as we move forward. But as demand environment improves, we don't see a
+challenge.
+Moderator: Thank you. The next question is from the line of Sudheer Guntupalli from Kotak Mahindra
+AMC. Please go ahead.
+Sudheer Guntupalli: Congrats and all the best on your new innings. Given that the organization had already gone
+through sweeping changes over the previous two to three years, certain change fatigue could
+have set inside the company and employees. So, do you see that change fatigue as a bottleneck
+to be able to make any incremental changes you need and turn around the growth path or maybe
+delay that growth turnaround?
+Srinivas Pallia: Sudheer, the advantage I have is I have been through this transformation journey, right, in the
+last four years. Clearly, in my mind, we don't need a structural change. The four SMUs and the
+four GBLs is good to go. What we need is to change our strategic priorities, which meets the
+market dynamics, which meets the changing technology landscape. And what we need is
+bringing a lot more execution rigor in the markets and in the sectors and in specific accounts that
+we call both the large accounts of ours and also the future large accounts. I think if we can
+execute to that, bringing in the best of our solutions with the consulting led and AI infused, I
+think we can differentiate and make a difference to our clients.
+Sudheer Guntupalli: Second question to Aparna on Capco. If the growth here is so strong, one would have anticipated
+that the company level margin expansion to be slightly higher, given this is an onsite heavy and
+fixed cost heavy business. So, should we assume that such an operating leverage will probably
+come with some amount of a lag?
+Aparna Iyer: Yes, so Sudheer, Capco, like I said, had also the benefit of a seasonally furlough quarter of Q3.
+So, the bounce back of Q4, the growth rates that we are talking about also had, it was aided by
+that. There is a base effect to that. So, yes, as stability returns, we will see operating leverage,
+but for now, we are just waiting. This is not something, you know, we have shared with you for
+two quarters. Given the interest in Capco's performance, we have shared it. We are also
+encouraged. We are watching. It's too early to say whether this is a very definitive deterministic
+trend. We will watch for how they perform over the next few quarters and certainly the operating
+leverage should play out with a lag.
+Moderator: Thank you. The next question is from the line of Sandeep Shah from Equirus Securities. Please
+go ahead.
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+Sandeep Shah: My question is related to one of the questions asked by a previous participant. Most of your
+earlier colleagues in the CEO realm have also been highlighted and focused in terms of a rigor
+on execution. But somewhere that has not worked and improved the organic growth rates of
+Wipro consistently. So, what according to you in your past three decades experience in Wipro is
+going wrong in the execution rigor? Is it delivery? Is it sales? Is it client mining? Or is it hunting?
+And where do you believe weakness is higher and how do you plan to rectify that?
+Srinivas Pallia: Thanks, Sandeep. What I am doing right now as we speak is based on my own experiences over
+the period of years. Second, I am looking at all the areas across the markets, what's working and
+what's not working, whether it's to do with large deals, whether it's to do with large accounts and
+account growths, whether to do with the solutions and approach to each of the sectors.
+So, what I am doing, Sandeep, is taking stock of all that. While I called out the priorities, right,
+we got to bring the strategic priorities that we call out to an execution rigor, and you are right.
+Once you have the right strategy, right set of accounts, right set of sectors that you really want
+to focus on, then you have to be staying there for time too because some of these deals that we
+have won, it does take time.
+So, what I want to do is have the staying power as well to continue to execute our strategy and
+not change it in midway. So, there we have to bring in a lot more consistency and perseverance,
+if you will, to win those deals and grow those accounts.
+Sandeep Shah: And if you want to define a performance API of your targets and strategy execution, what it
+could be? And what could be the timeline for the same?
+Srinivas Pallia: So, I don't think I have a timeline, Sandeep. This is my second week in my new job. Let me go
+back and see what's it, what's going on and what we need to do. But what I am very clear is,
+what are the priorities that we want to execute. And I think that's where I am going to stay
+focused on.
+Sandeep Shah: And second, in terms of capital allocation, I think Wipro has done a fantastic job in terms of new
+cash flow generation. The outgoing CEO has been aggressive in terms of bold M&A, where
+capital allocation has been also fairly contributed towards the sizable M&A. Do you believe in
+that strategy? Because in the press conference, you also said that Wipro will continue to demand
+bold on the M&A. So, when you say bold on the M&A, is it bold in terms of acquiring capability,
+which may not be big in terms of size, or you still believe we have a headroom and appetite to
+go for M&A similar to Capco as well as Rizing?
+Aparna Iyer: I think from an M&A standpoint, and I will add answer and then I will let Srini weigh in. I think
+we will continue to remain focused. We will be selective in the M&A that we do. We will invest
+in areas of newer technologies. We will invest in areas that give us access to markets, access to
+clients, the strategy on M&A and where we will play and how selective we will remain. On the
+Confiden�al-Internal
+Wipro Limited
+April 19, 2024
+size of the M&A, it's too, you know, we don't, we're not disclosing any one way, you know. We
+have said that we prefer tokens because in some sense it helps us stabilize in an environment
+like this, but we will remain flexible on that, and we will see what works best for our strategy.
+On capital allocation, you know, there is no change to policy, Sandeep. We are committed to
+returning cash of 45 to 55% of our net income over the cumulative three-year period. If you want
+to add anything on M&A, Srini?
+Srinivas Pallia: I think you have covered it. Thanks.
+Sandeep Shah: And the last question, Aparna, for you in terms of margins, I think we have done well in terms
+of a difficult environment, but if I look at utilization, if I look at offshore revenue mix, fixed
+price contribution, most of them have peaked out. So, is it fair to assume now further
+considerable margin improvement is largely dependent on growth picking up? If it doesn't, then
+in that scenario, 16% flattish kind of environment is sustained going forward.
+Aparna Iyer: So, what we have shared for now is that we are committed to remaining in a narrow band, a
+range bound between what we have delivered in the last few quarters, Sandeep. You are right
+that utilization has improved considerably. Our offshoring has gone up. All of that has resulted
+in our margins expansion. We are happy and pleased about that. We need to sustain that as we
+go along.
+There are enough and more levers for us to flex as we go forward. Rotation, internal fulfillment.
+There is a lot more that we can do on optimizing, perhaps G&A. And especially given that, there
+are synergies to be driven as we integrate our acquired entities deeper, right? So, some of those
+levers will play out for us. FPP productivity is a very big lever. We are all very focused on it and
+the potential of how we can weave in AI. There are plenty of opportunity and there is plenty of
+levers for us to work on. Those are my comments, Sandeep.
+Moderator: Thank you. Ladies and gentlemen, that was the last question for today. I would now like to hand
+the conference back to Mr. Dipak Bohra for closing comments. Over to you, sir.
+Dipak Bohra: Thank you, Yashashree. Thank you all for joining the call. In case we could not take any
+questions due to time constraints, please feel free to reach out to the Investor Relations team.
+Thank you so much again and have a nice evening.
+Moderator: Thank you members of the management team. On behalf of Wipro Limited, that concludes this
+conference. Thank you for joining us, and you may now disconnect your lines.
+Confiden�al-Internal

@@ -66,7 +66,7 @@ def process_file(txt_path: Path) -> Path:
     log.info(f"Processing: {txt_path.name}")
     text = txt_path.read_text(encoding="utf-8")
 
-    sentences = [s.strip() for s in text.replace("\n", " ").split(".") if len(s.strip()) > 20]
+    sentences = [s.strip() for s in text.replace("\n", " ").split(".") if len(s.strip()) > 20][20:]
     log.info(f"  {len(sentences)} sentences mile")
 
     results = []
