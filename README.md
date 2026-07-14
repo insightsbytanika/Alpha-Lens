@@ -115,4 +115,13 @@ Documenting what broke and how it got fixed — because that's the actual engine
 | **Manav** | Audio transcription (Whisper), speaker diarisation, data scraping pipeline, AWS deployment, dashboard |
 
 ---
+## Why This Is Different
+
+- No open-source tool currently targets NSE earnings calls specifically — every comparable project uses US S&P 500 data.
+- The backtesting is built on real historical price data with proper temporal train/test splits — not simulated.
+- The pipeline handles a problem most student projects skip entirely: speaker-level attribution (CEO sentiment ≠ analyst-question sentiment ≠ overall call sentiment).
+
+---
+
+This README reflects the project's actual current state and will be updated as the dataset and results grow.
 
