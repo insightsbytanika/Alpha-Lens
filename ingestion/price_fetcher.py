@@ -75,6 +75,24 @@ def fetch_price_history(ticker: str) -> pd.DataFrame | None:
         log.error(f"  ✗ Failed for {ticker}: {e}")
         return None
 
+import time
+
+def fetch_price_history_with_retry(ticker, retries=3, delay=5):
+    """
+    Tries to download price history up to `retries` times.
+    Returns DataFrame on success, None if all attempts fail.
+    """
+    for attempt in range(1, retries + 1):
+        try:
+            df = yf.download(ticker, start=BACKTEST_START, auto_adjust=True, progress=False)
+            if not df.empty:
+                return df
+            print(f"Attempt {attempt}: empty data for {ticker}, retrying...")
+        except Exception as e:
+            print(f"Attempt {attempt} failed for {ticker}: {e}")
+        time.sleep(delay)
+    print(f"All {retries} attempts failed for {ticker}")
+    return None
 
 def save_prices(df: pd.DataFrame, ticker: str) -> Path:
     """Saves DataFrame to CSV. Returns the file path."""
