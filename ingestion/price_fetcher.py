@@ -114,7 +114,7 @@ def main():
     success, failed = [], []
 
     for ticker in NSE_TICKERS:
-        df = fetch_price_history(ticker)
+        df = fetch_price_history_with_retry(ticker)
 
         if df is not None:
             save_prices(df, ticker)
