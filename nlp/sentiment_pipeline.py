@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 
 def load_finbert():
     """FinBERT model load karta hai HuggingFace se."""
-    log.info("Loading FinBERT model — pehli baar mein download hoga (~400MB)...")
+    log.info("Loading FinBERT model ...")
     nlp = pipeline(
         "text-classification",
         model=MODEL_NAME,
@@ -46,7 +46,7 @@ def score_sentences(nlp, text: str) -> list:
     # Simple sentence split — full stop ya newline pe
     sentences = [s.strip() for s in text.replace("\n", " ").split(".") if len(s.strip()) > 20]
 
-    log.info(f"  {len(sentences)} sentences mile scoring ke liye")
+    log.info(f"  {len(sentences)} sentences for scoring ")
     results = []
 
     for i, sent in enumerate(sentences):
@@ -68,13 +68,13 @@ def score_sentences(nlp, text: str) -> list:
     return results
 
 def process_file(nlp, txt_path: Path) -> Path:
-    """Ek transcript file uthao, score karo, CSV save karo."""
+    """Ek transcript file li , score kari, CSV save kari."""
     log.info(f"Processing: {txt_path.name}")
     text = txt_path.read_text(encoding="utf-8")
     results = score_sentences(nlp, text)
 
     if not results:
-        log.warning("  Koi sentences nahi mile — skip")
+        log.warning("  No sentences found — skip")
         return None
     df = pd.DataFrame(results)
     out_path = OUTPUT_DIR / (txt_path.stem + "_sentiment.csv")
