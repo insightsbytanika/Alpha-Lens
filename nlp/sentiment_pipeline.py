@@ -94,8 +94,8 @@ def main():
     #finding all the clean files
     files = list(INPUT_DIR.glob("*_clean.txt"))
     if not files:
-        log.warning(f"Koi _clean.txt file nahi mili {INPUT_DIR} mein")
-        log.warning("Pehle loader.py chalao!")
+        log.warning(f"No _clean.txt file found {INPUT_DIR} mein")
+        log.warning("first run loader.py!")
         return
 
     log.info(f"  {len(files)} transcript(s) mili")
