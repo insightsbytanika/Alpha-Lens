@@ -22,7 +22,6 @@ NSE_TICKERS = [
     "WIPRO.NS",     # Wipro
     "ICICIBANK.NS", # ICICI Bank
     "AXISBANK.NS",  # Axis Bank
-    "LT.NS",        # Larsen & Toubro
 ]
 
 BACKTEST_START = "2022-01-01"   # 3 years of history

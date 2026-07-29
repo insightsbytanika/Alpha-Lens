@@ -26,7 +26,6 @@ NSE_TICKERS = [
     "WIPRO.NS",
     "ICICIBANK.NS",
     "AXISBANK.NS",
-    "LT.NS",
 ]
 
 # ── Backtest ──────────────────────────────────────
