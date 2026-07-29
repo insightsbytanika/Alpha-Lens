@@ -80,12 +80,18 @@ import time
 def fetch_price_history_with_retry(ticker, retries=3, delay=5):
     """
     Tries to download price history up to `retries` times.
-    Returns DataFrame on success, None if all attempts fail.
+    Returns a CLEANED DataFrame on success, None if all attempts fail.
     """
     for attempt in range(1, retries + 1):
         try:
             df = yf.download(ticker, start=BACKTEST_START, auto_adjust=True, progress=False)
             if not df.empty:
+                # Same cleanup as fetch_price_history() — flatten columns, name index, lowercase
+                if isinstance(df.columns, pd.MultiIndex):
+                    df.columns = df.columns.get_level_values(0)
+                df.index.name = "date"
+                df.columns = [c.lower().replace(" ", "_") for c in df.columns]
+                df["ticker"] = ticker
                 return df
             print(f"Attempt {attempt}: empty data for {ticker}, retrying...")
         except Exception as e:
