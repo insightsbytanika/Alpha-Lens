@@ -1,0 +1,769 @@
+Axis Bank’s Q1FY24 Earnings Conference Call
+July 26, 2023
+MANAGEMENT:
+MR. AMITABH CHAUDHRY – MANAGING DIRECTOR & CEO
+MR. RAJIV ANAND – DEPUTY MANAGING DIRECTOR
+MR. PUNEET SHARMA – CHIEF FINANCIAL OFFICER
+MR. RAVI NARAYAN – GROUP EXECUTIVE, RETAIL LIABILITIES, BRANCH
+BANKING & PRODUCTS
+MR. ARJUN CHOWDHARY – GROUP EXECUTIVE, AFFLUENT BANKING, NRI,
+CARDS & PAYMENTS
+MR SUMIT BALI – GROUP EXECUTIVE AND HEAD - RETAIL LENDING
+
+Axis Bank Limited
+July 26, 2023
+Moderator: Ladies and gentlemen, good day, and welcome to the Axis Bank Conference
+Call to discuss the Q1FY24 Financial Results. Participation in this conference
+call is by invitation only. Axis Bank reserves the right to block access to any
+person to whom an invitation has not been sent. Unauthorized dissemination
+of the contents or the proceedings of the call is strictly prohibited and prior
+explicit permission and written approval of Axis Bank is imperative.
+As a reminder, all participant lines will be in the listen-only mode, and there will
+be an opportunity for you to ask questions at the end of the briefing session.
+Should you need assistance during this conference call, please signal an
+operator by pressing star then zero on your touchtone phone. Please note that
+this conference is being recorded.
+On behalf of Axis Bank, I once again welcome all the participants to the
+conference call. On the call, we have Mr. Amitabh Chaudhry, MD and CEO;
+and Mr. Puneet Sharma, CFO. I now hand the conference over to Mr. Amitabh
+Chaudhry. Thank you, and over to you, sir.
+Amitabh Chaudhry: Thank you. Good evening and welcome everyone. We have on the call, Rajiv
+Anand – Deputy MD, Puneet Sharma – CFO, and other members of the
+leadership team.
+We have begun the new fiscal year with strong operating performance across
+segments. The Bank’s Q1FY24 profit after tax grew 41%, with consolidated
+annualized ROE at 19.44%, up 388 bps YOY. We also accelerated our
+progress in identified areas of distinctiveness namely Digital, Bharat Banking
+and Customer Obsession while working on synergies from acquired Citi
+businesses. We remain watchful about the emerging macro variables, and we
+are fine-tuning our strategy to continue to deliver a sustainable and predictable
+performance.
+We continue to remain focused on three core areas of execution of our GPS
+strategy namely:
+A. Embedding a performance driven culture
+B. Strengthening the core
+C. Building for the future
+Let me now discuss each one of these in further detail:
+A. Embedding a performance driven culture
+There is visible improvement in the quality of our Deposit franchise
+We have made significant progress in our journey towards improving the
+quality, granularity and premiumization of our deposit franchise over the last
+three years led by multiple Bank-wide transformational initiatives. Please refer
+to the slide number 18 & 19 in the investor presentation, the results of these
+initiatives are evident in the deposit performance
+
+Axis Bank Limited
+July 26, 2023
+• The Bank’s Deposit franchise grew 400 bps faster than the industry with
+improvement in both quality and composition of deposits.
+• Low-cost CASA share is at 45.5%, compounding at 19% for the last three
+years.
+• In the last two years, the Bank’s outflow rates (on Basel reporting basis)
+have seen reduction by ~ 460 bps and are now trending closer to the best
+in the Indian banking sector.
+• During Q1FY24. on a quarterly average basis,
+✓ Savings deposits grew 20% YOY & 10% QOQ and Current Accounts
+grew 17% YOY.
+✓ Total deposits grew by 15% YOY and 6% QOQ and term deposits
+grew 12% YOY and 5% QOQ on the back of 21% YOY and 9% QOQ
+growth in average LCR accretive deposits for the quarter.
+• The micro market led strategy is making an impact with 52% increase in
+districts with market share gain in last 3 years
+• The granularity, quality and growth of deposit franchise has improved
+tremendously in the last three years. We continue to invest
+disproportionately here.
+All round growth across businesses. Market leading growth in our focus
+segments
+• MSME segment continues to remain a key growth driver for the Bank. The
+combined portfolio of mid-corporate, SMEs and small businesses grew
+32% YOY and now constitute 20% of the loan book, up over 600 bps in
+last 3 years.
+• Corporate loans grew 25% YOY, led by a healthy pick-up from NBFCs,
+Retail Trade, Roads, Telecom Services, Textile etc. The disbursement
+pipeline for Q2 looks healthy. 70% of the pipeline is from Term loans and
+balance 30% from Working cap and Trade.
+• On Retail, we are driving a balanced growth in portfolio leveraging our best
+in class digital and data analytics capabilities. The share of unsecured
+disbursement for the last four quarters has been in the 20-25% range.
+B. Strengthening the core:
+On Wholesale Banking, the transformation programmes that we started two
+years back are delivering client impact as we strengthen our capabilities in the
+Transaction Banking and Treasury segments.
+• Our go-to-market traction on Project Neo is strong with contribution to
+revenues from transaction banking APIs (across Payments, Collections &
+Trade), treasury and CBG segments. The pipeline on Cash management
+and trade APIs continues to remain strong with 1000+ customers in
+engagement phase of which 250+ are in UAT stage.
+• In addition to the strong product-market fit, Neo continues to get widely
+recognised in the market. The Bank bagged the award for “Best Product
+Innovation for Neo API Banking Suite” at Infosys Finacle Innovation
+Awards 2023 and Best API project at the Asset Triple A Awards.
+C. Building for the future
+Digital Banking performance is strong
+
+Axis Bank Limited
+July 26, 2023
+Our Digital 2.0 balance sheet continues to deliver strong growth with 56%
+increase in deposits and 60% increase in loans. Axis 2.0 is now roughly 5% of
+the Bank’s overall business and we intend to increase contribution by 3-4x by
+fiscal 2027.
+We have taken early leadership in leveraging platforms like Account
+Aggregator, ONDC, CBDC and OCEN (please refer to slide 46 of the investor
+presentation). Axis was the first bank to go live on the account aggregator
+platform as financial information provider (FIP). Since then, the bank has
+launched a number of use cases as a financial information user (FIU).
+Today the bank offers personal loans, auto loans, two-wheeler loans, home
+loans, small business loans and credit cards leveraging the Account
+Aggregator framework. The amount of loans disbursed using the Account
+Aggregator framework grew by 220% in this quarter compared to same period
+last year.
+• We launched ‘One View’, a multi-bank aggregator feature built in to
+‘Axis Mobile’ app that allows users to get a consolidated view of all
+their balances from different banks, track all transactions and access
+statements at one place. It is a unique offering, first of its kind in the
+banking industry, and has seen more than 2.5 lakh registrations in the
+first 8 weeks of its launch.
+• We continue our leadership in partnership and ecosystem models. We
+have more than 100 digital partnerships to fuel new customer growth.
+During the quarter, we partnered with Airtel and Flipkart to offer instant
+personal loans to their customers in less than 30 seconds.
+• During the quarter, we partnered with the RBI Innovation Hub and
+launched 5-minute digital end-to-end KCC loans with instant loan
+account opening and access to funds. We also launched digital
+business loans for MSMEs leveraging RBI’s Innovation Hub. We are
+also the 1st bank to launch a Central Bank Digital Currency merchant
+app., the first to launch an iOS app and among the first banks to offer
+partial interoperability with UPI QR.
+. Bank-wide programs to build distinctiveness
+Our big bet on Bharat is growing from strength to strength
+• We have further expanded our distribution footprint to ~2,250 Bharat
+Banking branches that are complemented by a ~62,000 strong CSC
+VLE network. The CSC Q1 asset disbursals grew by 3x on a YoY
+basis.
+• We are leveraging the tech stacks of agritech and fintech companies
+to serve the retail customer in Bharat. During the quarter, we went live
+with ITC MAARS, a multi-product partnership, offering opportunities
+for rural assets, retail assets, liabilities, forex across their large network
+of farmers and Farmer Producer Organization (FPO).
+• Our digital co-lending platform is live with 6+ partners and we have
+more products and partners lined up to go live on the platform during
+this year.
+
+Axis Bank Limited
+July 26, 2023
+• Q1FY24 disbursals grew by 34% YOY, rural advances were up by
+22% and deposits from Bharat banking segment grew 17% YOY.
+Sparsh, our customer obsession program, is making an impact on our
+customer experience scores.
+• It is now live across 100% of the Bank’s branches & all service
+touchpoints
+• Over the last year, NPS in retail customer journeys has moved up to
+130 & in wholesale to 133 over an indexed baseline of 100
+• We have an Industry-first 6-hour service promise for our Burgundy
+customers, available on our App.
+On Citibank Consumer business integration:
+The Citi team is now well integrated, and the customers have seamlessly
+transitioned to the broader platform in Axis. This is demonstrated through the
+trends we are seeing across credit card spends, higher acquisitions and
+stronger term deposit mobilization.
+We are also witnessing synergy benefits coming through – examples include
+improvement in monthly disbursements in the vehicle finance business, and
+the great response we have seen for new wealth management products, from
+the palette made available with the Axis group.
+The ex-Citi colleagues have welcomed the opportunity to take on larger
+responsibilities within the Bank. Their annualized attrition is materially below
+the trend of the previous two years.
+In Closing:
+The Indian economy and the Banking sector are well placed in context of the
+global geopolitical and macro headwinds. The emerging trends with shift in
+global value chain mix, Indian Government’s supportive policies and
+infrastructure for MSME, Bharat and Digital; will help the Indian banking sector.
+We, at Axis Bank, are well positioned to take advantage of these opportunities
+and believe that we have significant runway for growth. We remain focused on
+our GPS strategy and our areas of distinctiveness in building ‘an all-weather
+institution that will stand the test of time.
+I will request Puneet to take over.
+Puneet Sharma: Thank you Amitabh.
+Good evening and thank you for joining us. We continue to make good
+progress on towards building a stronger, consistent and sustainable franchise.
+We have strengthened our core businesses and are focussed on ensuring that
+our balance sheet is resilient across cycles. Amitabh has discussed the
+business and transformation projects, The salient features of the financial
+performance of the Bank for Q1 FY24, across:
+1. Operating performance
+2. Capital and liquidity position
+3. Growth across our deposit franchise and loan book
+4. Asset quality, restructuring and provisioning
+
+Axis Bank Limited
+July 26, 2023
+is as follows
+Our operating performance was robust across NIMs, fee, cost and credit cost
+lines:
+1. NIM at 4.10%, improving 50 bps YOY
+2. NII at Rs 11,959 crores, YOY growth of 27%
+3. Fee at Rs 4,488 crores, YOY growth of 28%, granular fee at 94% of total
+fee
+4. Operating profit at Rs 8,814 crores, YOY growth of 50%;
+5. Cost to assets at 2.32%, increasing by 8 bps YOY
+6. Cost to income at 48.29%, improving by 417 bps YOY
+7. Net credit cost at 0.50%, increasing 9 bps YOY, largely due to lower
+recoveries from prudentially written of accounts
+8. PAT at Rs 5,797 crores, increasing 41% YOY
+9. GNPA at 1.96%, declining 80 bps YOY and 6 bps QOQ
+10. NNPA at 0.41%, declining 23 bps YOY and flat QOQ
+11. PCR% at 80%, improving 233 bps YOY
+12. Standard asset coverage of 1.39%, i.e. all provisions by GNPA ratio is
+145% improving 1,134 bps YOY
+13. Consolidated ROA% at 1.83%, improving 35 bps YOY
+14. Consolidated ROE% at 19.44%, improving 388 bps YOY
+15. CET-1 accretion net of organic consumption, was 36 bps
+Net Interest Margins
+• Yields on interest earning assets have improved YOY and QOQ. We
+however saw an increase in funding cost in Q1 FY24 by 114 bps YOY and
+28 bps QOQ. As a result, NIMs improved 50 bps YOY and declined by 9
+bps QOQ. The balance 3 bps decline in NIMs QOQ is attributable to
+interest on income tax refunds in Q4FY23 and nil in Q1 FY24. The marginal
+cost of deposits has stabilized over the last few months. We expect deposit
+costs to increase further over the remaining part of the financial year but
+the pace of deposit cost growth will most likely moderate.
+• Our progress on structural NIM drivers continues, with improvements
+across all variables on a YOY basis:
+o Improvement in Balance sheet mix: Loans and investments comprised
+88% of total assets at June 23, improving 113 bps YOY;
+o INR denominated loans comprised 95.64% of total advances at June
+23, improving 324 bps YOY;
+o Retail and CBG advances comprised 68% of total advances at June
+23
+o Low-yielding RIDF bonds declined by Rs 11,385 crores YOY. RIDF
+bonds comprised 2.29% of our total assets at June 23 compared to
+3.58% of total assets as at June 22.
+o Composition of liabilities measured through average CASA% improved
+151 bps YOY
+o Quality of liabilities measured by outflow rate improved ~ 460 bps over
+last 2 years
+
+Axis Bank Limited
+July 26, 2023
+• We had strong fee performance in the quarter. Fee income stood at Rs
+4,488 crores, growing 28% YOY.
+o Total retail fee grew 37% YOY and 1% QOQ
+o Fees from retail cards grew 60% YOY and 24% QOQ
+o Fees from retail forex exchange and remittances grew 33% YOY
+and 12% QOQ
+o Transaction banking fee grew 17% YOY and 4% QOQ
+• Operating expenses for the quarter stood at Rs. 8,232 crores, growing
+28% YOY and 12% sequentially. It is pertinent to note that there were
+no Citi BAU expenses in Q1 FY 23 and only one month Citi expenses in
+Q4FY23.
+o ~ 21% of the YOY and ~ 28% of the QOQ cost growth in rupee
+terms is attributable to integration expenses;
+o The balance YOY increase in rupee crore expenses other than
+above can be attributed to the following reasons: (i) 4% linked to
+volume; (ii) 57% linked to technology and growth related and (iii)
+balance 39% to BAU.
+o Technology and digital spends grew 19% YOY and constituted ~
+8% of total operating expenses.
+o Staff costs increased by 23% YOY. We have added 8,366 people
+from same period last year mainly to our growth businesses and
+technology teams.
+• Operating expenses to average assets stood at 2.32%, higher by 8 bps
+YOY and 7 bps sequentially. The acquired Citi business is entirely retail
+which understandably runs at a higher cost and return ratios. The Citi
+business will be RoE accretive post integration. The cost ratios will
+remain sticky till the Citi integration phase is over.
+• Provisions and contingencies for the quarter were Rs 1,035 crores. The
+Bank has not utilized any of its COVID-19 provisions, this provision is
+entirely prudent.
+• Annualized Gross credit cost at 74 bps was lower by 5 bps YOY.
+Annualized net credit cost for Q1 FY24 is 50 bps, increased 9 bps YOY
+and 28 bps QOQ. The increase in QOQ net credit cost in attributable to
+higher seasonal rural slippages in the quarter and lower recoveries as
+compared to the previous quarter from prudentially written off accounts
+from the corporate portfolio.
+• Subsidiaries contributed 3 bps to the consolidated annualized ROA and
+27 bps to the consolidated annualized ROE this quarter
+• The cumulative non NPA provisions at June 30, 2023 at Rs 11,848
+crores, comprising (i) Covid19 related at Rs 5,012 crores; (ii)
+Restructuring provisions of Rs 708 crores, includes unsecured retail at
+100% provision and the rest at first bucket NPA rates, (iii) standard
+assets provision at higher than regulatory rates of Rs 2,296 crores and
+(iv) weak assets & other provisions of Rs 3,832 crores.
+
+Axis Bank Limited
+July 26, 2023
+Our journey to be self-sufficient on capital is progressing well
+▪ Our total capital adequacy ratio including profit is 17.74% and our CET-
+1 ratio is 14.38%. We accreted 36 bps of CET -1 capital during the
+quarter. The prudent COVID provision translates to a capital cushion of
+48 bps over and above the reported CET-1 capital adequacy.
+▪ The RWA% of the Bank at June 30, 2023 stands at 67%.
+Growth across our liabilities and loan franchise
+Please refer slides 18 and 19 for details around the quality of our liabilities
+franchise and slides on our loan franchise
+o Our CASA ratio on MEB basis was 45.5%, improving 182 bps YoY
+o Our CASA ratio on QAB basis was 44.2%, improving 151 bps YoY and
+31 bps QOQ
+o Our loan book is granular and well-balanced with retail advances
+constituting 58% of the overall advances, corporate loans at 32% and
+CBG at 10%.
+o ~68% of our loans are floating rate. ~42% of our fixed rate book
+matures in 12 months.
+Break-up of the of the floating rate loan book by benchmark type and MCLR
+re-pricing frequency is set out on Slide 10 of our investor presentation.
+Retail book
+• Retail advances grew 21% YOY and 2% sequentially, ~ 77% of the
+book is secured,
+• Q1FY24 Retail disbursements for LAP grew 35% YOY, Small business
+banking disbursements grew 8% YOY and PL disbursements were up
+26% YOY.
+• Cards and PL portfolio grew 91% YOY & 21% YOY respectively.
+• The credit card spends in Q1FY24 grew 78% YOY and 28% QOQ.
+Wholesale Banking Coverage
+We are progressing well in our endeavor to build a profitable and sustainable
+Corporate Bank. Details of rating composition, incremental sanction quality
+is set out on slide 35.
+▪ Domestic corporate loans book grew 36% YOY and 4% QOQ.
+▪ The offshore wholesale advances are largely trade finance related and
+primarily driven by our GIFT city branch. 96% of the overseas standard
+corporate loan book in GIFT city branch is India linked and 91% is
+rated A- and above.
+Commercial banking
+▪ The commercial banking book grew 24% YOY. The quality of the CBG
+franchise we are building and strong relation led approach is reflected
+through:
+o CBG CA deposits on MDAB basis grew by 13% YOY.
+o 88% of CBG loan book is PSL compliant.
+
+Axis Bank Limited
+July 26, 2023
+o As our customers grow, we migrated ~3.6% of the CBG book as
+at March 31, 2023 to our CRG business. This will be a routine
+feature going forward.
+Coming to the performance of our subsidiaries
+Detailed performance of the subsidiaries is set out on Slides 68 to 74 of the
+investor presentation.
+o The subsidiaries reported a total Q1 FY24 net profit of Rs 303 crores,
+growing 16% YOY. The return on investment in domestic subsidiaries was
+~ 45%.
+Axis Finance: Delivered strong growth as a full-service customer focused
+franchise offering retail as well as wholesale lending solutions.
+• In Q1FY24, overall AUM grew 28% YOY. Retail book grew ~1.5 times
+and now constitutes 43% of total loans
+• Q1FY24 PAT grew 29% YOY to Rs 123 Crores, and healthy CAR at
+18.6%.
+• Strong asset quality with net NPA of 0.38% and negligible restructuring
+reflects the strength in balance sheet.
+Axis AMC: Axis AMC’s overall AUM grew 13% YOY to Rs. 252,203 crores,
+Q1FY24 PAT grew 4% YOY to Rs 91 crores
+Axis Securities: Axis Securities’ broking revenues for Q1FY24 grew 24% YOY
+and PAT grew 14% YOY to Rs 45 crores
+Asset quality, provisioning and restructuring
+▪ Asset quality continues to improve with declining Gross NPA and largely
+flat net NPA. The Slippage, GNPA, NNPA and PCR ratios for the Bank,
+and segmentally for Retail, CBG and Corporate is provided on slide # 59.
+▪ Q1FY24 gross slippage ratio (annualized) stood at 1.87%, declining 18
+bps YOY.
+▪ Gross slippages for the quarter was Rs 3,990 crores, higher by 8% YOY
+mainly relating to the retail book. Our CBG and CRG slippages are
+contained or improving both on a YOY and QOQ basis. Further, for the
+quarter ~ 38% of the gross slippages are attributed to linked accounts of
+borrowers which were standard when classified or have been upgraded
+in the same quarter.
+▪ Net slippages for the quarter were Rs 1,685 crores of which Retail was
+Rs 2,028 crores, CBG was Rs 64 crores and WBCG was negative Rs 407
+crores
+▪ Recoveries from written off accounts for the quarter was Rs 554 crores.
+▪ Net slippage in the quarter adjusted for recoveries from written off pool was
+Rs 1,131 crores of which retail was Rs 1,639 crores, CBG was negative
+Rs 10 crores and wholesale was negative Rs 498 crores.
+
+Axis Bank Limited
+July 26, 2023
+To summarise, Axis Bank is progressing well to be a stronger, consistent
+and sustainable franchise:
+• Our franchise is strong, resilient and getting more sustainable, visible
+through (i) organic axis business driven CET 1 accretion in the quarter of
+36 bps; (ii) our covid provision buffer of 48 bps of CET-1 capital, (iii) overall
+coverage at 145% of GNPA, and (iv) limited covid restructuring at 0.21%
+of GCA.
+• Consolidated ROE for the quarter at 19.44%, improved by 388 bps YOY.
+We have now consistently delivered an ROE in excess of 18% over the
+last 4 quarters through disciplined execution.
+• We have laid a good foundation for our liability franchise. The improvement
+journey is progressing well with (i) our Q1 FY 24 QAB and MEB CASA ratio
+of 44.2% and 45.5% improving 151 bps and 182 bps respectively on a
+YOY basis; (ii) outflow rates falling by ~460 bps over the last 24 months.
+Improvements planned over the next 7-8 quarters should deliver results
+with some inter quarter fluctuations which are normal for a business of our
+scale and size.
+• We are well placed in the current macro environment, we continue to
+closely monitor geopolitical environment, inflation, liquidity, cost of funds
+and its impact on our business.
+Thank you. We will be glad to take your questions now.
+Mahrukh Adajania: My first question is on opex. Sir, you clarified on the integration expenses. And
+last time also you had called out a number for integration expenses. And if you
+add both, then the integration expenses work out to roughly Rs 350 crores to
+Rs 380 crores per quarter. Is that the run rate we continue to expect in the next
+few quarters?
+Puneet Sharma: Mahrukh, thank you for the question. Slide 13 of the investor presentation
+clearly calls out integration expenses for the quarter. It is Rs 385 crores. We
+have said that we expect to incur integration expenses over a period of 18
+months aggregating to Rs 2,000 crores pre-tax, Rs 1,500 crores post-tax. That
+number stands. You may see some inter-quarter fluctuations, but we stand by
+the gross number of Rs 2,000 crores. And for the quarter, it is Rs 385 crores.
+Mahrukh Adajania: Okay. But that run rate should broadly continue, right? Because I thought Rs
+500 crores of that Rs 2,000 crores will be upfronted sooner than the Rs 1,500
+crores?
+Puneet Sharma: So Mahrukh, like I said, I think we said we will upfront some of the Rs 2,000
+crores in the early four quarters. We are working to ensure that integration is
+smooth and is done in the fastest possible time. So directionally, yes, it's likely
+to be upfronted than back-ended. So your conclusion there qualitatively is
+correct. The Rs 2,000 crores number stands. The Rs 385 crores number for
+the quarter stands.
+Mahrukh Adajania: Okay. Thanks. Sir, my next question is on deposit mobilization through the rest
+of the year, right? Some banks still have excess liquidity. A lot of banks have
+not grown deposits this quarter but it intensifies from next quarter. So how do
+
+Axis Bank Limited
+July 26, 2023
+you view your deposit mobilization in the context of your margins from next
+quarter onwards?
+And also, is the bulk of past repricing over now? So assuming no more rate
+changes, can we assume that margins have bottomed now?
+Ravi Narayanan: Thank you, Mahrukh. This is Ravi. As far as the growth in deposits is
+concerned, it continues to be an effort across the banking sector, no doubt
+about it. But we continue to stay focused on what we have picked up as some
+of the elements of execution over the last few months, which is primarily
+focused on sweating the franchise and the distribution. We have been, as
+mentioned by Puneet and Amitabh, we have been looking at a district level
+approach where we are seeing that how do we ensure that district-by-district,
+we are focused on increasing our market share in deposits. At the same time,
+we are working towards the composition and quality of our franchise.
+We are not taking our eyes of that. And we continue to ensure that at all points
+in time, it is a relationship approach that we are taking so that we continue to
+focus on the customer behind the account. And therefore, create sustainability
+of the relationship as well as the liability. So overall, as we see, the focus is on
+sweating the distribution that we have. And continue to focus on how every
+resource can participate and contribute. As far as the cost of funds is
+concerned, I'll hand it over to Puneet.
+Puneet Sharma: Thank you, Ravi. Mahrukh, as you are aware, we don't offer net interest margin
+guidance. Therefore, to your comment on where the margins will be at this
+level for the rest of the year, we can't offer a constructive comment.
+Qualitatively, on cost of deposits, the marginal cost of deposits have stabilized
+for the last few months. We expect deposit costs to further increase over the
+remaining part of the financial year. But the pace of growth of deposit cost is
+most likely to moderate. So if you recollect, in the Axis context, we had a
+deposit cost increase that took place in quarter 4 of last year, followed by a
+deposit costs or cost of funds increase in quarter 1 of the current year. We are
+seeing the pace of growth is likely to moderate for the rest of the financial year.
+Moderator: Thank you. We'll take our next question from the line of Kunal Shah from
+Citigroup. Please go ahead.
+Kunal Shah: So the question was on excess SLR, wherein you have utilized almost Rs
+18,000-odd crores, you said like larger part of it could be utilized over next six
+months. So from Rs 57,000-odd crores, how would be the utilization out there?
+And the second question is on the employee’s side. In terms of the cost
+increase which has been there on a quarter-on-quarter basis, how much would
+have been on account of the one-off due to the incentives which we have
+highlighted here?
+Puneet Sharma: Thank you, Kunal, for the question. Let me start with your second question first
+on staff cost increase. Since you've asked the question on a sequential quarter
+basis, there are three elements that are playing through on a sequential quarter
+staff cost increase. One, you would appreciate that we purchased the Citibank
+
+Axis Bank Limited
+July 26, 2023
+business effective 1, March. So the employee cost of all Citi employees in Q4
+of FY23 is for one month. For Q1 of FY24, is for three months. So in some
+sense, it's not an equitable comparison. That has contributed to staff cost
+growth at one level.
+The second element that has contributed to staff cost growth is, we've offered
+increments to our employees in quarter 1 as we do annually. And the
+increments are in line with industry numbers. Therefore, that's a second
+contributor to staff cost increase.
+And the third element is, we’ve added incremental staff in our growth
+businesses and technology teams. So therefore, there is an annualization
+impact of last year's, specifically quarter 4 hires and incremental hires in
+quarter 1 that is contributing to the balance staff cost. There is a marginal
+impact of gratuity that has played through given where interest rates have
+moved. But those would be the four broad components on basis of which staff
+cost has increased.
+Now on excess SLR, you made one comment and asked one question. My
+request is, I do not believe that between Amitabh or me, we said we will run
+through our excess SLR over the next six months. So I would just caveat your
+comment on the time frame. Our LCR numbers are 123%, gives us enough
+flexibility to grow our loan book as long as we get constructive opportunity. And
+as we reduce our LCR, excess LCRs will run off. We do not have a targeted
+guidance to run down excess SLR as a metric.
+Kunal, I hope that covers both your questions but if there is something, happy
+to take a follow-up.
+Moderator: Thank you. We have our next question from the line of Saurabh from
+JPMorgan. Please go ahead.
+Saurabh Kumar: Sir, just two questions. One is basically on this NIM slide, slide 10. So last
+quarter, you had a 6-basis point impact because of the excess liquidity. So fair
+to say that the cumulative decline this quarter, including the 6 basis points of
+excess liquidity, that number should be about 15 basis points? So that's one.
+And the second is, on this attrition rate, could you have -- I mean, would we
+expect the staff cost number to persistently remain high now because of the
+attrition rates are going up at the Bank? Thank you.
+Puneet Sharma: Saurabh, thank you for the question. Yes, there has been a 5% moderation in
+LCR. But I'm not clear on how that translates to the 15 basis points that, of
+normalized reduction that you're coming to. On a reported basis, we have
+declined net interest margins by 12 basis points, 9 basis points of the 12 basis
+points is BAU, which is cost of deposits being offset by increase in yield on
+investments and advances. And 3 basis points in the last quarter was a one-
+off item, which is interest on income tax refunds, which doesn't repeat itself in
+quarter 1. So the bridge for the 12 basis points is the 9 basis points-plus 3
+basis points.
+
+Axis Bank Limited
+July 26, 2023
+Amitabh Chaudhry: On attrition, let me say a couple of points. First, there are only very few banks
+who report attrition numbers on a regular basis.
+Secondly, I think you are assuming that everyone is reporting attrition on
+exactly the same basis. And so the attrition numbers are comparable. I do not
+think so. We have done our analysis and some people are excluding some of
+their workforces when they report or how they report -- how much time they
+have spent with the organization before they report the attrition numbers, point
+number two.
+Point number three. Our attrition rate has remained in the same zone for quite
+some time. So I don't know when you say that attrition rate has gone up, yes,
+it went up last year. It is reflected in our overall staff cost. All the institutions, at
+least the ones we compete with, are used to this kind of attrition rate and
+they've been operating quite well through that period without seeing a large
+jump in staff cost because the attrition rates are high. Frankly, if the attrition
+rates are high, sometimes it can lead to a lower staff cost because you might
+replace the individuals who are leaving you with someone who comes in at a
+lower cost. So I think to attribute high attrition rate to higher staff costs might
+not necessarily be right all the time.
+So in nutshell, we do not expect our staff cost to go up because of a slight
+movement in attrition number, either up or down. I hope that answers your
+question. Thank you.
+Moderator: Thank you. We have a next question from the line of Abhishek M from HSBC.
+Please go ahead.
+Abhishek M: Two questions. One on growth, if you could offer some comments on Housing
+and LAP. There's been a little -- the growth has been a little moderate there for
+a couple of quarters. And is there something in terms of demand that you're
+seeing, which is leading to this kind of moderation?
+And also on the CBG part, where there's a decline this quarter on a QOQ basis.
+So what would be driving this? So that's my first question. Again, I'll come back
+for the second.
+Sumit Bali: Hi, good evening, Abhishek, this is Sumit here. So last year, we had started on
+our improvement of NIM journey. And as part of that, we had taken some
+initiative to rationalize costs. And one is, now our NIMs are where we want
+them to be. So we will be growing our home loan book. We've already put in
+place initiatives to grow that book and that will be visible in Q2, Q3 onwards.
+Net of home loan, every other product is doing well. Home loan, we have a
+plan in place to grow the book.
+Rajiv Anand: So Q4 over Q1 drop is -- you would have seen that last year as well. But you'll
+find that the overall growth on a Y-o-Y basis continues to be quite strong. This
+is a business that we like. It is granular. It is sectorally dispersed, very
+profitable. And this is a piece that we are looking to grow and grow quite
+strongly. So we are not very concerned about the small drop that you've seen
+on a QOQ basis.
+
+Axis Bank Limited
+July 26, 2023
+Moderator: Mr. Abhishek, does that answer your question?
+Abhishek M: Yes. That was the first. I've got one more.
+Moderator: Please go ahead.
+Abhishek M: Thank you. Sir, the second question is on cards. So first, can you give a rough
+mix of revolvers, EMI and whether that would have gone down post the Citi
+merger? And also, would it be fair to assume that Magnus would have led to,
+let's say, 15% to 20% of net card additions and also spends? And now after
+the devaluation, there would be an impact on both of these?
+Arjun Chowdhry: So there's actually three questions there. I'll just sort of take them one-by-one.
+Trend-wise, across the industry, the revolver percentage is coming down but I
+obviously can't share specific numbers on trend of EMI. EMI is a trend which
+is increasing. And what we are noticing you will have seen this in the RBI
+numbers as well, is that our overall spend, which is a reported number, is
+growing quite well and in fact, growing much ahead of the industry. So that's
+the first part.
+On the Magnus, no, certainly, it would not -- we have not seen any attrition and
+it will certainly not lead to any meaningful number in terms of attrition, even if
+it were to come through.
+The third part is, I wouldn't refer to the changes in the Magnus as devaluation
+because if you look at it holistically, we have actually introduced a product for
+-- which is tied in with our wealth management proposition for our Burgundy
+customer which is actually, we believe, even more powerful than the earlier
+Magnus was.
+So we are certainly not looking at it as a devaluation. We are looking at it as a
+segmentation of our product line, more aligned to the high spenders. And for
+that segment, which spends about a particular threshold, we know with the
+math we've done but it is still the most powerful card in the market for that
+segment of customers. So I certainly wouldn't attribute any meaningful number
+on attrition too. In fact, we are seeing the spends going up, as I mentioned on
+the cards portfolio in general and we certainly wouldn't call it a devaluation of
+the Magnus product.
+Moderator: Thank you. We have our next question from the line of Adarsh from CLSA.
+Please go ahead.
+Adarsh P: So most of my questions were answered. I just wanted to check if you think
+about the cost base adjusted for the integration cost. I'm sure there is some
+amount of cost that banks are incurring now, the spend when the going is good.
+Just wanted to understand what's the trajectory and you guided to it earlier as
+well but when should one expect this to moderate, right?
+What I'm trying to understand is, will it last till the going is good or specifically
+think that there should be a turning point here?
+
+Axis Bank Limited
+July 26, 2023
+Puneet Sharma: Adarsh, thank you for the question. The environment allows us to continue to
+make investments today. We have previously demonstrated our ability to pull
+back costs when we need to. And therefore, if you're directionally asking me,
+will we have this ability to manage our cost to assets ratio on a go-forward
+basis post the integration expenses falling away. If the environment were to
+deteriorate, yes, we do believe that we have levers to manage costs at that
+point in time. As we stand today, we are constructive about the environment
+that we operate in and therefore, we'd like to continue to invest in the franchise.
+Adarsh: And that medium-term guidance on cost to asset ex integration is something
+you don't want to still put on a timeline to?
+Puneet Sharma: So Adarsh, what we have said previously and we've reiterated that on slide 13
+of our investor presentation, we have set out a -- around 2% cost to assets on
+an FY25 exit basis. If you see the update that we have provided, we've
+continued to hold that guidance of around 2% FY25 exit basis, excluding the
+Citi business.
+Please appreciate the reason for the exclusion is, the Citi business operates
+at higher revenue and higher costs. We had called out the impact of Citi costs
+on the univariate cost to assets ratio last quarter. Therefore, the guidance that
+we had offered previously stands, as originally intended. So we are not walking
+away from that guidance.
+Moderator: Thank you. We have our next question from the line of Nitin Aggarwal from
+Motilal Oswal. Please go ahead.
+Nitin Aggarwal: Good evening, everyone. I have two questions. One is around the Tier 1. We
+have seen a good improvement in Tier 1 this quarter despite the rise in RWA
+to total asset ratio. So what has really driven this, is this one-off or do you think
+that this is going to steadily improve over the coming quarters? And in view of
+this, what will also be the plans that we have on the capital raise?
+Puneet Sharma: Thank you for your question, Nitin. Let me take the capital raise plan first and
+then come back to your one-off question on capital. Our current CET1 stands
+at 14.38%, well above our philosophical rebase level, well above what we need
+to protect our domestic AAA rating, sufficient headroom for us to grow at 400
+basis points to 600 basis points higher than industry credit that we've indicated
+we would like to grow at. Therefore, we do not have any plans currently to raise
+capital for the growth outlook that we have for FY24.
+To your second question on, is there a one-off in the net capital accretion that
+you have seen of 36 basis points, no. Capital accretion is roughly about 66
+basis points if I take you to slide 15 of our presentation. About 66 basis points
+of accretion is on account of profits for the quarter. Across operations, risk and
+growth has consumed 30 basis points. So the 36 basis points is core organic
+accretion that we have delivered in the current quarter.
+Nitin Aggarwal: Okay. And second question is on the branch expansion plan, while you have
+a guidance around cost to asset but how are you looking at the branch
+expansion over FY '24 to FY '25. And related to the branch expansion, on the
+
+Axis Bank Limited
+July 26, 2023
+liabilities, because CD ratio has been like hitting close to 91 now, so how are
+we looking at the liability position and what is your comfort level on the CD
+ratio?
+Ravi Narayanan: Thank you. So on the branch expansion plan, as we have said earlier too, we
+continue to look at white spaces across the country, both in Bharat and the
+urban markets. Current financial year, we are looking at around 400 branches
+incrementally for the year. And we will keep ourselves open for any kind of
+opportunity which further comes up. Similar numbers would be where we are
+looking for even possibly, as we go along.
+Overall, in terms of the job between the loans and the liability, that continues
+to be something that is playing out for the industry. We have our eyes closely
+hooked on to the CD ratio and we continue to make all efforts to ensure that,
+that is something that is always under control and see how we can bring it up,
+as we go along. So between the push towards increasing distribution as well
+as ensuring that the existing franchise is completely sweated out, we continue
+to be extremely positive about the deposit growth that we have.
+Moderator: Thank you. We have our next question from the line of Param Subramanian
+from Nomura. Please go ahead.
+Param Subramanian: So on slide 12, you're showing this, the retail cards, and payments within the
+retail fee mix. So I just wanted to understand, would most of the Citi fee be
+sitting within this retail cards and payments. And if so, it looks like the Citi
+business would have been about INR150 crores to INR200 crores of fees this
+quarter. Is that ballpark number, correct?
+Puneet Sharma: Thanks, Param, for the question. I'm not going to call out or ratify the amount
+that you've calculated. We've categorically said we are one bank, one number
+reported. It is an integrated Axis franchise. Therefore, the Citi fee number is
+not being called out separately. To your first point out that, is Citi fee is being
+reported? Part of the Citi fee is being reported in retail cards and payment.
+There will be fees that will come in third-party products as well as Citi fees
+appearing in retail liabilities. The recharacterization of the fees is in line with
+how Axis used to consistently characterize its fee profile. And therefore, there
+is consistency of this reporting.
+P Subramanian: Okay. Got that thing. But the last number we got for the Citi business as of CY
+'20, when you had given out a broad P&L. So I just wanted to understand if the
+P&L trends stay in the NII and fee line, are broadly similar on an accretion
+basis.
+Puneet Sharma: Param, thanks for the follow-up. What we also set out in the pro forma
+disclosure was an ROE number, which was 19%-plus. We do believe that, that
+number is deliverable post full integration and therefore, the business should
+be ROE accretive for us. Without commenting on specific lines of income and
+expense growth, we stay committed and stay true to our comments that this
+business is ROE accretive post-integration period.
+
+Axis Bank Limited
+July 26, 2023
+Moderator: Thank you. We have our next question from the line of Rakesh Kumar from
+B&K Securities. Please go ahead.
+Rakesh Kumar: Yes. So sir, firstly question was on the outflow rate for the LCR calculation,
+there was an improvement of 460 bps. And that improvement is being utilized
+in the lower surplus liquidity, so including the asset yield. So just wanted to
+understand, what is the longevity like how much more we can improve the
+deposit profile and use that to improve the overall margin profile? So how much
+-- what is in the degree -- outer degree of that, if you can elaborate on that?
+Puneet Sharma: Thank you for the question. As we would see on slide 18 of our presentation,
+we've called out a June '23 outflow rate of 23.7%. If you look at broadly our
+peer bank set, we've reached the rates that they have historically operated in
+and continue to operate in. So the efficiency there would be at the margin
+because we've seen a significant improvement in the last 24 months. So that
+lever of NIM improvement is getting optimized and may have limited to no
+scope of improvement on a go-forward basis.
+Rakesh Kumar: Sir, secondly on the slippages, you mentioned that there is a seasonality in this
+rural slippage number and the recovery number kind of has come down. So
+recovery numbers, we can understand but the seasonality of this rural slippage
+number. So can we see this number in any other quarter, Q3 or Q4 or like it
+will happen just in Q1. So if you can help there?
+Puneet Sharma: Thanks again for that question. Typically, rural NPAs is the May-November
+cycle. So you will see a quarter 1, quarter 3 impact of the rural cycle. The other
+products typically don't have the seasonality that comes through the rural loan
+portfolio.
+Moderator: Thank you. We'll take our next question from the line of Arvind R from
+Sundaram Alternates. Please go ahead.
+Arvind R: So once the branch -- new branch is open, like how much time it usually takes
+to reach the desired metrics in terms of loans and deposits. So that is my first
+question. And if you can give me some color on like what is the average yield
+on credit cards, like. Yes. These are the two my questions, sir.
+Ravi Narayanan: Yes, thanks. On an average, we are now looking at the branches becoming
+fully profitable in the ballpark of couple of years. Obviously, there will be
+outliers, some of them may come in faster. Some of them may go beyond. But
+on a broad basis, couple of years is where we look at the customer base kicking
+in and a granular kind of approach in terms of getting the profitability. Thanks.
+On the cards, I'll have Arjun or Puneet look at it.
+Puneet Sharma: Thanks for the question. As you're aware, we don't give product-wise yields
+out. So as Arjun alluded to, how the market has moved, on revolve plus cards
+loans. But we do not have any particular yield callout on the cards portfolio that
+we can disclose here.
+Arvind R: But if I can just ask one question, like especially on fixed rate loans, especially
+in consumer segment, banks have not been able to pass on the interest rate
+
+Axis Bank Limited
+July 26, 2023
+that much. I'm just trying to get your view on like, how do you see like passing
+on the rates to the customers in the retail segment, especially fixed rate book
+like in personal loans and other products?
+Puneet Sharma: Thank you for the question. Like I said earlier, we've seen an improvement on
+our yield on advances. We are also seeing improvement in yields on
+disbursements, which is why we've been able to offset the 31 basis points cost
+of deposits increase. So that's visible in the numbers that we are reporting.
+Having said that, the market is competitive. We operate in a competitive market
+space. And consequently, there will be pulls and pressure on pricing for the
+customer profile that we would like to have. So, I think it's a market dynamic.
+We are a large and active participant. We have meaningful distribution strength
+as One Axis. So, we feel comfortable in competing and winning in this space.
+On your fixed rate loan profile, I had earlier called out that 42% of our fixed rate
+loans mature over the next 12 months, that should give you an indication of the
+repricing frequency of that book.
+Moderator: Thank you. I now hand the conference over to Mr. Puneet Sharma for closing
+comments. Thank you and over to you, sir.
+Puneet Sharma: Thank you, Yashashree. Thank you, everybody, for your time this evening.
+We'd be very happy to take any questions that remain unanswered.
+Subsequently, please feel free to reach out to Abhijeet and we'd be happy to
+take on follow-on questions or engage with you. Thank you very much. Have
+a good evening.
+Moderator: Thank you, sir. On behalf of Axis Bank, thank you for joining us and you may
+now disconnect your lines.

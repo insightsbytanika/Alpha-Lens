@@ -1,0 +1,671 @@
+Axis Bank Limited Q4FY26 Earnings Conference Call
+April 25, 2026
+MANAGEMENT: MR. AMITABH CHAUDHRY - MANAGING DIRECTOR &
+CHIEF EXECUTIVE OFFICER
+MR. PUNEET SHARMA – GE & CHIEF FINANCIAL OFFICER
+MR. SUBRAT MOHANTY – EXECUTIVE DIRECTOR
+MR. MUNISH SHARDA – EXECUTIVE DIRECTOR
+MR. NEERAJ GAMBHIR - EXECUTIVE DIRECTOR
+
+Axis Bank Limited
+April 25, 2026
+Moderator: Ladies and gentlemen, good day and welcome to the Axis Bank Conference Call to discuss the
+Bank's Financial Results for the Quarter Ended as on March 31, 2026. Participation in the
+conference call is by invitation only. Axis Bank reserves the right to block access to any person
+to whom an invitation has not been sent. Unauthorized dissemination of the contents of the
+proceeding of the call is strictly prohibited and prior explicit permission and written approval of
+Axis Bank is imperative.
+As a reminder, all participant lines will be in the listen-only mode. There will be an opportunity
+for you to ask questions at the end of the briefing session. Should you need assistance during the
+conference call, please signal the operator by pressing star and then zero on your touchtone
+phone. Please note that this conference is being recorded. On behalf of Axis Bank, I once again
+welcome all the participants to the conference call.
+I now hand the conference over to Mr. Amitabh Chaudhry, MD and CEO. Thank you and over
+to you, sir.
+Amitabh Chaudhry: We welcome you all to a discussion on Axis Bank’s Financial Results for the quarter and
+financial year ended March 2026.
+We have on the call our Executive Directors - Subrat Mohanty, Munish Sharda, Neeraj Gambhir
+and other members of the leadership team.
+FY2026 unfolded against a complex and uncertain global macroeconomic backdrop. Elevated
+geopolitical tensions, including tariff issues and lately the West Asia conflict, continue to disrupt
+global supply chains, influence capital flows, and add volatility to markets worldwide. Indian
+economy has shown resilience amid this uncertainty so far.
+In this environment, Axis Bank remained firmly focused on disciplined execution, balancing
+growth with watchfulness, while continuing to build momentum in our chosen areas of focus.
+We made strong progress this quarter in building a resilient, all-weather franchise, strengthening
+our balance sheet, focusing on our customers, improving efficiency and increasing activity
+intensity across the franchise without diluting risk standards. Please refer to slide 3 for more
+details on our House of GPS.
+Now let me talk briefly about the progress we have made on each pillar of our GPS strategy.
+1. Starting with Growth
+We sustained the momentum from the previous quarter with strong all-round growth
+across segments.
+• Our total advances grew 6% QOQ and 19% YOY, within which Wholesale
+grew 38%, SME 24% and Retail 8% on YOY basis.
+o Wholesale Banking has evolved from a balance‑sheet‑centric model to an
+ecosystem‑led approach, driving diversified, high‑quality growth in
+relatively strong-cycle segments. We have deepened relationships that
+enhance our share of wallet, improve risk visibility and deliver the planned
+RAROC.
+
+Axis Bank Limited
+April 25, 2026
+o Our SME franchise continues to grow strongly. We have built a diversified,
+granular portfolio and have improved our yields through data driven credit
+decisions, simplified products and digitized operations.
+o In Retail, our disbursement growth remains strong and risk‑calibrated,
+centred on credit‑tested customers, strengthened underwriting discipline, and
+balanced scaling across proprietary and partner‑led distribution channels.
+• Moving on to the Deposits
+o We continue to deliver faster than the industry growth in medium to long
+term:
+▪ Year-on-Year on MEB and QAB basis, total deposits grew 14% and
+13%; term deposits grew 16% and 15%, CA grew 11% and 10%, SA
+grew 11% and 10%, respectively.
+▪ Quarter-on-Quarter on MEB and QAB basis, total deposits grew 6%
+and 2%; term deposits grew 5% and 3%, CA grew 7% and 3%, SA
+grew 7% and 2%, respectively. Total CASA deposits increased by 7%
+QOQ on MEB basis, resulting in 48 bps improvement in CASA ratio
+o Our cost of deposits declined by 46 bps YoY and 4 bps QoQ, underscoring
+the strength of our funding strategy and disciplined execution.
+o There is ongoing work on improving the deposit quality through deeper
+granularization, with an emphasis on building more stable liabilities mix to
+enhance resilience across cycles.
+o Our New-to-Bank (NTB) franchise continues to scale with a sustained
+improvement in quality. Newly acquired customers are maintaining
+meaningfully higher average balances, with NTB average balances up 53%
+YoY, reflecting the continued impact of premium‑led sourcing and tighter
+conversion discipline.
+▪ NTB Product Per Customer (PPC) has improved by 24% YOY, due to
+better quality acquisitions.
+o Our Existing-to-Bank (ETB) engine has continued to strengthen, with our
+ETB Salary book growing 18% YoY, underscoring steady improvement in
+corporate salary segment with higher wallet share and customer lifetime
+value.
+• Burgundy continues to be our key driver of premiumisation, with assets under
+management up 14% YoY. The strength and consistency of our proposition was
+reaffirmed with Burgundy Private being named ‘India’s Best for Next‑Gen’ at the
+Euromoney Global Private Banking Awards 2025 for the third year in a row.
+2. On Profitability: we focused on structurally improving the quality of earnings through
+consistent and sustainable delivery, supported by ongoing improvements in operating
+efficiency.
+• Our cost‑to‑assets declined to 2.28%, down 18 bps YoY through improvement in
+operational productivity
+
+Axis Bank Limited
+April 25, 2026
+• While we added 400 branches during the year, our total workforce declined by
+3% YoY, driven by technology‑led efficiency gains at both employee and branch
+levels.
+• Our consolidated Q4FY26 ROA was 1.64% and ROE was 15.15%
+3. On Sustainability: we stay focused on quality, balance sheet resilience, building
+future‑ready technology platforms and investing in people and capabilities to deliver
+sustainable outcomes at scale.
+• Our GNPA was at 1.23%, declining 17 bps QOQ and 5 bps YOY; while the Net
+credit cost was at 0.37%, down 13 bps YOY and 39 bps QoQ
+• I want to specifically highlight the strong progress on AI initiatives across Axis
+Bank. Please refer to slides 5 to 7 for more on this.
+o Through AXIOM, our bespoke AI operating model, we are building an AI-
+led, customer centric Bank that’s transforming the customer touchpoints,
+employee productivity, and core processes at enterprise scale
+o We are the only ISO 42001 certified BFSI organisation globally; ISO42001
+is the first international standard providing guidelines for an Artificial
+Intelligence Management System. We also received the award for ‘Best
+GenAI Use Case in Retail Banking’ at the Retail Banker International Asia
+Trailblazer Awards 2026.
+o We have a roadmap for scale‑up and we expect AI to drive meaningful
+bottom‑line impact over the next 18-24 months. Our focus remains on
+embedding AI responsibly, securely, and in a way that supports sustainable
+growth.
+• Our people‑first approach has been consistently recognised externally. During
+the year, Axis Bank was certified by the Top Employers Institute, the only Indian
+private‑sector bank on the list and included in the TIME Best Companies
+Asia‑Pacific list for the second consecutive year. We were also recognised as one
+of India’s Iconic Workplaces by HT Mint and Deloitte, featured among the Best
+Places to Work by The Hindu and WorkL, and received the ATD Best Awards for
+fostering a strategically driven talent management culture.
+• Underpinning all of this is our unwavering focus on customers. Through our
+Customer Obsession initiative, Sparsh, we are strengthening experience
+outcomes and simplifying interactions through digitisation. Our Retail Bank NPS
+has improved significantly since inception, and we have retained the 2nd rank in
+the Kantar Retail Bank Survey for the 3rd consecutive year. Our leadership in
+customer experience and analytics has also been recognised at the Annual BFSI
+Service Quality Excellence India Summit 2026, where Axis Bank won the ‘CX
+Data and Analytics Excellence Award’ and ‘Best Omni‑Channel Experience
+Strategy’.
+We had strong business momentum in Q4 as a Bank with clear intent, the right talent and a strong
+culture. This positions us well to assert our right to win and to gain more than our fair share
+across businesses.
+
+Axis Bank Limited
+April 25, 2026
+In an environment marked by uncertainty and volatility, our conservatism is a strategic
+advantage. The choices we made during the year have strengthened our foundation and enhanced
+our resilience.
+As we step into FY27, we are watchful of the ongoing uncertainties, however we stay confident
+in our ability to grow in a disciplined and calibrated manner, faster than the industry.
+With that, I will now hand over to Puneet.
+Puneet Sharma: Thank you, Amitabh.
+Good evening and thank you for joining us. Before discussing the financial performance for
+Q4FY26 and FY26, I would like to clarify two items:
+1. Accounting related to tax item: In the financial year 2022-23, the Bank acquired
+Citibank’s India Consumer Business from Citibank N.A. (acting through its branch in India)
+(“CBNA”) and the NBFC Consumer Business from Citicorp Finance (India) Limited
+(“CFIL”) collectively referred to as Citi India Consumer Business on a going concern basis.
+In accordance with an independent valuer’s report, intangibles (excluding goodwill)
+amounting to ₹8,714.24 crores were recognised in the Bank’s financial statements. Despite
+retaining access to and business use of these assets, as a prudent measure aimed at protecting
+its capacity to pay dividends, the Bank opted to fully amortise these intangibles through the
+Profit and Loss account in FY 2022-23. Furthermore, the Bank elected not to create any
+deferred tax asset in FY 2022-23 on such intangibles, nor did the Bank consider the
+deductibility on the said intangibles while providing for current tax in the books until the
+regular tax assessment for the said financial year was completed. During the quarter and
+year ended 31st March 2026, following the conclusion of regular assessment proceedings
+by the income tax authorities, tax depreciation on these intangibles was allowed. As a result,
+the tax expense for Q4FY26 and FY26 is lower by ₹2,193.20 crores, which includes the
+reversal of excess tax provisions made in prior years amounting to ₹ 1,129.80 crores,
+reduction of current year’s tax expense by ₹ 265.85 crores and recognition of a deferred tax
+asset of ₹ 797.55 crores. This has resulted in the effective tax rate (ETR) for FY26 being
+17.25%
+2. Voluntary enhancement of the Bank’s provisioning framework for standard assets:
+During Q4 of FY26, the Bank proactively strengthened its balance sheet by voluntarily
+enhancing its prudent provisioning framework for standard assets, in line with our
+conservative risk-management philosophy. Based on an assessment of evolving and
+unpredictable macroeconomic and geopolitical uncertainties, the Bank created an additional
+one-time provision of ₹2,001 crores during the quarter. This approach is aligned with our
+practice to enhance resilience of our balance sheet during periods of elevated uncertainty
+while maintaining transparency and discipline in risk governance. This action is prudent
+and precautionary in nature and does not reflect any deterioration in asset quality or adverse
+credit trends in the Bank’s loan or investment portfolio as of the reporting date. Our Core
+asset quality metrics remain stable and within our risk guardrails. The creation, utilisation
+or potential reversal of this provision is governed by a Board-approved framework and is
+calibrated using internal stress-testing by the risk function under severe but plausible
+downside scenarios. Based on our current assessment, this provision is considered sufficient
+
+Axis Bank Limited
+April 25, 2026
+to absorb potential incremental provisioning charge to P&L even under the most adverse
+stress scenario modelled for FY27. To provide some context, the adverse stress scenario
+assumes average oil over US$ 150 for 12 months, inflation at 7.4% and currency
+depreciating by ~ 20% over current levels etc.
+Between the two one-time items above and trading loss in the quarter due to year-end rate
+movements driven by extraneous factors, the net impact on the P&L of these three items
+combined is net neutral on P&L.
+Moving to, the salient features of the financial performance of the Bank for FY26 and Q4FY26,
+across (i) Operating performance; (ii) Capital and liquidity position; (iii) Growth across our
+deposit and loan franchise and (iv) Asset quality, restructuring and provisioning is as follows:
+For FY26, our operating performance was stable across NII, fee and operating expense lines:
+• NII at ₹ 56,048 crs, grew 3% YOY, NIM at 3.69%, declining 29 bps YOY after factoring
+125 bps pass-through of the repo rate cut
+• Fee at ₹ 24,444 crs, grew 9% YOY
+• Operating expenses ₹ 39,362 crs, grew 5% YOY, in line with core revenue growth after
+absorption of rate cut and despite lower trading income due to year end volatility
+• Cost to assets at 2.28%, declined 18 bps YOY
+• Core operating profit at ₹ 41,443 crs, grew 4% YOY
+• Standard asset coverage ratio of 1.26%, increased by 11 bps YOY; All provisions by GNPA
+ratio of 166%, increased 900 bps YOY
+• Consolidated ROA% at 1.46%, Consolidated ROE% at 13.59%
+The key metrics for Q4 FY26 are:
+• PAT at ₹ 7,071 cr, QoQ growth of 9%
+• YOY Deposits and advances growth of 14% and 19% respectively
+• QOQ deposits growth of 6% and advances growth of 6%
+• NII at ₹ 14,457 crs, YOY and QOQ growth of 5% and 1% respectively, NIM at 3.62%,
+• Fee at ₹ 6,561 crs, YOY growth of 4%, QoQ growth of 8%, granular fee at 92% of total fee
+• Expenses at Rs 10,466 cr, YOY growth at 6%, and QOQ growth of 9%, adjusted for employee
+benefit related provisions in the current quarter due to year end rate movements and variable
+pay write-back in the previous quarter, the YOY growth was 5% and QOQ growth was 4%
+• Cost to assets at 2.28%, declining 18 bps YOY and 5 bps QOQ
+• Core operating profit at ₹ 10,619 crs, largely flat QoQ and YOY
+• Net credit cost at 0.37%, down 13 bps YOY and 39 bps QoQ.
+• Net credit cost (excluding technical impact) at 0.28%, down 22 bps YOY and 35 Bps QoQ
+• GNPA at 1.23%, declined 17 bps QOQ and 5 bps YOY
+• NNPA at 0.37%, declined 5 bps QOQ
+• PCR% at 70%, flat QOQ%
+• Consolidated ROA% at 1.64% improving 7 bps QoQ, Consolidated ROE% at 15.15%
+improving 100 bps QOQ. Subsidiaries contributed 6 bps to the consolidated annualized ROA
+and 41 bps to the consolidated annualized ROE this quarter.
+
+Axis Bank Limited
+April 25, 2026
+• Banks CET-1 including FY26 profit stands at 14.38%, we net consumed 12 bps of capital in
+the quarter for growth. The Bank has provisions aggregating to ₹ 8,244 crs, including the
+standard asset provisions created earlier in Q2FY26 pursuant to regulatory guidance. These
+have not been reckoned for regulatory capital computation. Consequently, they represent an
+additional buffer over and above reported capital ratios, translating into an incremental capital
+cushion of ~53 basis points. This further reinforces the Bank’s balance-sheet strength and
+enhances its ability to navigate uncertainty while continuing to support growth and
+shareholder value. We reiterate that we do not need equity capital for either pillar, i.e., growth
+and protection. The resolution we've taken today is only an enabling resolution consistent
+with our practices for the prior years. We may opportunistically evaluate issuing Tier-2 and
+AT-1 instruments based on market conditions.
+Yields on interest earning assets declined 5 bps QOQ, cost of funds were largely flat QOQ. The
+Bank maintains its through cycle stance of NIMs at 3.80% (cycle measured in terms of duration,
+starting from the date of last rate cut transmission).
+Our progress on structural NIM drivers continues:
+▪ Improvement in Balance sheet mix: Loans and investments comprised 89% of total assets
+at March-26
+▪ Retail and CBG advances comprised 67% of total advances at March 26, declining 471 bps
+YOY. This is an outcome of the Bank’s conscious strategy to optimize for NII in the short
+term. Retail disbursements have grown 24% YOY and 19% QoQ, which gives us comfort
+that we will be able to rebalance the portfolio proportionality over our planning horizon of
+3 years.
+▪ Low-yielding RIDF bonds declined by ₹ 5,761 crs YOY. RIDF comprised 0.46% of our
+total assets at March 26 compared to 0.90% at March 25.
+▪ Quality of liabilities at March 26 measured by outflow rate stood at 28.8%, moved
+adversely. We continue to remain focused on this variable.
+▪ QAB CASA at 37%. We have seen an improvement of 39 bps on CASA pricing for FY26
+as compared to FY23. The impact of marginal YOY decline in QAB CASA was offset by
+rate benefit across parts of the liability stack. The cost of deposits declined 46 bps YOY
+and 4 bps QOQ.
+▪ Our fee income grew 4% YOY and 8% QoQ.
+o Total retail fee grew 2% YOY and 11% QOQ supported by our SBB, SEG, Liabilities
+and cards businesses
+o Total wholesale fee grew 8% YOY. WBCG fees grew 14% YOY, our MEG fees grew
+12% YOY. Our Transaction Banking fee grew 5% YOY
+▪ Trading profit and miscellaneous income at negative ₹ 538 crs declined QOQ and YOY
+mainly due to MTM losses on investments in government securities, bonds & debentures,
+shares etc.
+▪ Operating expenses for the quarter stood at ₹ 10,466 cr, growing 6% YOY and 9% QoQ.
+Adjusted for one –time items aggregating Rs 408 crs, the core QoQ growth is 4%. The one
+time items comprise increase in staff cost is attributable to provisioning for employee
+benefits Rs 126 crore and one time reversal accruals for staff expenses no longer required
+to be paid in the previous quarter aggregating to Rs 282 crs
+
+Axis Bank Limited
+April 25, 2026
+o The YOY increase in operating expenses is ₹ 629 crs. 36% of this increase is
+attributable to technology spends, 33% is volume linked expense growth while balance
+is BAU expense partly offset by reduction in statutory costs.
+o The QOQ increase in operating expenses is ₹ 830 crs. Of this Rs 408 crore is due to
+one time items in staff cost. Our QOQ period end head count declined by 552.
+Operating expenses (other than Staff) were up 7% QOQ largely BAU volume linked
+expense growth offset by PSLC cost reduction.
+o Technology and digital spends grew 14% YOY and constituted ~ 10% of total operating
+expenses.
+o We opened 166 new branches in the quarter, 400 new branches in FY26.
+▪ We are PSL compliant at a headline and each sub-segment level.
+▪ Net credit costs for the quarter was ₹ 1,146 cr. Annualized net credit cost for Q4FY26 was
+37 bps, declining 13 bps YOY and 39 bps QoQ.
+▪ Net credit costs (excluding technical write off) for the quarter was Rs. 888 cr. Annualized
+net credit cost (excluding technical write off) for Q4FY26 was 28 bps, declining 51 bps
+YOY and 35 bps QoQ.
+▪ The cumulative non NPA provisions at March 31, 2026 is ₹ 15,473 crores, comprising (i)
+Prudent provisions for standard assets of ₹ 7,013 crores; (ii) Restructuring provisions of ₹
+197 cr, (iii) standard assets provision at higher than regulatory rates of ₹ 1,733 cr, (iv)
+additional one-time standard asset provision of ₹ 1,231 crores and (v) weak assets & other
+provisions of ₹ 5,299 crores.
+Growth across our liabilities and loan franchise
+Amitabh has already discussed the growth in loans and deposits. We gained 20 bps market share
+gain on loan franchise and maintained stable market share on a YOY basis on the deposit
+franchise and. Our loan book is granular and well-balanced with retail advances constituting 55%
+of the overall advances, corporate loans at 33% and CBG at 12%. Please refer slides 22 and 23
+for details around the quality of our liabilities franchise and slides on our loan franchise.
+~73% of our loans are floating rate. ~48% of our fixed rate book matures in 12 months. Break-
+up of the of the floating rate loan book by benchmark type and MCLR re-pricing frequency is
+set out on Slide 14 of our investor presentation.
+In Q4FY26 Retail disbursements grew 24% YOY and 19% QoQ. Disbursement growth in home
+loans was 28% YOY and 15% QOQ, Vehicle loans was up 25% YOY and 10% QOQ, retail agri
+was up 34% YOY and 19% QOQ, personal loans was up 22% YOY and 9% QOQ.
+Coming to the performance of our subsidiaries
+▪ Detailed performance of the subsidiaries is set out on Slides 55 to 62 of the investor
+presentation. In FY26, the domestic subsidiaries reported a net profit of ₹ 2,051 cr,
+growing 16% YOY. The QoQ growth in PAT is 9%. The return on investment in domestic
+subsidiaries was ~ 54%.
+▪ Axis Finance:
+o Overall assets under finance grew 22% YOY of which share of Retail + MSME at 57%
+of total book v/s 54% last year.
+
+Axis Bank Limited
+April 25, 2026
+o FY26 PAT grew 19% YOY to ₹ 806 crores.
+o Strong asset quality with net NPA of 0.36% and negligible restructuring.
+o Provisions made in the quarter to comply with upper layer regulations is Rs 48 crores
+▪ Axis AMC: Overall quarterly average AUM grew 12% YOY to ~ ₹ 3,59,601 crores, FY26
+PAT stood at ₹ 596 crores, growing 19% YOY
+▪ Axis Securities: FY26 PAT stood at ₹ 366 crores
+▪ Axis Capital: FY26 PAT grew 61% YOY to ₹ 259 crores
+Asset quality, provisioning and restructuring
+▪ The Slippage, GNPA, NNPA and PCR ratios for the Bank, and segmentally for Retail, CBG
+and Corporate is provided on slide 47 of our investor presentation.
+▪ Gross slippages in the quarter were ₹ 4,709 cr of which retail was Rs 4,098 cr, CBG was
+Rs 297 cr and WBCG was Rs 314 Cr.
+▪ Our Gross slippage ratio for the quarter declined sequentially by 48 bps and declined 27
+bps YOY. Our Gross slippage ratio for the quarter (excluding technical impact) declined
+sequentially by 31 bps and declined YOY by 70 bps.
+▪ For the quarter ~ 35% of the gross slippages are attributed to linked accounts of borrowers
+which were standard when classified or have been upgraded in the same quarter.
+▪ Net slippages in the quarter were ₹ 2,013 cr. Net Slippages segmentally were ₹ 1,708 cr in
+Retail, ₹ 164 cr in CBG and ₹ 141 cr in WBCG.
+▪ Net slippage ratio for the quarter declined 11 bps YOY and 41 bps QoQ. Our Net slippage
+ratio for the quarter (excluding technical impact) declined YOY by 18 bps and QoQ by 32
+bps.
+▪ Recoveries from written off accounts for the quarter was ₹ 1,197 crores up 28% YOY.
+▪ Net slippage in the quarter adjusted for recoveries from written off pool was ₹ 815 cr.
+Segmentally Retail was ₹ 1,041 cr, CBG was ₹ 93 cr and WBCG was negative ₹ 319 cr.
+Please see slide 48, 71 and 72 for quantification of Technical Impact across segments. Technical
+Impact has lost its reporting relevance as it will be in the base period for the next quarters’
+reporting. Further, the net slippages are down to negligible levels. Hence, we will discontinue
+this disclosure from Q1FY27.
+In summary, Axis Bank continues to make progress towards building a stronger and more
+sustainable franchise. We remain vigilant in monitoring the macroeconomic and geopolitical
+environment, inflation, liquidity, and our cost of funds, along with their impact on our business.
+This concludes our opening remarks. We look forward to your questions.
+Moderator: Thank you very much. We will now begin the question-and-answer session. The first question
+comes from the line of Chintan from Autonomous. Please go ahead.
+Chintan: Hi, good evening. Thank you for taking my question. Can I start with NII and NIMs? Could you
+remind us if there is any day-count convention benefit in your NIMs? Secondly, if the full 25
+bps rate cut from December has been passed on your EBLR book? And thirdly, if there's any
+residual TD repricing left on your book? That's the question on NIMs.
+
+Axis Bank Limited
+April 25, 2026
+And then I've got a question on the corporate growth. At 34% year-on-year, you are growing
+your corporate book meaningfully faster than your peers. What opportunity do you see that
+others may not be seeing? And also, could you kind of show us in the numbers or qualitatively
+how this has benefited your ROA or is that still left in the future? Because I know it's NIM-
+dilutive, but it may not be ROA-dilutive. Just want to understand how do we observe that
+improvement of metrics, how do we go about analysing that bit of growth.
+Puneet Sharma: Chintan, thank you for your questions. I'd probably have to respond in parts. So the first part of
+your question on have we transmitted the 25 basis points repo rate cut last quarter on our entire
+loan book? I would request you to look at slide 14 of our investor presentation. The repo-linked
+book is 61%, so that would have gotten repriced and the full repricing effect would be in the
+yields for the current quarter because just to remind you, we transfer repo rate pricing at the end
+of the quarter in which the rate cut was announced. So, this quarter has full impact of repo rate
+cut on the 61% of the loan book. On the same slide, we've given you tenor-wise breakup on
+MCLR and other EBLR. So, those will reprice as per the tenors we've set out there. I hope that
+covers the first question.
+The second question on the growth and how is it benefiting us on the corporate side, I'll request
+Vijay to come in on where he's seeing growth. But I just want to make sure we reassure you, we
+monitor all of our businesses on risk-adjusted return on capital.
+There has been no dilution in risk-adjusted return on capital in the current fiscal compared to
+what we reported last fiscal for this segment. There has been no dilution in risk standards. 91%
+of this book is rated A- and above, both on stock and flow roughly follow the same pattern, so
+we've not gone down the credit curve. I will pause there. I'll request Vijay to come in on growth.
+Chintan: Puneet, just quickly on the NII before we go to Vijay, is there a day count convention benefit in
+your NIMs if you can remind us on that and residual TD repricing left?
+Puneet Sharma: Chintan, there is no day-count representation. We simply follow number of days in the quarter
+annualized for days in a year. So, we have no artificial day-count convention management as
+part of our reported NIMs.
+So, the number of days a quarter has, that is what will get annualized. The government securities
+book follows a 30 by 360 methodology that is market standard, we follow that for the G-sec
+book. So, we have no further comment to add on day-count convention. We have consistently
+reported, we have not changed our methodology on margin computation.
+Chintan: And residual TD repricing?
+Puneet Sharma: Chintan, we don't provide the data on residual TD repricing in percentage terms, but we do have
+some legs left on that lever as we move forward.
+Chintan: That is helpful. Thank you. Thank you. And Vijay?
+
+Axis Bank Limited
+April 25, 2026
+Vijay Mulbagal: Hi, Chintan. See, on the wholesale side, our playbook remains unchanged. We selectively grow
+and we are not chasing growth here. We invest in sectors with the strongest cycles and clear
+micro tailwinds.
+Incrementally, growth was seen in power, largely renewables, commercial real estate, data
+centers, NBFCs largely PSL driven, and manufacturing. Again, as Puneet reiterated, I should
+also add to that that growth remains quality led. Both our pricing filters and RAROC discipline
+are maintained even as we are growing. And of course, we use the opportunity of balance sheet
+to ensure that we are getting reciprocal transaction flows leading to fee expansion and float
+expansion and obviously driving One-Axis outcomes which includes corporate salary, Axis
+Capital, trusteeship, etc.
+Chintan: Thank you.
+Moderator: Thank you. Your next question comes from the line of Rikin Shah from IIFL Capital. Please go
+ahead.
+Rikin Shah: Hi, good evening. I had three questions. The first one is, you know, the strategy of NII
+maximization has translated into growth acceleration, but with the sharp rise in the wholesale
+deposit rates that we have seen, do you think it warrants a focus moving back to margins? Just
+trying to understand when do we reach to this 3.8 through the cycle NIM guidance that we have
+earlier provided? So that's the first one. I'll come back with two questions after this.
+Amitabh Chaudhry: I just want to reiterate that, you know, obviously we are trying to ensure that we maximize the
+value for the institution looking at NIM, growth, and obviously the risk profile of what we are
+trying to do on the asset side.
+We will continue to optimize them as we move forward depending on the opportunities, the risks
+that we see, and, you know, as all of us are aware what's happening with West Asia. So, you
+might see in some quarter’s growth which is more than what kind of we are guiding in the
+medium term, but we have always maintained that from a product mix perspective, we expect
+70-30, 70% is what is retail and SME kind of business and 30% is wholesale, plus-minus 3% or
+4% here and there, and that's what we expect to maintain.
+We have not shifted away from our stance that we expect to deliver 3.8% NIM through cycle.
+We are working towards it. I mean, obviously it's a target not easy to pin down on because the
+interest rates continue to behave in a manner and in a shape which is really difficult to predict.
+Given all of that, we are optimizing everything.
+Rikin Shah: Fair enough, Amitabh. But any comment on when do we think this -- we can achieve this 3.8%?
+Is it like any timeframe that we would like to define?
+Puneet Sharma: Rikin, thank you for the question. We'll reiterate we've said we will get to through-cycle 3.80%,
+15 to 18 months from transmission of last rate cut. That's a consistent comment we've offered.
+We are not moving away from that comment.
+
+Axis Bank Limited
+April 25, 2026
+Rikin Shah: Got it. Perfect. The second one is on the net technical slippages now, you know, clearly inching
+closer to zero. Wanted to get a sense on what could be the loan yield uplift from the absence of
+this interest reversals due to technical slippages next year? And also, is there a possibility of any
+recoveries that can be achieved in these technical slippages in the next fiscal?
+Puneet Sharma: Thank you for that question, Rikin. I think on technical slippages we'll reiterate. When technical
+slippages were first reported by us, we made two comments. We said gross slippages will decline
+through the year and net slippages will decline even faster. I'll request your attention to Slide 48
+of our investor presentation. In the first quarter when we reported technical impact, gross
+slippages were INR2,700 crores, they're down to INR1,240 crores. Net slippages were INR1,861
+crores, they're down to INR218 crores. In percentage terms, the net slippages are now 0.07%.
+Effectively, what we had said and anticipated is playing through. We continue to believe that
+there should not be an economic loss on this portfolio, we'll be able to recover it over time. We
+do not want to provide guidance or outlook on when this portfolio will get fully recovered. It's
+going into BAU and we'll continue to operate it as BAU.
+Rikin Shah: Got it. And then just the last question, Puneet, to your earlier opening remarks that PSL full
+compliance has been achieved. So just wanted to clarify whether it is including the PSLC
+purchases or it is organic ex of those purchases we have achieved full compliance? And also if
+you could just, you know, quantify the absolute amount of AFS reserves as of the March end?
+Puneet Sharma: Rikin, thanks again for that question. PSL compliance at headline and subsegment levels counts
+PSLC purchased. We are not organically compliant, but that's been a strategy that we have
+consistently followed. If you look at our annual disclosures, we've endeavoured to be fully
+compliant, including PSLC purchases. On AFS reserve, INR254 crores is our AFS reserve on a
+gross basis at 31st March 2026.
+Rikin Shah: That's the positive number, right?
+Puneet Sharma: It's a negative number.
+Rikin Shah: Okay. Thanks.
+Moderator: Thank you. Your next question comes from the line of Kunal Shah from Citigroup. Please go
+ahead.
+Kunal Shah: Yeah. So again touching upon the same question in terms of NII optimization. Last time we
+indicated that maybe irrespective of the NIM profile, we will still look at NII growth maybe as
+our -- maybe the target. And this quarter compared to that of the overall loan growth, it appears
+to be relatively weak at 1-odd-percent. Would it be fair to assume that maybe larger part of
+growth is coming through towards the end of the quarter and we should see the benefit of growth
+leveraging coming through in the next year?
+And for the full year, should we still expect NII to outpace the overall loan growth looking at
+this NII optimization strategy given that now rates are almost where they are and deposit
+repricing, as you mentioned, would be towards the end?
+
+Axis Bank Limited
+April 25, 2026
+Puneet Sharma: Kunal, thanks for the questions. Let me again respond to them in parts. Business does get booked
+through the quarter. Quarter 4 is the strongest quarter for the industry as well as us. So yes, there
+is a gap between MEB growth and average balance growth, which does play through on NII
+versus growth. Please also appreciate that if you're measuring NII growth in its absolute quarter-
+on-quarter, there is loan growth number and then there is interest-earning assets growth number.
+So I would request you to focus on interest-earning assets growth because that plays through
+NII, not just advances growth. The interest-earning assets growth is marginally lower than loan
+growth as we stand today. The last element obviously between the loan growth walk and the NII
+is the two basis points margin contraction that has played through in the current quarter. So that's
+the bridge to the growth versus NII walk.
+To your pointed question on was the growth period-end or will we see the growth sustain and
+have net interest income from that growth? The book has continued to hold up, so it was not a
+period-end bump-up for growth that we reported on the advances side. I hope that answers all of
+your questions. Thank you.
+Kunal Shah: Yeah, perfect. And a couple of more. So one is overall in terms of the step-up on the retail side.
+So we had seen maybe almost 4-odd percent growth you indicated the disbursement growth that
+has been quite strong. So we should really see the step-up now getting into the double-digit kind
+of a retail growth getting into the next year looking at the disbursement momentum or this was
+more like a Q4 phenomenon?
+And then maybe on fee income side, overall relatively weak across the board including all the
+private banks in say the single-digit kind of a number. So how should we look at it going
+forward? Would it continue to trail the balance sheet growth? Thanks.
+Munish Sharda: So Kunal, this is Munish. First of all, you know, it's not a Q4 phenomenon. We've shown you
+last quarter also, we saw a decent acceleration in our disbursal numbers in retail assets and in
+assets, as Puneet and Amitabh told you, we are looking to grow assets in a RAROC accretive
+businesses and we continue to push for growth in those businesses.
+Our investments in technology, digital, etc., we are working with the branches to deepen
+relationship with our own customers, etc., is helping us accelerate the momentum and we hope
+to continue to maintain this momentum in the retail asset book which will eventually start
+feeding into the overall book growth number.
+Kunal Shah: Got it. And on fee side?
+Munish Sharda: Similarly, you've seen our fee numbers. As the core businesses grow and as our branch business,
+etc. also grows and with the addition of new branches, we also continue to hope to see
+acceleration in the fee lines as well as we go into the next year.
+Kunal Shah: Okay. Thanks.
+Moderator: Thank you. Your next question comes from the line of Abhishek Murarka from HSBC. Please
+go ahead.
+
+Axis Bank Limited
+April 25, 2026
+Abhishek Murarka: Hi. Good evening. Thanks for taking my question. So my first question is again on growth. So
+now since we are seeing a pretty strong pickup in retail disbursements and SME looks good as
+well, do you see a need to calibrate your corporate deposit growth just from a RAROC or ROA
+perspective, that change in mix will drive your P&L and make it look better? So do you see any
+need to calibrate that corporate deposit growth?
+And if not, then do we really care about the 60% retail, 15 SME, 25 corporate kind of mix or
+does that not really matter because on a RAROC basis you're generating pretty much similar
+return? So how do we think about this?
+Neeraj Gambhir: So on the liability side, I think we are seeing a institutionalization of the deposit base. Obviously
+as a bank we would like to...
+Abhishek Murarka: I meant corporate loans. Sorry, my bad. Yeah, I meant corporate loans. So the whole question
+was about the loan mix and corporate loans.
+Puneet Sharma: Abhishek, thanks for the question. Let me respond to the RAROC question first because that
+leads into the second response. See the RAROCs continue to remain healthy for the wholesale
+business. We can confirm to you that RAROCs that this business had in FY25 have held up
+through FY26. So growth has not come at the compromise of RAROC.
+The book composition at A- and above has stayed at 91%, so we've not seen growth come at the
+cost of asset quality or origination quality as we speak. The theoretical question that you asked
+is as long as the RAROCs hold up well, why bother between a mix of wholesale and retail?
+The challenge is that there is a finite amount of leverage that a financial institution can have to
+retain its AAA rating. We will need to manage that leverage ratio for ourselves, as while
+RAROCs are leverage-agnostic, ROEs are leverage-dependent. So as we look to manage the
+max leverage that we can work with within a capital structure that we are comfortable with, we
+will need a balanced book.
+Therefore our commentary that in the near term we are optimizing for NII with wholesale
+growth, but we will look to recalibrate the book back. That should hopefully give you a full color
+of our thinking behind the RAROC, ROE, and book composition.
+Abhishek Murarka: Yeah, sure. And by when do you start recalibration? Because it's been a while since retail picked
+up, but now it seems to have picked up quite strongly.
+Subrat Mohanty: So as we speak, the levers in our hand are really the activity levels on the ground on the retail
+asset side, which is fairly strong, which is reflected in Q-on-Q disbursement growth apart from
+the year-on-year disbursement growth that you are seeing on the retail asset side. So the
+recalibration in that sense is continuing and is ongoing. So from our perspective, you'll see the
+retail book growth continue to happen as we've seen in the last two or three quarters.
+And like Amitabh mentioned, the overall ratio of about 70-30, give or take 3% on either side, is
+where we'll be. So from our perspective, that's what we are doing. What's in our control is
+continued focus on making sure that we are in front of the customers and getting the business,
+
+Axis Bank Limited
+April 25, 2026
+which you can see on the retail disbursement side is happening and which Munish also reiterated
+is happening quite strongly.
+Abhishek Murarka: Sure. Okay. And the second one is on opex. Can you please clarify? What I got is there's a
+INR126 crores one-time cost and a INR282 crores reversal, was it? Or it was a cost again?
+Puneet Sharma: Abhishek, if you look at my comments last quarter, we did call out that we reversed employee
+benefit expenses no longer payable last quarter. So in the last quarter, the staff cost went down
+because of the reversal. In the current quarter, we've provided for INR129 crores. It is not on
+account of what we reversed, it is basically rate movement for employee benefits.
+In one quarter we had a negative, which is the prior quarter, in the current quarter we have a
+positive, therefore the numbers have moved in opposite directions. The cumulative impact of
+that as I called out for you was roughly about INR408 crores. Adjusting for that INR408 crores,
+I had called out the growth numbers on a Q-o-Q basis to be 4%. I hope that clarifies.
+Abhishek Murarka: Yeah, sure. Yeah, got it. All right. Thank you so much for answering the questions.
+Moderator: Thank you. Our next question comes from the line of MB Mahesh from Kotak Securities. Please
+go ahead.
+MB Mahesh: Puneet, just two questions. One is on that RAROC argument that you presented. Since we can't
+observe segmental RAROCs for the company and we can kind of see only the ROE side of it, if
+you were to kind of triangulate and see what the ROEs look like, is it meaningfully lower than
+a number like 15% or are you targeting for a different number here?
+Puneet Sharma: Mahesh, thank you for the question. The aspirational ROE was 18% at the bank level. Given the
+component outlook we've provided, it's a fair assumption that you can assume that there will be
+retail/SME ROEs marginally higher than wholesale ROEs. So we don't really want to put a
+number at a segment level. At the bank level, we continue to aspire for 18% is what we would
+like to state.
+MB Mahesh: Okay. The second question is from the credit cost line. Now that we are seeing slippages trending
+lower and credit cost trending lower, keeping everything as constant, how do you look at FY27?
+Amitabh Chaudhry: Mahesh, Puneet is not going to give you a guidance and I'm not permitted to give you a guidance.
+I'll just say that given where we are and given if you look at the trend line and the fact that we
+have said that we have seen stabilization in some of our portfolios, I mean, you can then stretch
+that trend line.
+I mean, obviously the joker in the pack is how long this West Asia crisis lasts and what impact
+it has on India, and that's why one of the reasons why we have made this provision just to protect
+ourselves. But if we ignore West Asia, then you know where the trend line is going. If West Asia
+crisis continues, frankly I don't know where this trend line will go because it's very difficult to
+predict at this stage how long, what sectors, how much the impact would be, what India will be
+able to manage, not able to manage, what the inflation would be, etc., etc.
+
+Axis Bank Limited
+April 25, 2026
+So we'll be watching the space closely and that's why even if as we have grown in the wholesale
+side, you will see that from a strategy perspective, we have not sacrificed our asset quality at all.
+We are very, very careful where we are giving this money out. And same applies to retail. While
+we are seeing disbursal growth, we've been very, very cautious about while we are growing, we
+want to be very careful where we grow.
+MB Mahesh: All right. Thank you. Just one clarification on the incremental disbursements that you're doing,
+one of the conversations that we've had previously is that there was significant tightening of the
+underlying credit filters in the last two years and that was expected to open up as the portfolio
+starts behaving better over time. Have we reverted back to where we were earlier or are you still
+kind of comfortable to hold the stance that you're more open to kind of take a bit more risk than
+before? Thank you.
+Puneet Sharma: Mahesh, thank you for the question. The growth that we have delivered on disbursement is
+without loosening our risk filters as on date. We've clearly been prudent and we don't expect to
+be loosening our risk filters on a go-forward basis. Sorry, Mahesh, was I audible or did you miss
+me, please?
+MB Mahesh: I got the answer. Thank you.
+Moderator: Thank you. Your next question comes from the line of Mahrukh Adajania from Tara Capital.
+Please go ahead.
+Mahrukh Adajania: Hi. Good evening. I just had two questions. You talked about your buffer provision you created
+this quarter quoting $150 oil price. So does that mean that if indeed the situation gets worse from
+here on, you would actually be drawing down on these provisions this year itself because you've
+not drawn down on your earlier contingency provisions? That's why I'm asking. So that's my
+first question.
+And my second question is that just in terms of deposits, right, deposit taking, basically it's
+getting a little tight for the sector, though deposit growth for the sector has moved up, loan
+growth has moved up even faster. So given that dynamic, is there a potential for deposit rates to
+rise from here? So these are my two questions.
+Puneet Sharma: Mahrukh, thank you for the questions. I'll take the first one and then request Neeraj to come in
+on the second. The way we've constructed the provision is it is not a floating provision. There is
+an underlying identified pool of loans across customer segments, across products. That
+identification of pool of loans was done pursuant to a framework our risk team set up for stress
+testing. So these are an identified set of loans.
+On these identified set of loans, we have an additional standard asset provision of INR2,001
+crores. In the inadvertent event of loans from this pool slipping, this provision will get utilized
+to take care of slippages from this pool. So the construct of this provision is very different from
+the INR5,012 crores we were holding for expected credit losses. There is a clear utilization
+against pools that get impacted by the West Asia crisis.
+
+Axis Bank Limited
+April 25, 2026
+So the short answer to your question is yes, we will draw down on these provisions in the event
+we see an impact on the P&L in FY27.
+Mahrukh Adajania: Okay, but for that does oil have to go to 150 or there's no such thing, it's just that the pool should
+be impacted?
+Puneet Sharma: Mahrukh, look, the 150 comment and I want to contextualize this because you've picked up one
+part of the comment I made. The comment holistically I made was even if I take the most stress
+scenario my risk team gave me, the slippages that I would have would stand fully covered from
+a provisioning perspective by this standard asset provision we've created today.
+So I have not at any point in time said that that slippage will happen, asset quality remains stable,
+but yes, if anything from this pool were to slip related to West Asia crisis, not everything will
+slip at 150, something may slip at 110. If assets from this pool slip and the slippage is not in the
+ordinary course of business, this provision will get utilized.
+Mahrukh Adajania: Perfect.
+Neeraj Gambhir: Mahrukh, to answer your deposit pricing question, I think we are looking at two different
+markets. One is the retail deposit market and second is the wholesale or bulk deposit market. In
+the retail deposit market, banks reduced the pricing by approximately 10 to 15 basis points in
+response to the 25 basis points cut. So to that extent, the transmission was incomplete, but given
+where the market is, I don't see any further cuts happening.
+Second, on the bulk deposit market or wholesale deposit market, it's the usual year-end
+phenomenon that we see in the last month of the quarter. We see some kind of an uptick in the
+bulk deposit rates. This time that uptick was a little bit more accentuated because we saw sell-
+off in the bond market, we saw higher yields in the CD market and that kind of transmitted back
+into the bulk deposit market as well.
+As we transition into this new year, we have seen some softening of bulk deposit rates, but it's a
+wait and watch. Liquidity in the system is good, but really the question is what happens to the
+crude oil prices, to the currency, etc., which is what the market is reacting to.
+Mahrukh Adajania: Okay. Thank you. Thanks a lot.
+Moderator: Thank you. Ladies and gentlemen, we take that as our last question for today. I now hand the
+conference over to Mr. Puneet Sharma for closing remarks.
+Puneet Sharma: Thank you, Sagar. Thank you everyone for taking the time this evening. If any questions remain
+unanswered, please feel free to reach out to Rahul or myself. We'd be happy to take them offline.
+Thank you and have a good evening.
+Moderator: Thank you. On behalf of Axis Bank, thank you for joining us and you may now disconnect your
+lines. Thank you.

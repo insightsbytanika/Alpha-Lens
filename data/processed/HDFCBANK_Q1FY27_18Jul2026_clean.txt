@@ -1,0 +1,615 @@
+“HDFC Bank Limited
+Q1 FY27 Earnings Conference Call”
+July 18, 2026
+MANAGEMENT: MR. SASHIDHAR JAGDISHAN – MANAGING DIRECTOR
+AND CHIEF EXECUTIVE OFFICER – HDFC BANK LIMITED
+MR. KAIZAD BHARUCHA – DEPUTY MANAGING
+DIRECTOR – HDFC BANK LIMITED
+MR. SRINIVASAN VAIDYANATHAN – CHIEF FINANCIAL
+OFFICER – HDFC BANK LIMITED
+HDFC Bank Limited
+July 18, 2026
+Moderator: Ladies and gentlemen, good day and welcome to HDFC Bank Limited Q1 FY27 Earnings
+Conference Call on the financial results presented by the management of HDFC Bank. As a
+reminder, all participant lines will be in the listen-only mode and there will be an opportunity for
+you to ask questions after the presentation concludes. Should you need assistance during this
+conference call, please signal an operator by pressing star then zero on your touchtone phone.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Srinivasan Vaidyanathan, Chief Financial Officer, HDFC
+Bank. Thank you and over to Mr. Vaidyanathan.
+Srinivasan Vaidyanathan: Thank you, Neerav. Good evening and a warm welcome to all the participants. We have today
+with us our CEO, Sashi Jagdishan, and our Deputy MD, Kaizad Bharucha. I'll hand off the call to
+Sashi and then we can take it forward from there.
+Sashidhar Jagdishan: Thank you, Srini, and thank you all for joining in on this investor call for the Q1 results for FY27.
+As you know, we navigated during this period certain challenges over the last four months. Our
+people have kept steadfast focus on customer needs and further built the franchise. It's been a very
+tough period, but I really am proud of them and thank you to each one of them who really stood
+behind in continuing the strength and resilience of the institution.
+I also sincerely thank the board for their guidance and more so Keki Mistry for chairing as the
+Interim Chairman during this period. I also heartily welcome our new Chairman, Rajiv Kumar.
+We look forward to taking the franchise to the next growth stage. With the appointment of Mr.
+Rajiv Kumar, there is a sense of stability and a clear signal to minimize uncertainties in a very
+short time period.
+Coming to some of the accomplishments in Q1, the deposit growth continues to be relatively better
+than the historical Q1 trends. We continue to gain market share both on an incremental basis and
+on a stock basis as well. Our productivity at the branch continues to move up and we realize
+benefits of the investments that we've done over the last five, six years.
+Advances, as we had envisioned a while ago, I think we are on the verge of pressing the pedal. As
+you have seen, the advances have done very well over the last three, four quarters and that
+trajectory continues. We are focusing on certain customer segments to manage more longer-term
+opportunities.
+Our focus now, as I may have mentioned in the past and also in our annual report, we are trying to
+take customer service to a different level, especially in focusing on the turnaround time of product
+and service offerings. We're now measuring it at a more granular level across the length and
+breadth of the country. We are reimagining our digital journeys analytics so that we are able to
+have a new levels of adoption. That should sort of bring in fair amount of efficiencies in the
+quarters to come.
+As regards environment, we see our policy responses have been very timely and effective. There
+is a very healthy credit demand that we are seeing in the system as we speak. We believe that the
+FCNR policy window that has been offered to the banking system is a great opportunity and we
+are focusing on that. We've spent a large part of the month of June in completing the documentation
+
+HDFC Bank Limited
+July 18, 2026
+and approvals necessary from our side and also from the counterparty banks across various
+jurisdictions. The ECLGS scheme 5.0 is also a very good opportunity and you will see a fair
+amount of growth that we will pick up in the mid-market segment.
+Competition has been very intense, both on the corporate side where the spreads continue to be
+very thin and we have been rather selective, but we are also looking at a holistic primary
+relationship engagement. The deposits rates on the granular side has been reasonably stable, but
+on the non-granular side, I think rates have continued to remain elevated.
+This quarter, you may see some amount of mix change in terms of more non-retail shorter-term
+asset mix, the cost of funds moderation, these are all elements which I believe are just tactically
+being managed. Fundamentally, the franchise continues to be extremely strong and we will be
+stepping up the multiple product offerings and one customer view and you will see the changes
+happening in the quarters to come.
+Productivity is a very key focus and you would see the outcomes of the efficiencies from our focus
+on digital adoption, the process re-engineering, the kind of customer focus by the senior
+supervisory architecture which will ensure that we are able to turn around the delivery times much
+shorter than what we have ever enjoyed and what the best-in-class market is offering today.
+We have provided a fair amount of tools for deeper customer engagement as I did allude in terms
+of technology. We are on the cusp of harnessing some of the GenAI technologies on our processes
+and we do have a fair amount of lighthouse programs that will go into production during the course
+of the year. Obviously, all of us realize that security is going to be an extremely important part of
+our strategy and we are focusing on seeing how we can leverage on AI to augment our defence
+mechanisms as well.
+Of course, there are risks in the horizon in terms of the weather-related disruptions like El Nino
+and also the geopolitical situation in West Asia. But I think the country has weathered these
+reasonably well. I think we continue to remain very sanguine. We are prepared for as the country
+and hence as a company in terms of weathering any such challenges in the near future.
+I once again thank everyone for a wonderful performance despite a lot of challenges that have
+happened over these several months. I think good times are here to come and we stay committed
+towards customer and other stakeholders in terms of what HDFC Bank has always been to all these
+stakeholders over these last 30 years.
+Thank you so much and over to Srini.
+Srinivasan Vaidyanathan: Thank you, Sashi. Neerav, with that, let's open up the line for questions. We go straight into the
+questions relating to the earnings of the quarter. Please go ahead.
+Moderator: Thank you very much. We will now begin the question-and-answer session. First question is from
+the line of Mahrukh Adajania from Tara Capital Partners. Please go ahead.
+Mahrukh Adajania: Yes, hi, good evening. My first question is on margins. Do you think margins have bottomed out
+now? That's my first question. And, what are the headwinds or tailwinds for margins? How would
+
+HDFC Bank Limited
+July 18, 2026
+the FCNR mobilization impact them? So that's my first question. And my second question is that
+HDFC Bank does require one more ED, right? So when will we hear of that appointment?
+Srinivasan Vaidyanathan: Okay, first probably I'll take the first part of the question, how to think about the margin. There
+are two aspects as you know, one, the cost of funds is the biggest opportunity on the margin where
+compared to our historical norms as well as compared to what we have seen in the industry as
+such, there can be 40, 50 basis points change, but it is not going to change in a hurry.
+And the elements of that is one is the liquidity, country's liquidity scenario needs to be slightly
+different than where it is. For example, even in the recent quarter, the average liquidity in the
+system was about 2.08 trillion. However, the peak was 5.5 trillion and the trough was a negative
+0.43 trillion. So there's a big difference between the peak and the trough and on an average it is
+2.08. We need that standard deviation to that average to be minimal so then there could be an
+active market where the rates can stabilize well. And that's part of what the policy is also envisaged
+and you've seen that FCNR or the swap window and all of that is in the direction to ensure that
+there's adequate flows and there is a stabilization of the rates there.
+So it depends on that and that's what determines both the deposit cost, particularly the non-retail
+deposit cost. The retail deposit costs, us as well as various players in the industry, have been
+circumspect and have been steady there. But the non-retail deposit costs have been elevated.
+And similarly, the borrowing mix has not come off yet. We still remain at about 11%. That
+continues to be a space that we keep watching, but again it doesn't change in the short term and
+doesn't change in a hurry. CASA mix again, we've been relentlessly following up on the CASA. I
+mean on a quarter-to-quarter basis we can't see and we don't judge, but on a yearly basis for the
+year that went by, for example, March 26, for which data got published across the industry, while
+we grew between 9.5% - 10% or so, we still gained market share on that, right, on that front. And
+so we do envisage and we are positioned with our distribution and customer addition to get that,
+but again that is a journey and not a shorter-term impact. So that remains on that. On the asset
+yield, asset yield is a function of whether if you ask me whether the margins have bottomed out
+for the year we can talk about. Quarter-to-quarter we cannot and we don't manage for the shorter
+term. The reason is there are timing in the year through which various types of loans get booked
+and so we have to wait for the year to see, but we do think that on a full-year basis, we are well
+positioned with our reach and with our customer selection to be better.
+Sashidhar Jagdishan: As regards the second question that you asked about, enhancing the number of the Whole-Time
+Directors on the Board. Yes, there are several milestones which the Board is seized of, including,
+with the appointment of the new Chairman, from a new part-time Chairman. Some of which all of
+you know. I think a fair amount of action will be visible in a short time period and I would like
+you to sort of wait for the same.
+Mahrukh Adajania: Okay, thank you very much. Thanks.
+Moderator: Thank you. Next question is from the line of Pranav Gundlapalle from Bernstein. Please go ahead.
+Pranav Gundlapalle: Hi, good afternoon. Thanks for taking my question. Question is largely on the branch network
+where we had a big boost in FY22, '23. Do you think all the branches that were added in that period
+
+HDFC Bank Limited
+July 18, 2026
+are scaling up the way or have scaled up the way you would have initially expected? And the
+related question is on the SA market shares, which have been -- the incremental market shares
+have been largely flatlined despite the branch additions. So what should change for us to once
+again start seeing meaningful gains in SA market share?
+Srinivasan Vaidyanathan: Yes. I'll first talk about the branch as such, right, from a branch vintage model. Yes, about close
+to 40% of the branches are less than 5 years and yes, those time period that you mentioned, we did
+make a significant addition to branches. If you look at the per branch metrics, we are about INR
+330 crores per branch currently. And if you go back to the FY’23 time period, we were INR 266
+crores per branch. And if you go back even further, right, it's less than INR200 crores. So the point
+is the branch addition at an aggregate level, the early vintages are performing to the legacy branch
+vintages and the legacy branch vintages are also progressing towards what a 10-plus years and a
+15-years plus years will do, which is what is demonstrated in the average per branch when you see
+it INR330 crores per branch is extremely productive and one of the best in class in the industry on
+a per branch basis. So, the branches are behaving according to the model that is envisaged.
+One thing I want to mention is that while it's very important that the branches are the key arm to
+get the deposits in, branches are a very significant part of how we grow part of the retail assets and
+the small and medium enterprises loans, SME loans. The wholesale and the top corporate mid-
+corporate loans get centrally managed through various relationships, but branch level is where all
+the other segments operate and the growth that you see there, these branches do deliver all of those
+things, right? I just want to leave the thought there.
+And in terms of the SA, the savings account that you mentioned, one thing that if you look at the
+household deposit growth in the country as such, when you're looking at the data that gets
+published by RBI across various categories, segmentation of deposits, household deposit growth
+is one of the lowest among various, right? When you look at the corporates, when you look at the
+government and institutions and when you look at the households, the household deposit growth
+is one of the lowest. That doesn't mean that that's how it's supposed to be, that's it's going through
+that phase of how it's remaining in the single digit. And the way we have approached to address
+this is there will be only certain level of savings accounts anybody will have. And that is why the
+distribution reach and addition of the customers is about increasing the unit and so thereby the unit
+value can marginally go up. We need the unit. So, this is about the unit economics that we need to
+drive and at the same time as we drive the unit economics, we are today little more than 100 million
+customers, and as we drive the unit economics, keep the cost in check and under control on
+efficiency so that we scale this. That's what is happening, the scaling is happening with unit
+economics slightly moving. Because we are not counting on the household deposit growth to go
+from 8%, 9% to a 15%. That may happen, may not happen, but that's not our approach. Our
+approach is to increase the units to get that benefit. Sashi, you can add.
+Pranav Gundlapalle: Srini, if I can just follow up, like my question was largely on the relative basis. So you obviously
+had a very, very high productivity to start with, but if you see it relative to the system, it's actually
+come off a bit in the last three years. Same with, you know, deposit growth, SA growth, etcetera.
+You had a very big delta with the system with the peers. That seems to be narrowing.
+
+HDFC Bank Limited
+July 18, 2026
+So, some color on what has changed. Like are you adding the same number of accounts? Is it
+balances that are coming off? Some color there that will reassure that you'll eventually get back to
+industry-leading growth.
+Sashidhar Jagdishan: So, Pranav, thank you for that. I mean, number one is you yourself alluded the fact that we've had
+a fair amount of investment in distribution over these five years. So our denominator has a fair
+amount of branches which will start to, you know, generate more and more customers and hence
+balances as we start to move into the 0 to 5, 5 to 10, 10 to 15 vintage of these investments that will
+happen. And you have seen in the in our presentations how the economics work for different
+vintage branches. Number two is despite that, the productivity may have come down relatively,
+but it's still one of the best in class in the industry. The second part of it is, as Srini was saying, it
+is a fact that in the last couple of years or more so three years, the industry and the system were
+also plagued with a fair amount of number of accounts which were not necessarily behaving in an
+orderly manner. And what I meant by that is you did see a fair amount of fraudsters using accounts
+as mules and that sort of started to increase in the banking system significantly. We needed to, you
+know, we use a fair amount of our algorithms and rule engines to try and see how we can bring in
+some amount of quality acquisitions over the periods of FY24, '25 and '26. I think these are the
+three or '25, ‘26, which is what we did and that was pretty much reflected in the slowdown in the
+new acquisitions because we were gearing ourselves to the new realm of better quality acquisitions.
+As we now move forward, you will and one should see a step up in as what Srini calls it unit
+economics in terms of the numbers moving up at the quality and the kind of diligence that one
+would necessarily need in this kind of an environment, digital environment, and that is what we
+are trying to do. So, I guess it was a matter of correction to ensure that we put in a guardrails not
+to bring in unwanted accounts.
+I think as we move forward, I think we are reasonably confident that we not only should reach
+reasonable healthy numbers in terms of annual momentum depending on the capacity of the overall
+9,700 branches, but also the quality acquisition value unit value as well. So my hunch tells me that
+I think you should see reasonably healthy growth over a one, two, three-year period in the savings
+account as well.
+Pranav Gundlapalle: Very clear. Thank you, Srini and Sashi. Thank you.
+Moderator: Thank you. Next question is from the line of Kunal Shah from Citigroup. Please go ahead.
+Kunal Shah: Yes, thanks for taking the question. So firstly on margins, so now we are almost down to 3.4 odd
+percent. Borrowing has also come off to 11 odd percent and we had highlighted that it can come
+down to 8, 9, so not much room left out there. Obviously, it's a competitive environment, but with
+this franchise, where should we eventually see margins settling down because earlier the
+expectations were much higher, but now it's trailing a bit and what would actually lead to this?
+What are the levers available for the same? So that's the first question.
+Second is when you look at it on the FCNR deposits, last time we were quite active, we mobilized
+the largest chunk. So if you can just guide in terms of you mentioned like documentation is on, but
+what is the kind of number which we would look at or maybe the market share in the overall FCNR
+deposits that we would want to target at this point in time?
+
+HDFC Bank Limited
+July 18, 2026
+And thirdly on CEO reappointment, if you can just highlight in terms of where the process is
+because it's now due, so has it been already applied to RBI or would there be announcement from
+the board in terms of the approval and then we would see the application to the RBI? So, if you
+can just highlight in terms of the process where we are in terms of the CEO appointment?
+Srinivasan Vaidyanathan: Okay, I'll handle the margin then. First is, Kunal, thanks for asking that. One is I do want to mention
+that the borrowing mix which is at 11%, we don't expect that it will just settle at 8% or 9%, right?
+The industry is more like a 5% or a 6%, right? So we do think that the maturity should take care
+of that to some extent and the overall growth should also take care of it to the balance of the extent
+because as the growth happens and you don't need to fund only through borrowing, so then the
+borrowing percentage will dwarf and come down.
+Now, that's one. Second thing connected to that you asked is what is the longer-term margin, where
+does this settle, right? See, the again as I mentioned both from a when you benchmark and see
+against us and against the peer group and so on, the cost of fund elements that needs to play out
+are very much intact and those are being…
+Moderator: Participants, please stay connected while we check the management connection. Ladies and
+gentlemen, thank you for your patience. We have the line for the management reconnected. Kunal,
+may I request you to help serve where the line dropped, please?
+Srinivasan Vaidyanathan: Okay. Thank you. Kunal, where did it get dropped?
+Kunal Shah: So, you were mentioning that cost of funds benefit is yet to play out, yes.
+Srinivasan Vaidyanathan: Yes. Cost of funds benefit will play out and it is very much in the works, both in our annual review
+of plans and as well as our strategic review. It's very much where we envisage and receiving the
+attention of various verticals to get that, right? Both from a mix of products within the deposits as
+well as mix of borrowings within that, very much there to get.
+On the asset side, the mix of assets is also an important contributor for a longer-term margin. Today
+we are at a 52% retail mix. At our kind of an experience that we have seen, we were at about 60%
+or so and we always have thought that India's consumption component of the GDP is at about 60%
+and that's where we want to be as far as the retail mix is concerned because that's where we will
+mirror the economic growth and fortunes in the country so we can be going in tandem with that.
+And so, that mix of the asset is also an important contributor on that.
+Kaizad Bharucha: As regards the third question that you had on the reappointment of the MD, I can, share with you
+that the GNRC and Board is fully seized of the matter and that is work in progress and as they
+arrive at a conclusion, we will certainly make the necessary announcements in that regard.
+Sashidhar Jagdishan: And as regards FCNR (B), as I mentioned, even in 2014, the pace started to pick up only in the
+second month of the announcement. The first month, like in 2014, I think we have spent fair
+amount of time in the documentation part of it and the approvals both internally and also the
+respective counterparty banks. And you will see in the month of July, August, September, we have
+certain milestones. I'm sorry I can't sort of put a number to that in the public domain, but you will
+
+HDFC Bank Limited
+July 18, 2026
+see a very handsome, or that's the endeavor to ensure that we are reasonably strong and significant
+market share in the market.
+Srinivasan Vaidyanathan: Okay, thank you. Nirav, we can go to next. Thank you, Kunal.
+Moderator: Thank you very much. Next question is from the line of Seshadri Sen from Emkay Global. Please
+go ahead.
+Seshadri Sen: Hi, thank you for the opportunity. Can you hear me?
+Srinivasan Vaidyanathan: Yes, yes, Seshadri.
+Seshadri Sen: Thanks for the opportunity. So, a little bit of a follow-up on Pranav's question on deposits. So am
+I to understand that this, you know, decline in the CASA ratio is temporary or is a passing phase
+and as your, customer acquisition engine starts to fire in, we will see a restoration also seeing, you
+know, the share of wholesale deposits rise albeit not by a large amount, but it's gone up from 17%
+to 20%. And you’re right that does reflect what the RBI has been talking about in change of the
+composition of deposits. So, being a large bank, do you think that even if the system, you know,
+continues to gravitate towards wholesale and non-CASA deposits, you'll be able to get back to
+your earlier ratios once your customer acquisition engine starts to bear fruit?
+Sashidhar Jagdishan: Okay, let me let me try and attempt that, Sesh. For a start, the endeavor and our vision is to reach
+to somewhere near the pre-merger levels or just around the time of the merger, which was around
+38.
+Srinivasan Vaidyanathan: Post the merger we at we were 38 and before that we were 40.
+Sashidhar Jagdishan: And as Srini had alluded, obviously there has been a significant change in the household savings
+pattern over the last three years more so. So, what are we trying to do? We're trying to see how we
+can gain more incremental market share on our low-cost funds much more than what we have as
+as a stock share. That's the first part of it.
+Obviously, our appetite to grow is much more, so there is a need to, you know, even grow our time
+deposits and the result is because if you need to grow, then you would need a certain amount of
+time deposit growth which invariably over the last couple of years has been much higher than the
+low-cost funds growth rate. So therefore, the CASA ratio has been a little bit on the lower side.
+So, the thought process that we have as Srini did mention is that we are probably now after putting
+in our guardrails in terms of what kind of customers need to come in into the institution from an
+acquisition perspective, I think we are now ready to press the pedal. I think that is what the entire
+franchise is driving about and maybe over the next nine months we hope to see a fair amount of
+change in the acquisition numbers and hence value.
+If that sort of really changes the growth rates to be much better than our time deposit growth, I
+think that will be wonderful. But obviously, you know, world is not so perfect. And having said
+that also, I mean if you are also 50% of your balance sheet is non-retail which is wholesale, you
+know, you cannot really ignore that particular franchise as well. We cannot sort of pick and choose
+
+HDFC Bank Limited
+July 18, 2026
+what we want. We need to ensure that we are there for all the needs of the corporate customer,
+whether it is for deposits, whether it's for cash management, whether it's for any other type of
+facility as long as the appetite is there for us. So yes, as I said we we're now not looking at a
+quarterly measurement. We want to see at the medium to long term.
+I think while this quarter it could be a 20% mix in terms of deposits, etcetera, but I guess these
+things then normalize and in the medium to long term, I think it's been more or less stable, which
+is what we have seen over the last 10 years. Our focus is going to be on retail because that's where
+you get the advantage on deposits, on the cost of funds. But at some point, in time from a holistic
+relationship perspective, even we need to patronize some of the capital markets and also the
+corporate segments as well. But be as it may, whilst margin is something that a lot of us have been
+focusing on, for us there are areas that we want to first, because margin will play out as we move
+forward. I'm sure assuming all things remaining same from next year there will be the base effect
+will wear off and how this sort of plays around is not something that I'm necessarily focusing. I
+need to be in the market, we need to be competitive, but we want to be competitive in such a way
+that we are able to garner a lot of efficiencies arising out of our enhanced and stepped-up focus on
+customer service, which will bring down turnaround time and hence will bring down the capacities
+in the back end which will move to the front end, which will see a fair amount of efficiencies over
+the next two, three years. This is how we are planning strategically and if in the bargain in the
+process, the outcome also sort of helps us in getting a better low-cost funds proportion and hence
+better margins, I think that's kind of a bonus as well. So, we are very focused on three or four
+things. Customer focus, to the level of obsession, riding on technology, especially in terms of
+embedding AI in our journeys. Three is trying to ensure that our daily operating rhythm just
+reduces the turnaround time for product and service delivery.
+Four is stepping up and releasing a lot of capacity at the customer-facing end to be able to engage
+more with the customers and hence more of business momentum coming about, which is growth.
+And then the very fact that we are cutting down on turnaround time, efficiency should lead to better
+cost-to-earnings efficiencies as well. So this is an offset which is what we are looking at. And if in
+the bargain that we also sort of get the benefit of improved CASA ratios, CASA mobilization in
+the over the next two, three years, I think that's going to be a jam in over our strategy.
+Seshadri Sen: Thanks. Just a quick follow-up. Given your investments in front-end tech and customer service,
+do you think there's also an opportunity to increase wallet share in existing and vintage customers?
+You were talking about customer acquisition being a driver, but do you think that that's also an
+opportunity?
+Sashidhar Jagdishan: Yes, absolutely. Because see, the moment we start to focus on that and when we try and create a
+kind of a best-in-class experience, why would any customer move out? I mean, that's one of our
+key objectives. Gain market share within our existing base itself or even from a new-to-bank
+acquisitions as well.
+So that's going to be our next two, three-year journey and we're all seized of this. We're not sort of
+too worried about the segmentation. I mean, we need to be agile in any customer segment that we
+are participating. Today we are focusing more and more in the retail and MSME segment. I'm sure
+we have a strong hold in the corporate segment, but even on that with the implementation of new
+
+HDFC Bank Limited
+July 18, 2026
+technologies over a period of time. We have been prioritizing more on the retail and MSME
+segment, but I'm sure even the wholesale corporate and capital market segment will also get that
+and that will also sort of see a kind of a change in terms of the wallet share increase.
+Seshadri Sen: Thank you so much. Thanks and all the best for the rest of the year.
+Srinivasan Vaidyanathan: Thank you, Seshadri. One thing I do want to add is that while there is a relentless pursuit for
+CASA, granular CASA, that includes current account too from the retail merchant type of
+customers, time deposit continues to be a very big opportunity because only 14% of our customers
+have time deposits with us. So there is an enormous opportunity for a deeper penetration on that.
+And so it's not this or that, it's both. I just want to mention.
+Moderator: Thank you very much. Next question is from the line of Suresh Ganapathy from Macquarie
+Capital. Please go ahead.
+Suresh Ganapathy: Yes, sure. Thanks. Just two questions. One thing is your PAT growth or your earnings growth has
+been lagging your balance sheet growth, right? Look at last year, if I look at this quarter, it's been
+just 5%. Balance sheet growth is well upwards of 13%, 14%. So are you confident over the next
+two, three years you can get earnings growth above balance sheet growth? Because if you're going
+to grow at 15%, would earnings grow well above that? Are you confident of doing that? That's the
+first question.
+The second question, I mean one of the biggest aspects post the merger is that sharp decline in
+CASA down to 34%. I know there are several reasons for it. All of your peers are at 40%. I know
+even RBI's own financial stability report has explicitly talked about that the correlation between
+rates and CASA is breaking down completely. So it doesn't mean that if rates are going to go down,
+CASA may go up or anything like that as per Reserve Bank of India's own report. So how can you
+go back to the levels of 40%? So just wanted an answer for these two questions.
+Srinivasan Vaidyanathan: Okay. The first one in terms of the profits, Suresh, just to mention that, Suresh, you asked about
+the profit. The reported profits when you compare last year this year, it does show 5%. But last
+year included certain one-timers like HDB gains and then we had a floating provision counter-
+cyclical buffer that we added and some contingent provision and so on. So adjusted for that, I think
+in one of our reports that we filed, it shows 9.8% profit growth, yes. But 9.8% profit growth is still
+lower than the overall balance sheet growth correct. We do think that in the longer term that the
+profit growth should be at or above the balance sheet growth. Yes, that's still in our plans and that's
+how we approach. Again, please don't look at quarter-to-quarter, but since you touched upon the
+five, I talked about the 9.8, but you should look at the full year. And yes, that's part of how we
+envisage to do.
+The second aspect that you touched upon is also where CASA correlation to the rates. Yes, we're
+cognizant of that fact and we have seen over the last few years about the household deposit growth
+and how that is functioning. We are also aware that you and me included, every individual is going
+to keep only certain level of their individuals' working capital, so to say, their needs in the savings
+account and similarly the small merchants, which is our target for current account, into their current
+account. And so the way I was describing to another person was that it is about the unit increase.
+
+HDFC Bank Limited
+July 18, 2026
+And that is why the distribution is important and we are adding customers into that and we are
+more than 100 million, 101 million, 102 million customer relationships. We'll keep building on
+that and that's an important ingredient to get that. Yes, can it organically go by the nominal rate of
+a 10%? Yes, it can go. Nominally 10%, but anything more gaining on the market share comes
+from the unit economics here, which is get more units for the same average balance.
+Suresh Ganapathy: Thank you.
+Srinivasan Vaidyanathan: Thank you.
+Moderator: Thank you very much. Next question is from the line of Abhishek Murarka from HSBC. Please
+go ahead.
+Abhishek Murarka: Yes, good evening and thanks for taking my question. So I'll just squeeze in few short direct
+questions. One, can you quantify how much of the bonds are maturing this year and probably this
+quarter? And what is the rate differential, what is the rate benefit you are getting on the maturing
+bonds versus the retail TD rates? So that's one.
+The second one is, if I look at your interest income breakup, and if you look at the interest on
+balances with RBI and others, there are pretty high balances over there. So is there any one-off or
+some kind of refund or anything else? So why is that growing at, 50% Q-o-Q, 20% Q-o-Q? So
+that's just some explanation around that.
+And the third is on ECL, can you quantify what will be the one-time impact and also on an ongoing
+basis how much would your credit cost be impacted? So yes, those are the three quick questions.
+Thank you.
+Srinivasan Vaidyanathan: The annual report we just published few days ago will show you the profile of maturity of
+borrowings. You'll see that INR40,000 crores or INR50,000 crores over the next couple of years
+you'll see that. And it does have a differential in rate. It’s a little more than 7%, if you get a retail,
+it could be 6%-odd. So you can pick up 100 basis points, 125 basis points depending on the source
+of the time deposit.
+If you just replace borrowings with time deposit or you envisage to replace with a mix of time and
+CASA, but only time little more than 100 basis points you will see. Second question we didn't get
+that second question you can repeat, but we'll go to the third on the ECL.
+ECL method, see there are two aspects. On the ECL method, the overall provision that we are
+carrying seems adequate and sufficient for the ECL methodology, which is going to kick in in 1st
+of April’27. One thing on the ECL that you need to take into account is that at that time, it depends
+on the pool position, it depends on the behavior, historical behavior of that pool position, and that
+is various pools of assets I'm talking about. And then you look forward from there for 12 months,
+right? That means whatever is the various categories of pools, from that you look forward for 12
+months from then on and then you have a modeling. Then on top of that, there is a flexibility for
+management overlay. And there are floors to take into account.
+
+HDFC Bank Limited
+July 18, 2026
+Considering where we are today and looking 12 months down the line, we do believe that our
+reserving process and the reserving methodology is quite adequate. And for us to think about the
+stage 3 assets which is equivalent to the NPA today that you have, that coverage is quite adequate
+there. Stage 1 and stage 2 which are in various buckets of delinquencies or stage 1 is not in any
+delinquency, stage 2 could be in various buckets of delinquency, the floors that are there, for
+example, the floor in the unsecured category is 1% and the floor in the secured category is 5% --
+no stage 2 is 5% and so on.
+So if you look at that, the standard asset carries a 40 basis points provision, but then here the floor
+is 1% for unsecured and for stage 1 and then for stage 2 it is 5%. So there will be enhancement.
+But then those enhancements are adequately covered in various manner through various contingent
+provisions and others that we have. So we feel confident of working through this process on the
+reserves. The second question we didn’t get it you can repeat.
+Abhishek Murarka: Sure, so just to clarify on ECL at the time of transition you don't see much of an impact, you have
+enough provisions for that. After transition on an ongoing basis, do you think there will be a
+material increase in credit cost like I don't know, 5, 10 basis points or 15 basis points, anything of
+that sort?
+Srinivasan Vaidyanathan: I don't think there will be anything material, but there will be some because as exactly I described,
+standard assets today are approximately 40, there are some 25 basis points, some 100 basis points,
+but on an average 40 basis points standard assets. And that by definition because of the floor which
+are there, unsecured floor is 1% in stage 1, which is standard, stage 2 in any delinquency bucket
+the floor is 5% and so on. So because of the floor there will be enhancement, but then the way we
+look today and look forward from here, it would be some impact but nothing material in terms of
+the impact.
+Moderator: Thank you. Next question is from the line of Nitin Aggarwal from Motilal Oswal. Please go ahead.
+Nitin Aggarwal: Yes. Hi, good evening everyone and thanks for the opportunity. I have two questions. One is
+around growth. Now with this like we have started Q1 on a healthy note with this FCNR
+opportunity that is there, are we looking at a improved growth run rate this year? We earlier talked
+about that we'll want to grow higher than the system, but I believe with the system in a different
+tangent, I'm not sure we'll want to really go by that? So any number if you can share or growth
+estimate outlook that we are targeting at. That's one.
+And second is on the PCR, provisioning coverage we have seen some downward drift on in this
+number over the last few years. So post ECL transition, where we would like our coverage ratio to
+be maintained?
+Kaizad Bharucha: So Nitin, I'll answer your first question and ask Srini to take the second. In terms of growth we've
+seen growth if you see the pack that we've already released and the advances mix, we have seen,
+very good growth happen in our corporate and wholesale segment. We've seen that grow at about
+18% and this is continuing from the growth that we had seen in the previous quarter as well, which
+was around those levels.
+
+HDFC Bank Limited
+July 18, 2026
+We've also continued to see very good growth come in our MSME segment and out over there, we
+have seen a business banking which is the largest component of our MSME segment grow at 22.3%
+this year. And this even tops what we had done in the March quarter. Typically June is a little
+softer quarter, but what we have done in June in the MSME segment tells you the traction that we
+are seeing out over there.
+We've also in the MSME, as you would be aware, the scheme of ECLGS 5.0 was launched and we
+have participated in that scheme and we have already as of 30th of June had a disbursement in that
+scheme of close to INR14,000 crores under the ECLGS scheme. And I think and I believe that's
+amongst the highest in terms of the participating banks because of the spread of customers and the
+quality of the portfolio that we have out over there.
+So we've seen even the MSME segment grow very robustly and I mentioned to you the pace of
+growth that has taken place over there. In addition to the wholesale and MSME, we've seen good
+growth also come through in our core retail segment. We've seen on a year-on-year basis very
+strong growth in our disbursements in the wheels business. We've also similarly seen a strong
+growth in our unsecured business on disbursements in terms of the personal loans and business
+loans that we do out over there, as well as touching upon finally the mortgages piece. Again, we've
+seen a growth of close to 14% in terms of disbursements on mortgages on year-on-year and the
+earlier two pieces that I talked about, we've seen disbursement growth approximately of about 20%
+odd. So that should give you a flavor of how we've participated in each of these segments and we
+do see credit demand holding. We do see a lot of resilience which has been there in the economy
+even post what we have seen in terms of the geopolitical situation. Yes, we have to wait for the
+full impact of the El Niño and see because that does have a bearing which plays out in the third
+quarter of the financial year. So therefore we're well positioned across most of our business
+segments in terms of how we have approached them and there continues to be an opportunity and
+a relationship which we will continue to mine whether on the wholesale segment or in the mid-
+market and retail segment.
+Srinivasan Vaidyanathan: Okay, thank you, Kaizad. I want to take your second part of the question relating to the coverage.
+See, the overall coverage that you see now is 66%, right? I would draw your attention to go back
+to 2019. And the reason for that is in between there could be COVID, somewhere up, somewhere
+down in terms of coverage and subsequently there was a merger, somewhere up and then
+subsequently down in terms of various coverage. There are several other nuances in between. So
+you go back to a longer term what the coverage is, it was 71, now it is 66. That is the headline
+coverage. If you peel that and get to what is it, if you look at the coverage excluding the agricultural
+book, agriculture is a secured part of the book, at that time it was 71 was the total and today
+excluding agri it is 70.
+So it's the proportion of the agriculture book which is at a higher proportion right now, that is the
+difference that you are seeing in the coverage. That's number one. Number two in the shorter term,
+shorter term means when you look at a quarter or a year kind of a shorter term, it is the secured-
+unsecured mix that shows the difference.
+If you look at the unsecured mix, the provision coverage will be in the 70s, mid-70s or higher. The
+secured will be lower, the unsecured is in the mid-70s or above. And the reason for that is if you
+
+HDFC Bank Limited
+July 18, 2026
+look at our rate of growth that we've had over a 2 year period on some of those retail type of
+unsecured loans have been modest.
+Even now when you look at the book growth on cards is 2.3% or something, while the spends
+growth at 13%, but the book grows at 2% to 3%. And similarly the unsecured on personal loan
+and so on and so forth still remains in the in the single digit there, right? And it is the disbursements
+are in healthy double digit, but it's yet to catch up on that.
+So the PCR is a function of the composition of the book and where there is a necessity to build
+reserves, it is there, it's formulaic, it doesn't go through any kind of a discretion, it goes through
+formula and gets it done. And same when we benchmark this to an ECL method also, which is the
+which is the stage 3 ECL provision, we seem to be adequate there too even in the go-to model.
+Nitin Aggarwal: Right. Thanks for this. I have one small question one more question if I can squeeze in. The other
+question is on the FCNR, well you talked about that this will gain traction, but how should we
+benchmark the whatever quantum we raise to what number should we benchmark that to? Should
+it be to the outstanding deposit share? Should it be to what you raised in FCNR (B) [Inaudible]
+that, in terms of total quantum at HDFC Bank.
+Moderator: Nitin, sorry to interrupt we lost your audio in between.
+Nitin Aggarwal: Hello am I audible?
+Sashidhar Jagdishan: Nitin, we're just commencing the drive. Whilst demand is there, we just don't want to commit any
+number. Let it start to flow and you will see it. But definitely if the system is X, we will be a
+significant portion of the system as we were in the 2014, ‘15 period. That is our endeavour and I
+think we are all, you know, the entire team is quite gung-ho to mobilize that kind of we're all
+energized and I think we are on track towards that.
+Nitin Aggarwal: Sure. Thanks, Sashi and everyone so much. Thanks a lot.
+Moderator: Thank you. Next question is from the line of Piran Engineer from CLSA India. Please go ahead.
+Piran Engineer: Yes, hi, thanks for taking my question and congrats on the quarter. Firstly, just on cost of funds,
+can you highlight how much cost of funds are down quarter-on-quarter as well as year-on-year?
+Srinivasan Vaidyanathan: Piran, I think it's in whatever page the team will tell you, it's the cost of funds is published along
+with the yield too. Sequential quarter I think it's almost there flat a couple of basis points plus-
+minus, it's within the range. And over a period of a year, I think it's about call it 40, 50 basis points,
+40 basis points or so year-to-year, Yes.
+Piran Engineer: Got it. Okay, sorry, if it's published I might have missed it. I thought otherwise. Anyway, sorry for
+that. Secondly, just in terms of loan growth, barring MSME, which segments are you confident
+that will result in a pickup in loan growth from current levels? Because our retail growth has been
+fairly, you know, range-bound at 7%, 8% and it doesn't seem to be picking up.
+Kaizad Bharucha: So Piran, the growth, you know, as we have always said, is going to be a function of how the
+growth is being seen in the economy in the segments which are bankable by our credit underwriting
+
+HDFC Bank Limited
+July 18, 2026
+standards. So I just alluded to an earlier response, you know, where I talked about the fact that
+we've seen good traction year-on-year on the disbursement side in terms of our core retail book,
+which consists of our wheels business, the unsecured as well as the mortgage business.
+So we do see that certainly picking up over the next several quarters. It doesn't happen overnight,
+it's a journey and we're well on the path to see that really moving forward. We’ve also seen good
+traction in the system on the mid-market and corporate side and we have a very good franchise
+and presence in that segment where we are market leaders and we see that also continuing to
+contribute in the year ahead.
+So there are several drivers, including, you know, other products that we've got in our basket on
+the retail side such as gold loans, which have started contributing. Yes, right now it's a little more
+smaller part of the whole retail basket, but growing very well. We've also got other micro loans
+that we've started in terms of our dukandar lending, which is bringing up the core retail. So we do
+see it being well diversified within the retail space, but I think both corporate and retail along with
+mid-market should continue to drive growth in the coming quarters.
+Piran Engineer: Understood. And just lastly, you'll have a good leash on costs over the last two years now. Now
+some part of it is technology, etcetera, AI, but how do we get comfort around you'll not under-
+investing in the future of the business?
+Sashidhar Jagdishan: No, Piran, I think on the contrary, I think, the kind of investments that we have done over a period
+of five years has been one of the most despite the fact that, there have been a lot of events that
+have happened during these five years, I mean, whether it's the merger, whether it is COVID
+initially, then merger, and then fair amount of investments but distribution, investment in
+resources, and investment in technology has been there.
+Now, probably as you may have heard Srini in the past, there's always an investment phase and
+then a harnessing of the investment phase that will happen. So, we also want to enjoy some of the
+things that what we have invested is it sort of giving us a kind of returns as envisaged, and I think
+you will see a whilst investments will be slightly muted, especially in distribution for now, but
+technology we’re continuing because security and AI is going to be a very significant part of any
+organization which wants to really thrive into the future, that will continue to be there.
+It's just that what you're not seeing is that, we have up-fronted a fair amount of investments, and
+therefore you don't need that kind of a large incremental investments, but the investments will
+continue into the future. As I had mentioned, I think, we are probably at the cusp of harnessing
+these investments, whether it's on the branch distribution or in terms of the technology investments,
+and over the next two to three years, returns in terms of efficiencies will start to play out and which
+is what is going to be our key strategy in terms of how we balance growth and efficiencies
+offsetting some of the margins, if at all there is in the same levels as we are today.
+Piran Engineer: Got it. Okay, that was useful. Just lastly, if I may request, I do this with all corporates and this is
+probably the first chance I'm having here, but if we could go back to weekday reporting rather than
+Saturday reporting, it would really help us a lot and it would help you'll because you'll will get
+much more investor participation across the globe if you report on a weekday.
+
+HDFC Bank Limited
+July 18, 2026
+Sashidhar Jagdishan: There is a reason why most of us are all doing on Saturdays. It's not that we have a joy in coming
+to work on a Saturday, I can assure you that, or to spoil your weekend. There is a reason why
+because since the markets are closed and a fair amount of people will get exposed to this kind of
+information through the day, we just want to minimize some of the regulatory transgressions that
+may happen, if we do it on a weekday. So that's why all of us, a large part of the banking system,
+I think is now gravitating towards weekend as a disclosure for this very reason. It's not that we're
+not going to be ready on a weekday, we would be, but it's a little bit of a high risk during that
+period.
+Piran Engineer: No, that's true, sir, but I think, this argument is true for all banks, not just all companies, not just
+financials or all banks all over the world. I think it's just that Indian banks stand out especially on
+this front, and more so in an era where you'll manage trillions of rupees of money and trillions of
+transactions per year which are safe, I'm sure you'll can keep your information safe while reporting.
+So this is just a request. I hope you'll consider it with all due seriousness and thought. But my
+questions are done and all the best.
+Srinivasan Vaidyanathan: Thank you, we'll give a thought to that. Thank you.
+Moderator: Thank you very much, ladies and gentlemen. We have come to the end of the time allotted for the
+call. I would now like to hand the conference over to Mr. Vaidyanathan for closing comments.
+Thank you and over to you, sir.
+Srinivasan Vaidyanathan: Thank you all for participating. With this, we'll close the call, and if there are any more open
+questions, we'll be continuing the dialogue with any of you that you need to talk either today or
+any other day. Our investor relations team will be available. We'll stay in touch. Thank you. Bye-
+bye.
+Moderator: Thank you very much. On behalf of HDFC Bank Limited, that concludes this conference. Thank
+you all for joining us, and you may now disconnect your lines. Thank you.
