@@ -1,0 +1,568 @@
+ICICI Bank Limited
+Earnings conference call - Quarter ended June 30, 2025 (Q1-2026)
+July 19, 2025
+Certain definitions in this release relating to a future period of time (including inter alia concerning
+our future business plans or growth prospects) are forward-looking statements intended to
+qualify for the 'safe harbor' under applicable securities laws including the US Private Securities
+Litigation Reform Act of 1995. Such forward-looking statements involve a number of risks and
+uncertainties that could cause actual results to differ materially from those in such forward-
+looking statements. These risks and uncertainties include, but are not limited to statutory and
+regulatory changes, international economic and business conditions, political or economic
+instability in the jurisdictions where we have operations or which affect global or Indian economic
+conditions, increase in nonperforming loans, unanticipated changes in interest rates, foreign
+exchange rates, equity prices or other rates or prices, our growth and expansion in business, the
+adequacy of our allowance for credit losses, the actual growth in demand for banking products
+and services, investment income, cash flow projections, our exposure to market risks, changes in
+India’s sovereign rating, as well as other risks detailed in the reports filed by us with the United
+States Securities and Exchange Commission. Any forward-looking statements contained herein
+are based on assumptions that we believe to be reasonable as of the date of this release. ICICI
+Bank undertakes no obligation to update forward-looking statements to reflect events or
+circumstances after the date thereof. Additional risks that could affect our future operating results
+are more fully described in our filings with the United States Securities and Exchange Commission.
+These filings are available at www.sec.gov.
+This release does not constitute an offer of securities.
+1
+Moderator:
+Ladies and gentlemen, good day and welcome to ICICI Bank Limited Q1-FY2026
+Earnings Conference Call. As a reminder, all participant lines will be in the listen-
+only mode and there will be an opportunity for you to ask questions after the
+presentation concludes. Should you need assistance during the conference call,
+please signal an operator by pressing ‘*’ then ‘0’ on your touchtone phone. Please
+note that this conference is being recorded.
+I now hand the conference over to Mr. Sandeep Bakhshi, Managing Director and
+CEO of ICICI Bank. Thank you and over to you sir.
+Mr. Bakhshi’s opening remarks
+Thank you. Good evening to all of you and welcome to the ICICI Bank Earnings
+Call to discuss the results for Q1 of FY2026. Joining us today on this call are
+Sandeep Batra, Rakesh, Ajay, Anindya and Abhinek.
+At ICICI Bank, our strategic focus continues to be on growing profit before tax
+excluding treasury through the 360-degree customer centric approach and by
+serving opportunities across ecosystems and micromarkets. We continue to
+operate within the framework of our values to strengthen our franchise.
+Maintaining high standards of governance, deepening coverage and enhancing
+delivery capabilities with a focus on simplicity and operational resilience, are key
+drivers for our risk calibrated profitable growth.
+The profit before tax excluding treasury grew by 11.4% year-on-year to 156.90
+billion Rupees in this quarter. The core operating profit increased by 13.6% year-
+on-year to 175.05 billion Rupees in this quarter. The profit after tax grew by
+15.5% year-on-year to 127.68 billion Rupees in this quarter.
+2
+Total deposits grew by 12.8% year-on-year and were flat sequentially at June 30,
+2025. During the quarter, average deposits grew by 11.2% year-on-year and
+3.1% sequentially and average current and savings account deposits grew by
+8.7% year-on-year and 3.9% sequentially. The Bank’s average liquidity coverage
+ratio for the quarter was about 128%.
+The domestic loan portfolio grew by 12.0% year-on-year and 1.5% sequentially
+at June 30, 2025. The retail loan portfolio grew by 6.9% year-on-year and 0.5%
+sequentially. Including non-fund based outstanding, the retail portfolio was
+43.2% of the total portfolio. The rural portfolio declined by 0.4% year-on-year and
+1.5% sequentially. The business banking portfolio grew by 29.7% year-on-year
+and 3.7% sequentially. The domestic corporate portfolio grew by 7.5% year-on-
+year and declined by 1.4% sequentially. The overall loan portfolio including the
+international branches portfolio grew by 11.5% year-on-year and 1.7%
+sequentially at June 30, 2025. The overseas loan portfolio was about 2.4% of the
+overall loan book at June 30, 2025.
+The net NPA ratio was 0.41% at June 30, 2025 compared to 0.43% at June 30,
+2024. During the quarter, there were net additions of 30.34 billion Rupees to gross
+NPAs, excluding write-offs and sale. The total provisions during the quarter were
+18.15 billion Rupees or 10.4% of core operating profit and 0.53% of average
+advances. The provisioning coverage ratio on non-performing loans was 75.3%
+at June 30, 2025. In addition, the Bank continues to hold contingency provisions
+of 131.00 billion Rupees or about 1.0% of total advances at June 30, 2025.
+The capital position of the Bank continued to be strong with a CET-1 ratio of
+16.31% and total capital adequacy ratio of 16.97% at June 30, 2025, including
+profits for Q1 of FY2026.
+Looking ahead, we see many opportunities to drive risk calibrated profitable
+growth and grow market share across key segments. We remain focused on
+3
+maintaining a strong balance sheet, prudent provisioning and healthy levels of
+capital while delivering sustainable and predictable returns to our shareholders.
+I now hand the call over to Anindya.
+Anindya’s opening remarks
+Thank you, Sandeep. I will talk about loan growth, credit quality, P&L details and
+the performance of subsidiaries.
+A. Loan growth
+Sandeep covered the loan growth across various segments. Coming to the
+growth across retail products, the mortgage portfolio grew by 10.3% year-on-
+year and 1.9% sequentially. Auto loans grew by 2.2% year-on-year and declined
+by 0.7% sequentially. The commercial vehicles and equipment portfolio grew by
+5.9% year-on-year and 1.1% sequentially. Personal loans grew by 1.4% year-on-
+year and declined by 1.3% sequentially. The credit card portfolio grew by 1.5%
+year-on-year and declined by 5.4% sequentially. The personal loans and credit
+card portfolio were 8.8% and 4.0% of the overall loan book respectively at June
+30, 2025.
+Within the corporate portfolio:
+• The total outstanding to NBFCs and HFCs was 874.17 billion Rupees at June
+30, 2025 compared to 918.38 billion Rupees at March 31, 2025. The total
+outstanding loans to NBFCs and HFCs were about 6.4% of our advances at
+June 30, 2025.
+• The builder portfolio including construction finance, lease rental discounting,
+term loans and working capital was 628.33 billion Rupees at June 30, 2025
+4
+compared to 616.24 billion Rupees at March 31, 2025. The builder portfolio
+was about 4.6% of our total loan portfolio. Our portfolio largely comprises
+well-established builders and this is also reflected in the sequential increase
+in the portfolio. About 1.9% of the builder portfolio at June 30, 2025 was
+either rated BB and below internally or was classified as non-performing.
+B. Credit quality
+The gross NPA additions were 62.45 billion Rupees in the current quarter
+compared to 59.16 billion Rupees in Q1 of last year. There were gross NPA
+additions of about 7.67 billion Rupees from the kisan credit card portfolio in the
+current quarter. We typically see higher NPA additions from the kisan credit card
+portfolio in the first and third quarter of a fiscal year. Recoveries and upgrades
+from gross NPAs, excluding write-offs and sale, were 32.11 billion Rupees in the
+current quarter compared to 32.92 billion Rupees in Q1 of last year. The net
+additions to gross NPAs were 30.34 billion Rupees in the current quarter
+compared to 26.24 billion Rupees in Q1 of last year.
+The gross NPA additions from the retail and rural portfolios were 51.93 billion
+Rupees in the current quarter compared to 52.04 billion Rupees in Q1 of last year.
+These include the KCC NPAs mentioned earlier. Recoveries and upgrades from
+the retail and rural portfolios were 25.25 billion Rupees in the current quarter
+compared to 25.32 billion Rupees in Q1 of last year. The net additions to gross
+NPAs in the retail and rural portfolios were 26.68 billion Rupees in the current
+quarter compared to 26.72 billion Rupees in Q1 of last year.
+The gross NPA additions from the corporate and business banking portfolios
+were 10.52 billion Rupees in the current quarter compared to 7.12 billion Rupees
+in Q1 of last year. Recoveries and upgrades from the corporate and business
+banking portfolios were 6.86 billion Rupees in the current quarter compared to
+7.60 Rupees in Q1 of last year. There were net additions to gross NPAs of 3.66
+5
+billion Rupees in the current quarter in the corporate and business banking
+portfolios compared to net deletions of 0.48 billion Rupees in Q1 of last year.
+The gross NPAs written-off during the quarter were 23.59 billion Rupees. Further,
+there was sale of NPAs of 1.08 billion Rupees in the current quarter compared to
+1.14 billion Rupees in Q1 of last year. The sale of NPA includes about 0.60 billion
+Rupees in cash in the current quarter.
+The non-fund based outstanding to borrowers classified as non-performing was
+32.98 billion Rupees as of June 30, 2025 compared to 30.75 billion Rupees as of
+March 31, 2025 and 35.43 billion Rupees as of June 30, 2024.
+The total fund based outstanding to all standard borrowers under resolution as
+per various guidelines declined to 17.88 billion Rupees or about 0.1% of the total
+loan portfolio at June 30, 2025 from 19.56 billion Rupees at March 31, 2025 and
+27.35 billion Rupees at June 30, 2024. Of the total fund based outstanding under
+resolution at June 30, 2025, 16.22 billion Rupees was from the retail and rural
+portfolios and 1.66 billion Rupees was from the corporate and business banking
+portfolios.
+The loans and non-fund based outstanding to performing corporate borrowers
+rated BB and below were 29.95 billion Rupees at June 30, 2025 compared to
+28.54 billion Rupees at March 31, 2025 and 41.64 billion Rupees at June 30, 2024.
+This portfolio was about 0.2% of our advances at June 30, 2025. Other than two
+accounts, the maximum single borrower outstanding in the BB and below
+portfolio was less than 5.00 billion Rupees at June 30, 2025.
+At the end of June, the total provisions, other than specific provisions on fund-
+based outstanding to borrowers classified as non-performing, were 226.64 billion
+Rupees or 1.7% of loans. This includes the contingency provisions of 131.00 billion
+Rupees as well as general provision on standard assets, provisions held for non
+fund based outstanding to borrowers classified as non performing, fund and non-
+6
+fund based outstanding to standard borrowers under resolution and the BB and
+below portfolio.
+Moving on to the P&L details:
+C. P&L details
+Net interest income increased by 10.6% year-on-year to 216.35 billion Rupees in
+this quarter. The net interest margin was 4.34% in this quarter compared to 4.41%
+in the previous quarter and 4.36% in Q1 of last year. From Q1-2026, the Bank has
+changed its convention of computation of NIM and other return ratios from actual
+number of days to number of months. While the full year NIM would remain
+unchanged, the revised convention eliminates the quarter-to-quarter volatility in
+NIM computation due to difference in the number of days. This impact on reported
+ratios in this quarter was negligible. The impact of interest on tax refund was
+about 7 basis points in the current quarter compared to about 2 basis points in
+the previous quarter and nil in Q1 of last year.
+Of the total domestic loans, interest rates on about 53% of the loans are linked to
+the repo rate, 15% to MCLR and other older benchmarks and 1% to other external
+benchmarks. The remaining 31% of loans have fixed interest rates. In comparison
+to the first quarter, the impact of transmission of repo rate cuts on external
+benchmark linked loans is expected to be higher in the second quarter. This
+impact would be partially set off by reduction in savings’ account interest rates in
+May and June and gradual repricing of term deposits.
+The domestic NIM was 4.40% in this quarter compared to 4.48% in the previous
+quarter and 4.44% in Q1 of last year. The cost of deposits was 4.85% in this
+quarter compared to 5.00% in the previous quarter and 4.84% in Q1 of last year.
+Non-interest income, excluding treasury, grew by 13.7% year-on-year to 72.64
+billion Rupees in Q1 of FY2026.
+7
+• Fee income increased by 7.5% year-on-year to 59.00 billion Rupees in this
+quarter. Fees from retail, rural and business banking customers constituted
+about 79% of the total fees in this quarter.
+• Dividend income from subsidiaries was 13.36 billion Rupees in this quarter
+compared to 8.94 billion Rupees in Q1 of last year. The year-on-year increase
+in dividend income was primarily due to higher dividend from ICICI Securities,
+ICICI Prudential Asset Management and ICICI Lombard General Insurance and
+receipt of dividend from ICICI Securities Primary Dealership in the current
+quarter compared to Q2 of last year.
+On Costs: The Bank’s operating expenses increased by 8.2% year-on-year in this
+quarter compared to 8.3% in FY2025. Employee expenses increased by 8.5%
+year-on-year in this quarter, reflecting mainly the impact of annual increments
+and promotions that take place during the first quarter of every fiscal year. Non-
+employee expenses increased by 8.0% year-on-year in this quarter. Our branch
+count has increased by 83 in the first quarter. We had 7,066 branches as of June
+30, 2025. The technology expenses were about 10.7% of our operating expenses
+in this quarter. We continue to enhance the use of technology in our operations
+to provide simplified solutions to customers and make investments in our digital
+channels. We continue to further strengthen system resilience and simplify our
+processes.
+The total provisions during the quarter were 18.15 billion Rupees as compared to
+the provisions of 13.32 billion Rupees in Q1 of last year. Provisions in Q1 of last
+year included the impact of release of AIF related provisions of 3.89 billion
+Rupees.
+The provisions during the quarter were 10.4% of core operating profit and 0.53%
+of average advances. Adjusting for the seasonality of KCC provisioning which
+occurs only in Q1 and Q3, the credit cost to advances would be about 50 basis
+points.
+8
+The profit before tax excluding treasury grew by 11.4% year-on-year to 156.90
+billion Rupees in Q1 of this year.
+Treasury gains were 12.41 billion Rupees in Q1 of current year as compared to
+6.13 billion Rupees in Q1 of the previous year, primarily reflecting realised and
+mark-to-market gains in fixed income securities and equities.
+The tax expense was 41.63 billion Rupees in this quarter compared to 36.34
+billion Rupees in the corresponding quarter last year. The profit after tax grew by
+15.5% year-on-year to 127.68 billion Rupees in this quarter.
+D. Consolidated results
+The consolidated profit after tax grew by 15.9% year-on-year to 135.58 billion
+Rupees in this quarter.
+The details of the financial performance of key subsidiaries are covered in slides
+34 to 35 and 54 to 59 in the investor presentation.
+The annualised premium equivalent of ICICI Life was 18.64 billion Rupees in Q1-
+2026 compared to 19.63 billion Rupees in Q1-2025. The value of new business
+was 4.57 billion Rupees in Q1-2026 compared to 4.72 billion Rupees in Q1-2025.
+The value of new business margin was 24.5% in Q1-2026 compared to 22.8% in
+FY2025. The profit after tax of ICICI Life was 3.02 billion Rupees in Q1-2026
+compared to 2.25 billion Rupees in Q1-2025.
+Gross Direct Premium Income of ICICI General increased to 77.35 billion Rupees
+in Q1-2026 from 76.88 billion Rupees in Q1-2025. The combined ratio stood at
+102.9% in Q1-2026 compared to 102.3% in Q1-2025. The profit after tax
+increased to 7.47 billion Rupees in this quarter from 5.80 billion Rupees in Q1 of
+last year. With effect from October 1, 2024, long-term products are accounted on
+9
+1/n basis, as mandated by IRDAI, hence Q1 numbers are not fully comparable
+with prior periods.
+The profit after tax of ICICI AMC, as per Ind AS was 7.82 billion Rupees in this
+quarter.
+The profit after tax of ICICI Securities, as per Ind AS on a consolidated basis, was
+3.91 billion Rupees in this quarter compared to 5.27 billion Rupees in Q1 of last
+year.
+ICICI Bank Canada had a profit after tax of 7.8 million Canadian dollars in this
+quarter compared to 20.3 million Canadian dollars in Q1 last year.
+ICICI Bank UK had a profit after tax of 5.9 million US dollars in this quarter
+compared to 7.7 million US dollars in Q1 of last year.
+As per Ind AS, ICICI Home Finance had a profit after tax of 2.14 billion Rupees in
+the current quarter compared to 1.17 billion Rupees in Q1 of last year.
+With this, we conclude our opening remarks and we will now be happy to take
+your questions.
+Moderator:
+Thank you very much. We will now begin with the question and answer session.
+The first question is from the line of Mahrukh Adajania from Nuvama Wealth.
+Please go ahead.
+Mahrukh Adajania:
+My first question was on margins regarding the change in method. Now fourth
+quarter is the quarter where you see the biggest positive impact of the old
+method. So your margin decline even adjusted for the interest on tax refund
+10
+appears to be just four to five basis points. Is that a correct assessment? That is
+my first question. Or if you could give a like-to-like comparison of margins for the
+fourth quarter, that would be even better. And then my second question is on
+growth because that is an obvious challenge for the sector and nothing seems to
+be growing much other than low yield corporate loans. In home loans, there is
+intense competition. When do you see growth reviving and where do you see
+ICICI’s loan growth to settle? Would mid-teens still be possible? Yes. Those are
+my questions.
+Anindya Banerjee:
+Thanks, Mahrukh. On the first one, yes, the reported margin for Q4 would have
+been a few basis points lower. So, the kind of range that you spoke of is probably
+correct. But equally, the same Q3 to Q4 spike will not happen in the current year.
+We will have a more even spread of reported margin through the year.
+On the growth side, I think as you know, in the first quarter, there have been a
+number of global events, etc., which I guess had some impact on the sentiment.
+But the substantial monetary easing that has taken place starting from Q4
+particularly and carrying through into Q1, will also have some positive impact
+hopefully as we go along. So, I think it is too early to say. We will have to wait for
+another quarter to really form a view about how it is going to go.
+Mahrukh Adajania:
+Okay. Thanks a lot.
+Moderator:
+We will take our next question from the line of Kunal Shah from Citigroup. Please
+go ahead.
+11
+Kunal Shah:
+So, sorry again to touch upon on margin. Fair to say maybe the unwinding which
+was expected to come in the first quarter, maybe because of this day benefit that
+would not have been there in this particular quarter. Otherwise, any which way
+was like we are comparing 4.41% to 4.34%. So, maybe like four-five basis points
+of unwinding is not really there in this quarter and thereafter maybe adjusting for
+interest on income tax refund, we have seen like 14 bps kind of a decline in NIMs
+on a quarter-on-quarter basis. Would that be correct?
+Anindya Banerjee:
+No, that would not be correct because there is no unwinding in the first quarter.
+NIM typically declines from Q4 to Q1 because of the higher number of days in Q1
+and then there is a pickup again in Q4. So, the Q4 NIM, if we had used an equal
+month basis would have been lower than the reported number of 4.41%. But I
+think that is why even in our previous calls we have focused attention on the
+previous year’s full year NIM of 4.3% as the anchor for further discussion. But we
+thought that it would also be good to eliminate that one confusion point.
+Kunal Shah:
+Yes. So, the only thing was maybe unwinding I just meant to say that the benefit
+which was there in the fourth quarter that have been relatively lower in the first
+quarter by say four-five basis points, which goes away, which is not there in the
+computation now?
+Anindya Banerjee:
+No. If you look at, for example, the reported margins for this year and on the new
+basis and Q1 last year on the old basis are almost the same. There is no real
+impact. That impact largely comes later in the year. So, the first quarter is not
+impacted at all. If you are looking at a sequential analysis, then on a like-to-like
+basis, the reported margin for Q4 would have been a little bit lower.
+12
+Kunal Shah:
+Yes. So, would that have been like eight-nine basis points, how much it would
+have been lower?
+Anindya Banerjee:
+I think I answered that. The range that Mahrukh quoted was probably the correct
+range.
+Kunal Shah:
+Okay. Got it. Perfect. Yes. And secondly, with respect to the credit cost, so we
+have been indicating that it would normalize in a gradual manner. This quarter
+would have KCC slippages. But excluding that when we look at the credit cost, so
+would we say like now we have reached or maybe there is a further normal
+gradualisation, which has still to happen from the current levels adjusting for
+KCC? Because we are already seeing like 50, there would be some impact of KCC.
+So, do we expect further normalization? Or maybe this is more like clean credit
+cost, which we are seeing now?
+Anindya Banerjee:
+I think we have always said that currently, the underlying level would be more
+like about 50 basis points. Can that inch up? It could, but I don’t see any major
+movement.
+Kunal Shah:
+Okay. Got it. Thanks. Yes.
+Moderator:
+Next question is from the line of Harsh Modi from JP Morgan. Please go ahead.
+13
+Harsh Modi:
+A couple of questions. First is, if I see your mix on corporate creditors, the AA- mix
+has been reducing over the last few years and BBB- has been increasing. Is that
+the sweet spot on RORWA, that’s why you are doing it? And any risks around
+that? That is the first one.
+The second one is on business banking. Very good numbers. What went right?
+And going forward, if you think about the mix of credit growth over the next, let’s
+say, a couple of years, where should we see the incremental delta coming from?
+Any granularity you can provide would be great.
+Anindya Banerjee:
+So, on the first question, I think the decline in the proportion of the very high rated
+is partly a function of demand and partly a function of pricing. And in some cases,
+we may have in earlier periods of very easy liquidity built up some portfolio there
+and that has gradually run off as the funding environment got tighter. Currently,
+of course, as you would know that overall credit growth itself has come down.
+And in this particular segment, there is fairly high price competition. So, we would
+really look at this segment as we look at all the other corporate borrowers from a
+Customer 360 perspective and look at the totality of our relationship with the
+borrower. And in that context, if lending makes sense, we would do it.
+As far as the increase in the proportion, I think we are comfortable with the entire
+A bucket. So, to answer your question, that is probably the segment where you
+do have the right balance of risk-reward, although we have competition in those
+segments also. I think on the lower-rated origination in BBB and below, we have
+fairly tight controls and limits on how we approach that segment and it is quite
+calibrated. So, overall, I think the reduction in the proportion of the high rated is
+really a function of demand and pricing.
+14
+On your second question on business banking, I think we have spoken about it in
+the past couple of calls. To keep it short, I would say it’s a combination of
+distribution, process and technology, the digital interfaces and capabilities that
+we offer to the customers and also a fairly tight focus on monitoring of the credit
+and managing the portfolio in a disciplined way.
+The last part of your question was around mix going forward. I think basis the
+visibility and the market share opportunity, one would expect the business
+banking piece to grow faster than the overall loan book and therefore that
+proportion should gradually go up.
+Harsh Modi:
+Right. And one more is on the liability side. It seems you have been gaining market
+share on CASA deposits nationwide. Now with rate cuts, how do you see
+behaviour changing, any early signs of higher degree of competition, more
+preponderance of sweep accounts and so on and so forth? So, do you see market
+share stabilizing or you still see CASA market share growing for the Bank over
+the next, let us say, 12 months period?
+Anindya Banerjee:
+So, the current account is purely the result of presence in the transaction flows of
+corporates, businesses, capital markets players and so on. The savings account
+is the result of being sort of the primary bank or the transacting bank of the retail
+customer. And that is how money comes in, goes out and some level of float stays
+in those accounts. I do not think that there is any particular change in the
+competitive scenario. If you see in the quarter, I think rate actions taken by all the
+large banks have been more or less in the same line given the decline in the overall
+interest rates and the policy environment. And we would continue to focus on this
+segment through increasing customer acquisition, increasing our share of the
+customers’ wallet and trying to become the primary banker. So, we would hope
+that we will continue to do reasonably well.
+15
+Moderator:
+Next question is from the line of Nitin Aggarwal from Motilal Oswal.
+Nitin Aggarwal:
+Congrats on another set of good numbers. I have three questions. One is around
+the decline in cost of deposits that we have reported in the quarter. So, it seems
+fairly sharp 15 basis points decline. So, is it like the unwinding that we have done
+in respect to the high cost deposits that has resulted in this kind of decline and
+has it played out fully or this will continue along with the SA cut benefits in Q2
+also?
+Anindya Banerjee:
+There is no unwinding. As I said, the impact of the equal month convention on the
+reported NIM for the quarter and other ratios for the quarter is negligible. So, as
+far as the decline in deposits cost, it is clearly the reduction in the savings account
+deposit rate, large part of it was 25 basis points that was there in April, the
+benefit of that has been there for pretty much the full quarter. And then on the
+higher value deposits, there was another cut in May, which also helped. In
+addition, of course, for the retail term deposits also gradually, the incremental
+rates repricing would reflect. Plus during the quarter, we saw a reasonable
+reduction in our wholesale deposit book given the continued strong growth in
+CASA and retail term deposits and the high liquidity that we were running. The
+runoff of the wholesale deposit book also helped in the funding cost.
+Nitin Aggarwal:
+Yes. Actually I was referring to the wholesale deposit unwinding that we have
+done. So, the benefit of that has played out fully in this quarter or do you expect
+that to continue?
+16
+Anindya Banerjee:
+It is difficult to really say. We have not been aggressively raising wholesale
+deposits. So, as I said in the opening remarks, we would continue to see a gradual
+benefit of deposits cost repricing in Q2. But there will also be a higher impact of
+the 50 bps repo cut of June.
+Nitin Aggarwal:
+Right. And second question, Anindya, is around the unsecured retail growth. So,
+how are we looking at that segment? Because while we have been able to deliver
+healthy growth, but because of the systemic softness in the overall credit
+demand, the overall growth has come down as well. And our unsecured retail
+segments have not been able to contribute as you know. So, how are we seeing
+at those segments given the asset quality has seen some stabilisation. So how
+do we look at those segments in terms of their contribution going forward?
+Anindya Banerjee:
+We can do more on both personal loans and credit cards. In personal loans, I think
+as we may have commented in the past, we are quite comfortable with the quality
+of origination done over the last 12 to 15 months. So, I think we can see volumes
+pick up and see some better growth there. And similarly, on cards also going
+forward, maybe some better customer acquisition is also something we can see.
+So, I think we are quite focused on both the segments. We could do better there
+than what we have done in Q1.
+Nitin Aggarwal:
+Right. And lastly, on the business banking, that is a segment which has been
+growing very well for us and very good yields. But how do you really ensure that
+we don’t go on to see some challenges in respect to asset quality because the
+kind of growth on a very decent base that the segment is at now, so how do we
+ensure that we don’t get into sort of asset quality challenges in the segment? Any
+tightening that we have done in the recent quarters? So, we have talked about
+17
+the underwriting being tightened in the past. Are we looking at this on a
+continuous basis as the environment is getting tougher around some of these
+segments?
+Anindya Banerjee:
+As I said, we monitor the portfolio continuously. Just to put the numbers in
+context, if you look at the gross NPA additions to the corporate and business
+banking portfolios in the quarter were about 10 billion Rupees on an aggregate
+portfolio of about 5.6 trillion. The business banking portfolio alone is now about
+2.7 trillion. So, I think the current sort of credit behaviour and asset quality is
+extremely benign. And we will probably see some increase going forward, but
+credit costs today are negligible. So, they may go up slightly. But the portfolio is
+granular and tightly monitored.
+Nitin Aggarwal:
+Right. Thanks, Anindya. This is really helpful.
+Moderator:
+We will take our next question from the line of MB Mahesh from Kotak Securities.
+Please go ahead.
+MB Mahesh:
+Anindya, on this question on margins, just on the yield side, with the drop of 25
+basis points that you have seen, is it possible to kind of quantify how much of the
+repo rate cuts have flown through the loan book?
+Anindya Banerjee:
+We have not quantified it. If you look at the February cut, I think it would have
+largely flown through almost entirely. The April cut also would have substantially
+flown through. Maybe we have a little bit more to happen in Q2. The June cut, I
+would say has not flown through much and most of that will come through in Q2.
+18
+MB Mahesh:
+Sorry, just to answer the previous question, you said that the bulk of the benefit
+on the cost of deposit side has come from the savings account given that the
+contribution of wholesale is fairly small?
+Anindya Banerjee:
+That is just computable, 25 bps cut on the portfolio that would have yielded a
+reasonable benefit.
+MB Mahesh:
+And the second question is on the demand environment. When you say that you
+are ready to accelerate, portfolio is good, is it a question of demand being an issue
+on the ground or is it a problem with pricing?
+Anindya Banerjee:
+I think maybe there is some pricing, but probably we also need to focus a little
+more on the distribution and the throughput. I would not say that in some of these
+segments, it is purely demand, if you are talking about PL and cards. In other
+segments, of course, overall loan growth in the system is what it is. So that
+reflects some softness in demand.
+MB Mahesh:
+Perfect. And last one question. Are you allowed to restructure any standard
+assets let’s say, in a default book in the SMA-0, 1 and 2, are you allowed to
+restructure it and classify it as standard?
+Anindya Banerjee:
+No.
+19
+MB Mahesh:
+Okay. Thank you.
+Moderator:
+Next question is from the line of Piran Engineer from CLSA.
+Piran Engineer:
+Congrats on the quarter. Just firstly a couple of clarifications on previous question.
+So, Nitin’s question on 15 bps reduction in cost of deposits, that also includes the
+number of days thing, right? Like core deposit cost would not have gone down 15
+bps, correct QoQ?
+Anindya Banerjee:
+As I said, the margins for the first quarter on both basis, there would be a
+negligible difference, which is what we have mentioned in our opening remarks.
+Relative to the fourth quarter, the decline in margins would have been somewhat
+lower on a comparable basis.
+Piran Engineer:
+But then, Anindya, how do I think about it in the context of you versus peers where
+your margins are down, say, 5-6 bps, core NIM. HDFC, Axis are down 12-13 bps.
+Is it just a more delayed pass-through of the repo rate cuts, is that how I should
+simplistically put it? Because all of you all have cut SA rates at approximately the
+same time and by the same amount.
+Anindya Banerjee:
+I cannot really comment on others. I think, to begin with, we have been always
+saying that we have to look at the full year margin of last year of 4.3% and the
+repo rate cut and the lagged repricing of deposits will create some pressure on
+that. In the first quarter, I think we had the upfront benefit of the savings deposit
+rate cut, and we also had 6-7 basis points of the benefit of interest on income tax
+20
+refund. As we go into Q2, the full impact of the 50 bps repo cut of June will come
+into effect. We will also have some continuing repricing of term deposits as well
+as the benefit of the savings rate cut that happened in May and June. And then in
+Q3, I guess, unless there is any change in the policy stance, the benefit of the CRR
+cut will also kick in.
+Piran Engineer:
+Okay. That is helpful. Just secondly, if I have to compare retail term deposits today
+versus wholesale term deposits today and even adjusted for the outflow rate and
+the LCR competition, would wholesale rates be similar to TD rates now or lower?
+Anindya Banerjee:
+No, lower. They would be lower.
+Piran Engineer:
+It will be lower, right? So, then why are we trimming wholesale deposits when it
+is lower? That is what I look at.
+Anindya Banerjee:
+I think it is a function of the overall liquidity that we are carrying if you look at the
+CASA and the term deposits. What has gone down is the deposits that were
+raised in the past at higher rates. If we get deposits at the rates we are quoting
+now, we will take them.
+Piran Engineer:
+Lastly on vehicle loans, I mean, our growth has gone down to 2%-3%, of course,
+demand has slowed down, there is no doubt about it. But it’s not slowed down
+so much also. Is this more a function of us just being cautious on pricing and that’s
+why we are choosing not to grow here?
+21
+Anindya Banerjee:
+So, the price competition has always been a part of it and of course, the
+underlying asset class also is not growing at that pace.
+Piran Engineer:
+Okay, Got it. Thank you.
+Moderator:
+Ladies and gentlemen, we will take that as the last question for today. I now hand
+the conference over to management for closing comments. Over to you, sir.
+Anindya Banerjee:
+Thank you very much for taking time on a Saturday, and we are happy to clear
+any other doubts offline. Thank you.
+Moderator:
+Thank you. On behalf of ICICI Bank, that concludes this conference. Thank you for
+joining us and you may now disconnect your lines.
+22

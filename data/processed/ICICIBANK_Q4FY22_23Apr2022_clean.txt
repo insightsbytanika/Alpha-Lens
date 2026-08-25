@@ -1,0 +1,758 @@
+April 29, 2022
+BSE Limited National Stock Exchange of India Limited
+Listing Department Listing Department
+Phiroze Jeejeebhoy Towers Exchange Plaza, 5th floor
+Dalal Street Plot No. C/1, G Block
+Mumbai 400 001 Bandra-Kurla Complex
+Bandra (East)
+Mumbai 400 051
+Dear Sir/Madam,
+Please find attached the transcript of earnings call with analysts and investors for the quarter
+ended March 31, 2022. The same can be accessed on the link:
+https://www.icicibank.com/aboutus/qfr.page?#toptitle
+Please take the above information on record.
+Yours sincerely,
+For ICICI Bank Limited
+Vivek Ranjan
+Chief Manager
+Encl.: As above
+ICICI Bank Limited Tel.: (91-22) 2653 1414 Regd. Office: ICICI Bank Tower,
+ICICI Bank Towers Fax: (91-22) 2653 1122 Near Chakli Circle,
+Bandra-Kurla Complex Website www.icicibank.com Old Padra Road
+Mumbai 400 051, India. CIN.: L65190GJ1994PLC021012 Vadodara 390007. India
+ICICI Bank Limited
+Earnings conference call - Quarter ended March 31, 2022 (Q4-2022)
+April 23, 2022
+Certain statements in this release relating to a future period of time (including inter
+alia concerning our future business plans or growth prospects) are forward-looking
+statements intended to qualify for the 'safe harbor' under applicable securities laws
+including the US Private Securities Litigation Reform Act of 1995. Such forward-
+looking statements involve a number of risks and uncertainties that could cause
+actual results to differ materially from those in such forward-looking statements.
+These risks and uncertainties include, but are not limited to statutory and regulatory
+changes, international economic and business conditions, political or economic
+instability in the jurisdictions where we have operations, increase in non-
+performing loans, unanticipated changes in interest rates, foreign exchange rates,
+equity prices or other rates or prices, our growth and expansion in business, the
+adequacy of our allowance for credit losses, the actual growth in demand for
+banking products and services, investment income, cash flow projections, our
+exposure to market risks, changes in India’s sovereign rating, and the impact of the
+Covid-19 pandemic which could result in fewer business opportunities, lower
+revenues, and an increase in the levels of non-performing assets and provisions,
+depending inter alia upon the period of time for which the pandemic extends, the
+remedial measures adopted by governments and central banks, and the time taken
+for economic activity to resume at normal levels after the pandemic, as well as
+other risks detailed in the reports filed by us with the United States Securities and
+Exchange Commission. Any forward-looking statements contained herein are
+based on assumptions that we believe to be reasonable as of the date of this
+release. ICICI Bank undertakes no obligation to update forward-looking statements
+to reflect events or circumstances after the date thereof. Additional risks that could
+affect our future operating results are more fully described in our filings with the
+United States Securities and Exchange Commission. These filings are available at
+www.sec.gov.
+This release does not constitute an offer of securities.
+Moderator:
+Ladies and gentlemen, good day and welcome to the ICICI Bank Q3 FY2022 Earnings
+Conference Call. As a reminder, all participant lines will be in listen-only mode, and there
+will be an opportunity for you to ask questions after the presentation concludes. Should
+you need assistance during the conference call, please signal an operator by pressing ‘*’
+then ‘0’ on your touchtone phone. Please note that this conference is being recorded. I
+
+now hand the conference over to Mr. Sandeep Bakhshi -- Managing Director and CEO of
+ICICI Bank. Thank you and over to you, sir.
+Mr. Bakhshi’s opening remarks
+Good evening to all of you and welcome to the ICICI Bank Earnings Call to discuss the
+results for Q4 of FY2022. Joining us today on this call are Vishakha, Anup, Sandeep Batra,
+Rakesh and Anindya.
+We hope that you are safe and in good health.
+In January we saw a sharp rise in the number of Covid-19 cases that resulted in a
+moderation in the pace of economic activity. However, the impact of this third wave of the
+pandemic was mild and with the decline in number of new Covid-19 cases, economic
+activity gained momentum in the months of February and March. This was visible in the
+Bank’s Ultra Frequency Index, comprising several high frequency indicators tracked by our
+Economic Research Group, which rose from 112.0 in January to 114.9 in February and
+124.4 in March. Some of the major factors leading to improvement in this index were
+increase in power demand, rail freight revenues, e-way bill generation and GST
+collections. We extend our gratitude to the medical and health workers’ fraternity for their
+tireless effort in this fight against Covid-19.
+At ICICI Bank, we aim to grow the core operating profit within the guardrails of compliance
+and risk through our 360-degree customer-centric approach and focus on opportunities
+across client and segment ecosystems. We focus on growing our loan portfolio in a
+granular manner with a focus on risk and reward, with return of capital and containment
+of provisions below a defined percentage of core operating profit being a key imperative.
+We follow a micro market based approach to create an efficient distribution and resource
+allocation strategy by using analytics to identify opportunities. We aim to steadily grow
+our business within our strategic framework and strengthen our franchise, delivery, and
+servicing capabilities, backed by a range of digital initiatives.
+
+Coming to the quarterly performance against this framework:
+First- Growth in the core operating profit in a risk-calibrated manner through
+the focused pursuit of target market segments
+The core operating profit increased by 18.7% year-on-year to 101.64 billion Rupees in this
+quarter and 22.3% year-on-year to 383.47 billion Rupees in FY2022. Excluding dividend
+income from subsidiaries and associates, core operating profit grew by 21.0% year-on-
+year in Q4 of 2022. The profit after tax grew by 59.4% year-on-year to 70.19 billion Rupees
+in this quarter. For the fiscal year 2022, the profit after tax increased by 44.1% year-on-
+year to 233.39 billion Rupees. The Board has recommended a dividend of 5 Rupees per
+share for FY2022, subject to requisite approvals.
+Second-Further enhancing our strong deposit franchise
+Total deposits grew by 14.2% year-on-year at March 31, 2022. During the quarter, average
+current account deposits increased by 23.6% year-on-year and average savings account
+deposits by 22.7% year-on-year. The liquidity coverage ratio for the quarter was about
+130%, reflecting continued surplus liquidity. Our cost of deposits continues to be among
+the lowest in the system.
+Third-Growing our loan portfolio in a granular manner with a focus on risk and
+reward
+The retail loan portfolio, excluding rural loans, grew by 19.7% year-on-year and 6.0%
+sequentially at March 31, 2022. Disbursements across various retail products increased in
+Q4 of 2022 compared to the previous quarter. The business banking portfolio grew by
+43.2% year-on-year and 10.2% sequentially at March 31, 2022. The SME portfolio grew by
+33.6% year-on-year and 11.3% sequentially. The growth in our SME and business banking
+portfolios has been driven by our digital offerings and platforms like InstaBIZ and Merchant
+Stack.
+The domestic corporate portfolio grew by 9.7% year-on-year and was flat sequentially at
+March 31, 2022. The domestic loan portfolio grew by 17.5% year-on-year and 5.7%
+
+sequentially. The overall loan portfolio grew by 17.1% year-on-year and 5.5% sequentially
+at March 31, 2022.
+Fourth-Leveraging digital across our business
+Our various digital platforms such as iMobile Pay, internet banking platforms, InstaBIZ and
+Trade Online provide end-to-end seamless digital journeys, personalised solutions and
+value added features to customers and enable more data driven cross sell and up sell. In
+line with the philosophy of open architecture, of our digital platforms, recently, we made
+our InstaBIZ app interoperable, that is, all benefits of the app are now available to all
+merchants including those who do not have a current account with us. This initiative
+enables merchants to instantly create digital collection solutions like UPI ID and QR code
+and start collecting money from their customers. We have shared some details on our
+technology and digital offerings in slides 18 to 32 of the investor presentation.
+Fifth - Protecting the balance sheet from potential risks
+Net NPAs declined by 24.2% year-on-year and 5.2% sequentially to 69.61 billion Rupees
+at March 31, 2022 from 73.44 billion Rupees at December 31, 2021. The net NPA ratio
+declined to 0.76% at March 31, 2022 from 0.85% at December 31, 2021. During the quarter,
+there were net deletions from gross NPAs of 4.89 billion Rupees, excluding write-offs and
+sale. The provision coverage ratio on NPAs was 79.2% at March 31, 2022. The total
+provisions during the quarter were 10.69 billion Rupees or 10.5% of core operating profit
+and 0.53% of average advances. This includes contingency provision of 10.25 billion made
+on a prudent basis. The Bank holds contingency provisions of 74.50 billion Rupees or
+about 0.9% of total loans as of March 31, 2022.
+Sixth- Maintaining a strong capital base
+The capital position of the Bank continued to be strong with a CET-1 ratio of 17.60% at
+March 31, 2022 after reckoning the impact of the proposed dividend. The Tier 1 ratio was
+18.35% and the total capital adequacy ratio was 19.16% at March 31, 2022. Further, the
+market value of the Bank’s investments in listed entities of the Group is about 840 billion
+Rupees.
+
+As has been announced, Vishakha has decided to pursue opportunities outside the Group
+and will step down from the Board effective May 31. We thank her for her outstanding
+contribution to ICICI and wish her all the very best. Anup would take over Vishakha’s
+responsibilities at the Board level. The Board has today approved the elevation of Rakesh
+as an Executive Director and he would take over Anup’s responsibilities. Anindya will take
+up the role of CFO and will report to Sandeep who will continue to head our Corporate
+Centre.
+At ICICI Bank, we strive to build a sustainable and responsible business and make a
+positive impact on the economy, society and environment. The Bank has focused on
+various aspects of ESG in its business as well as CSR activities. We have adopted a Board
+approved ESG Policy along with a governance and oversight framework for ESG.
+Looking ahead, we see many opportunities to grow our core operating profit in a risk-
+calibrated manner. We will continue to focus on our objective of catering to all the banking
+and financial needs of the customer with a focus on risk and reward. Our ecosystem based
+approach and creation of multi-functional teams has helped in nurturing relationships and
+offering the entire bouquet of services of the Bank to customers. We continue to be guided
+by the twin principles of “One Bank, One RoE”, emphasising the goal of maximising our
+share of target market across all products and services and “Fair to Customer, Fair to
+Bank”, emphasising the need to deliver fair value to customers while creating value for
+shareholders. We remain focused on delivering consistent and predictable returns to our
+shareholders.
+I now hand the call over to Rakesh.
+
+Rakesh’s opening remarks
+Thank you, Sandeep. I will talk about balance sheet growth, credit quality, P&L details,
+growth in digital offerings, portfolio trends and performance of subsidiaries.
+A. Balance sheet growth
+Sandeep covered the loan growth across various segments. Up to the last quarter, we
+used to report rural loans as a part of the retail portfolio. From this quarter, we are reporting
+rural separately. The retail loan portfolio, excluding rural loans, grew by 19.7% year-on-
+year and 6.0% sequentially at March 31, 2022. Coming to the growth across retail products,
+the mortgage portfolio grew by 20.3% year-on-year, and auto loans by 11.3%. The
+commercial vehicles and equipment portfolio declined by 1.3% year-on-year. Growth in
+the personal loan and credit card portfolio was 31.9% year-on-year. This portfolio was
+879.35 billion Rupees or 10.2% of the overall loan book at March 31, 2022. The rural loan
+portfolio increased by 6.5% year-on-year and 4.3% sequentially. The retail and rural
+portfolio together grew by 17.6% year-on-year and 5.8% sequentially.
+The overseas loan portfolio, in US dollar terms, grew by 5.9% year-on-year and was flat
+sequentially at March 31, 2022. The year-on-year increase in the overseas loan portfolio
+was primarily due to increase in the India-linked trade finance book. The overseas loan
+portfolio was 4.8% of the overall loan book at March 31, 2022. The non-India linked
+corporate portfolio reduced by 48.2% or about 597 million US Dollars year-on-year and
+6.8% or about 47 million US Dollars sequentially. Of the overseas corporate portfolio,
+about 82% comprises Indian corporates, 10% is overseas corporates with Indian linkage,
+4% comprises companies owned by NRIs or PIOs and balance 4% is non-India corporates.
+Our direct exposure to Russia and Ukraine is negligible. We have exposure to an Indian oil
+refinery rated AA- externally where a sanctioned Russian entity owns 49% stake. The
+exposure is largely non-fund in nature. The oil refinery’s operations are largely in India.
+Coming to the funding side: average savings account deposits increased by 22.7% year-
+on-year in Q4 and 23.5% year-on-year in FY2022. Average current account deposits
+increased by 23.6% year-on-year in Q4 and 31.0% year-on-year in FY2022. Total term
+deposits grew by 9.0% year-on-year at March 31, 2022.
+
+B. Credit quality
+The net deletions from gross NPAs were 4.89 billion Rupees in the current quarter
+compared to 1.91 billion Rupees in the previous quarter. There were net additions of 1.23
+billion Rupees to gross NPAs in the retail, rural and business banking portfolios and net
+deletions of 6.12 billion Rupees to gross NPAs in the corporate and SME portfolios.
+The gross NPA additions were 42.04 billion Rupees in the current quarter compared to
+40.18 in the previous quarter. The gross NPA additions from the retail, rural and business
+banking portfolio were 37.36 billion Rupees and from the corporate and SME portfolio
+were 4.68 billion Rupees. Recoveries and upgrades from NPAs, excluding write-offs and
+sale, were 46.93 billion Rupees in the current quarter compared to 42.09 billion Rupees in
+the previous quarter. There were recoveries and upgrades of 36.13 billion Rupees from
+the retail, rural and business banking portfolio and 10.80 billion Rupees from the corporate
+and SME portfolio. Corporate and SME recoveries and upgrades include a power sector
+account which was upgraded post implementation of a resolution plan under IBC. The
+gross NPAs written-off during the quarter were 26.44 billion Rupees.
+The non-fund based outstanding to borrowers classified as non-performing was 36.40
+billion Rupees as of March 31, 2022 compared to 36.38 billion Rupees as of December 31,
+2021. The Bank holds provisions amounting to 20.51 billion Rupees as of March 31, 2022
+against this non-fund based outstanding.
+The total fund based outstanding to all standard borrowers, under resolution as per
+various guidelines declined to 82.67 billion Rupees or about 1.0% of the total loan portfolio
+at March 31, 2022 from 96.84 billion Rupees as of December 31, 2021. The sequential
+decline was mainly due to prepayment by a borrower in the construction sector. Of the
+total fund based outstanding under resolution at March 31, 2022, 60.43 billion Rupees was
+from the retail, rural and business banking portfolio and 22.24 billion Rupees was from the
+corporate and SME portfolio. The Bank holds provisions of 25.30 billion Rupees against
+these borrowers, which is higher than the requirement as per RBI guidelines.
+
+C. P&L Details
+Net interest income increased by 20.8% year-on-year to 126.05 billion Rupees. The net
+interest margin was at 4.00% in this quarter compared to 3.96% in the previous quarter
+and 3.84% in Q4 of last year. The impact of interest on income tax refund on net interest
+margin was 1 bps in Q4 of this year compared to 6 bps in the previous quarter and 1 bps
+in Q4 of last year. The domestic NIM was at 4.12% this quarter compared to 4.06% in
+previous quarter and 3.94% in Q4 last year. The cost of deposits was 3.48% in this quarter
+compared to 3.47% in previous quarter. Of the total domestic loans, interest rates on 41%
+are linked to repo rate and 7% to other external benchmarks.
+Non-interest income, excluding treasury income, grew by 11.4% year-on-year to 46.08
+billion Rupees in Q4 of 2022
+ Fee income increased by 14.4% year-on-year to 43.66 billion Rupees in this
+quarter driven by growth across various segments. Fees from retail, rural,
+business banking and SME customers grew by 14.3% year-on-year and
+constituted about 77% of the total fees in this quarter
+ Dividend income from subsidiaries and associates was 2.32 billion Rupees in
+this quarter compared to 3.57 billion Rupees in Q4 of last year. The dividend
+income in Q4 of last year included interim dividend of ICICI General and ICICI
+Securities PD
+On Costs: The Bank’s operating expenses increased by 17.4% year-on-year in this quarter.
+The employee expenses increased by 21.0% year-on-year. The Bank had about 105,800
+employees at March 31, 2022. The employee count has increased by about 7,050 in the
+last 12 months. Employee expenses in this quarter include an impact of 0.69 billion Rupees
+due to fair valuation of ESOPs granted to all employees post April 1, 2021 for the current
+quarter as required by RBI guidelines. Non-employee expenses increased by 15.6% year-
+on-year in this quarter primarily due to retail business and technology related expenses.
+The technology expenses were about 8.5% of our operating expenses in FY2022.
+The core operating profit increased by 18.7% year-on-year to 101.64 billion Rupees in this
+quarter. Excluding dividend income from subsidiaries and associates, the core operating
+
+profit, grew by 21.0% year-on-year. The core operating profit grew by 22.3% year-on-year
+to 383.47 billion Rupees in FY2022.
+There was a treasury gain of 1.29 billion Rupees in Q4 compared to 0.88 billion Rupees in
+Q3 and a loss of 0.25 billion Rupees in Q4 of the previous year.
+The total provisions during the quarter were 10.69 billion Rupees or 10.5% of core
+operating profit and 0.53% of average advances. During the quarter we made contingency
+provisions of 10.25 billion Rupees on a prudent basis. The Bank continues to carry Covid-
+19 related provision of 64.25 billion Rupees as contingency provisions at March 31, 2022.
+Thus, the Bank holds contingency provision of 74.50 billion Rupees as of March 31, 2022.
+The provisioning coverage on NPAs continued to be robust at 79.2%. In addition, we hold
+25.30 billion Rupees of provisions on borrowers under resolution. At March 31, 2022, the
+total provisions, other than specific provisions on fund-based outstanding to borrowers
+classified as non-performing, were 179.18 billion Rupees or 2.1% of loans.
+The profit before tax grew by 63.1% year-on-year to 92.24 billion Rupees in this quarter.
+The tax expense was 22.05 billion Rupees in this quarter compared to 12.54 billion Rupees
+in the corresponding quarter last year. The profit after tax grew by 59.4% year-on-year to
+70.19 billion Rupees in this quarter. The profit after tax grew by 44.1% year-on-year to
+233.39 billion Rupees in FY2022.
+The consolidated profit after tax grew by 58.0% year-on-year to 77.19 billion Rupees in
+this quarter. The consolidated profit after tax grew by 36.6% year-on-year to 251.10 billion
+Rupees in FY2022.
+D. Growth in digital offerings
+Leveraging digital and technology across businesses is a key element of our strategy of
+growing the risk calibrated core operating profit. We have seen significant increase in the
+adoption of our mobile banking app, iMobile Pay. There have been 6.3 million activations
+of iMobile Pay by non-ICICI Bank account holders as of end-March. The value of
+transactions by non-ICICI Bank account holders in the current quarter was 4.9 times the
+value of transactions in Q3 of 2022.
+
+The value of credit card spends grew by 77% year-on-year in Q4 of 2022 driven by higher
+activation rate through digital onboarding of customers, including Amazon Pay credit
+cards, automated and effective portfolio management to grow spends among existing
+card customers and diversification through commercial cards. The Bank has issued more
+than 3 million Amazon Pay credit cards since its launch. The Bank has recently tied up with
+Emirates Skywards, the award-winning loyalty programme of Emirates and FlyDubai, to
+launch a range of co-branded credit cards that enable customers to earn reward points on
+travel, lifestyle and everyday spends.
+The value of financial transactions on InstaBIZ grew by about 44% year-on-year in the
+current quarter. The value of transactions on the supply chain platforms in the current
+quarter was 2.7 times the value of transactions in Q4 last year.
+The proportion of end-to-end digital sanctions and disbursements across various products
+has been increasing steadily. About 34% of our mortgage sanctions and 44% of our
+personal loan disbursements, by volume, were end-to-end digital in FY2022.
+The Bank has created more than 20 industry specific STACKs which provide bespoke and
+purpose-based digital solutions to corporate clients and their ecosystems. The volume of
+transactions through these solutions in FY2022 was 2.7 times the volume of transactions
+in FY2021. The value of transactions done on Trade Online increased by about 80% year-
+on-year in FY2022.
+E. Portfolio information
+We have provided details on our retail, business banking and SME portfolio in slides 43 to
+46 of the investor presentation.
+The loan and non-fund based outstanding to performing corporate and SME borrowers
+rated BB and below was 108.08 billion Rupees at March 31, 2022 compared to 118.42
+billion Rupees at December 31, 2021. The amount of 108.08 billion Rupees at March 31,
+2022 includes 23.89 billion Rupee of loans under resolution. The sequential decline during
+the quarter was mainly due to prepayment from a borrower in the construction sector
+
+where resolution had been implemented as per RBI’s Covid resolution framework. The
+details are given on slide 41 and 42 of the investor presentation.
+Other than two accounts one each in power and telecom sectors, the maximum single
+borrower outstanding in the BB and below portfolio was less than 6 billion Rupees at
+March 31, 2022. At March 31, 2022, we held provisions of 12.32 billion Rupees on the BB
+and below portfolio compared to 15.75 billion Rupees at December 31, 2021. This includes
+provisions held against borrowers under resolution included in this portfolio.
+The builder portfolio including construction finance, lease rental discounting, term loans
+and working capital loans was 269.48 billion Rupees at March 31, 2022 compared to 257.53
+billion Rupees at December 31, 2021. The builder portfolio is about 3% of our total loan
+portfolio. Our portfolio is granular in nature with the larger exposures being to well-
+established builders and this is also reflected in the sequential increase in the portfolio.
+About 9.5% of our builder portfolio at March 31, 2022 was either rated BB and below
+internally or was classified as non-performing, compared to 11% at December 31, 2021.
+F. Subsidiaries and key associates
+The details of the financial performance of subsidiaries and key associates are covered in
+slides 53 to 55 and slides 76 to 81 in the investor presentation.
+The VNB margin increased from 25.1% in FY2021 to 28.0% in FY2022. The value of new
+business increased by 33.4% year-on-year to 21.63 billion Rupees in FY2022. The profit
+after tax of ICICI Life was 7.54 billion Rupees in FY2022 compared to 9.60 billion Rupees in
+FY2021. The Embedded value increased by 8.7% year-on-year to 316.25 billion Rupees at
+March 31, 2022. The profit after tax was 1.85 billion Rupees in this quarter compared to
+0.64 billion Rupees in Q4 of last year.
+Gross Direct Premium Income of ICICI General was 179.77 billion Rupees in FY2022
+compared to 140.03 billion Rupees in FY2021. The combined ratio was 108.8% in FY2022
+compared to 99.8% in FY2021. The profit after tax was 12.71 billion Rupees in FY2022
+compared to 14.73 billion Rupees in FY2021. The profit after tax was 3.13 billion Rupees
+this quarter compared to 3.46 billion Rupees in Q4 last year. Prior period numbers are not
+
+comparable due to the reflection of the general insurance business of Bharti AXA in the
+current period numbers.
+The profit after tax of ICICI AMC was 3.57 billion Rupees in this quarter compared to 3.48
+billion Rupees in Q4 of last year.
+The profit after tax of ICICI Securities, on a consolidated basis, increased by 3% year-on-
+year to 3.40 billion Rupees in this quarter from 3.29 billion Rupees in Q4 of last year.
+ICICI Bank Canada had a profit after tax of 4.3 million Canadian dollars in this quarter
+compared to 5.1 million Canadian dollars in Q4 last year and 11.5 million Canadian dollars
+in Q3 this year. Profit after tax was higher in Q4 last year and Q3 this year due to write-
+back of provisions. ICICI Bank Canada repatriated CAD 220 million of equity capital to ICICI
+Bank in Q4 this year.
+ICICI Bank UK had a profit after tax of 3.1 million US dollars this quarter compared to 2.8
+million US dollars in Q4 of last year and 3.0 million US dollars in Q3 this year.
+As per Ind AS, ICICI Home Finance had a profit after tax of 0.53 billion Rupees in the current
+quarter compared to 0.15 billion Rupees in Q4 of last year and 0.48 billion Rupees in Q3
+this year. The year-on-year increase in profit after tax is mainly due to decline in cost of
+funds and lower provisions.
+With this, we conclude our opening remarks and we will now be happy to take your
+questions.
+
+Moderator:
+We will now begin the question-and-answer session. The first question is from the line of
+Mahrukh Adajania from Edelweiss. Please go ahead.
+Mahrukh Adajania:
+My first question is really on the margin outlook. I know you don't give any specific
+guidance, but given intense pricing competition in some segments, unsecured salaried
+and then even mortgages, do you think repo rate hikes will benefit margin?
+Rakesh Jha:
+Mahrukh, on net interest margin, it is difficult to give an outlook. I think in addition to the
+competitive pricing that you talked about, like you rightly said, it will also be a function of
+the repo rate movement through the year and the timing of it. So, we do have a reasonable
+part of our book which is linked to external benchmarks now, like most other banks as
+well. So like we always say our target would be to try and see how we can maintain our
+margins, but it will be a function of what is happening in the market. If you look at the
+current quarter Q4, our margin was about 4%. If you look at it in the past years also, Q4
+traditionally for us has seen margins to be about eight to ten basis points higher just
+because of the fact that the quarter has lesser number of days, so the annualised
+computation gives a slightly higher margin. On the core basis, I would say, between Q3
+and Q4, the margin was kind of flat and you also saw the fact that the cost of deposits were
+kind of now bottomed out at 3.47%, 3.48%. So, we will have to kind of navigate through
+this period before the repo rate starts to increase. And then thereafter definitely the
+existing book yields will go up, but the incremental lending rates will still be a function of
+how much liquidity surplus continues in the system.
+Mahrukh Adajania:
+Just in terms of mortgages, your mortgage book has been growing very well, but if you
+see the sectoral deployment, sectoral loan growth is just 8%, when everyone is talking
+about a very good real estate cycle and very good registration. So what kind of explains
+that?
+
+Rakesh Jha:
+If you look at the last actually several quarters, our growth has been at similar levels of
+around 20%. I think the focus that we have had on the entire retail business, in terms of
+customer 360 where we are looking at the entire set of products and services to be
+provided, has really helped us in growing both the asset book that you are seeing as well
+as the strong growth on the liabilities that we have seen. Of course, in the mortgage market
+also, the lending rates have declined. There has been a fair degree of balance transfers
+also that has been happening. So those are the reasons that we have seen. I will ask, Anup
+to add if there is anything.
+Anup Bagchi:
+No, I think, Rakesh, you have broadly covered it. Our focus on micro markets and our focus
+on just making sure that we have decongested many of our processes and make it easier
+for customer onboarding and added to that our micro market and go-to-market focus is
+increasing our share, and that actually is leading to this kind of growth.
+Mahrukh Adajania:
+My last question is that, RBI has come up with master directions on credit and debit card.
+Would your Amazon Pay ICICI Bank card be fully compliant with those master directions?
+Anup Bagchi:
+I think I am glad you asked this question, because I am sure subsequently many would
+have asked this question because it's a very recent development. As far as we are
+concerned, we have read through the guidelines. We are looking at it more finely, but at
+the first reading, we will be quite unimpacted by these guidelines. These guidelines seem
+to be on co-brand, but there are various aspects of co-brand, particularly data sharing and
+revenue sharing and all of it. So we will be unaffected largely by this circular. But, we are
+also going through it with toothcomb if there are any issues, but prima facie, it doesn't
+seem to have any impact. Of course, there is another bucket of customers on activation
+after one year and if somebody requests for deactivation within seven days, we have to
+deactivate. I think those are very-very good customer service measures that are coming.
+
+So I would put it into two buckets - co-brand and customer service-related issues. We
+seem to be good on both so far.
+Moderator:
+The next question is from the line of Mona Khetan from Dolat Capital. Please go ahead.
+Mona Khetan:
+Firstly, on the SME and business banking book. What are our incremental yields? And if
+you could give some color on in terms of growth, is it led by increased working capital
+demand due to higher commodity prices or higher inflation?
+Rakesh Jha:
+We do not separately disclose yields by portfolio segments, but like we were responding
+to earlier questions from Mahrukh, indeed, the business banking SME segment is
+extremely competitive and we continue to focus on the entire customer 360. So it's not
+just about the loan, but also the float income on the current account side, FX and trade
+and all the other income that we get from the customers. We have been seeing pretty
+strong growth in this portfolio for the last few years. I think it is a combination of the focus
+that we have had on this segment, plus, of course, all the investments that we have made
+on digital and technology for servicing the customers in this segment has really helped
+with this growth for us.
+Mona Khetan:
+I mean, would you be able to get some color on whether a large part of this incremental
+growth is also driven by increased inflation in commodity prices, etc.,
+Rakesh Jha:
+If you go back say six months, even then the portfolio was growing at broadly this kind of
+a pace. So I don't think there is any specific delta impact of inflation per se, but, of course,
+in this segment most of our loans are working capital loans, the amount of term lending
+will be much more limited.
+
+Mona Khetan:
+I am assuming that on the margin front, there is no one-off in terms of income tax refund
+or anything this quarter.
+Rakesh Jha:
+I talked about the interest on income tax refund, that was like one basis point or something.
+So there is no one off per se but like I mentioned in Q4, typically, we have the margin
+which is about eight to ten basis points higher than Q3, that's how it comes out and Q3
+was 3.96%, that included about six basis points of the income tax refund benefit. So if you
+look at it, I think 3.90% is where we were in Q3 broadly around that level, in Q4 on a core
+basis and full year also we are in that region of 3.9-3.95%.
+Anup Bagchi:
+Just to add to Rakesh on that, our SME portfolio and business banking portfolio, our ticket
+sizes largely are similar, it is enhanced coverage and decongestion of processes which is
+I would say more weighted on leading to the growth.
+Mona Khetan:
+Just finally on the credit card book. Where would our revolve rates be versus pre-Covid-
+19 level?
+Rakesh Jha:
+We don't disclose that separately, but yes, it will be somewhat lower than where we were
+pre-COVID.
+Moderator:
+The next question is from the line of Suresh Ganapathy from Macquarie. Please go ahead.
+Suresh Ganapathy:
+My questions are all related to credit cards. Anup, do you explicitly share data with
+Amazon? That's the first question on co-branding or with any of your co-branded partners?
+
+The second question is that the credit card book is up 10% q-o-q. So, q-o-q, have you seen
+any change in the revolver rates if you can tell us because obviously the credit card
+outstanding is up q-o-q. Finally, there is one rule of thought with respect to this new
+guidelines of credit cards is that the Reserve Bank of India could be a bit more open to
+giving licenses to NBFCs for credit cards considering that there are severe restrictions
+imposed on co-branding. Do you subscribe to that view?
+Anup Bagchi:
+Firstly, as I had mentioned earlier to Mahrukh's question, we have read through the
+guidelines, there doesn't seem to be any impact on us prime facie. We will of course go
+through the guidelines more closely to see if there is any impact. So that will cover the
+data and all other aspects that you sort of asked about. I think the other important question
+that you asked is that now is there restrictions on co-brand, will NBFCs be allowed to issue
+their own cards, etc., I think it seems that it points more towards other fintechs rather than
+an NBFC/bank type of tie-up, it looks more fintech than other things. So from that
+perspective, I will say that competitive intensity might come down instead of up from
+Bank’s perspective. There are a lot more guidelines around customer service and being
+fair to the customer, which I think are very positive. So that is also positive to us. Will other
+NBFCs try to get a card? There was an old guideline of RBI where RBI could have given a
+permission or approval to issue a card, but you have to have an issuing Bank and which is
+not co-branded. But nobody has launched, but I'm sure many people might be open to
+launching those things. We will have to see. But the large players who might be open to
+launching such a thing, they already had co-branded cards in one way or the other. So let
+us see how it evolves. But overall at this point of time, for our co-branded, there doesn't
+seem to be much impact or in fact any impact from the first reading. Second, on the
+competitive intensity, I think it is going to be less than equal to, doesn't seem to be greater
+than equal to of the larger players coming and issuing or having their own credit card, that
+was always an option, but has not fructified, it might happen, it is good. But, it's a large
+market today. So increased competition, etc., we have to basically play our own games.
+Competitive intensity does impact, but at the end of it finally we will have to play our game
+well, only then we'll win.
+
+Suresh Ganapathy:
+Q-o-Q, have we seen increase in revolver rates because your outstanding book is up 10%
+Q-o-Q?
+Anup Bagchi:
+QoQ, as you know, there are revolver rates and there are transactions for sure. Also,
+because Q3 was very good for us, our spends were very good, because we have festivals,
+we focus on spends, we focus on ads, we increase the spends, etc., part of it is that as
+well.
+Moderator:
+The next question is from the line of Manish Ostwal from Nirmal Bang. Please go ahead.
+Manish Ostwal:
+On your FY2023 loan book outlook, so, we have not seen the growth rate due to the
+inflationary related demand pressure in the economy.
+Rakesh Jha:
+Like we always say that we don't have any specific loan growth target or outlook. I think
+our focus is entirely on growing the risk calibrated core operating profit. So we will grow
+in line with the market opportunities which are there, we will look at the risk and the return
+parameters to be within our thresholds. In terms of the opportunity, if you look at across
+the portfolio, we have seen pretty consistent growth across retail, business banking, SME,
+corporate and to the extent we do calibrate our growth where we find that the pricing is
+not in line with what we expect. And the entire focus is to not look at just the loan book or
+the loan growth, look at the entire operating profit contribution coming from the customer,
+coming from the ecosystem. So, that is how we will continue to evaluate these
+opportunities on a market basis.
+
+Anup Bagchi:
+On the loan growth part, just to add, Rakesh, our market shares in individual micro markets
+are still not fully saturated. So, we have the option today to pick up more profitable growth,
+profitable pools, etc., using data analytics and our reach and understanding of micro
+market. We will certainly strive and we are of course, in pockets, also able to pick up those
+profit pools and that growth in the market. So we focus on growth, but we try and focus
+on profitable growth and more sustainable growth and certainly a risk managed growth.
+Moderator:
+The next question is from the line of Nitin Agarwal from Motilal Oswal. Please go ahead.
+Nitin Agarwal:
+I have three quick questions. First is again around growth. What sort of growth
+opportunities are we looking at in the wholesale business as growth trends over there have
+been quite modest and especially in context to the trends being reported by a peer bank?
+And second question is if you can share some color on the kind of business Bank is
+garnering from non-ICICI Bank customers who have used ICICI mobile banking services?
+And third is around the provisioning expenses. If you can share more color on it the
+context of contingent provisioning, the provisioning is almost negligible for the quarter.
+So some color on this and also the outlook on the provisions to keep up guidance, any
+thoughts around that over FY2023?
+Rakesh Jha:
+Maybe I'll talk about the provisions first. So as you said, for us this quarter largely the
+provisions were the contingent provisions that we made of Rs.10.25 billion. On the rest of
+the NPA and the restructured book, the provisions were negligible. That reflected, one, the
+net deletion in NPAs that we had during the quarter. It also reflected the prepayment of a
+corporate restructured loan that we talked about, that would have resulted in write-back
+on the provisions that we held for that restructured loan. And we have continued to
+recover well on both the corporate side and of course on the retail side as well, especially
+on the retail side the high level of addition that we have seen in the last four to five quarters,
+those recoveries have been coming in. So, I don't think we should be extrapolating this
+
+quarter from a go forward perspective. I think in the past we have talked about the fact that
+we would always want our provisions as a percentage of core operating profit, not to
+exceed 25%. That is of course through a cycle and it will vary up and down depending on
+the stage of cycle where we are and also the composition of the portfolio. So no specific
+guidance that we can give there in addition to what we have already said. On the wholesale
+banking opportunities, I think the good thing is that we get to look at pretty much all the
+deals that are happening in the market and wherever it is franchise business which is
+adding to our overall core operating profit, we are happy to do that business. Wherever it
+is standalone lending opportunities at very fine pricing where the only objective could be
+book growth and does not really contribute to the core operating profit, we are very happy
+to stay away from that. And to some extent that is what is reflected in the loan growth for
+us. As we have said in the earlier calls, I think the entire corporate banking team is also
+focused on the ecosystem approach towards business. So we don't look at just the loans,
+we look at all other important services for the corporate client, we look at all that we can
+do with the employees of the corporate in terms of our retail businesses as well as the
+dealers and vendors from an SME perspective, and we track the profitability in absolute
+terms and the ROE for the corporate client as well as for the entire ecosystem. So that is
+the approach that we have and we will continue with that. We will be competitive wherever
+required from a franchise perspective. That's how we look at the market. And opportunity
+is there in terms of growth, and as long as it comes within our risk and return parameters,
+we are happy to grow.
+Anup Bagchi:
+Third question was that what happens to the non-ICICI Bank customers. First, I think we
+should start to really look at it from a point of view that who are our customers and we will
+have to start to expand our way of how we think about our customers. We would think
+that it is not just deposit customers or asset customers who are our customers. Anybody
+who is using our services becomes our customers. So if it is iMobile Pay, they may not
+have deposits with us today, they may not have assets with us today but if they start using
+iMobile Pay, they become our customers. Similarly, FASTag for example. There are many
+FASTag customers, they are all good customers, they are all affluent customers. They may
+not have deposits with us and they may not have assets with us, but they are also our
+customers. So I would say that non-deposit customers and not a non-asset customer
+because that today is one of the largest flows of good quality leads for a Bank like us, and
+
+our experience with that is very, very good because they tie-in to the brand, they get to
+see and experience adjunct services that we provide and more data footprint they leave
+with us, better is our ability to pre-approve them, better is our ability to understand them,
+and better is our ability in a sharp focused manner to give them propositions that will give
+them a reason to start overall 360 banking with ICICI Bank. So our experience is good and
+I thought I'll just expand it a little bit to just share with you what is our general approach to
+the so-called non-ICICI Bank customers, they are all ICICI Bank customers, they are service
+customers, they are not deposit customers, they are not asset customers.
+Moderator:
+The next question is from the line of Sameer Bhise from JM Financial. Please go ahead.
+Sameer Bhise:
+Just wanted to get a sense on the AFS portfolio. Can you share the duration here because
+we still have a small trading profit this quarter?
+Rakesh Jha:
+We don't share the duration separately, but again our approach has never been to take
+high duration into the AFS portfolio even if we have some strong view on interest rates
+going down. That view would be taken in the HTM book per se. The AFS and trading book
+is very actively managed and traded by the trading group. If you look at the current quarter
+on treasury, I don't think on fixed income side, we would have made money or any other
+bank would have, given how the yields have moved. For us it would reflect more in FX
+and other revenues.
+Sameer Bhise:
+Secondly, I think this one is for Anup. Are you seeing pickup in the spend levels on the
+credit card or a large part is driven by new acquisition spends, how are you seeing like the
+fee item on the credit card side, how should one read this on a sequential basis?
+
+Anup Bagchi:
+So we certainly see that the spends are slowly increasing. As you know, in credit card, it
+is you get a customer, then they activate, and then they start spending and then they start
+revolving and there are many facets of this life cycle and you have a fee somewhere and
+you have interest rate somewhere and all of it. So, we are certainly seeing consumption
+coming up as Covid-19 normalises and it has normalised quite a bit, almost fully. So we
+are seeing now spends coming up and revolve also slowly, slowly moving up and that will
+make all other downstream things which is revolve and fees and all of it should start to
+look healthier.
+Sameer Bhise:
+Any comment on spend behavior of customers who are probably acquired through last
+year or have been with you for years?
+Anup Bagchi:
+Spend behavior is improving and because many of you are interested in Amazon Card, so
+I'm happy to share that actually the non-Amazon spends on Amazon card has been quite
+healthily growing. So that is a very happy thing for us and that was the desired outcome
+as well from us and we are seeing is that across categories now spends are increasing and
+it is evident through other part of ours as our MD also shared with you on the Ultra High
+Frequency index also. If you look at the components of the index, you will see economic
+activity everywhere. And finally, this economic activity only reflects in the card spends and
+on the commercial spends. So, so far so good. Let's see.
+Moderator:
+The next question is from the line of Anand Dama from Emkay Global. Please go ahead.
+Anand Dama:
+My first question is that we have been focusing a lot on the core profitability growth. This
+quarter we have clocked somewhere about 19%-odd core profitability growth. Now,
+moving into FY'23 where margin expansion will be a challenge, so what could be the levers
+of core profitability growth that you can talk about that will be great?
+
+Rakesh Jha:
+From operating profit perspective, I think the margins that you talked about, that is of
+course a prime driver. In addition to that, in terms of the fee income, the business sourcing
+cost and the other expenses, we look at all the levers and we have to manage all those
+levers optimally to get the desired outcome on the core operating profit. You are right,
+that this year we have seen increase in our margin by close to 25 to 30 basis points on a
+y-o-y basis which has definitely helped us in the strong core operating profit growth. And
+as I said, we will have to navigate through this coming here especially with the interest
+rate scenario also changing and we will do the best that we can do in terms of optimising
+on all these levers and continuing to focus on doing granular good quality business as we
+do this.
+Anand Dama:
+So, do you think that the fee income actually can improve from here on and what could
+be the levers for improvement in the fee?
+Rakesh Jha:
+So the way we look at is not fee income say in aggregate, so as Anup also earlier
+mentioned, I think it's all about the focus on the micro markets and customers. We don't
+target an overall fee income growth or something like that. What we are focused is to look
+at the customer level, the ecosystem level, the micro market, what we can do and if
+margins are higher, lower fees is fine, or if margins are low, we would need to look at more
+fees. So it is something which optimally each of the business teams looks at on what needs
+to be done from the point of view of what works the best and the most fair for both the
+customer and the Bank. So in aggregate, it is not something that we are focused on and
+there can always be ups and downs in some of these metrics going forward as well.
+Anand Dama:
+Sir, next year and maybe over next two to three years, there is a peer Bank which is going
+to look at deposit mobilisation to the extent of about 5 trillion or so. Deposit mobilisation
+is an area where there is going to be a lot of competition. So how do you see basically in
+terms of your branch expansion, customer acquisition and deposit rates going forward?
+
+Rakesh Jha:
+At any point of time, it is a competitive market on deposits, on lending and we don't see
+that changing over the next two or three years. So I think there is a certain approach that
+we have in terms of our liability franchise and the growth that we look at and then how we
+deploy those funds. So I think we will continue with our approach. Again, in terms of
+number of branches and all of those things, they are decided by the respective businesses
+in terms of what they are seeing on the ground in their respective micro market and if they
+believe addition of branches, addition of people, will help them grow their deposits and
+more importantly the core operating profit, then they're absolutely happy to go ahead and
+invest. That is how we look at it. And if there is more competition, I guess we will have to
+just live with that and see what best we can do.
+Anand Dama:
+Could you see an acceleration in the branch expansion finally because of the competitor
+going crazy?
+Rakesh Jha:
+That may not be the only factor. As long as we are seeing opportunity in the micro market
+for us to grow, we will be happy to add branches, and, of course, the type of branches
+have also evolved a lot, so, there are various format branches. So branch is not the only
+thing, it's an important thing, we will definitely look at adding branches, but it's not just as
+a reaction to any competitor that we look at it.
+Anand Dama:
+At any point of time, RBI has asked our housing business to be merged with the Bank
+though it is very small in the overall scheme of things, but -
+Rakesh Jha:
+No, not really.
+
+Moderator:
+The next question is from the line of Adarsh Parasrampuria from CLSA. Please go ahead.
+A Parasrampuria:
+Couple of questions. First is we are firmly like a benign credit cost cycle including what
+you see with your results in the last six months. Do you think that you are in a structurally
+lower credit cost mix of book and hence over a medium term does the price reflect that in
+margins and credit costs are just lower because we are clearly undershooting what we
+have ever mentioned as a guidance on provisions?
+Rakesh Jha:
+Adarsh, I think we'll have to see that over a slightly longer period. Clearly, our focus has
+been on what we call as return of capital in all our lending and that should result in lower
+credit costs for us through cycle. But, it is just too early to kind of talk about that. And, of
+course, in the last couple of quarters like you mentioned, we have also had the benefit of
+significant deletions, upgrades from NPAs coming because of the larger additions that we
+have had in the earlier periods because of the C0vid-19. But overall portfolio, definitely, if
+you look at the rating profile on the corporate SME side which we disclose every quarter,
+you look at the retail portfolio how the NPA additions there have been moving, it does give
+us a good amount of confidence but we don't want to kind of right now talk about how low
+or high these numbers could be. Our approach would always be to see how we can have
+it at an optimal level from a growth perspective.
+A Parasrampuria:
+Anup, you did mention. When we look at how much the retail products have penetrated
+within our customer base, it's still not optimum and there's a lot of leeway. Any sense and
+direction you can give us to how you look at it in next three to five years where we want
+to get, either some numbers or any sense of quantum or direction?
+Anup Bagchi:
+Two things we have certainly strengthened over a period of time. I think over a period of
+time, last three, four, five years there is more and more and more digital footprint that the
+
+customers have kept with us, because of our very strong digital property. So that helps us
+also in understanding them better and also figuring out from various other public sources,
+CIBIL and other places and of course auto debit on deposit, where are they banking with
+and then we have to give them a very strong reason why they should shift to our Bank and
+Bank with us in a more holistic manner. The onus is certainly on us. That is one. So there
+itself saturation, it's okay, but we can certainly make it better. The second place is at the
+micro market level itself, we have a reasonable sense of what is the profit pool in a micro
+market given the kind of business that is happening, given the kind of economic activities
+that underpins the micro market and generally a reasonable idea, I'll not say it is exact, but
+a reasonable idea of what is our percentage share of that profit pool that is there, there we
+use. So in both cases we use very, very extreme and very good quality focus on outcome,
+focus on data analytics. So we have got a good share there and there we see that there
+are many micro markers, we are quite underpenetrated. And so it is our endeavor to put
+the processes, put the proposition, reach out to the customer and try and crunch the
+timeline from the opportunity to conversion. That is really the big job every day full teams
+are focused on. So these are the two clear opportunities; one, customers who are with us;
+second, customers who are not with us, but in the micro markets.
+Moderator:
+Ladies and gentlemen, we take that as the last question for today. I now hand the
+conference call over to the management for their closing comments. Over to you, sir.
+Rakesh Jha:
+Thank you everyone for spending the Saturday evening with us. We'll be happy to take
+any residual questions separately. Thank you.
+Moderator:
+Ladies and gentlemen, on behalf of ICICI Bank, that concludes this conference. We thank
+you all for joining us and you may now disconnect your lines.
