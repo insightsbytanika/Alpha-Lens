@@ -1,0 +1,349 @@
+January 19, 2026
+The Manager- Listing
+National Stock Exchange of India Limited
+(NSE: WIPRO)
+The Manager- Listing
+BSE Limited
+(BSE: 507685)
+The Market Operations
+NYSE, New York
+(NYSE: WIT)
+Dear Sir/Madam,
+Sub: Transcript of the Analyst / Institutional Investor Meeting
+Please find attached herewith copy of the transcript of the Analyst / Institutional Investor Meeting
+held on January 16, 2026. The audio recording of the same is available at
+https://www.wipro.com/investors/quarterly-results/.
+Thanking You,
+For Wipro Limited
+M Sanaulla Khan
+Company Secretary
+ENCL: As above
+.
+. •••••
+• . •.•.•..•.•. •
+wip. ro:i)}S
+. .... .•
+..... .
+•
+•
+•
+•
+a
+•
+••
+•
+• •• •
+"Wipro Limited Q3 FY'26 Earnings Conference Call"
+January 16, 2026
+.
+. •••••
+•
+.
+•.•.•..•.•.•
+wip'
+ro·{:i.:
+............... .
+• •••••••••• •
+MANAGEMENT: MR. SRINI PALLIA - CHIEF EXECUTIVE OFFICER &
+MANAGING DIRECTOR, WIPRO LIMITED
+Ms. APARNA IYER - CHIEF FINANCIAL OFFICER, WIPRO
+LIMITED
+MR. SAURABH GOVIL - CHIEF HUMAN RESOURCES
+OFFICER, WIPRO LIMITED
+MR. HARi SHETTY - CHIEF STRATEGIST AND
+TECHNOLOGY OFFICER, WIPRO LIMITED
+MR. ABHISHEK JAIN - VICE PRESIDENT (CORPORATE
+TREASURER & HEAD OF INVESTOR RELATIONS), WIPRO
+LIMITED
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+Moderator: Ladies and gentlemen, good day and welcome to Wipro Limited Q3 FY'26 Earnings Conference
+Call.
+As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity
+for you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing "*" and then "0" on your touchtone phone.
+Please note that this conference is being recorded and the duration for today's call will be for 45
+minutes.
+I now hand the conference over to Mr. Abhishek Jain-Vice President (Corporate Treasurer & Head
+of Investor Relations). Thank you, and over to you, sir.
+Abhishek Jain: Thank you, Yashashri. Warm welcome to our Q3 FY '26 Earnings Call.
+We will begin the call with the "Business Highlights and Overview" by Srinivas Pallia -our Chief
+Executive Officer and Managing Director, followed by "Updates on Financial Overview" by our
+CFO -Aparna Iyer. We also have CHRO -Saurabh Govil and our Chief Strategist and Technology
+Officer -Hari Shetty on this call. Afterwards, the Operator will open the bridge for Q&A with our
+Management Team.
+Before Srini starts, let me draw your kind attention to the fact that during this call, we may make
+certain forward-looking statements within the meaning of Private Securities Litigation Reform Act
+1995. These statements are based on Management's current expectations and are associated with
+uncertainties and risks, which may cause the actual results to differ materially from those expected.
+The uncertainties and risk factors are explained in our detailed filings with the SEC. Wipro does not
+undertake any obligation to update the forward-looking statements to reflect events and
+circumstances after the date of filing. The conference call will be archived, and a transcript will be
+available on our website.
+With that, I would like to turn over the call to Srini.
+Srini Pallia: Thank you, Abhishek. Good evening and thank you for joining us today. A very happy new year to
+you.
+Let me start with a broader environment before walking you through our quarterly performance and
+how we are positioning Wipro for an AI-first world:
+Across our client landscape, one thing is clear. Organizations are reshaping priorities as AI influences
+how they plan, invest, and operate. In fact, AI is now a standing board-level mandate led by CEOs
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+who recognize its ability to transform business models, unlock productivity, and create lasting
+competitive advantage.
+We are also seeing the same themes continue from past quarters in our deal pipeline. Cost
+optimization, vendor consolidation, and a clear shift towards AI-led transformation. In Quarter 3, we
+also marked two important milestones for Wipro. In December, we completed 80 years as a company.
+And in October, we celebrated 25 years of being listed on the New York Stock Exchange. These
+milestones reflect a legacy of strong governance, values, and integrity, a foundation of trust that
+continues to differentiate us with our clients, partners, and investors.
+Turning to Quarter 3 Performance:
+Our IT Services sequential revenue at $2.64 billion grew 1.4% on a constant currency basis.
+Excluding HARMAN DTS acquisition, revenue grew 0.6% in constant currency terms. Growth was
+broad-based with few of our four markets, and four of our five sectors reporting sequential gains.
+Americas 1 delivered sequential and year-on-year growth driven by strong performance in
+Healthcare, Consumer, and LATAM. Americas 2 saw a sequential decline. Europe grew sequentially
+in Quarter 3, led by ramp-up of the earlier announced mega deal.
+We are also seeing good traction in the UK and Western Europe. APMEA grew sequentially and
+year-on-year, led by India, Middle East, and Southeast Asia. BFSI continues to show strong traction
+with ramp-ups and new wins.
+Capco revenue was impacted by furloughs and remained flat year-on-year. Our operating margins at
+17.6% expanded 0.4% over adjusted Quarter 2 margin, and 0.1% year-on-year. We closed $3.3
+billion in total contract value and $871 million in large deal bookings.
+Last quarter, I introduced Wipro Intelligence. It is a unified approach to delivering AI-powered
+transformation across industries. This approach is anchored on three strategic pillars:
+• First, industry platforms and solutions. We are building consulting-led AI solutions across
+sectors. For example, platforms like Payer AI in Healthcare, NetOxygen for lending, and
+AutoCortex for automotive. These solutions help streamline operation, improve customer
+outcomes and open up new avenues for growth.
+• Second, our delivery platforms accelerate AI adoption at scale. WINGS, part of our Wipro
+Intelligence brings AI into the heart of operation from application management to
+infrastructure support and business process operation. WeGA adds AI-driven capabilities
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+across the development lifecycle from vibe coding to model tuning and data pipeline.
+Together, these platforms help our clients modernize faster and operate smarter.
+• Third, the Wipro Innovation Network. This connects our labs with partners, startups,
+universities and deep tech talent around the world. This ecosystem helps us explore new
+technologies and build solutions for the future. We launched innovation labs in three cities
+in the U.S., Australia and the Middle East, expanding our network, growing our global
+footprint and strengthening our role as a trusted innovation partner. We are also partnering
+with client GCCs to drive transformation and turn their cost centers into high-impact
+innovation hubs.
+Let me now share two examples of large deal wins that we had leveraging Wipro Intelligence.
+• First, a leading global education provider in the UK, which is expanding rapidly across
+markets, has chosen us as its strategic partner for a multi-year transformation. The goal is
+to build a single, secure, intelligent operating model that can scale with their growth and
+improve stakeholder experience. Using WINGS, we will standardize core processes,
+embed automation and Al-driven insights, and optimize costs through a global delivery
+model.
+• Second, a leading US-based fitness technology company has selected Wipro for a multi­
+year transformation to accelerate its shift to a subscription-based wellness model and
+support global expansion. We will use both WINGS and WeGA, to embed AI and
+automation across IT infrastructure and core functions, driving efficiency, productivity,
+growth, and better customer experiences. These engagements highlight a clear trend.
+Clients are bringing us in much earlier and recognizing the step change in the way we
+deliver and innovate.
+I would now like to update you on HARMAN DTS:
+First, a warm welcome to all HARMAN DTS employees joining us. With the acquisition now
+complete, we have added engineering and AI capabilities that truly complement what we do. This
+strengthens our engineering global business line and helps us accelerate Al-driven product innovation
+for clients. The integration also opens new regions and high-growth industries and allows us to take
+on larger, more complex transformation programs. As our teams come together, we look forward to
+entering new markets, building deeper client relationships, and turning innovation into long-term
+value.
+Finally, guidance for Quarter 4:
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+In Quarter 4, we are projecting sequential IT Services revenue growth of 0% to 2.0% in constant
+currency. With that, I will hand it over to Aparna for the detailed financials. Thank you. Over to you,
+Apama.
+Aparna Iyer: Thank you, Srini. Good evening, ladies and gentlemen, and wish you all a very, very Happy New
+Year.
+Let me share a quick update on the financial performance:
+Our IT Services revenue for Quarter 3 grew 1.4% sequentially in constant currency terms and 1.2%
+sequentially in reported currency. Revenue grew 0.2% year-on-year in reported terms while declining
+1.2% year-on-year in constant currency terms. Our constant currency revenue growth numbers
+included 0.8% as contribution from the HARMAN DTS acquisition that was closed in Quarter 3, '26.
+Our operating margin for the quarter was 17 .6%, an expansion of 40 basis points over the adjusted
+operating margin for Q2 and 10 basis points improvement on a year-on-year basis. I would also like
+to highlight that this is one ofo ur best margin performance in the last 7 quarters. As we move to Q4,
+we will need to factor for incremental dilution ofHARMAN DTS. That said, our endeavor as always
+will be to maintain the margins in a similar band as in the last few quarters. Adjusted net income for
+the quarter was INR 33.6 billion and adjusted EPS for the quarter was INR 3.21, an increase of3.5%
+quarter-on-quarter and flat year-on-year.
+Moving on to our strategic market unit and sector performance, all the numbers I will share will be
+in constant currency:
+Americas grew 1.8% sequentially and grew 2.8% on a year-on-year basis. Americas 2 declined 0.8%
+sequentially and 5.2% on a year-on-year basis. Europe grew 3.3% sequentially and declined 4.6% on
+a year-on-year basis. APMEA grew 1.7% sequentially and 6.6% on a year-on-year basis. From a
+sector standpoint, BFSI grew 2.6% sequentially and 0.4% year-on-year. Health grew 4.2%
+sequentially and 1 % year-on-year. Consumer grew 0.7% sequentially while declining 5.7% year-on­
+year. Tech and Comm grew 4.2% sequentially and 3. 5% on year-on-year terms. EMR declined 4.9%
+sequentially and 5.8% year-on-year. To give an added color, Capco was flat on a year-on-year basis
+in Q3.
+Before I move on to other financial parameters, I would like to draw your attention to two specific
+one-off charges that we took in our P&L that also impacted our net income. These charges are not
+included in our IT Services segment margin. First is an increase ofINR 302 crores towards gratuity
+expenses due to implementation oft he new labor code. Second is regarding the restructuring exercise
+that was completed during the quarter, and its impact is about INR 263 crores. I would like to confirm
+that we have not completed the restructuring we wanted to do and do not anticipate any further
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+lower working days, which is not really, this is in some sense, offsetting for those furloughs. And
+therefore, we have given you the guidance we have. But these deals should continue to convert. Each
+deal is different. We are confident it will take some time, but it will ramp up. Sriniv, you want to talk
+onEMR?
+Srini Pallia: Thanks, Aparna. Happy New Year, Nitin. As far asE MR is concerned, our performance in this sector
+clearly has been impacted based on the macroeconomic uncertainty we have seen, some during tariff
+related and also some disrupted supply chain issues that we faced. However, our pipeline continues
+to remain strong in the sector. And essentially, the significant pipeline is around either vendor
+consolidation or cost takeout. And ifl were to give a little bit of color to specific segments, we have
+good momentum in energy in both Americas andE urope. And as far as manufacturing is concerned,
+we are seeing that in Europe. Also, our Capco business, which is also seeing some traction on the
+energy consulting side. So net-net that's the situation that we have right now withE MR, Nitin.
+Saurabh Govil: In salary hikes, we will take a call in the next few weeks in terms of when should we be doing it. Our
+intention is to look at it this quarter, but we will confirm it during the next couple of weeks.
+Nitin Padmanabhan: Perfect. That's helpful. Just one clarification. Do you think EMR should start getting back to growth
+sometime next year? That's the last question from my end. Thank you.
+Srini Pallia: So as far as EMR is concerned, Nitin, I will just repeat that. One is the pipeline. Like I said,
+specifically, we have good momentum on the pipeline in energy in both Americas andE urope. And
+as far as manufacturing is concerned, it's in Europe. I think our focus right now is to convert these
+deals and then that should drive the revenue growth for us. And we are just staying focused on
+winning some of those deals, Nitin.
+Nitin Padmanabhan: Perfect. Very helpful. Thank you so much and all the very best.
+Moderator: Thank you. Next question is from the line ofVibhor Singha! from NuvamaE quities. Please go ahead.
+Vibhor Singhal: Hi. Thanks for taking my question and congrats on a solid performance. So Srini, my question was
+mainly on basically the Consumer vertical. You mentioned about the challenges in theE MR vertical,
+banking has been doing well for us. In the Consumer vertical, the growth was set in this quarter. We
+continue to decline on a Y-on-Y basis. How do you see the outlook in this vertical? We know this
+vertical also has been impacted a lot by the tariff uncertainty that has basically impacted the
+producers. But in your conversation with the clients in terms of our interactions in the pipeline, do
+you see it turning the corner in coming quarters or do you think it will be sometime before some
+clarity on this vertical?
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+Srini Pallia: Thanks, Vibhor. If you look at our consumer sector, clearly, if you recollect, I talked about it before
+as well that the tariffs had an impact on this and that has reflected in our numbers. And also, if you
+reflect there was a large SAP program which was put on hold last year by our customers. And again,
+the client is yet to reinitiate. And that is one of the things that is impacting our year-on-year
+performance as well in this particular thing, in this particular sector. However, the overall trend that
+we see right now is mixed here for us in consumer. Some of the wins we had earlier this year is
+slowly ramping up and that should support the growth in this sector. I do not have-from a Quarter
+4 perspective, whatever growth we are seeing, that is baked into our forecast, Vibhor.
+Vibhor Singhal: Got it. And similar thing on the basically, I know it is not that big a vertical, but I think both tech and
+Health vertical appear to be doing good. Any specific project ramp-up that we saw in this quarter
+which led to this growth or do you think it is a growth which we can sustain in the coming quarters
+as well?
+Aparna Iyer: Sorry, which sector did you refer to, Vibhor?
+Vibhor Singhal: Aparna, tech and the Healthcare vertical, both of them separately.
+Aparna Iyer: You know, in some sense, in Healthcare, we have been consistently doing well. And we have had a
+sector both in our year-on-year performance. Seasonally, obviously, we have the open enrollment
+season that really does improve our Health performance in Q3. So, that is also added to the
+performance. In terms of our Tech & Comm, we continue to do well in some of our large technology
+players. And there is a little bit of the HARMAN acquisition numbers which is also reflected in the
+overall sector's performance. And I think Communications in general have done -has been better for
+Europe & APMEA. That is the color I can give you.
+Vibhor Singhal: Perfect. That is really helpful. Aparna, just one last question from my side. You mentioned about the
+few headwinds in Q4 that you will be facing. And ifl look at our guidance, it is 0.02% at the consol
+level. And if we were to, let us say, extrapolate the two-month incremental impact of HARMAN
+acquisition, the organic growth will probably fall somewhere between ( -1.5%) to(+ 0.5%). Is that
+the right understanding? And is the reason for that very much as you mentioned in your opening
+remarks as well?
+Aparna Iyer: You know, Vibhor, for some reason, we are not able to hear it clearly. Can you just load on your
+question?
+Moderator: I am sorry. His line is disconnected. We will move on to the next question. Next question is from the
+line of Ravi Menon from Macquarie. Please go ahead.
+Public
+.
+. •••••
+• . •.•.•..•.•. •
+roi)}I
+wip. .
+. ... .... .•
+.
+• • • ..• a • •• • • •• •
+Wipro Limited
+January 16, 2026
+Aparna Iyer: Yes.
+Kawaljeet Saluja: There is no such impediment. I mean, you can do that as in when you feel, it is the right time. Is that
+the way to look at it?
+Aparna Iyer: Yes. Absolutely, absolutely.
+Kawaljeet Saluja: Noted. The second question is for you and Srini. Let us say, if those two mega deals ramp-ups were
+not delayed, then what would the guidance have been for the March quarter? Any way to detail it
+out, either quantitatively, which may be difficult or even qualitatively, that would be very helpful to
+understand the growth trajectory, yes.
+Aparna Iyer: Obviously, we cannot talk about it quantitatively, Kawai. And qualitatively, like I have said, it is only
+delayed. These ramp-ups should happen, and each deal is different in its nature, right. For example,
+something like Phoenix, which was entirely net new and fully where there was a clear go-live date
+and readiness, we have been able to do that and that is fully into our revenue starting Q3. So that has
+played out perfectly to plan.
+Right now, in some of the other larger deals, that mega deals that we could be winning in terms of
+vendor consolidation, these deals typically have both an element ofrenewal and new. Obviously, the
+renewal is fully in, and that continues. And we are not seeing any changes in terms of expectations.
+In case of the new, the element of new, some of these things are taking longer, either due to client
+situations where there could be some changes in the client environment that they are going through.
+And therefore, there is a little bit of a delay in terms of the timing of the ramp-up.
+Or it could just be the nature of how it is going to play out, right? Because it will take six quarters,
+that is what I alluded to. So it is going to take that time. And we are hopeful that this will flow through
+in the coming quarters.
+Kawaljeet Saluja: Noted. And thank you so much. All the best.
+Aparna Iyer: Thank you. Thank you, Kawai.
+Moderator: Thank you. Ladies and gentlemen, that was the last question for today. I would now like to hand the
+conference back to Mr. Abhishek Jain for closing comments. Over to you, sir.
+Abhishek Jain: Yes. Thank you all for joining the call. Have a nice day. Thank you.
+Public

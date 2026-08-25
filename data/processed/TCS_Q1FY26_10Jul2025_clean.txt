@@ -1,0 +1,907 @@
+TCS/SE/71/2025-26
+July 14, 2025
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, P. J. Towers,
+Bandra Kurla Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Transcript of the earnings conference call for the quarter ended June 30, 2025
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the
+quarter ended June 30, 2025, conducted after the meeting of Board of Directors held on
+July 10, 2025, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Yashaswin Sheth
+Company Secretary
+ACS 15388
+Encl: As above
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Corporate Identity No. (CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited
+Q1 FY '26 Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Moderator: Ladies and gentlemen, good day, and welcome to the TCS Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-
+only mode and there will be an opportunity for you to ask questions after
+the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing star then zero on
+your touchtone phone. Please note that this conference is being
+recorded.
+I now hand the conference over to Ms. Nehal Shah from the Investor
+Relations team at TCS. Thank you, and over to you.
+Nehal Shah: Thank you, operator. Good evening, and welcome, everyone. Thank
+you for joining us today to discuss TCS' financial results for the first
+quarter of fiscal year FY 2026 that ended on June 30, 2025. This call is
+being webcast through our website and an archive, including the
+transcript, will be available on the site for the duration of this quarter.
+The financial statements, quarterly fact sheet and press releases are
+also available on our website.
+Our leadership team is present on this call to discuss our results. We
+have with us today Mr. K Krithivasan, Chief Executive Officer and
+Managing Director.
+K Krithivasan: Hello, everyone.
+Nehal Shah: Ms. Aarthi Subramanian, Executive Director, President and Chief
+Operating Officer.
+Aarthi Subramanian:Good evening, everyone.
+Nehal Shah: Mr. Samir Seksaria, Chief Financial Officer.
+Samir Seksaria: Hello, everyone.
+: 
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Nehal Shah: And Mr. Milind Lakkad, Chief Human Resources Officer.
+Milind Lakkad: Hi, everyone.
+Nehal Shah: Our management team will give a brief overview of the company's
+performance followed by a Q&A session. As you are aware, we don't
+provide specific revenue or earnings guidance, and anything said on
+this call, which reflects our outlook for the future, or which could be
+construed as a forward-looking statement must be reviewed in
+conjunction with the risks that the company faces.
+We have outlined these risks in the second slide of the quarterly fact
+sheet available on our website and email out to those who have
+subscribed to our mailing list. With that, I would like to turn the call over
+to Krithi.
+K Krithivasan: Thank you, Nehal. Again, good day, everyone. During our April 2025
+earnings call, we had called out delays in decision-making and projects
+start with respect to discretionary investments. This trend has continued
+and intensified to some extent in this quarter. Global businesses were
+disrupted due to conflicts, economic uncertainties and supply chain
+issues. We saw cost pressures in our customers causing previously
+unseen project pauses, deferrals and decision delays that resulted in
+less than expected revenue conversion.
+In this backdrop, our quarterly revenue declined by 3.1% year-on-year
+in constant currency terms.
+Our operating margin was 24.5% and the net margin was 20.1%.
+Our total value of contracts signed in Q1 FY26 was $9.4 billion, up
+13.2% year-on-year.
+These headline numbers must also be read in the context of successful
+completion of a very large strategic program of national importance last
+quarter.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Looking ahead, enterprises realize the need to invest in being
+perpetually adaptive and require a dependable partner that can provide
+them with not only the right capabilities, but also the scale and maturity
+to manage a dynamic environment. TCS aims to be that partner that
+helps our clients withstand short-term disruptions, even while executing
+their transformation strategy, for long-term value creation. In this
+context, we are very confident in the robustness of the demand as well
+as the strength of our business model from a medium to long-term
+perspective.
+I would also like to inform you that this will be Milind's last earnings call.
+He has had a stellar and distinguished record of service for 38 years in
+this industry. Joining TCS as a trainee in 1987, he rose to lead the
+manufacturing business group and subsequently the CHRO. On behalf
+of TCS, I would like to thank him for all his contributions.
+I'll now invite Samir and Milind to go over different aspects of our
+performance during the quarter. I'll step in later to provide more color
+on the demand trends we are seeing. Aarthi will further share an update
+on our services. Over to you, Samir.
+Samir Seksaria: Thank you, Krithi. Good day, everyone.
+In the first quarter of FY '26, our revenue was ₹63,437 crores, which is
+a year-on-year growth of 1.3%. In dollar terms, the revenue was $7,421
+million, a year-on-year decline of 1.1%. And in constant currency
+terms, our revenue declined 3.1%, on a Y-o-Y basis.
+Our Q1 operating margin stood at 24.5%, reflecting a sequential
+improvement of 30 basis points. We built up capacity and continued our
+investments during the quarter with a long-term focus. The demand
+contraction during the quarter had an impact on our utilization and was
+offset by lower third-party costs and currency.
+Higher other income and lower effective tax rate for the quarter helped
+boost our net income margin to 20.1%. Our EPS grew 6% Y-o-Y.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Our accounts receivable was at 75 days DSO in dollar terms, up five
+days Y-o-Y.
+Net cash from operations was $1.5 billion, which is a cash conversion
+of 100.3% of net income. Free cash flows were at $1.3 billion and
+invested funds at the end of the period stood at $5.7 billion.
+The Board has recommended an interim dividend of ₹11 per share.
+With that, I'll hand over now to Milind.
+Milind Lakkad: Thank you, Samir. Our workforce at the end of the first quarter was
+613,069. Net attrition during the quarter was over 5,000 employees. We
+have honored all the job offers, and we'll do so for the rest of the year.
+Lateral hiring will be recalibrated based on the demand outlook.
+We continue to invest significantly in our business to stay relevant to
+our customers with changing technology needs. In this quarter, our
+associates invested 15 million hours in building expertise in emerging
+technologies, enabling them to lead the transformation journey for our
+customers. It is gratifying to note that TCS now has 114,000 people with
+higher order AI skills.
+Our LTM attrition in IT services was at 13.8% at the end of Q1, up 50
+bps sequentially.
+I will now request Krithi to speak on the various demand drivers during
+the quarter.
+K Krithivasan: Thank you, Milind. During the quarter, enterprises remained focused on
+cost optimization, vendor consolidation and efficiency-led technology
+transformation. Discretionary spend continues to remain under
+heightened scrutiny and pressure. However, enterprises focused on
+scaling AI adoption across applications, workflows and data
+performance remains strong.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Our approach at TCS integrates expertise in deploying technology
+blended with contextual knowledge of enterprise, data, business
+processing, industry strength and change management.
+You will see our capabilities in action through real-world examples
+spanning industries and service areas, which we'll go through with the
+help of a few customer case studies.
+BFSI:
+In America, BFSI clients are cautious with tech investments as they
+assess the current economic uncertainty. Growth is being driven by
+rapid advancements in GenAI adoption, platform modernization, and
+automation. Clients are focusing on regulatory readiness, data
+governance and cost efficiency through technology rationalization.
+There is growing demand for integrated digital solutions that enhance
+customer experience, ensure compliance and enable scalable
+operations across banking, capital markets into insurance, wealth and
+payment segments. Banks are actively pursuing legacy and mainframe
+modernization to streamline operations and improve system resilience.
+Discretionary spend is under pressure.
+The softness that we had called out earlier in U.S. insurance continued
+throughout the quarter. However, we are seeing insurance doing well in
+Europe. BFS continues to remain cautious in Europe and U.K.
+We believe the current caution in BFS is temporary as there's a lot of
+unmet demand.
+CBG:
+Moving on to the Consumer business group. This was one of the most
+affected sectors in this quarter. Widespread industry challenges
+resulted in funding delays, project postponements and delayed
+milestone completion. However, we continue to work on transformative
+programs across all industry segments.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+• A leading U.S. specialty retailer partnered with TCS to overhaul its
+product information ecosystem that is critical for driving sales,
+forecasting, and data-driven merchandising. This is an initiative of
+strategic importance that had previously faced significant
+implementation challenges, including fragmented data ownership and
+complex system landscape. Leveraging big domain and contextual
+knowledge, TCS designed and implemented an interim solution with a
+robust SaaS-based product information management platform that's
+integrated with multiple legacy systems. TCS established scalable data
+flows, that ensured end-to-end data quality and governance, enabled
+advanced analytics, and empowered vendor-led asset management.
+The transformation delivered a 3x increase in SKU creation and
+maintenance speed, unlocked significant annual savings by eliminating
+manual attribution and enrichment efforts, improving time-to-market,
+operational efficiency and enhanced customer management.
+Manufacturing:
+Although the automotive sector faced significant challenges and
+reduced spending, the manufacturing vertical as a whole, showed minor
+growth. Amidst the uncertain environment, clients are aiming to lower
+their overall technology debt and are investing in initiatives intended to
+prepare their technology infrastructure for future demands.
+• TCS and Jaguar Land Rover have a long-standing strategic
+partnership, encompassing various aspects of technology, innovation
+and sustainability. This collaboration is evident in areas like software
+defined vehicles, customer experience and the Jaguar TCS Racing
+Formula E team.
+At the Formula E World Championship, top performance depends on
+time-critical data analytics. Whether at the racetrack or at the team
+base, Jaguar TCS Racing engineers need timely access to this data to
+make informed decisions about car set-up and race strategy.
+Undoubtedly, this is where championships are won or lost!
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+While Formula E races often take place on temporary street circuits and
+with tight regulations, Jaguar TCS Racing can’t often practice on
+physical circuits or run in-person tests. Regardless, teams must still find
+ways to develop top performing cars. We set out to help solve this
+challenge by enhancing the team’s digital twin technology so that it can
+run more simulations, generate more data, and validate software code.
+TCS’s automotive data science team developed the Virtual Vehicle
+Validation Model (V3M), which instructs the digital twin of the Jaguar I-
+TYPE 7 on how to navigate a track based on various inputs. This model
+runs continuous simulations, saving engineers critical time during race
+preparation and enabling them to make last-minute changes to the
+vehicle software in pursuit of performance gains. Having confidence
+that the simulator results are accurate, enables the team to unlock
+creativity and innovation elsewhere.
+Life Sciences and Healthcare:
+Life Sciences customers are exercising caution. They are focusing on
+essential business activities with some growth initiatives postponed or
+their schedules put under review. The pharmaceutical sector is
+grappling with pricing, supply chain issues and export risk. Companies
+are prioritizing R&D, profit margin and operational efficiency. Leading
+firms in the U.S., U.K., Europe and Japan, are consolidating vendors
+and business services while leveraging AI.
+The recent passage of the “Big Beautiful Bill” in the U.S. includes nearly
+$1 trillion in Medicaid finding reduction over 10 years, rollbacks to
+Affordable Care Act and $500 billion in Medicare spending reductions
+amongst most of other changes. These changes are expected to
+severely impact the earnings of Medicaid focused insurers, hospital
+operators, diversified Medicare insurers amongst us.
+In Healthcare, payers are trying to optimize costs due to rising medical
+expenses. Preauthorization delays and claim denials are causing
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+friction with providers. Key priorities are affordability, transparency,
+simplification, and improved patient experiences. Clients are
+modernizing core systems, exploring data marketplaces, cyber
+resilience, and AI in the SDLC, though budget constraints hinder
+approvals.
+The MedTech industry is witnessing regulatory scrutiny, demand
+changes, cost pressures, regional consolidation, new business models,
+and higher customer expectations. This has put pressure on supply
+chains to cut costs.
+Energy, Resources and Utilities:
+The ERU vertical faced reduced spending and capital investments due
+to policy changes and geopolitical tensions. However, we are working
+on many transformative engagements, like rebalancing of supply chain,
+grid optimization etc.
+• For a Fortune 500 Utility in the US, we are consolidating and
+transforming their Advanced Metering Infrastructure solution across
+their operating companies. This major business transformation includes
+advanced features such as load profiling, forecasting, settlement, and
+real time energy consumption management. The system also helps in
+proactive outage management and provides capabilities for remote
+operations. The solution will not only transform the customer
+experience across multiple states in their service territory but will also
+set up a strong foundation for network analytics and renewables
+integration.
+Tech SS:
+The Technology & Services industry sustained growth across all markets this
+quarter. In this quarter, AI has established itself as a fundamental driver of
+product innovation across all sub-segments under TechSS. Enterprises
+continue to defer business transformation initiatives and prioritize targeted
+technology transformations that deliver significant operational efficiencies and
+cost savings.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+CMI:
+In the Communications, Media, and Information vertical, enterprises are re-
+evaluating their priorities with a strong emphasis on AI and automation,
+diversification, cost optimization and vendor consolidation. With subscriber
+growth plateauing and competition intensifying, AI-driven innovation helps CMI
+companies rethink business models and diversify revenue streams. With AI,
+the CMI industry is aiming to transform every stage of the workflow, including
+enabling strategic decision making, content generation, and audience
+personalization.
+• Foxtel Group, Australia's leading streaming subscription television
+company, partnered with TCS to transform their customer service
+operations by increasing the consistency and speed of responses to
+customer queries and addressing the challenge of increasing cost of
+services. TCS deployed advanced GenAI capabilities powered by a leading
+AI platform model to drive measurable business impact.
+The transformation began with a comprehensive verification of the
+knowledge base architecture, ensuring information was easily accessible
+and up to date. Implementing the AI-powered solution was a game-
+changer, enabling the automation of conversation summaries and
+enhancing data security measures. This holistic approach ensured that
+customer interactions were not only efficient but also secure.
+TCS played a pivotal role in this transformation, bringing in domain and
+technical expertise, contextual knowledge and proprietary assets. By
+integrating advanced AI capability, Foxtel achieved faster response times
+and higher first-call resolution rates, significantly improving the customer
+experience. Agent productivity saw a notable increase, and customer
+engagement improved, while the total cost of ownership for Foxtel came
+down. During the quarter, TCS and Foxtel Group also won the AI
+Pacesetter Category at the 2025 ISG Paragon Awards ANZ in recognition
+of this impact.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Moving on to our portfolio of products and platforms, they continue to
+help us in developing bespoke solutions for our clients.
+• ignioTM, our cognitive automation software suite, saw multiple new deal
+wins. Evolving technological trends in AI, Agentic AI and GenAI are leading
+to increased investments in AI-based systems and intelligent automation.
+These developments are accelerating ignio's prominence as more
+customers implement autonomous enterprise solutions.
+• We continue to build on our leadership position in the UK Life and Pensions
+market, with key programs going live on our BFSI Platform.
+o Now Pensions Limited, one of the major workplace pension providers
+in the UK, offering Auto Enrolment for its employers and members, went
+live on TCS BaNCS™. They are also leveraging our intelligent
+experience solutions for all digital and mobile. The program
+consolidates multiple legacy systems on TCS BaNCS, leveraging
+secure real-time seamless integration with Pension Lab (a leading
+pension aggregator in the UK market) to drive business growth. We
+have migrated over 100,000 employers, and more than 3.3 million
+policies to our platform.
+o Lloyd Banking Group has gone live with TCS BaNCS for wealth
+administration solutions. This is a refreshed offering we have created
+and is a major milestone for the Transfer Agents industry, with
+innovation being introduced, where legacy systems are the norm today.
+With strict UK CASS regulations, the solution has been designed to
+have high STP of all banking, reconciliation, and controls, reducing the
+risk of any breach to the regulator.
+The design allows the Operations staff to handle customer requests
+with one click, improving satisfaction for both customers and staff.
+Customers receive one consolidated communication and can make a
+single payment for multiple deals or funds, streamlining the investment
+process.
+We expect these go lives to further expand our position in the UK.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+• TCS iON, our platform for digital assessment, exam administration and
+learning, has continued its impressive performance. We have partnered
+with prestigious institutes of national importance, such as IIT and IIM.
+• This quarter, we released the latest version of TCS MasterCraft™
+augmented with GenAI and Agentic AI. This solution automates the
+process of modernizing legacy applications, thereby significantly
+reducing the cost and time required for manual conversions. The GenAI
+and Agentic AI enhancements will allow organizations to mine business
+logic faster and more accurately. The automation driven by the latest
+version of TCS MasterCraft can save up to 70% in costs and achieve
+results up to twice as fast as traditional interventions.
+All the customer case studies we spoke of illustrate the impactful
+projects we undertake in collaboration with our clients and technology
+partners. Our solutions are driven by continuous upskilling of our talent,
+investment in R&I, contextual knowledge of enterprises and
+investments in creating products and platforms such as ignio™, TCS
+BaNCS™, TCS ADD™, and TCS Cognix™, all supported by strong
+partnerships within our technology ecosystem.
+Let me conclude by saying that we have had robust deal closures this
+quarter, and our total value of contracts signed in Q1 of FY26 is $9.4
+billion. North America TCV was $4.4 billion. BFSI TCV was $2.5
+billion, and Consumer Business Group contributed $1.6 billion.
+Our deal pipeline continues to be very healthy and well distributed
+across verticals and geographies, and that gives us confidence on our
+customer centric strategy.
+With Aarthi now leading all the service lines, we are broadening our
+leadership in emerging technologies and aim to bring even more
+seamless integration across our service offerings.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+With that, let me hand over to Aarthi, for giving more color on our
+service offerings.
+Aarthi Subramanian: Thank you, Krithi. This is my first quarterly earnings call after I took on
+the role and it is a pleasure to be here with all of you. I would like to
+provide some update on our Service Line offerings and the impact they
+created for our customers during the quarter.
+Let me begin with AI and Data:
+• We are seeing enterprises move beyond small-scale, use-case centric
+pilots to disciplined, production-grade rollouts that tie GenAI directly to
+business outcomes. Customers’ spend is clustering around three
+themes: AI-led business transformation, AI-enabled SDLC/IT-Ops and
+data-platform modernization that sets the foundation for Agentic AI at
+scale. Vendor-consolidation plays, and Sovereign AI Cloud
+deployments are starting to point to a maturing AI & Data market that
+now demands security guardrails and observability by default. TCS is
+leaning into this inflection with new offerings in Agentic AI, and AI
+infusion in our services. Our investment in WisdomNext, our leading AI
+platform, is expanding with the addition of agentic AI capabilities. We
+continue to scale our workforce on AI and deepen AI & Data
+partnerships across both Hyperscalers and native AI & Data
+companies.
+I would like to share a couple of examples:
+• AmTrust, the New York based multinational property and casualty
+insurance company, chose TCS to develop a solution using large
+language models to extract risk information, generate a quote against
+the competition and create a personalized summary. This new solution
+replaced the previous method for doing the same, which had brokers
+re-keying in a lot of data manually and reduced the time for quote
+extraction and generation from 30 minutes to 5 minutes for the brokers.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Brokers also benefit from comparison, recommendation and
+personalized summaries, as it reduces the need for manual analysis
+and comparison to understand customer quotation. This innovative
+solution received the Celent Model Insurer 2025 award in the
+“Customer Experience Transformation” category.
+• TCS is collaborating with Owens Corning to co-develop GenAI-
+powered solutions that enhance knowledge search and enable
+intelligent automation. These efforts are aimed at empowering
+employees with faster access to relevant information, streamlining
+routine tasks, and improving decision-making. By reducing manual
+effort and supporting greater efficiency, the partnership is helping build
+a foundation for more agile, responsive operations, without disrupting
+existing business processes.
+Moving on, I would like to share a couple of highlights of marquee
+engagements on the leading Hyperscaler Public Cloud platforms:
+• TCS helped a leading Electronics Retailer in the US to re-launch the
+midnight store opening model and successfully completed a gaming
+product launch within a very short window. TCS leveraged its Peak
+Season framework to plan, forecast the demand, implement cloud-
+based real-time monitoring of the traction traffic, and ensured stability
+of the Store operations. The TCS solution helped open more than
+1000+ stores across the Americas at midnight to drive additional sales
+of more than 100,000 units within 2 hours, resulting in substantial
+incremental revenue for the Retailer.
+Enterprise Solutions continues to be an area of investment for our
+customers. Clients are increasingly investing in streamlining their
+business workflows and modernizing their digital core by adopting AI
+powered SaaS platforms.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+• An American multinational energy conglomerate chose TCS to help
+embark on a commercial transformation journey to establish new
+business models. This included modernizing their existing commercial
+platforms to introduce subscription-based models as well as deliver
+enhanced customer experience and reduced technical debt.
+TCS designed and modernized their current commercial platforms with
+the implementation of a robust subscription management system,
+leveraging leading SaaS based CRM and CPQ platforms. Expected
+business outcomes include a 70% reduction in cycle time in the lead-
+to-cash cycle, and a 20% increase in customer satisfaction.
+• A large European pharmaceutical and agrochemical company
+partnered with TCS to redesign and harmonize their end-to-end
+processes and create a resilient backbone productivity, improved
+leveraging a leading ERP platform as part of a transformation across all
+of the client’s businesses with a view to create a “Single Source of
+Truth” for their downstream analytics in order to achieve increased
+productivity, improved time-to-market and reduced inventory. This is a
+multi-country, multi-year program of which the first pilot country went
+live successfully this quarter.
+Cyber Security:
+All of us know organizations are prioritizing cybersecurity to protect
+sensitive consumer data, ensure trust, and safeguard brand reputation.
+This quarter the focus of our customers has been on Identity and
+Access Management, Managed Detection & Response, and
+Governance, Risk & Compliance Services. We are also seeing
+increased traction for Enterprise Attack Surface Management, Cloud
+Security, Data Security and Network Security.
+• For a leading Transport organization in Europe, we recommended
+Information Security and IT Governance practices for AI Assets against
+various industry standards, including the EU AI Act regulatory
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+requirement, thereby enabling the customer’s organization to establish
+revised security governance and controls.
+• We also provided strategic recommendations for a leading global
+biopharmaceutical company, aimed at maturing Identity and Access
+Management (IAM) practices towards industry-leading standards,
+enhancing the robustness and efficiency of IAM controls.
+By adopting AI-powered threat detection, secure transaction
+frameworks, and robust compliance solutions, businesses are
+strengthening their defenses against evolving threats while maintaining
+operational integrity and customer confidence.
+The last service line, I would like to talk about is TCS Interactive.
+• During Q1, businesses focused on operational excellence and
+innovation, harnessing data and AI for better performance. TCS
+Interactive enhanced customer experience and marketing through
+“Creative Engineering powered by AI.”
+• In Q1, we successfully executed a precision-marketing campaign for
+the after-sales division of a global automotive OEM. Leveraging our
+AI-powered TwinX™ digital-twin platform, we simulated over 100,000
+campaign variants, systematically filtering out low-performing strategies
+and replacing conventional ‘spray-and-pray’ emails with data-driven,
+personalized targeting. To rigorously validate the platform's
+recommendations, we conducted a randomized control trial (RCT),
+comparing outcomes between TwinX-driven customer groups and
+traditional approaches. Within just one month, the pilot delivered a
+statistically verified 5x increase in dealer visits, a 2x increase in parts-
+and-service revenue, and nearly 40% reduction in weekly P&L volatility.
+Building upon these robust outcomes, we are now collaborating with the
+client to embed TwinX into subsequent service campaign cycles, further
+strengthening customer retention and revenue predictability.
+With that, I would like to open the line for questions.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Moderator: Thank you very much. We'll take our first question from the line of
+Sudheer Guntupalli from Kotak Mahindra AMC. Please go ahead.
+Sudheer Guntupalli: Hi, team. Thanks for the opportunity. Krithi, just a couple of questions.
+So apart from the BSNL deal, are there any other client-specific
+situations you might be going through in any vertical or geography?
+K Krithivasan: No, there is no specific client situation now.
+Sudheer Guntupalli: Okay, sir. And just some clarification on your comment in the Press
+Meet, are you still reiterating that FY '26 will be better than FY '25 at the
+overall company level or more so you're talking about the core markets?
+K Krithivasan: Sudheer, at this time we are confident the international market will do
+better in FY '26 than FY '25. However, it is our aspiration to continue to
+drive growth in company overall growth itself. But it is like a high bar to
+cross but we will work towards that.
+Sudheer Guntupalli: Understood, sir. And last question from my end. So, you mentioned that
+by July end, probably we'll see some clarity in pent-up demand. From
+the time that U.S. started announcing the trade deals with major trading
+partners like China, U.K., etcetera. Are you seeing that the peak of the
+uncertainty is already behind and there is some amount of improvement
+in the client decision making process?
+K Krithivasan: We have not started seeing that so far, Sudheer. Because as we know,
+like even with China, unless they have framework deal like the actual
+deal and tariffs are not being announced. And my guess is that till
+almost all the trade deals are announced, there will be this lack of
+clarity.
+Sudheer Guntupalli: Got it. Thank you so much.
+Moderator: Thank you. We'll take our next question from the line of Kumar Rakesh
+from BNP Paribas. Please go ahead.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Kumar Rakesh: Hi, good evening and thank you for taking my questions and welcome
+Aarthi to the TCS team. My best wishes. My first question was it appears
+like decision-making, which you spoke about, deteriorated towards the
+end of the quarter. What are the risks to the September quarter?
+What I'm trying to understand is all the project delays and the pauses
+which happened during the quarter, is it fully reflected in the number
+which we have reported or there's more to come into the September
+quarter as well?
+K Krithivasan: Whatever delays that we had have been to a great extent factored into
+our Q1 numbers. Of course, there will be some small residual effect in
+Q2 as well. And if there are no further delays, Q2 should be at least
+better than Q1, but we need to wait and watch based on what happens
+in the market.
+Kumar Rakesh: Thanks for that. My second question was on margins. So, before we
+entered with the BSNL deal, our margin was trending about 25%-26%
+at EBIT level. And understandably after that the margin came down.
+And now we have exited from the BSNL deal, but our margin is below
+the levels where it was prior to BSNL deal.
+Now between this period, you have lowered your SG&A expenses. I
+imagine that your employee pyramid also would have improved. You
+have spoken about how productivity has improved over the last 1 year
+and pricing also seems to be stable. So, what is pulling down your
+margin compared to where it was before the BSNL deal?
+Samir Seksaria: A good comparison would be the year-on-year margin. And yes, it's 20
+basis points down on a year-on-year basis. Through the year, like we
+have called out on in our earlier quarterly earnings commentary also,
+we have continued to make investments in people. like we had called
+out in Q4.
+And overall, the investments which are required for long-term growth
+continue. In this quarter as well, we have invested in capacity. We
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+continued our investments and that is what is reflecting into our
+margins. Having said that, if you look at it, the capacity versus the
+demand contraction mismatch, leads to us carrying excess capacity or
+additional capacity, which should help us in our future demand.
+Going forward, we should be able to further tighten our operating
+leverage. And Kumar, if you remember last quarter, we said that if
+uncertainty continues, we might have impact or lower operating
+leverage.
+Kumar Rakesh: Thanks, Samir for that. Just one clarification on the international
+revenue to be similar to last year, which you have spoken about. Is that
+in USD terms you're talking about or constant currency, because on a
+full year basis, we'll have a sizable cross-currency impact?
+Samir Seksaria: Constant currency terms. Like-to-like the international revenue to
+international revenue, constant currency term.
+Kumar Rakesh: Got it. Great. Thanks a lot and that's all from my side.
+Moderator: Thank you. We'll take our next question from the line of Ankur Rudra
+from JP. Morgan. Please go ahead.
+Ankur Rudra: Hi. Thank you. My first question is in terms of the weakness you've seen
+across a range of industries, and you did highlight it's a little bit the trade
+affected sectors and geopolitics in general. Could you also mention if
+there's any kind of -- I wouldn't say pricing pressure, any kind of out-of-
+turn demand for productivity pass-through that you may be seeing in
+across industries, perhaps more because of the current demand
+environment?
+K Krithivasan: Ankur, pricing has been reasonably stable at an overall level. But if you
+ask like is there any demand on productivity, there are instances where
+large deals are coming up for re-negotiation, there is a demand for
+productivity, either -- we don't see much coming as a pure discount, but
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+coming as AI-infused productivity or generic otherwise also a normal
+productivity.
+But it is not industry specific. I would say it's more based on the size of
+the deal or the tenure of the deal.
+Ankur Rudra: Will this impact the revenue conversion from the signings because
+we've had our book to bill at about 1.3 for a while, but our revenues
+haven't picked up. I understand some of it is more near term because
+of the recent trade uncertainties. But do you think AI-infused profit pass-
+through might impact the revenue conversion we might have in the
+medium term?
+K Krithivasan: Revenue conversion from signing is not impacted because of
+productivity. Because usually the productivity is given up at the time of
+signing. So, once we sign, we don't see demands on productivity during
+the term of the deal, normally, if at all it happens to be very, very rare.
+We are giving as I said AI-increased productivity, but it's when we
+signed the deal itself.
+Ankur Rudra: Okay. Thank you for the clarification. Could you talk a bit about how the
+pipeline replenishment is going on? I understand in the near term,
+there's been some deferrals and delays, but in terms of overall pipeline
+formation, how is that progressing?
+K Krithivasan: Ankur the overall pipeline has remained quite strong. We measured it
+in terms of pipeline from multiple industry verticals as well as
+geographies. On both dimensions, the pipeline has remained strong.
+We have been able to replenish all the deal closures that happened in
+Q1.
+Ankur Rudra: Okay. Just the last question on margins. You did highlight that you're
+investing in talent, which is why margins haven't picked up despite the
+BSNL ramp down. Now, you have a new BSNL contract that will be
+ramping up perhaps from the next quarter onwards. Isn't there going to
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+be a significant headwind on margins? How should the margin trajectory
+be for the rest of the year? Are there any levers you might pull to hold
+your margins here?
+Samir Seksaria: Ankur, like I said, we invested into capacity, anticipating growth this
+quarter. While we saw a demand contraction in the later half of the
+quarter, we continued carrying a larger capacity. In terms of levers, we
+will focus on improving our operating leverage in Q2.
+And the key levers would be on improving our utilization, which took a
+hit this quarter, improving our productivity and focus on pyramid. These
+would be the levers. As you rightly called out, from a headwind
+perspective as we start delivering the second phase of the BSNL order,
+the revenue mix might get slightly impacted. But overall, at a portfolio
+level, we'll look towards improving margins from here.
+Ankur Rudra: And just as a quick follow-up, how much of the utilization improvement
+is dependent on revenue growth on the international business in the
+subsequent quarters?
+Samir Seksaria: We would want to drive revenue growth, but we will look at optimization
+because there is capacity, which is built up into the system. We will not
+leave demand on the table, but we'll also look towards optimization.
+Ankur Rudra: Okay, appreciate it. Thank you and best of luck.
+Moderator: Thank you. We'll take our next question from the line of Ravi Menon
+from Macquarie. Please go ahead.
+Ravi Menon: Thank you for the opportunity. Samir, looks like there has been
+significant hiring, probably at the mid and senior levels, because I see
+that despite the BSNL contract pass-through costs going down, direct
+costs have not gone down as much. Would that interpretation be right?
+Samir Seksaria: So Ravi, so you would see a 70 basis points decline on positive impact
+because of lower third-party expenses and a similar like-to-like increase
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+in employee costs. And this includes, as you rightly called out, not just
+the hiring, we have given additional QVA.
+Ravi Menon: Okay. Right, thanks. BFSI has seen a slight decline Q-o-Q. This is I'd
+say, kind of resets the momentum that we had seen beginning of last
+year. But BaNCS have actually been reporting good results. Any
+positive signs that you're seeing from BaNCS customers now? Or this
+is expected to continue?
+K Krithivasan: No. Actually Ravi, positive side of it is that BFSI North America and
+BFSI UK have a marginal growth. The decline came from BFSI Europe,
+driven by the completion of a large engagement that we had taken. But
+otherwise, structurally, yes, there is some amount of delay, however
+North America and UK, particularly in BFSI, are continuing their growth
+path.
+Ravi Menon: One last question. On the high-tech side, that's where we had seen the
+spending cut start. Now that seems to be trending up. And this is where
+we've also seen some of your peers have to pass on significant
+productivity improvements. Looks like you're not seeing any such
+demands, right?
+K Krithivasan: By and large, we are seeing a growth, with the exception of one or two
+clients, we’re seeing strong growth in the high-tech segment.
+Ravi Menon: Thanks so much. And best of luck.
+Moderator: Thank you. We'll take our next question from the line of Abhishek
+Pathak from Motilal Oswal. Please go ahead.
+Abhishek Pathak: Yes. Hi, thanks for the opportunity. The first question was around the
+new BSNL order we received in May. When do we expect this to ramp
+up? I mean, is this going to be a one-shot ramp up in 2Q and then ramp
+down in the next quarter? That's the first question.
+And the second question is around margins, again. I understand that
+you are carrying excess capacity. But considering we have attrition
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+trending upwards of 13%, why would we carry this capacity? I mean, do
+we expect a materially better H2 with regards to growth in anticipation
+of which we are holding this capacity?
+Because our cost of revenues, the employee cost at 47.6% is probably
+at an all-time high. And considering we will have BSNL headwinds
+coming in 2Q as well as the potential wage hikes, just trying to
+understand how much of this will be offset by the operating leverage
+that we are expecting? So those were the two questions. Thank you.
+Samir Seksaria: Abhishek, first, on the BSNL deal, we just received an advance
+Purchase Order. So this is not in the TCV yet. We are awaiting circle-
+wise POs. Once we get it, then the execution starts. Once the circle-
+wise POs are available, you can expect execution on a similar trajectory
+to the one we delivered on the 100,000 sites.
+Coming to margins. Your question was in terms of, is it in anticipation
+of our demand. We added people in Q1 in anticipation of what we want
+to service in Q1 and what happened through Q1 was a reduction, or
+contraction in demand. That's where we carried that excess capacity.
+So, we pre-planned it, but Q1 did not align with our initial expectations.
+Abhishek Pathak: Understood. So just to sort of follow up. Our employee costs are, as I
+mentioned, almost at an all-time high. So, as growth picks up, we expect
+that to materially trend downwards towards the 45% range, let's say,
+over the next two, three quarters. That's where we should be expecting
+those gains to come from.
+Samir Seksaria: So, two clarifications, Abhishek. One is, if you're comparing sequentially
+Q4 versus Q1, the employee cost as a percentage of revenue might not
+be directly comparable, because the revenue mix is different. There was
+a significant third-party component sitting in the revenue till last quarter.
+Having said that, your question in terms of current revenues or
+employee costs at 47%, should we be trying to optimize it? Yes, we'll
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+look towards optimizing that and bringing that as a percentage of
+revenue downwards.
+Abhishek Pathak: Understood. Thank you.
+Samir Seksaria: Thank you.
+Moderator: Thank you. We'll take our next question from the line of Nitin
+Padmanabhan from Investec. Please go ahead.
+Nitin Padmanabhan: Yes. Hi, good evening. Thank you for the opportunity. You sounded
+pretty cautious on BFSI overall in the commentary. But if I look at the
+deal wins, on a trailing 12 months, BFSI deal wins seem to be up 12%.
+So, if you could just help contextualize, are you seeing any re-scoping
+downwards or any such thing? Or was it just a broader comment?
+K Krithivasan: Like every other industry, Nitin, there are some places where there is a
+project pause or scope reduction. But otherwise, as we said, we are
+continuing to be quite positive in the medium-to-long-term on the BFSI
+based on, as you rightly pointed out, the order book closures in the last
+year. But there are instances of delays or scope reductions that have
+come up.
+Nitin Padmanabhan: Right. Just to understand, on a sequential basis, last quarter versus this
+quarter, would you characterize that the demand is actually, at least
+from an environment perspective, has got worse or it's the same for
+BFSI specifically and across the board as well?
+K Krithivasan: If you look at a revenue basis, you can see that the revenue has an
+overall drop, but there is a very minor growth in North America and UK
+So, it is, to some extent, geography specific. North America and UK
+demand in BFSI has remained stable and Europe has seen a
+contraction.
+But if you take it from a TCV perspective, we don't want to get a quarter-
+on-quarter comparison on TCV because it tends to be lumpy, like some
+quarters you sign very big deal and some deal closures also happen
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+towards the end of the quarter. So, we don't want to go by a quarter-on-
+quarter TCV comparison.
+Nitin Padmanabhan: Got it. But just from a pure -- because there is a dichotomy, our deal
+wins over the last three quarters, including this one, have been pretty
+decent, actually. On the one hand, the deal wins are decent. You seem
+to have a good pipeline.
+But on the other hand, we seem to be seeing maybe the re-scoping and
+the negative surprises on demand, like we saw this quarter. So, from
+that perspective, now what exactly, how would you sort of explain this?
+Because people seem to be signing, but they don't seem to be
+executing.
+K Krithivasan: What's happening in some of the deals, where the clients decide that
+they can reprioritize, or de-scope, I was explaining in the earlier
+question, there was one particular large client, where they decided that
+maybe the particular work can be done, they can delay the work or
+extend the period over which the work can be done, and they ramped
+down the number of people that were engaged.
+So, here the deal was neither cancelled nor paused, but the duration of
+the deal was increased to give them more time to manage their spend.
+There are some places where we find the projects are started but
+started at a slower pace. And there are some places where the projects
+are paused for a duration.
+So, you see a combination of all these things, which together bring this
+scenario of overall deal signings are okay, pipeline is okay, but the
+immediate quarter revenue numbers are not in sync with what we
+should be expecting.
+Nitin Padmanabhan: Got it. Just one last clarification from my end. You are currently
+assuming that international business should be better in the following
+quarter, and BSNL, it will take time until the POs come through for the
+actual execution to take place. Are those two fair understanding?
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+K Krithivasan: Nitin, as you know, we don’t give any specific guidance, but on the
+international revenue part, we are more optimistic in the coming quarter.
+Samir Seksaria: Yes, we are awaiting the BSNL PO.
+Nitin Padmanabhan: Got it. Thank you so much and all the very best.
+Moderator: Thank you. Next question is from the line of Abhishek Gupta from Axis
+Asset Management. Please go ahead.
+Abhishek Gupta: Hello. Thank you so much, sir, for taking my question. Sir, mostly the
+question is like on the North America side, if I take the last 12 quarter
+CQGR, it seems to be kind of flat to slightly negative. So North America
+being one of the biggest markets, like where are we losing in this
+market? And why -- is it not growing on an absolute basis for us?
+K Krithivasan: Abhishek, I will not characterize it as losing any market share in North
+America. For starters, we are participating in almost all major
+engagements. And we are also winning our fair share and that is
+consistent or improving.
+But overall, as we explained, like, while we are winning, there are
+instances where you have project delays or ramp down, which is
+causing the growth to be offset. So that is what the end result you see.
+So, I do not think that we are actually losing anything in North America,
+Abhishek.
+Abhishek Gupta: Got it. And sir, lastly, from my side, if I look at your client's metrics, there
+seems to be two clients -- in size have gone down from US$100 million
+buckets. Is it a concerning point for as an investor or how do you look
+at the metrics?
+K Krithivasan: So, Abhishek, whenever there is a revenue reduction, it's concerning.
+So, we are worried. Our client metrics are based on last 12 months’
+revenue in dollar terms.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+So, if a particular client is on the borderline or let us say $101 million
+and because of this overall reduction in revenue, the client moves from
+101 to even 99.5, we will no longer count that particular customer as a
+$100 million client. So, it is a concern.
+Is it something that we should worry about? I will not because once the
+growth returns, these customers will be back onto the 100 million plus
+range.
+And there are some cases, even because of the cross-currency
+movement also, where customers move back and forth. And if they are
+in the borderline case, they may move back and forth between 100
+million above or below.
+Abhishek Gupta: Got it. Thank you so much.
+Moderator: Thank you. Next question is from the line of Gaurav Rateria from
+Morgan Stanley. Please go ahead.
+Gaurav Rateria: Hi, thanks for taking my question. My first question, I am trying to
+understand the investments that we talked about in creating capacity as
+well as on building talent pool. Is there some specific hiring going on
+that is upfronted in the cost?
+And that is why the employee cost in absolute terms is up by $150
+million, while the number of employees has not increased significantly.
+Just trying to understand why there is a big jump in employee costs in
+the last 2 quarters, whereas our international revenues have largely
+remained flat?
+Samir Seksaria: As I clarified, it is not just adding people. We have given a higher QVA
+as well this quarter. Last quarter, we had called out about tactical
+interventions, which were by way of promotions.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Gaurav Rateria: Got it. My second question is on the conversation that we are having at
+the time of renewals. Have you seen more conversations around
+infusing Generative AI technology on the renewals?
+And where would we be in our journey of taking this technology to our
+top 100 clients? Let's say, have we already reached out to our top 100
+clients and are trying to proactively use this technology and infuse that
+in all our existing work packages? Just trying to understand where are
+we in the journey?
+K Krithivasan: Gaurav, you are right. Whenever there is a renewal, we go back to our
+clients with an AI infused solution. But to be honest, we don't wait to
+infuse AI for the renewal in most of our clients.
+Whenever we see an opportunity, where an AI-infused solution can give
+better productivity and a better outcome for our customers, we
+proactively do that. And we do it in almost all kinds of projects, whether
+it's a cost optimization program or it is a transformation program.
+Whenever we look for the opportunity, we look for it in every phase of
+the project and every type of project.
+Gaurav Rateria: Got it. Last question, Krithi, on Agentic AI solution. How are the
+contracts structured with the clients? Is it largely in the form of fixed-
+price projects or is it also being sold as some license fee? Just trying to
+understand, how are we trying to monetize our solutions around Agentic
+AI? Thank you.
+K Krithivasan: Gaurav, this is an evolving space. You will see multiple opportunities.
+There are some where we do based on the outcome. There are some
+customers that expect that this is better to do it on T&M. Because as it
+is evolving, they also want to see how they are able to benefit from the
+results. So, they want to do it on T&M. And then after a period of time,
+move towards the fixed-price model. So, we are seeing both options
+here.
+Gaurav Rateria: Thank you.
+
+Tata Consultancy Services Earnings Conference Call
+July 10, 2025, 19:00 hrs IST (09:30 hrs US ET)
+Moderator: Thank you. Ladies and gentlemen, we'll take that as the last question
+for today. I now hand the conference over to the management for
+closing comments. Over to you.
+K Krithivasan: Thank you, operator. In Q1 FY '26, our revenue declined by 3.1% year-
+on-year in constant currency with an operating margin of 24.5% and a
+net margin of 20.1%. Our TCV was robust at US$9.44 billion in Q1.
+We are closely monitoring developments worldwide and remain
+committed to maintaining strong client relationships, positioning
+ourselves as a strategic partner.
+I would like to express my gratitude to all TCSers for their hard work
+and unwavering dedication in realizing both their own potential and that
+of the company.
+With that, we wrap up our call today. Thank you all for joining us. Thank
+you.
+Moderator: Thank you, members of the management. On behalf of TCS, that
+concludes this conference call. Thank you for joining us, and you may
+now disconnect your lines.
+Note: This transcript has been edited for readability and does not purport to
+be a verbatim record of the proceedings.

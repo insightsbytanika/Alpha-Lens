@@ -1,0 +1,726 @@
+TCS/SE/135/2022-23
+October 14, 2022
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers,
+Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Transcript of the earnings conference call for the quarter ended September 30, 2022
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the quarter
+ended September 30, 2022 conducted after the meeting of Board of Directors held on October 10,
+2022, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Pradeep Manohar Gaitonde
+Company Secretary
+Encl: As above
+TATA Consultancy Services Limited
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel. 91 22 6778 9595 Fax 91 22 6778 9660 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.
+Corporate identification No. (CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited
+Q2 FY23 Earnings Conference Call.
+October 10, 2022 , 19:00 hrs IST (09:30 hrs ET)
+Moderator: Ladies and gentlemen, good day and welcome to the TCS Earnings Conference Call. As
+a reminder, all participant lines will be in the listen-only mode and there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing ‘*’ then ‘0’
+on your touchtone phone. Please note that this conference is being recorded. I now hand
+the conference over to Mr. Kedar Shirali – Global Head, Investor Relations at TCS. Thank
+you, and over to you, sir.
+Kedar Shirali: Thank you, operator. Good evening and welcome, everyone. Thank you for joining us
+today to discuss TCS' financial results for the second quarter of fiscal year 2023 that
+ended September 30, 2022. This call is being webcast through our website and an
+archive, including the transcript, will be available on the site for the duration of this
+quarter. The Financial Statements, Quarterly Fact Sheet and Press Releases are also
+available on our website.
+Our leadership team is present on this call to discuss our results; we have with us today,
+Mr. Rajesh Gopinathan -- Chief Executive Officer and Managing Director; Mr. N G
+Subramaniam -- Chief Operating Officer; Mr. Samir Seksaria -- Chief Financial Officer;
+and Mr. Milind Lakkad, Chief HR Officer.
+Our management team will give a brief overview of the company’s performance, followed
+by a Q&A Session. As you are aware, we do not provide specific revenue or earnings
+guidance. And anything said on this call, which reflects our outlook for the future or which
+could be construed as a forward-looking statement, must be reviewed in conjunction with
+the risks that the company faces. We have outlined these risks in the second slide of the
+quarterly fact sheet available on our website and e-mailed out to those who have
+subscribed to our mailing lists.
+With that, I would like to turn the call over to Rajesh.
+Rajesh Gopinathan: Thank you, Kedar. Good morning, good afternoon and good evening to all of you. We
+are very pleased with our performance in Q2. Our revenue grew 18% in rupee terms and
+15.4% in constant currency terms and 8.6% in dollar terms, reflecting the continued
+strength of demand for our services.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Our operating margin for the quarter was 24%, an expansion of 0.9% sequentially and a
+contraction of 1.6% on a year-on-year basis. Our net profit crossed the `10,000 crore
+mark this quarter and our net margin was at 18.9%.
+I will now invite Samir, Milind and NGS to go over different aspects of our performance
+during the quarter. I will step in again later to provide some more color on the demand
+trends we are seeing. Over to you, Samir.
+Samir Seksaria: Thank you, Rajesh. Let me first walk youthrough the headline numbers. In the second
+quarter of FY 23, our revenues grew 15.4% YoY on a constant currency basis. Reported
+revenue in INR was `553.09 billion, a year-on-year growth of 18%.
+In USD terms, the sharp fall of all currencies in our basket versus the dollar in Q2,
+resulted in a deflated reported revenue of $6.88 billion, a YoY growth of 8.6%. While the
+rupee depreciated by 3.4% against the dollar sequentially, it appreciated 4.4% against
+GBP and 3% against euro, eroding the benefit at the operating margin level.
+This currency benefit along with a flatter workforce pyramid and improved productivity of
+fresh hires helped mitigate the impact of normalizing travel and facility expenses and
+continued headwind from backfilling and retention expenses.
+Overall, our operating margin expanded by 0.9% sequentially and was at 24%. Looking
+ahead, we believe the supply side issues have peaked and should start easing in the
+second half of the year.
+Net margins were at 18.9%. Effective tax rate for the quarter was 25.7%. Our accounts
+receivable was at 62 days’ sales outstanding in dollar term, down 1 day compared to Q1.
+Net cash from operations was at `106.75 billion which is 102.3% of net income. Free
+cash flow was `100.62 billion.
+Invested funds as on 30th September stood at `592.9 billion.
+The Board has recommended an interim dividend of `8 per share.
+Over to you, Milind.
+Milind Lakkad: Thank you, Samir. On the people front, our investments in capacity building and organic
+talent development allowed us to achieve our strong business growth with relatively
+modest net headcount addition.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+In Q2, we added 9,840 employees on a net basis, bringing our workforce strength to
+616,171 as on September 30th. It continues to be a very diverse workforce with 157
+nationalities represented and with women making 35.7% of its base.
+On the learning front, TCS clocked 11.7 million learning hours in Q2, resulting in the
+acquisition of 1.5 million competencies.
+Our FY 23 fresher onboarding is proceeding as per plan. In keeping with our culture of
+being committed to our employees, we have honored all offers we had made and have
+onboarded 35,000 freshers in H1 and with 20,000 brought onboard in Q2 alone.
+The TCS employer brand continues to shine strongly helping us attract the best talent
+across the world. We launched the TCS National Qualifier Test for FY 24 on August 15th
+and received an overwhelming response with half a million registrants, an all-time high.
+Industry-wide churn continue to be high in Q2. Our LTM attrition in IT services inched up
+further to 21.5%. That said, the technology job market which had overheated in the last
+few quarters has begun to cool off, and compensation expectations of new hires are also
+becoming more realistic. With supply catching up across the industry, the pressure to
+poach experienced talent is easing. So, we should start seeing the churn settle in the
+coming months. Based on the monthly trends, we believe our quarterly annualized
+attrition figure has peaked in Q2 and should start moderating in the second half.
+Lastly, we continue to be benchmarked with the best employers globally for our
+workplace practices, and policies. In Q2, we won more than 50 awards globally across
+various aspects of HR value chain, including our work towards gender equity.
+Over to you, NGS for some color on our segments and products and platforms.
+N G Subramaniam: Thank you, Milind. Let me walk you through our segments and performance details for
+the quarter. All growth numbers are on year-on-year basis and constant currency terms.
+All our industry verticals grew strongly in Q2. Growth was led by Retail and CPG which
+grew 22.9% after a similar strong double digit growth last quarter. Growth is being driven
+by ongoing spending by retailers towards making their supply chains more agile and
+resilient, and improving the shopping experience for their customers. We've also seen
+an uptick in the travel, transportation and hospitality sector, driven by increased
+investment in resilient operations.
+Communications and Media grew 18.7% driven by investments around 5G and delivering
+personalized offerings to consumers.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Technology and Services vertical grew 15.9% while Manufacturing as well as Life
+Sciences and Healthcare both grew 14.5%.
+BFSI, our largest vertical grew 13.1%, powered by strong spending on cloud, data
+analytics and customer experience.
+Let me now walk you through the growth figures by geography.
+Among major markets, North America led with 17.6% growth, UK grew 14.8% while
+Continental Europe grew 14.1%.
+In emerging markets, India grew 16.7%, Middle East & Africa grew 8.2% and Asia Pacific
+grew 7%.
+It is befitting that Latin America led with 19% growth in Q2. During the quarter, we
+celebrated the completion of 20 years of TCS’ presence in the region. In these two
+decades, our business across the region has grown significantly, catering to the local
+market, as well as serving as a near shore center for North American clients.
+Moving on to our Products and Platforms, they did really well in Q2.
+Ignio™, our cognitive automation software suite signed up four new customers and three
+clients went live during the quarter. TCS filed two patents around ignio during the quarter
+and was granted one. The market demand for ignio-trained professionals continue to
+grow. The number of ignio trained professionals now stands at 16,398. The number of
+ignio certified professionals is at 6,984 to-date.
+A large American technology company specializing in consumer electronics, software,
+online services, and mobile phone manufacturing extended ignio AIOps’ event
+management capabilities to their supply chain. This eliminated duplicate alerts and
+processed genuine alerts, giving SMEs more time to focus on real issues, thereby
+reducing overall resolution time. The tool has handled over 25,000 alerts since
+implementation. 33% of these were suppressed and 66% were triaged to operations as
+legitimate alerts.
+TCS BaNCS™, our flagship product suite in the financial services domain had four new
+wins during the quarter. One of the world's largest investment management companies
+based in the US, offering a broad selection of investment advice, retirement services and
+insights to individual investors, institutions and financial professionals, has selected TCS
+BaNCS Wealth Management for their retail business.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+One of the UK’s leading insurance organizations went live with the TCS Insurance
+platform, migrating 2.3 million policies onto TCS BaNCS this quarter. This is the largest
+ever policy migration in the UK life and pensions industry, and a major milestone in the
+customer’s simplification journey towards eliminating aging legacy systems.
+Our Quartz™ blockchain platform had two new wins and one go live in Q2. Quartz has
+been selected by a large electricity provider in North America to establish a private
+permission blockchain to track and manage energy consumption and renewable energy
+certificates allocation among multiple smaller entities. The initial pilot will demonstrate
+the ability of blockchain to bring different entities together on a shared ledger and track
+the actual energy consumption vis-à-vis the contracted quantity, automate the issuance
+of renewable energy certificates using smart contracts and enable real-time tracking of
+the certificates issued.
+In life sciences, our award winning Advanced Drug Development suite had one new win.
+We onboarded a top five pharma major on our Supply Management Platform, part of the
+CCT suite, to deliver real-time insights into patient medication adherence.
+TCS TwinX™, our AI-based digital twin solution, continue to gain ground in various
+industries, helping clients carry out complex what-if analysis and take informed business
+decisions. In Q2, we had two wins and three go lives for the TwinX platform.
+TCS Optumera™, our AI-powered retail merchandising suite went live with two of our
+clients.
+TCS iON™ had eight wins in this quarter and is seeing increasing demand and familiarity
+among educators for the ability to author question papers and auto or manually mark
+responses. In Q2, we served 150 assessment customers and administered 300 exams
+to around 6.6 million candidates.
+Over 1,170 corporates now leverage the TCS National Qualifier Test as their entry level
+recruitment platform and over 3,150 candidates have gotten placed till date.
+TCS' MasterCraft had 23 new wins this quarter, including 10 new clients and 13
+renewals.
+In terms of client metrics, these metrics are an important validation of our customer-
+centric business model. The customary practice has been to report these figures based
+on US dollar translated revenues.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+With sharp currency volatility of the kind we saw in Q2, the print numbers of clients in
+non-US dollar markets may get underreported due to currency deflation. Despite that
+headwind, we have good additions in every revenue bucket in Q2 compared to the year
+ago.
+We added five more clients in the $100 million plus band, bringing the total to 59. We
+added 10 more clients in the $50 million band, bringing the total to 124. We added 36
+more clients in the $20 million plus band, bringing the total to 283. We added 38 more
+clients in the $10 million plus band, bringing the total to 455. 41 more clients were added
+in the $5 million band, bringing the total to 650 and 72 more clients in the $1 million plus
+band, bringing the total to 1,210.
+Overall, it has been a very satisfying quarter from an operations perspective.
+Let me now request Rajesh to speak on the demand drivers during the quarter.
+Rajesh Gopinathan: Thank you, NGS. Before I get into the demand drivers, let me spend a minute talking
+about the demand environment and mood among clients.
+Despite growing news flow around a possible economic slowdown across the world and
+client concerns over how that might affect their businesses, we haven't seen any change
+in their spending on us so far. As you could see from the growth figures, demand for our
+services continues to be strong in Q2 across all verticals and all markets even in
+Continental Europe and UK, where the pessimism levels are at the highest.
+Project ramp-ups proceeded as scheduled, and we're not seeing any delays or
+cancellations. Deal closures also remained strong in Q2.
+That is not to say that the deteriorating macro had no impact at all. Clients have become
+more cautious when committing to longer-term investments. Some of the larger
+transformation programs are seeing prioritization of projects that offer quicker wins
+versus those with longer term paybacks. Many of our clients are also working on plans
+for various economic scenarios for next year. We have also seen some sporadic
+instances of delayed decision-making on new deals. Those apart, clients have been
+telling us that even if their business outlook changes over the next few months for the
+worst, technology will be one of the last areas to be impacted.
+The big driver of demand in this quarter was the continued investment by our clients on
+cloud transformation. The scale, breadth and depth of our cloud expertise, deep domain
+knowledge, strong partnership credentials with the hyperscalers and our portfolio of
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+intellectual property on the cloud, make us one of the largest beneficiaries of this
+opportunity.
+We are now seeing client focus shift to execution of the transformation agendas
+announced earlier, and this plays to our strengths. We have seen instances where clients
+are unable to leverage the flex capacity of the cloud until they shift a larger portion of the
+workload and they are seeking our help in accelerating that move.
+Further, many organizations which rushed to move their workloads to the cloud without
+sufficient planning and controls in place, are now discovering that they are not only losing
+out on the economic benefits of the hyperscaler clouds, but are actually incurring higher
+costs than they did with their own data centers.
+Such clients are very open to our proactive proposals with our FinOps advisory offerings
+to help optimize their spends on the cloud, and our cloud orchestration services powered
+by TCS Cloud Exponence™, our multi-tenant cloud delivery platform to help them
+seamlessly and optimally manage multiple environments spanning public, private and
+hybrid clouds.
+We won several cloud transformation deals in Q2. For example, we were selected by a
+leading American biopharmaceutical company as a transformation partner to modernize
+their technology estate. We will build for them a next-gen operating model leveraging
+cloud, agile, DevSecOps, and cloud-native technologies that will help them enhance
+enterprise resilience, accelerate the pace of innovation and improve the customer
+experience.
+In addition to the migration of workloads to the cloud, several clients engaged us in Q2
+to architect advanced analytics, leveraging cloud native capabilities to help them launch
+new products, understand the customers better, and deliver a richer customer
+experience.
+For example, for a large UK bank, we proposed a transformation solution entailing the
+design of an enterprise data fabric architecture that enables advanced analytics at scale,
+leveraging our deep contextual knowledge, portfolio of tools and accelerators and
+hyperscaler cloud expertise. This will help the bank drive more personalized products
+and services, understanding the customers financial needs at various life stages and
+deepening relationships with customers thereby propelling growth for the bank.
+Similarly, a leading American hotel and motel operator, engaged us to develop an
+advanced cloud analytics solution to help transform customer and agent experience by
+consolidating and harmonizing data from across their enterprise.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+The economic uncertainty is also resulting in greater interest from clients in our Machine
+First™ approach to transform their IT and business operating models.
+You might recall from my earlier commentary on this topic, that this approach basically
+entails embedding AI and machine learning deep within an enterprise to create leaner,
+more agile and resilient operations, which can flex up or down depending on the business
+environment, and whose efficiency gains can fund some of their front office
+transformation initiatives.
+We had several such wins this quarter of which I will mention only two.
+We were engaged by Xerox for their enterprise-wide business transformation journey to
+enhance their competitiveness and power their growth. TCS’ Cognitive Business
+Operations, and Xerox’ Centers of Excellence embarked on multiple transformation
+initiatives across the various business functions, including finance and accounting.
+The digital transformation program powered by TCS Cognix has automated the
+processing, improving speed, accuracy and throughput. Its AI-powered dashboards and
+various analytical models equip the finance function with intelligent and real-time insights
+for decision-making. This has resulted in a positive impact on the cash flow, and
+significantly improved operational efficiency.
+A European industrial tools manufacturer chose us to transform their service desk
+operations. We will leverage cognitive technologies and implement a leading employee
+experience platform for auto-healing of user issues and improve user experience.
+Coming to the third driver of demand, it is what we broadly classify as growth and
+transformation. What stands out in these engagements is the value of our deep
+contextual knowledge of our clients’ business and technology landscapes and our highly
+collaborative inside-out approach to transformation. This results in impactful
+transformation solutions that don't face traditional organizational resistance to change
+and get us much appreciation from the management teams.
+Let me illustrate this with three examples:
+We have been working closely for over a decade with a leading bank in North America
+that services the startup and innovation industry. Our deep contextual knowledge of the
+business gained over these years has made TCS a trusted advisor to their growth
+journey towards becoming a large financial institution.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+To support the business expansion and to effectively prepare them for a transition from
+a category-IV to a category-II bank, which was as required by regulators given their
+significantly fast growth, TCS helped them conduct a detail risk and regulatory
+assessment and prepare a roadmap to meet the regulatory requirements related to
+liquidity, market and credit risk. This entailed reimagination of the overall business
+framework for the treasury and capital markets swap dealer business for the bank.
+TCS led the discussions with the bank to define the target state business architecture,
+solution architecture and implementation roadmap. We brought in actionable points of
+view, best practices recommendation, and presented a tactical as well as a strategic
+approach to the solution implementation.
+As a business outcome, the real-time liquidity monitoring and management is expected
+to reduce the nostro buffer for the bank by more than 40% and ensure compliance to
+enhanced regulatory requirements. The target reference architecture is expected to bring
+down the time-to-market by 10% to 15%.
+Similarly, we're working with a large pharma and medtech company to reimagine
+discovery and development of therapies by blending science, data science, and
+emerging technologies. We have developed an advanced AI and model-based adaptive
+risk monitoring solution with a predictive engine to predict risk mitigation insights for
+clinical risk management. The solution was co-created with the client and is now part of
+the TCS ADD platform.
+We are also a strategic partner supporting the digital surgical platform for their medtech
+segment. The platform is in an early stage of evolution and has foundational capabilities
+of edge connectivity, analytics and AI suite with an objective to provide capabilities to
+launch specific use cases for connected digital surgeries.
+A third instance is where TCS led the transformation of the space, range and display
+capabilities for Marks & Spencer, enabling it to improve customer choice while optimizing
+the range of products based on local consumer demand. This is achieved through
+automated data-driven range decisions, and by producing over 12,000 live store-specific
+planograms.
+By enhancing the accuracy of floor plans and equipment into the planogram fixtures, our
+solution ensured that the optimized display plan could be faithfully implemented in the
+stores. This transformation helped M&S meet local demand, improve availability, reduce
+waste and improve profitability and align future business goals and the food retail
+strategies.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Our deep domain knowledge is placing us at the heart of industry-level transformations
+across multiple industry verticals. One such industry that is going through a tremendous
+amount of technology-led transformation is the utility sector, at an industry level, as well
+as at the level of individual enterprises. Almost every quarter, I've shared examples of
+transformation work we're doing in this sector.
+In Q2 last year, I'd spoken about five-minute settlement solution that we built for the
+Australian Energy Market Operator, that is helping spur innovation in that market and
+lower costs for consumers. This time I want to highlight a transformation in the UK gas
+market.
+The UK energy regulator introduced a program for faster and more reliable supplier
+switching option for energy consumers with a new centralized switching service, to
+facilitate competition and deliver better outcome for consumers.
+TCS worked with Xoserve, the central data service provider for the UK gas market to
+design and deliver a complex solution that transforms core business processes like
+switching and contract creation, settlement, device update and maintenance, meter
+reading, billing, delivery and others, leveraging a leading hyperscaler ERP solution.
+TCS’ deep domain expertise and technology expertise were critical in delivering the
+solution capable of processing 150,000 switches in under 30 minutes. The solution
+allowed the transition and migration of 24 million UK gas meters’ data to enable CSS
+switching activity. The solution went live in Q2. With the new solution, the 14-days that it
+took to switch a supplier has now been reduced to just one day.
+Similarly, last quarter I'd spoken about a Fortune 500 electric and gas utility that
+partnered with us to launch a new business model to generate new revenue streams
+based on home energy services. Let me share one more example along similar lines.
+Engie France, the leading utility retailer is transforming its business model by expanding
+from a commodity-based business of gas and electricity to a new service-oriented model
+of smart home solutions, offering to drive energy efficiency for consumers and ensuring
+sustainability.
+TCS partnered with Engie right from the conceptualization, design and proofs of concept.
+Leveraging our deep domain knowledge and expertise in core ERP, we developed a
+solution for subscription in CRM with incentive and promotion management, and
+integrated billing for service and energy-commodity charges in a consolidated invoice.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+This offering has been launched in the market and has received a very positive response,
+improving customer satisfaction and growing market share for Engie.
+I'd mentioned in earlier calls that many of our G&T engagements are business model
+innovations. Let me share three such examples of business transformation solutions that
+went live in Q2.
+An American multinational conglomerate engaged us to build a comprehensive asset
+performance management solution that they will market to their industrial and warehouse
+customers.
+The cloud-based IoT platform we built for them ingests real-time data from various assets
+and enables new value-added services around improved asset visibility, monitoring
+capabilities, and predictive insights, leading to improved asset performance, optimized
+operations, increased plant availability and higher throughput for their end-customers,
+and new revenue streams for our client.
+Ingram Micro, one of the largest technology distributors in the US, engaged us as a
+partner to power their pivot into e-commerce and achieve their mission to transform from
+a traditional distributor to a platform company that does distribution.
+We built them a new digital experience ecosystem platform connecting their customers,
+vendors and associates. It reimagines the customer journey, making it frictionless and
+highly personalized, with conversational experiences, and an AI-powered
+recommendation engine that enables intelligent bundled offers.
+Similarly, Tapestry Inc. – a leading New York-based house of iconic accessories and
+lifestyle brands, consisting of Coach, Kate Spade, & Stuart Weitzman – partnered with
+TCS to drive their omnichannel modernization, implementing order management for its
+brands to help increase net incremental growth and improve customer satisfaction. This
+partnership created a flawless omnichannel order fulfillment and improved customer
+journey experience.
+So, overall, these examples give you a flavor for the kind of services and the kind of
+opportunities that we're able to address across our customer and market landscape.
+Coming to our order book, we again had a strong set of deal wins in Q2, amounting to a
+TCV of $8.1 billion. By vertical, BFSI had a TCV of $2.3 billion, while retail order book
+stood at $1.6 billion. The TCV of deals signed in North America stood at $4.3 billion.
+Interestingly, while the pessimism around the macro is possibly highest in UK and
+Europe, our order book there is stronger in Q2 than in Q1.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+While the strength of our order book as well as the pipeline for Q3 is somewhat
+comforting, given the volatility, we remain very vigilant and are staying very close to our
+clients.
+With that, we can open the line for questions.
+Moderator: We will now begin with the question-and-answer session. First question is from the line
+of Kumar Rakesh from BNP Paribas. Please go ahead.
+Kumar Rakesh: My first question was specifically around European geography and UK. In this quarter on
+a CC YoY basis also, we saw a pretty robust growth of 14% to 15%, which is a higher
+growth compared to how we reported last quarter. One of our larger peers who recently
+reported also saw pretty strong growth in Europe and talked about double-digit growth in
+their November quarter as well. Given the fear around macro economy being pretty
+severe in that geography, what is driving this much stronger growth in Europe despite
+those fears? Is there some structural growth drivers which we are now seeing in the
+European geography or the impact could potentially come with a lag?
+Rajesh Gopinathan: Rakesh, we have always maintained, and it has been borne out through the pandemic,
+that technology is at the core of solutions both on the growth side as well as on the
+consolidation and optimization side. So, technologies remains very core to business
+agendas for our clients across the full spectrum, across all markets. And we are
+benefiting from participating in that cycle.
+It’s very difficult for us to zoom out and comment on the macro situation. We can only tell
+you what is going on with the specific clients that we have. We are in no better position
+than you... you are, in fact, in a much better position than us to be able to take a call on
+the macro. This is what we see and we are running with it.
+In individual customer conversations, opportunities exist, but caution also exists. I called
+that out last time also that in executive conversations, people are talking about caution.
+We need to remain vigilant to see whether that will translate into the budgeting and
+planning cycle for next year, and what that implies for overall demand. We'll have to play
+it by the ear as it comes.
+Kumar Rakesh: My second question was around heading into December quarter, which is usually
+seasonally weak, are we getting any sense how the seasonality this time around? Could
+there be higher than usual seasonality or could it be the usual seasonality? In interacting
+with clients, how are they looking at their next year budget? Any sense on that could be
+very helpful.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Rajesh Gopinathan: Leaving aside the fact that Europe is in a fairly volatile situation, and this winter is going
+to be critical in Europe, our conversations with clients indicate regular seasonality. We
+have had extensive client interactions – we hosted our North American clients at our
+annual TCS Summit, and also had a series of client events across Europe. So, overall, I
+don't think there is any change to the seasonality patterns that we are picking up.
+However, this does not address the possibility of some severe shifts in Europe during
+the winter.
+Kumar Rakesh: And client interactions on next year's budget planning?
+Rajesh Gopinathan: Too early to take a call. We don't know. I mean, we get to hear of it only in the second or
+third month of the year, as it starts actually translating into projects. At this stage, we
+don't have visibility. As I said in the last call also, there is a cautionary stance that
+customers are talking about. They're talking about scenario planning. And the scenarios
+are more weighted on the downside than on the upside.
+Moderator: The next question is from the line of Sandip Agarwal from Edelweiss. Please go ahead.
+Sandip Agarwal: Although, you know it is very hard to comment on how things will pan out, but, Rajesh,
+is there any kind of caution which you're seeing in your discussions with the client,
+particularly from the US geography, because individuals in UK and Europe, traditionally
+we have seen the economic pressure generally results into some help for outsourcing
+because it is more cost effective in the past, but that correlation doesn't show up
+immediately in the US. So, what are you seeing, is there any kind of caution which clients
+are highlighting on the fears of recession or you're seeing any action into the direction
+when they are ordering? Have you seen any kinds of delays or anything which makes us
+more vigilant?
+Rajesh Gopinathan: In US we've not picked up any threats in terms of caution, I mean extra caution than what
+is normally expected. So, US is not showing anything particularly concerning. People are
+overall continuing to invest and normal seasonality should apply. Otherwise, we are
+seeing a fairly strong environment in US.
+Moderator: The next question is from the line of Sandeep Shah from Equirus Securities. Please go
+ahead.
+Sandeep Shah: Rajesh, last time in this 1Q conference call, you said that the trend of multi-tower
+outsourcing deals or multi-service transformational deals are going up, and you started
+signing more number of such deals. Is that trend continuing in this quarter as well? And
+also, with macro being concerning, do you witness this trend being higher in Europe as
+a geography, versus that of US?
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Rajesh Gopinathan: I'm sorry, I don't specifically remember exactly what I had said, but let me abstract and
+answer this. Operating model transformation as a demand driver has very strong trend
+and we are seeing multiple opportunities across all markets on operating model
+transformation.
+Operating model transformation is being characterized by a few very distinct points. One
+is the shift to what we call a vertical operating model, or a product-centric operating
+model, where tech and ops is being aligned very closely to business units and to
+business outcomes.
+The other big one is, of course, the adoption of agile and lean into everything in
+operations, even more importantly, significant leverage of our Cognix platform, which is
+powered by MFDM™. The embedding of automation at a granular level across
+enterprise’s operation suite, both on the tech side as well as on the operations side, is
+also core to the operating model transformation that we see.
+So, this kind of enterprise-wide operating model transformations continue to be a big
+driver of demand. The couple of examples that I had shared, Xerox and one of the others
+are examples of that. And that demand trend I think is quite strong and will continue to
+remain strong into the foreseeable future.
+Sandeep Shah: Is it fair to say in terms of what you said in an earlier question, in the second half
+seasonality could be normal especially in the US, but there could be some issues in the
+Europe and there could be significant shifts if the macro issues goes more concerning
+versus what you anticipate now?
+Rajesh Gopinathan: It's a prudent assumption. But from our side, we will remain focused on the opportunity
+on the ground, and we will deal with it one opportunity at a time. But at an overall level,
+it would be prudent to assume so.
+Sandeep Shah: And a last question to CFO as well. In this quarter, is there 100% variable pay being paid
+or there is some adjustment looking at the macro issues and could be an impending
+showdown, especially in the Europe?
+Milind Lakkad: We are going to pay 100% of variable pay for 70% of our employees. The remaining 30%
+will get paid based on the business rate performance.
+Sandeep Shah: This is for 2Q or this is for the rest of the FY'23?
+Milind Lakkad: No, no, this is for Q2.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Moderator: The next question is from the line of Ravi Menon from Macquarie. Please go ahead.
+Ravi Menon: Wanted to check about the strong additions in the 1 million and 5 million. I know we did
+make organizational change, but I guess it's too soon to see the impact of that. So, should
+we think of this as change in your go-to-market and trying to close a lot more of the
+smaller deals and is there more demand for digital transformation from the smaller firms
+because there might be laggards in this transformation?
+Rajesh Gopinathan: No, Ravi, this is just a bit of the impact of the currency volatility that you are seeing. Our
+client metric in non-US markets, APAC, LATAM, parts of Europe, etc., are more weighed
+towards smaller sized customers. And when we report those revenues in US dollar terms,
+they are getting significantly impacted by the strength of the US currency vis-à-vis the
+local currencies in these markets.
+So, although our business response is not going down, in the translation of revenues into
+US dollar terms, it is showing up that way. At the bottom of the pyramid, the impact is a
+lot more, because the non-US market is more concentrated at the bottom of the pyramid.
+So, it's a bit of a mathematics.
+We're also internally debating what is the best way to communicate this metric. But we
+also don't want to react immediately to this extreme cross currency volatility that we saw
+in Q2. But we'll put our heads together as to how to communicate this better in the future
+if required.
+Ravi Menon: And how should we think about the lateral hiring, being a little lower than the revenue
+growth, is just a reflection of expectation that the worst of the supply side challenges are
+behind us, and we can now improve utilization or should we think of this as linked to
+slightly softer demand visibility, or maybe a combination of both?
+Rajesh Gopinathan: Ravi, your question was about the headcount growth, right?
+Ravi Menon: Yes, that's a little lower than the revenue growth, I mean, we have seen that –
+Rajesh Gopinathan: Ravi, we have been significantly investing into headcount addition through last year. As
+you know, our headcount growth was close to 20% against revenue growth of about
+15%, and that we have built up a fair amount of headroom. So, you should expect that
+we will be using that lever a bit more as we go into this year, and try to balance our overall
+headcount to our overall revenue from a longer-term perspective. So, it's in line with our
+plan, and into that environment, we've significantly invested, and we are now reaping the
+benefits of that investment, as many of those early hires become productive into this
+cycle.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Moderator: Next question is from the line of Gaurav Rateria from Morgan Stanley. Please go ahead.
+Gaurav Rateria: Two questions. Firstly, is it fair to assume that the book-to-bill in Europe would have
+improved on a quarter-on-quarter basis, basis the commentary that you made and how
+the pipeline replenishment has happened in Europe after the deal wins concluded?
+Rajesh Gopinathan: We typically desist from giving you incremental metrics, because that sets a precedent.
+But when you take Europe and UK together, yes, the book-to-bill has improved. But the
+actual growth of the pipeline is more than the growth of our qualified pipeline. So, you
+are seeing some amount of elongation of the deal pipeline between total pipeline and the
+qualified pipeline. Now, these numbers are volatile because it can change depending on
+how the environment changes, but that's where we are.
+Gaurav Rateria: Secondly, in last quarter, you talked about revenue productivity getting impacted as you
+created capacity. So, has that got sort of sorted out and you saw some improvement in
+revenue productivity, which also had margins and should this be seen as one of the
+levers for second half in terms of margin performance on revenue productivity side?
+Rajesh Gopinathan: The way to think about is it is not in terms of a short-term margin lever, but as a strategic
+call we have taken to significantly expand our employee onboarding, especially on the
+entry-level employees. We had hired close to 120,000 freshers last year and invested
+into that pool given the longer-term visibility that we have on demand. We will tweak our
+employee model on an ongoing basis looking at the demand. So, that is a reasonable
+expectation, but our overall hiring model is predicated on much longer cycles rather than
+on short term, quarter-on-quarter adjustments.
+Moderator: The next question is from the line of Manik Taneja from JM Financial. Please go ahead.
+Manik Taneja: Just wanted to pick your brains about the aspect that historically what we've seen is that
+we've improved our margins through periods of slow growth. Do you envisage something
+similar playing out going forward as well? And if you could also help us with the margin
+levers that you think will play out in the near-term given the fact that you've suggested
+that pricing increases is not universal and is still happening only in certain parts of the
+book.
+Rajesh Gopinathan: If we have strong visibility of low revenue growth, and we become much more careful
+and optimize it, but I think at this stage, I don't think we are at that point for us to be able
+to make a comment on that. So, margin optimization comes in more when there is good
+visibility on stable demand environments, and we use those periods to clean up on the
+margin side. Right now, whether we are at an inflection point or not, we'll know only in a
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+few quarters’ time. Otherwise, we'll continue to stay in the growth and investment mode.
+But short-term margin levers, I will hand it to Samir to talk about.
+Samir Seksaria: In the short-term between the quarters, we would expect to focus on our operating
+metrics. Utilization will continue to provide opportunity for optimization. Realization has
+improved this quarter and we’ll expect to leverage further on that. We will also enhance
+our rigor on execution. And as the headwinds start trending down, we should expect that
+to also support margins.
+Moderator: The next question is from the line of Apurva Prasad from HDFC Securities. Please go
+ahead.
+Apurva Prasad: Rajesh, while H1 bookings has held up above the 7 billion to 9 billion midpoint, how
+should we be thinking bookings trajectory for H2, more around the replenishment of the
+funnel of the qualified deal pipeline, any progression around that?
+Rajesh Gopinathan: Apurva, difficult to say. We are running at 1.2 times book-to-bill which is a fairly healthy
+rate to run at. And we can take a bit of volatility on that on a quarter-on-quarter basis.
+So, to take a near-term call on what will happen next quarter or the quarter after that,
+difficult for us to do. And more importantly, it does not have a significant impact on our
+business model, neither in our planning cycles or in our execution cycle. So, our focus,
+of course, will be to maximize and capture as much as we can. But it's not really a big
+factor that changes any of our planning scenarios.
+Apurva Prasad: Just to follow up on that, Rajesh, so this 1.2 book-to-bill from a medium-term perspective,
+is that the number to build?
+Rajesh Gopinathan: Apurva, I don't want to get drawn out on that.
+Apurva Prasad: On the supply side, Rajesh, any comments on the learning hours which had a decline
+YoY for Q2? And if you could also help us with the hyperscaler certification numbers, the
+number that was 71,000 last quarter?
+Rajesh Gopinathan: Learning hours to some extent is impacted by the volume of freshers coming in. As you
+know, we had a very large volume of freshers coming in over the last couple of quarters
+which has moderated over the last two quarters. So, that will have a flow through impact
+on the learning hours. As we went in through the reorganization, that also had some
+impact. But at an aggregate level, our focus on reskilling and training and investing into
+people continues at scale and there is absolutely no change in it.
+Apurva Prasad: And hyperscaler certification number?
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Rajesh Gopinathan: I don't know whether we give that out. It is available in whatever forum it is given, and
+you'll find it there.
+Moderator: The next question is from the line of Bharat Sheth from Quest Investment Advisors.
+Please go ahead.
+Bharat Sheth: Rajesh, can you give a little bit more color on products and platforms, which I understand
+is contributing around mid-teen kind of total revenue and since we are moving towards
+more on migrating to SaaS business, is the revenue recognition a bit slow and when do
+we expect that to catch up, and what could be the margin lever in this business?
+N G Subramaniam: Overall, the products and platforms business is quite stable. The number of opportunities
+that come our way across verticals and across the solutions that we have is looking good.
+The business model has certainly transformed itself into a pure play SaaS-based
+operating environment. Without any exceptions, every opportunity that we bid for, is for
+a SaaS-based offering. So, if you really look at it, we have also transitioned, I should say
+beautifully, from a license-based, on-prem, AMC kind of a model to a pay-per-use SaaS
+model in the last two years.
+All our products and platforms are now available on a cloud platform. It's either installed
+in our own cloud environment, or with some of the platforms, we've also chosen to
+operate in a hyperscaler cloud. In either of these cases, the key thing is that the SaaS
+model is prevailing.
+The way that we monitor it now is with the ARR or the annual recurring revenue that is
+contracted. That is the metric we are monitoring and with which we are measuring our
+own performance, as opposed to the earlier way of what is the license fee, what is the
+AMC, what is the services element to it and so on and so on. So, it is maturing.
+And our products and platforms business itself has matured with the whole environment
+of onboarding the clients on a single instance SaaS. Some of the things that we are
+seeing developed is the data privacy element, the data localization element. For
+example, in Europe, the data residency increasingly is becoming a necessity to be
+located in Europe. These are the things that are getting sharpened as I speak. But
+overall, it's a good growing business and the ARR metric is going to become increasingly
+relevant. At some stage, we hope we'll be able to start reporting separately on ARR basis
+as we mature our model.
+Bharat Sheth: And what are the margin levers you have in this business?
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+N G Subramaniam: Margins essentially depend on the business volume of transactions that they are going
+to put in. It varies. Efficiency is going to come from the fact that we're not going to be
+doing too much customization. People are going to be using the products and platforms
+more as a COTS model. So, you don't have to maintain too many customer-specific
+customizations at any point in time. That is going to be run efficiently.
+Secondly, our own support model is going to be heavily optimized, and it's going to be a
+lot more standardized.
+Thirdly, the product release cycles are going to be a lot more standard, and we will be
+able to define it rather than defined by customers at every instance. These are the things
+that I see at an operating level.
+And as we add more optionality to the offerings, in the sense that, look, I can give you
+the standard platform, but there are certain additional services that I can bring in, for
+example, client reporting. Either customer can take data and then do it themselves, or
+for example, as a value added service we can provide client reporting separately. Or a
+certain amount of analytics they can do themselves or they can come and leverage our
+value-added services for that. So, it’s a standard service, value added service,
+efficiencies that come through a standard way of product management, product releases
+and upgrades, all this will contribute to the margins.
+Moderator: The next question is from the line of Rahul Jain from Dolat Capital. Please go ahead.
+Rahul Jain: Just on the subcon side and on the global hiring side, subcon cost has been going up, of
+course, for the supply side factors. But given the expectation of a relatively better supply
+environment in the global market, is that going to change the subcon cost as well as
+direct hiring outside India?
+Samir Seksaria: I'll answer first on the subcontractor cost. So, as you would have seen, subcontractor
+cost has started trending downwards. Most of the subcontractor cost increase was on
+account of two factors. With borders opening up and visa availability in most countries
+improving, we would expect subcontractor costs to start trending down. Also, as the
+headwinds from attrition eases, we would expect the use of subcontractors also to trend
+downwards.
+Rahul Jain: Will we be incrementally using it as a metric given the macro remains uncertain?
+Moderator: Mr. Jain, please use the handset mode the audio is not coming clear from your line.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Rahul Jain: So, is it safe to assume that subcon cost may not go down substantially in near future
+even if supply side eases out, because it may be a good margin lever to have in case
+the macro weakens? This could be a good alternative to manage the demand and supply
+situation better, or it should ease out irrespective of it?
+Samir Seksaria: We will try to balance it and it would be a dynamic thing. If demand continues to be
+strong, we would try to capture the demand first, rather than optimizing the subcontractor
+cost. That's the lever which we know how to use and will optimize as and when need
+arises.
+Moderator: Ladies and gentlemen, that was the last question for today. I now hand the conference
+over to the management for closing comments.
+Rajesh Gopinathan: Thank you, operator. We had a very good second quarter growing 18% in INR terms and
+15.4% in constant currency. Our growth was strong across all our industry verticals and
+all our markets.
+Importantly, we had a good order book once again. While clients continue to worry about
+the uncertain economic environment and are planning for different scenarios, we are not
+seeing any material change in client spending behavior.
+There are some sporadic instances of delayed decision making. But those happen at
+normal times too, so it's hard to pin this down specifically to the economic environment.
+Our operating margin expanded sequentially to 24% and our net margin expanded to
+18.9%. On the people front, the capacity we built up over the last few quarters and our
+investment in organic talent development is helping us meet this demand.
+Our attrition inched up to 21.5% in IT services on LTM basis. However, we believe the
+situation is easing, and that our quarterly annualized attrition has peaked this quarter,
+and will start tapering off going forward.
+With that, we wrap up our call. Thank you all for joining us on this call today. Enjoy the
+rest of your evening or day and stay safe.
+Moderator: Thank you members of the management. On behalf of TCS, that concludes this
+conference call. Thank you for joining us and you may now disconnect your lines.
+: 
+Tata Consultancy Services Q2 FY23 Earnings Conference Call
+October 10, 2022, 19:00 pm IST (09:30 hrs US ET)
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the
+proceedings.
+:

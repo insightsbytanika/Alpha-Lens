@@ -1,0 +1,1350 @@
+TO ALL STOCK EXCHANGES
+BSE LIMITED
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+NEW YORK STOCK EXCHANGE
+April 19, 2022
+Dear Sir/ Madam,
+Sub: Transcripts of the press conference and earnings call conducted after the meeting
+of board of directors on April 13, 2022
+Please find enclosed the transcripts of the press conference and earnings call conducted after
+the meeting of board of directors on April 13, 2022, for your information and records.
+This information will also be hosted on the Company’s website, at
+https://www.infosys.com/investors/reports-filings/quarterly-results/2021-2022/q4.html
+The audio/video recordings of the press conference and earnings call are also made available on
+the Company’s website, at https://www.infosys.com/investors/reports-filings/quarterly-
+results/2021-2022/q4.html
+Thanking you,
+Yours sincerely,
+For Infosys Limited
+A.G.S. Manikantha
+Company Secretary
+Infosys Limited
+Earnings Call Q4 FY22
+April 13, 2022
+CORPORATE PARTICIPANTS:
+Salil Parekh
+Chief Executive Officer & Managing Director
+Nilanjan Roy
+Chief Financial Officer
+Sandeep Mahindroo
+Financial Controller & Head, Investor Relations
+ANALYSTS / INVESTORS
+Ankur Rudra
+JP Morgan
+Moshe Katri
+Wedbush Securities
+Nitin Padmanabhan
+Investec
+Keith Bachman
+BMO Capital Markets
+Sudheer Guntupalli
+Kotak Mahindra AMC
+Divya Nagarajan
+UBS
+Pankaj Kapoor
+CLSA
+Vibhor Singhal
+Phillip Capital
+1
+Ravi Menon
+Macquarie
+Jamie Friedman
+Susquehanna
+Kumar Rakesh
+BNP Paribas
+Sandeep Shah
+Equirus Securities
+2
+Moderator
+Ladies and gentlemen good day and welcome to the Infosys Earnings Conference Call. As a
+reminder, all participant lines will be in the listen-only mode and there will an opportunity for
+you to ask questions after the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing “*” then “0” on your touchtone phone.
+Please note that this conference is being recorded. I now hand the conference over to Mr.
+Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Hello, everyone, and welcome to the earnings call to discuss Q4 FY2022 earnings release. I
+am Sandeep from the Investor Relations team in Bangalore. Joining us today on this earnings
+call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; along with other members of
+the senior management team. We will start the call with some remarks on the performance of
+the company by Salil and Nilanjan. Subsequent to which we will open the call for questions.
+Please note that anything that we say, which refers to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risk that the company faces. A
+full statement and explanation of these risks is available in our filings with the SEC, which
+can be found on www.sec.gov.
+I would now like to turn it over to Salil.
+Salil Parekh
+Thanks, Sandeep. Good morning, good afternoon, and good evening to everyone joining on
+the call. Thank you for taking the time to join us today.
+We have had an exceptional year with an annual growth of 19.7% in constant currency terms,
+which is the fastest growth we have seen in 11 years. We are gaining market share. We are
+building on our leadership in cloud and digital, and we are a part of more and more programs
+that our clients are looking at in digital transformation.
+3
+Growth was broad-based across business segments, service lines and geographies. Each of
+our business segments grew in double digits. The top 3 grew in high teens, U.S. and Europe
+grew over 20%. The North America region crossed $10 bn in revenue, while Financial
+Services crossed $5 bn revenue milestones.
+Our digital revenues now account for 59.2% and grew at 41.2% for the year. Our digital
+revenues crossed $10 bn annualized on a run-rate basis. Within digital, our cloud work is
+growing faster, and our Cobalt Cloud capabilities have seen significant traction with our
+clients.
+Our growth has been accompanied by robust operating margins of 23.0%. We delivered these
+margins while maintaining focus on our employees with increased compensation and
+benefits.
+Our large deal wins were at $9.5 bn for the full year and were $2.3 bn for Q4. Our net new
+percentage was 40% for the year and 48% for Q4, helping us set up a strong growth
+foundation for financial year 2023.
+Our Q4 revenue growth was 20.6% YoY and 1.2% QoQ in constant currency terms. Our
+industry-leading performance in FY2022 would not have been possible without the relentless
+commitment from our employees. I am extremely proud as well as grateful for the
+extraordinary efforts in delivering success for our clients.
+Our last 12 months' attrition increased to 27.7%. Our quarterly annualized attrition declined
+by approximately 5 percentage points on a sequential basis.
+We recruited 85,000 college graduates in this financial year. In the fourth quarter, we had a
+net addition of 22,000 employees. We have an overall strong recruitment program. This is a
+reflection of our enhanced recruitment capabilities, solid brand and deep penetration into
+various talent markets. This increases our comfort to support clients in their digital
+transformation agenda as we look ahead.
+We have initiated our compensation review exercise for this financial year. We have planned
+this exercise so that we can focus on employee segments that need greater attention while
+also covering a broader group with regular increases. As in the past, we will look at
+4
+individual performance, skills and market benchmarks while determining individual
+compensation increases. We will focus on accelerated career growth, targeted development
+and opportunity to work on cutting-edge digital innovation globally.
+Our strategy launched 4 years ago has served us well. We have delivered industry-leading
+growth and industry-leading TSR.
+Looking ahead to the next phase to further enhance our leadership on the digital innovation
+curve, we plan to expand our capabilities in scaling our cloud business, expanding digital
+capability, expanding on our automation work and increasing relevance with our large clients
+and tech natives and also strengthen our employee value proposition. Our focus on staying
+ahead in the cloud and digital ecosystem, the focus on our employees and the costs give us
+strong confidence for the future.
+Our sustained momentum in FY2022, large deal wins, robust deal pipeline and client
+confidence give us comfort to guide for 13% to 15% growth in FY2023 in constant currency.
+As we look ahead – as we build our new strategy, that is looking at cloud and the digital
+ecosystem, our focus on employees and the costs related to the post-COVID work
+environment, result in our operating margin guidance to be at 21% to 23% for FY2023.
+In terms of our business segment performance, let me go through the highlights by segment.
+Financial Services segment grew at 14.1% in constant currency, with 8 large deal wins during
+the quarter and 27 large deal wins in FY2022. Our US business continues to lead the growth
+as we work on large transformation programs. Our overall large deal pipeline in Financial
+Services is healthy across the regions.
+Retail segment growth was at 16.5% in constant currency. As clients focus on digital and cost
+takeout programs. We are seeing integrated outsourcing deals and transformation programs in
+the areas of e-commerce, revenue growth management, supply chain, product life cycle
+management. We won 16 large deals from the segment in the last year and continue to have a
+healthy deal pipeline.
+5
+The Communications vertical grew strongly at 29.2% in constant currency. We see customer
+experience, IT and network simplification, lean and automated zero-touch operations, time to
+market and integrated data for digital enterprise as the key themes for clients in this segment.
+Energy, Utilities, Resources and Services segment growth increased further to 17.8% in
+constant currency. We see continued and increased emphasis on digital transformation,
+especially around customer experience, operational efficiency and associated legacy
+transformation. We won 4 large deals in the last quarter and 18 large deals in FY2022 from
+this segment.
+Growth in Manufacturing segment increased to over 50% in constant currency. There were 6
+large deal wins in this segment in the last quarter and 13 wins for the last year. We are
+helping clients across engineering, IoT, supply chain, cloud ERP and digital transformation
+areas.
+Hi-Tech growth accelerated further to 20.9% in constant currency. We have seen an increase
+in deals based on edge computing, digital marketing and commerce. Cybersecurity is another
+area of focus for clients due to increased threat perception.
+Life Sciences vertical grew by 16.2% in constant currency. Clients are driving digital
+transformation of clinical trials to reduce cycle times through direct data capture, digital
+patient engagement to accelerate drug discovery, and reducing costs.
+In the last quarter, we were rated as a leader in 11 ratings in the areas of cloud services, big
+data and analytics, IoT and engineering, modernization and artificial intelligence.
+We announced the acquisition of oddity, a Germany-based digital marketing and experience
+and e-commerce agency. Together with Wongdoody, this will further strengthen our creative
+branding and experience design capabilities.
+With respect to capital allocation, the Board has proposed a final dividend of Rs.16 per share,
+taking the total dividend for financial year 2022 to Rs.31 per share, an increase of 14.8% over
+the past year.
+6
+I want to express Infosys' support for all the people impacted by the humanitarian crisis in
+Europe. The company advocates for peace between Russia and Ukraine.
+While Infosys does not have any active relationships with local Russian enterprises. We have
+a small team of less than 100 employees based in Russia, which service a few of our global
+clients. In light of the prevailing situation, we made a decision to transition these services
+from Russia to our other global delivery centers.
+To support this humanitarian assistance initiatives in the region, Infosys has committed $1
+million towards Ukrainian relief efforts and is launching a program to digitally reskill up to
+25,000 individuals.
+With that, let me hand it over to Nilanjan for his update.
+Nilanjan Roy
+Thanks, Salil. Good evening, everyone, and thank you for joining the call.
+We navigated yet another year of a challenging environment with strong growth of 19.7% in
+constant currency, which is highest in a decade. The incremental revenue added this year was
+higher than the incremental revenue added in the previous 3 years together. This was backed
+by broad-based growth across segments and robust growth in our digital portfolio at 41.2% in
+constant currency.
+Operating margin for the fiscal stood at 23.0%, which was at the midpoint of our guidance
+band of 22% to 24%. In the backdrop of various supply side pressures, we rolled out various
+measures to reduce attrition – higher compensation increases, higher promotions, skill-based
+interventions, etc. in addition to higher subcons.
+Free cash flows for FY2022 crossed $3 bn. DSO reduced by 4 days to 67 days. Capex
+increased marginally to $290 million on the back of continued focus on optimizing the infra
+creation-related spend. Consequently, FCF conversion as a percentage of net profit was 103%
+for FY2022.
+7
+FY2022 EPS grew by 14.3% in dollar terms and 15.2% in INR terms. Return on equity at
+29.1% improved by 1.7% over the prior year.
+Coming to Q4 performance -
+Revenues grew by 20.6% YoY in constant currency and 1.2% sequentially. Growth was
+broad-based across verticals and geos and was in double digits.
+Although volume growth remained healthy in Q4, revenue growth in Q4 was impacted by
+usual seasonality, COVID impact during the early part of the quarter and the client related
+contractual provision, which we expect to recover in the future. This also impacted Q4
+margins.
+Mining of large clients was extremely strong in FY2022. $100 mn client count increased to
+38 compared to 32 in FY2021. We had 12 clients giving $200 mn annual revenues compared
+to 7 in FY2021.
+We have added ~22,000 net employees, including trainees during the quarter, the highest ever
+in the company's history, as we made headroom to capture the robust demand environment
+ahead. Consequently, utilization in Q4 declined to 87.0% while on-site effort mix inched up
+to 24.0%. Voluntary LTM attrition increased to 27.7%. While LTM attrition continues to
+increase due to the tail effect, quarterly annualized attrition saw a decline of approximately
+5% after flattening in the previous quarter.
+Q4 margins stood at 21.5%, a drop of 200 basis points versus previous quarter. The major
+components of the sequential margin movement were as follows:
+- 1.6% impact due to lower calendar working days, client contractual provision as
+explained above and other pricing puts and takes,
+- 0.6% impact due to lower utilization as we create capacity for the future,
+- 1% due to higher visa costs, third-party costs and other one-offs, which we benefited
+in Q3,
+and these were offset by
+- approximately 1.1% benefit due to salary-related benefits, including lower working
+days, leave costs and others.
+8
+Q4 EPS grew by 9.2% in dollar terms and 13.4% in rupee terms on a YoY basis.
+Our balance sheet remained strong and debt-free. Consolidated cash and equivalents
+increased further to $4.9 bn at the end of the quarter. Free cash flow for the quarter was
+healthy at $761 million, and yield on cash balance remained stable at 5.29% in Q4.
+In line with our capital allocation policy, the Board has recommended a final dividend of
+Rs.16 per share, which will result in a total dividend of Rs.31 per share for FY2022 versus
+Rs.27 per share for FY2021, an increase of 14.8% per share for the year. Including the final
+dividend and recently concluded buyback over the last 3 years, we have returned 73% of FCF
+to shareholders under our current capital allocation policy.
+Our accelerated investments in the last few years in strengthening our digital footprint,
+enhancing large deal capabilities, localization, talent building has enabled us to gain
+consistent market share. With the acceleration of digital disruptions across industries, we see
+further scope to engage more closely with clients and capitalize on the expanding market
+opportunities.
+We have identified areas of investments, including doubling down our focus on digital
+portfolio, scaling our cloud offerings and further enhancing our capabilities in emerging
+technologies. We also remain committed to offer a compelling value proposition to
+employees through reskilling, incentivization and a holistic career growth. We plan to
+neutralize the impact of some of these through aggressive cost optimization and value-led
+pricing driven by service and brand differentiation. This, along with post-pandemic
+normalization of some expenses, like travel, facilities, etc, is reflected in the revised margin
+guidance for FY2023 of 21% to 23%.
+With the pandemic hopefully behind us, we hope to see many of you in person over the next
+few months.
+With that, we can open the call up for questions.
+Moderator
+9
+Thank you very much. We will now begin the question-and-answer session. The first
+question is from Ankur Rudra from JP Morgan. Please go ahead.
+Ankur Rudra
+The first question is on the revenue guidance. Last year at this time Salil, the revenue
+guidance was a bit low at the beginning of FY2022 and at that time I would say at least the
+order book was a lot stronger, you had a mega deal in the order book and perhaps a stronger
+exit rate. So curious to know, what gives the confidence of giving a slightly higher guidance
+at the beginning of this year, given, may be a more volatile macro situation.
+Salil Parekh
+Hi Ankur thanks for your question. What we see today is the demand environment from our
+client base is strong. We have for the year $9.5 bn in large deals, 40% net new, for the quarter
+$2.3 bn, 48% net new and a strong expansion in dimensions relating to new client work and
+relating to actual expansion across different strata. Given all those factors, we came to view
+that we could see growth in the range of 13% to 15% for this financial year.
+Ankur Rudra
+Understood this, does this bake in any kind of reversal that you alluded to from the client
+situation in fourth quarter?
+Salil Parekh
+The client situation of the fourth quarter will reverse over some period. We have not specified
+that. That reversal in any case is not such that will make a huge impact in the full year. We
+see this coming really from the strong demand that we are seeing within the market from
+what we are seeing in the existing base of business that we have, the expansion within clients
+that we are seeing and some of the new client acquisitions that we are witnessing. So, putting
+all those factors we came to this view.
+Ankur Rudra
+10
+Thank you, appreciate this. The follow up question is on margin. Maybe to start with could
+you elaborate the third-party cost which went up sharply this quarter and last quarter. Is this
+the sticky new level given the nature of deals you are signing? And as a connected question
+could you elaborate the cost that has been baked into to the 2023 guidance on margins
+including the wage inflation levels, the extent of the pace of the reversal or normalization of
+the cost base.
+Nilanjan Roy
+I think many of the large deals which we get is through bundling our services with the
+software and the allied services and that gives us a multiplier effect in the client landscape.
+And that you have seen over the last few years, so that is one of the reason also you have seen
+the cost increase and has helped us in the quarter and the year going forward.
+On YoY perspective for FY2023 we do not call out the wage impact. As Salil said, it will be
+a competitive compensation hike. We will differentiate hike in talent and in some places, it
+will be more broad-based and of course around that we have a lot of cost optimization which
+we usually do. Some of them in the year past were tailwinds; for instance the onsite offshore
+mix. But subcon became a headwind for us last year and some of these in a way will start
+going the other way in the following year. Of course, the wage hikes will hit us early on the
+year as well in quarter one itself, so that will be initial headwind, but we have seen the overall
+impact of our cost optimization.
+On pricing, we have started discussions as Salil mentioned earlier with our clients. Of course,
+this is a much longer haul, it happens more on T&M, renewals etc. But for FP side of the
+business these are much more longer-term discussions. And these are also competitively bid
+but I think the discussions have started. All of our sales people are actively engaged in this
+and looking at the overall demand and the supply front on this and we have started making
+head way on this.
+Ankur Rudra
+Thank you and best of luck.
+Moderator
+11
+Thank you. The next question is from the line of Moshe Katri from Wedbush Securities.
+Please go ahead.
+Moshe Katri
+Thanks for taking my questions. It would be great if you can give us some more clarity and
+the client specific contractual position that you mentioned is getting lot of questions from the
+investors. How does that impact the revenue numbers for the quarter. Is there a margin
+impact as well? I think any clarity is going to be really helpful. And this is a followup looking
+at the margin guidance for FY2023, I would see you have brought down by a 100 basis point.
+Are we assuming they picked up from the wage inflation here and then are we also assuming
+lower pricing power which is something that actually did help in terms of levers hardly for
+the past 6 to 12 months. Thanks a lot.
+Nilanjan Roy
+Moshe we heard the first question on the client contractual provision. Just to clarify this the
+numbers are very small. These are less than a percentage, so it is not a big impact overall as
+people are making it out. So we just want to close that out. It is not a big impact but less than
+1%. But since you are looking at revenue growth sequentially, I just wanted to call it out.?
+Moshe Katri
+The second question is to do with your margin guidance for FY23, does this actually factor
+an acceleration in wage inflation in FY2023 and maybe a lower pricing power also kind of
+not factored into those numbers?
+Nilanjan Roy
+Okay Moshe , I could make out something you said about of wage inflation as well. So yes,
+in Q1, we will do a compensation hike as well both offshore and onsite and like I said it will
+be competitive. We will benchmark this, differentiate on talent side as well. And that is
+something we have seen over the last year has helped us, especially towards people with the
+higher skills set, so that is working for us.
+12
+The overall margin guidance reflects a number of events. We talked about some of the
+normalization of the pandemic benefits we have got on travel and facility, and some of that
+we are seeing is going to come back. And secondly, we are seeing some of the headwinds in
+terms of onsite-offshore which we think we have got a large benefit last year. So, we have to
+see how this opens up in the rest of the year. On the other hand, with our recruitment engine
+really kicking up now, we have seen subcon cost has actually plateaued during this quarter
+and we think for the rest of the year we should be able to pull back cost on subcon line.
+Automation remains very core to us – cost optimization every year. We are speaking of
+automating between 3000 to 4000 people and putting in BOTS and this I am talking about for
+the quarter, So, we have comprehensive plans and we have talked about pricing as well. 21%
+to 23% is a reasonable margin band we think we are comfortable to operate in for the next
+year. If you recall even pre pandemic in a way, we were in at 21% to 23% as we ended
+FY2020 which was the year before pandemic at 21.3% if I am not mistaken. So, we are at
+21% to 23% and it is a comfortable range we are happy to be in.
+Moderator
+Thank you. The next question is from the line of Nitin Padmanabhan from Investec. Please
+go ahead.
+Nitin Padmanabhan
+Hi good evening just two questions from my side. The first one was on the guidance. So, if I
+understand right, typically you have a high visibility for the next two quarters and if I look at
+the last year net new deal wins, it is actually lower than the prior year. So I was just
+wondering is the mix of much smaller deals which do not reflect within the overall large deal
+win number that you are talking about, is that a much higher number, is that we should think
+about it? Second is the pipeline of larger deals that could come through that is giving the
+confidence or is it the smaller deals? so that was the first question.
+Salil Parekh
+Thanks for the question. We are not specifying today the different types of deals within the
+mix. Few points to give some color on it. First the pipeline that we see today is the largest
+13
+pipeline we have in terms of large deals so that gives us a good confidence. Our net new for
+the year is strong. We have good momentum exiting this financial year 2022, which gives us
+a good foundation for next year and we see continued traction within clients, as we are
+expanding as we are consolidating, as we are gaining market share, so that gives us added
+boost. Hopefully that gives you a little bit of color on that.
+Nitin Padmanabhan
+Sure. The second question was in terms of how are you seeing onsite wage inflation broadly?
+When you compare the prior year, do you see that at a much higher level for the industry in
+the US, just wanted your thoughts on that. And finally, any specifics on the financial services
+space which is relatively softer and for life sciences where we actually saw a sharp drop for
+the quarter?
+Salil Parekh
+On the wage inflation, outside India is definitely higher than what we were seeing last year
+and that will become a part of how we factor in our overall compensation increase. Wage
+inflation numbers in most of the western geographies are higher today than they were 12
+months ago.
+On financial services while in the quarter we saw the QoQ was lower, the overall demand
+environment remains very strong for us in this segment. We see a good pipeline there. There
+were significant large deal wins for the year and in the quarter and we remain confident with
+the growth in financial services. In life sciences conversely, we had in the previous quarter
+several onetime large deals and that is what made the QoQ look softer. It is a smaller unit for
+us. So, there is much more volatility in that, but the underlying demand in life sciences looks
+to be in good shape.
+Moderator
+Thank you. The next question is from the line of Keith Bachman from BMO Capital Markets.
+Please go ahead.
+Keith Bachman
+14
+I want to ask a question about what are your assumptions on attrition and utilization, how
+should we be thinking about those terms over FY2023 and specifically if you could correlate
+what is the impact in terms of your margin guidance that you provided here today of 21% to
+23%?
+Nilanjan Roy
+I think firstly on the utilization we are still at the higher end at 87%. We want to bring this
+down. Now having said that, a lot of this will happen through the influx of freshers. So it is
+not a dollar for a dollar in that sense. The utilization will start impacting by putting in more
+freshers who are at a lower cost, but will still have a margin headwind. But if you looking for
+a math behind it there is no straight correlation because it is not one for one in that sense. So
+that is first.
+On attrition, yes, we think that this should come down in the following year. The impact that
+we are seeing now – the impact of putting freshers in – not only by us, but by the entire
+industry because it was a rotational churn issue across the industry. As the industry puts in
+freshers, there is a new source of supply across the industry as well. And finally the
+intervention which we are doing now as well. So, that is all factored into our 21% to 23%.
+We are also looking at investments, like Salil said, around cloud, around digital capabilities;
+and therefore that is also baked into the next year’s guidance.
+Keith Bachman
+Okay just to clarify and then I will see the floor, does the attrition come down for the industry
+or Infosys or both.
+Nilanjan Roy
+It will be both, I do not think we are in a silo on the ecosystem, we are all interconnected. My
+attrition is somebody else lateral and somebody else’s attrition is my lateral and therefore if
+the industry has to come out of this it is fundamentally through volume. Volume has to be
+through fresher, there is no other source of volume. Therefore, as we start pumping in more
+freshers send them for training put them into the bench and then get them into production. I
+15
+think that cycle takes time, and you are already seeing the benefits of this – not only with us
+but also seeing that with the industry as well.
+Moderator
+Thank you. The next question is from the line of Sudhir Guntupalli from Kotak Mahindra
+AMC. Please go ahead.
+Sudheer Guntupalli
+Good evening gentlemen. Thanks for giving me the opportunity. Nilanjan as you made a
+comment that pre-pandemic we were at 21.3% margin and our current margin guidance band
+is also somewhere around that. So should we read this margin downgrade as more of a
+structural reset in the company’s aspirational profitability going back to pre-COVID margin
+levels or should we see this more of a onetime downgrade for FY2023 led by transient supply
+side pressures.
+Nilanjan Roy
+Yes, so as you know, we only give the margin guidance for the year – 21% to 23% and
+FY2020 operating margin was 21.3%. We will see where we end up, but the comfortable
+range for FY2023 is 21% to 23% - nothing more than that. Just talking about the investments
+we are going to make- not only on talent. This is a robust demand environment and we do not
+want to lose highly skilled talents. So, we are rolling out interventions there. We are rolling
+out intervention on the sales side, on the marketing side, on the digital, cloud. So, we have
+multiple interventions and we have seen the success of that over the last 4 years and this is
+also in front of you. That is something which we have looked at and baked into the margin
+for next year.
+Sudheer Guntupalli
+Sure Sir. An extension of this question, the current exit margin rate in March 2022 and
+margin downgrade for FY2023 it gives a bit of a deja vu feeling of the exit margin and
+guidance situation exactly 3 years ago in March 2019. In fact, we were not staring at so many
+margin headwinds like we are now barring a bit of an elevated attrition at that time. So my
+16
+question is, is it fair to assume that for the next four quarters margin trajectory will trace
+somewhat of a similar path like getting FY2020 where the current delta in growth will likely
+take care of the delta in margin headwinds or do you see any major divergences in terms of
+how the pattern will play out over the next four quarters.
+Nilanjan Roy
+So, yes like I said on the margin side we know there is going to be a Q1 impact. We know
+there are more longer-term cost optimizations we can resort to. So, I think it will be multiple
+impact of all this. And of course, growth will always help. And you've seen that the impact of
+growth on our operating leverage also has helped in the past. So, it's a combination of all this.
+Moderator
+Thank you. The next question is from the line of Divya Nagarajan from UBS. Please go
+ahead.
+Divya Nagarajan
+Thanks for taking my question and congrats on what has been a great year overall. Looking
+forward I think this question has been attempted in different ways by some of the earlier
+questions that came through, but if you were to kind of think about your guidance on revenue
+for the full year and think about what are the puts and takes in terms of any delta that you
+might see on demand, how comfortable do you feel that you have a cushion? If I also look at
+your past track record, you have taken up guidance pretty much every year consistently
+multiple times during the year. Is there enough buffer on both sides of the equation is my first
+question.
+Salil Parekh
+The way we looked at our growth guidance, we really try to take a look at where is the
+demand today, what we have done with large deals, what we are seeing across many of our
+accounts. For example, if you see some of the statistics that we share, number of accounts
+over $100 mn or $50 mn- they have seen big movements over the last 12, 24, 36 months. So
+we have some view of how that will move in the coming year and then how we are working
+17
+on new account acquisitions and focus on that. Those are the things we built in, to build the
+guidance and that is the approach we take every year and in April as we look ahead and then
+as the year moves, as we get other information we try to then see how best to communicate
+what we are seeing in the demand environment. It’s the same approach that we will follow.
+So, it is difficult for example to say what does it mean there is a cushion and not cushion
+because at this stage what we see is what we are sharing which is 13% to 15% on the growth
+and in every quarter with the broad-based connection we have with clients and interactions
+across the industry we will continue to share what we see with respect to the demand
+environment.
+Divya Nagarajan
+Got it and on the margin side I think you have spoken repeatedly about investments and the
+investments for future growth. If you were to split your margin you have taken your guide
+down roughly by a percent, could you split it into what could be the contribution of the
+investments and what is really the contribution of all the other metrics that you have talked
+about that are likely to reverse.
+Nilanjan Roy
+Yes, so like I said, every year we have headwinds on compensation, that is the biggest one.
+We have headwinds this year coming on the travel and the facility side as things open up.
+And then we have the cost optimization program which has been running quite well across all
+these years – automation, onsite-offshore, subcon – again which is also high, and then the
+investments which we are going to make. We will start the investments during the year and
+this will be on sales side, cloud capabilities, people incentives on higher skill sets. So, it is a
+combination of all this. We are not really calling out the separate impact and all of that has
+been considered into the margin structure.
+Divya Nagarajan
+Got it. My last question if I may. So should I assume that your increased visa cost that you
+have had, you have almost had like 1% impact in the quarter, the higher visa application is to
+18
+kind of offset some of the subcontracting pressures that you have had now with travel
+opening up in the western market.
+Nilanjan Roy
+Yes so as I mentioned, the impact in the margin walk was a combination of visa, third-party
+cost and another one off which we enjoyed in quarter three, that was altogether 1% in margin
+walk which I took you through.
+Divya Nagarajan
+Got it thanks I will come for follow up if there is any time and wish you all the best for the
+year.
+Moderator
+Thank you. The next question is from the line of Pankaj Kapoor from CLSA. Please go
+ahead.
+Pankaj Kapoor
+Hi! Thanks for the opportunity. The question again is on margins and the investment that you
+spoke of. I was just wondering are these similar to the investment that you had done in 2018-
+2019, so more of one time kind of an investment or these are more regular investments that
+anyway you would keep doing in the business.
+Salil Parekh
+I think the way we are looking at it is, we put in place that strategy a few years ago. We built
+out deep capability across multiple areas – that was what we did in the first sort of 6 months,
+a year or so. We are now seeing over the last 4 years a good impact of that approach. We see
+a tremendous demand environment which we see across cloud, areas of digital, automation,
+and some of the new digital tech companies. We want to take that and build the capability
+deeper in those areas. We consider that now one time approach in the next few quarters to get
+it mobilized. It is not something which is going to be a continuous new activity for us and
+then we want to again like we did last time a shift into building capability from the operating
+19
+business itself. But since we see an inflection point in what we see as the opportunity set, we
+want to make sure we take advantage of that, keep our leading position with market share
+growth that we have had over the past 3-4 years and try to build on that for the coming 3 to 5
+years.
+Pankaj Kapoor
+Understand that, and the other question also was on your guidance on the revenue side. What
+kind of a outlook you are building in on the macro concerns around what is happening in the
+Eastern Europe or even the larger macro worries around the inflation in your end markets.
+Are you taking any impact of that, maybe in the second half of the year, or the guidance is
+more on an ‘as is’ basis and in case if there is any incremental deterioration in the macros that
+would be probably incremental to whatever the guidance that we have given.
+Salil Parekh
+Today what we see is the point that you mentioned are in the macro environment, but as we
+look at our demand environment we do not see any impact to it. And we do not have a clear
+view of how to make an estimate for Q3, Q4 at what level and so on. Based on that we have
+built the guidance today and we will evolve it as we go through. We feel comfortable given
+what we are seeing in the environment that this is the sort of growth that we will see in the
+range of 13% to 15%. We do not see really an impact of those factors in the demand
+environment today.
+Moderator
+Thank you. The next question is from the line of Vibhor Singhal from PhillipCapital. Please
+go ahead.
+Vibhor Singhal
+Salil couple of questions again on the European part. My first question is that as you have
+already mentioned that our exposure to Russia and the other geographies as of now is limited,
+just wanted to basically understand, as we work for a lot of multinational clients who have
+operations across countries and in parts of Russia and Europe as well. So, what are the
+20
+conversations with those clients like. Is there a possibility of them maybe curtailing down this
+to some extent or is there some negativity in the conversation that is creeping in.
+Second, a more longer-term question on the same geography is that, over the last 2 to 3 years,
+in fact more than that last 4-5 years we have seen eastern Europe evolve as a destination for
+hiring for a lot of companies maybe in data analytics and many other domains. Do you
+believe that the current war situation has pushed that back by maybe a few quarters or years
+or do you think it is a temporary situation and once it resolves, the earlier attractiveness of
+eastern Europe vis-à-vis hiring for the specific domains will still come back as it was before?
+Salil Parekh
+So, I have understood first was is the situation in Ukraine impacting any demand in European
+clients if that is the question - currently our conversations and discussions with clients in
+Europe do not see any impact on the demand environment for us because of this situation. Of
+course as we go through the next few quarters and so on we will see how it plays out
+depending on the duration and so on.
+On the second one, the recruitment situation, we have centers for example in countries in
+Eastern Europe and we see that growing quite well for us. Today we have no center in
+Ukraine but the other areas we have been expanding in and that has developed quite well. We
+do not see an impact today – there might obviously be impact with centers in Ukraine. So our
+centers which are in other geographies in Eastern Europe, we are seeing good growth in those
+centers.
+Vibhor Singhal
+So if I were to specifically ask something like Hungary, Poland, Austria they would continue
+to remain attractive destinations for us to hire and do businesses there.
+Salil Parekh
+Poland and Romania are the locations where we have centers and we are actively recruiting
+and scaling up in those locations.
+21
+Vibhor Singhal
+Got it, thanks for taking my questions and wish you all the best.
+Moderator
+Thank you. The next question is from the line of Ravi Menon from Macquarie. Please go
+ahead.
+Ravi Menon
+Thank you for the opportunity. Just want to clarify on this pass through cost, should we not
+think of this as like a margin tailwind whenever this pass through cost reduces because I
+assume that your customers have the option let us say if it is the ServiceNow software, they
+can procure it themselves. So, I would assume that these are done at zero markup would that
+be correct?
+Nilanjan Roy
+Yes, these are long-term contracts and I think the value proposition which we have is how we
+bundle services with these software. So, it is just not a one-off sale. I think that the
+proposition with us, is that we can integrate this into the cloud into the vertical stacks etc. and
+bundle that with the services which we have. So that is the way we look at it.
+Ravi Menon
+But my question was what should we assume as a margin for this, should we assume that this
+is a margin tailwind, should we think of this and adjust for the margins accordingly. I assume
+that this is a zero margin because the client can actually procure that and just ask you to
+implement it.
+Nilanjan Roy
+But as you see the overall market for software as a service is growing dramatically and that is
+something where we can come in and add this value. So, it is just not one client with one
+software there are multiple clients, there are horizontal softwares, various kinds as well. So, I
+22
+think this is a proposition which we have which is quite unique for us so you just cannot see
+it as a one-off intervention with one client.
+Ravi Menon
+So are you saying these are software that you own, this is your intellectual property, I thought
+these are third party items bought for service delivery.
+Nilanjan Roy
+Yes like I said these are software which are of course owned by the SaaS vendors but the
+bundling of services which we do with it, that is the value proposition we give to our client.
+Ravi Menon
+Second question is, if you look at the incremental revenue this quarter we added about $30
+mn, last quarter we added north of $50 mn, if I remember correctly and this quarter the
+increase in pass through cost is $40 mn. So, if I just for that, your services revenue has
+dropped in a surprisingly strong demand environment. So how should we think about it? I
+mean is it that certain projects have come to an end and this is across the board, I mean we
+have seen decline in Life sciences both in North America and Europe. But it is not that this
+one vertical that dragged you down or a particular client, it seems to be the incremental
+revenue is soft across the board so how should we think about that.
+Nilanjan Roy
+Yes so firstly, volume growth sequentially has been very strong first point. Second point if
+you see our YoY, it is 20.6% versus 19.7% for the year. Our number for exit rate is higher
+than the average for the year. Number two our volumes growth sequentially is higher, we
+have added 22,000 people this quarter and I am assuming many of these are being hired to
+look for future demand and get them into production so that is the third signal we have got.
+Fourth if you see from a revenue perspective versus the volume increase we have seen. We
+have talked about the seasonality of quarter four, and if you look back over the last 5-6 years
+we have always had a seasonality of revenue versus volume in quarter four because of the
+working day impact. We have seen some COVID leave in the initial part of January
+23
+impacting us. We had this one off we have just talked about the commercial contract for one
+client and of course there are some other puts and takes. So I do not think you can just see
+quarter four in isolation. We would not have given a guidance of 13% to 15% - this is
+probably the highest guidance we have given at the start of the year in the last 10 years at
+least. So I think all the demand indicators and landmarks are looking very good.
+Ravi Menon
+One last question on the utilization. You are talking about cooling it down a little. What
+would be a good range that we should think about, would it come down to about 85% or so,
+would that be sufficient or should we think even lower.
+Nilanjan Roy
+Yes, so 85% is the number – it may go up or down in the quarter but that would be
+somewhere where we would be – more or less in the comfort range as well.
+Moderator
+Thank you. The next question is from the line of Jamie Friedman from Susquehanna. Please
+go ahead.
+Jamie Friedman
+Nilanjan, I believe that you mentioned in your prepared remarks that you are anticipating that
+the subcontractor costs are plateauing. I was just wondering why you are concluding that, is
+that Visa related or is there something else we should be aware of.
+Nilanjan Roy
+So, our subcon costs are pretty much plateaued at around 11.1% in this quarter as a
+percentage of revenue, but from an exit headcount perspective it has actually come down.
+And the reason for this whole ramp up of this subcons is our recruitment engine was a bit
+behind. We were hiring 11,000, 12,000 people each quarter and the balance demand was
+being fulfilled by subcons. With us now getting into this mode of hiring freshers, we hired
+22,000 people this quarter which is close to about 7% of the exit headcount. And as we look
+24
+ahead we will continue to push on the pedal in terms of recruitment and replace many of the
+subcons either through a replacement system or what we call a program of ‘subcon to hires’
+in which we offer them a full time employment within the company. So, we have been doing
+that. We have been at the lowest of the industry in 2019-2020 in terms of subcon. So, we
+know where we have to get at. It may take us some time, a few quarters, but we know that's
+the margin lever we can press on.
+Jamie Friedman
+Thank you and then I believe Nilanjan you also had quantified the client contract provision,
+could you repeat the percentage impact if you stated it.
+Nilanjan Roy
+So it is less than a percentage and we think over a period of time this should come back.
+Jamie Friedman
+Got it, thank you I will get back in the queue.
+Moderator
+Thank you. The next question is from the line of Kumar Rakesh from BNP Paribas. Please go
+ahead.
+Kumar Rakesh
+Good evening, thank you for taking my question. My first question was more around the
+margin and the guidance which we have reduced a bit. So is this a reflection of some of the
+transient impacts which we are seeing especially about some of the things which you talked
+about supply side constraint and the investment which we are making or is there a structural
+change in some of the cost structure of the deals which we are making. So, as we have strong
+growth in some of the additional cost which comes along with that through third party and
+other things are essentially pushing our margin down?
+Nilanjan Roy
+25
+No, so the last part is I think quite clear, if you have seen actually our large deal strategy
+which we announced in the beginning of FY2019, we were then doing about $3 bn large deal.
+So we went from $3 bn to $6 bn to $9 bn to $14 bn, so while large deals actually went up
+even our margins went up. So some of that impact which people fear, when we go into large
+deals in the initial part of the cycle, of course headwinds are there because clients want cost
+savings upfront. But we are clear about the deal tenure and how do we price the deal so that
+over a period of time we are able to take out costs from our various levers which we have and
+come closer to the portfolio margin. So that is something we have been doing for the last 3, 4,
+5 years, 10 years in this industry. I think the impact we are talking about is much more about
+the investments we want to make around what we have seen in the past, the success of what
+we have done, and we think with this robust demand environment these are new capabilities
+we should invest in as we progress. And the usual headwinds which we talked about, the
+bigger differentiation is the pandemic cost normalizing and I think you all have the numbers
+in terms of travel, utilization, onsite-offshore, subcon. So, some of those you can start
+triangulating what is going to come back on return to normal.
+Kumar Rakesh
+Got it thanks for that. Our large deal wins which we report have been steady between $2, $2.5
+bn for the last few quarters. To understand a lot of the deal activity is also happening in the
+smaller size which is not getting reflected here. So would you give sense on the overall deal
+size how that being trending or would you consider sharing that data on an ongoing basis?
+Salil Parekh
+I think at this stage we are not sharing that data outside. Our focus was to share some of the
+areas which we had made sort of a change a few years ago for example the digital revenue
+percentage and the large deal value. What you mentioned of course is accurate, we have
+tremendous activity across all these sizes, we have a very robust overall pipeline and also a
+very robust conversion with net new which also feeds a little bit into the earlier discussion on
+our revenue growth guidance.
+Kumar Rakesh
+26
+Great one final thing, I think I heard that you talk about 85,000 fresher hiring which we have
+done this fiscal year any target which we have set for next fiscal year.
+Salil Parekh
+For next year's campus recruiting we have not communicated that beyond saying that we will
+do more than 50,000 campus recruits for next year. As we go through the year we will
+communicate more on that but today we see an active campus recruitment program.
+Kumar Rakesh
+Got it, thanks for that, I will fall back in the queue.
+Moderator
+Thank you. The next question is from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+Sandeep Shah
+Thanks for the opportunity. Most of the questions are answered. Just wanted to understand
+the gap between the utilization including trainee and excluding trainees is as big as 700 basis
+points and we are adding freshers for last so many quarters and with that you are also
+expecting subcontracting cost savings, is it fair to say second half of FY2023 margin may
+have more upward bias? Pricing, with a lag may also be a tailwind versus first half?
+Nilanjan Roy
+Yes, these trainees have to go through the whole Mysore stint, then they go to the bench, they
+get reskilled on specialty skills, and then we lead them into production. So it takes some time
+as well and which is why utilization excluding trainees and including trainees you see the
+gap. We have an increase in the overall trainee count as well between quarter-to-quarter who
+have not been deployed in projects. But from a margin perspective I am not sure this is a big
+part of the headwind of H1vs. H2. I think the H1 impact because of the comp increase is
+upfront one which happens every year and you can go back 2 years and see that as well, but
+overall for the year at 21% to 23% we are quite comfortable.
+27
+Sandeep Shah
+And just a clarification Nilanjan, just further to what Ravi has asked. So, even if you look at
+the revenue growth excluding third party has marginal decline but at the same time you are
+also saying the volumes have gone up, so is it the offshore effort in this quarter has not
+actually gone down so why is the volume growth not getting reflected in the revenue growth
+ex pass through as a whole. So is it the realization in this quarter slightly lower?
+Nilanjan Roy
+No, we have some routine puts and takes, one is always if you go back you will always see
+the seasonality due to working days. The second one is the COVID impact in the initial part
+of the year; and the third one is the one contractual provision which we made for a client. So I
+think these are the areas due to which you are not seeing that volume benefits flowing into
+revenue. Like Salil also said, we have seen strong sequential quarterly volumes.
+Moderator
+Thank you. Ladies and gentlemen that was the last question for today. I now hand the
+conference over to the management for closing comments.
+Salil Parekh
+Thank you everyone for joining us. I wanted just to reiterate a couple of points we all
+discussed and mentioned. First FY2022 was an extremely strong year for us – close to 20%
+growth, 23% margin. We are clearly taking market share and really connecting very strongly
+with our clients for all the digital and cloud work.
+As we go ahead we want to focus on the ever expanding opportunity set in cloud, digital,
+data, analytics, automation, and in doing that we want to make sure that we remain a leader in
+the pack and continue the market share taking that we have been doing. We also want to
+focus on our employees with increased engagement and increased methods of working with
+their compensation increases and career progressions. Putting all of that together we come to
+a growth guidance of 13% to 15% for this financial year 2023 and a margin guidance of 21%
+28
+to 23%. We have a strong outlook and we look forward to working with our clients and
+employees for this outlook to be delivered in financial year 2023.
+Thank you again everyone for joining and look forward to catching up during any of the one-
+on-ones in the quarter. Take care.
+Moderator
+Thank you very much members of the management. Ladies and gentlemen on behalf of
+Infosys that concludes this conference call. Thank you for joining us and you may now
+disconnect your lines.
+29
+Infosys Limited
+Q4 FY2022 Press Conference Call
+April 13, 2022
+CORPORATE PARTICIPANTS:
+Salil Parekh
+Chief Executive Officer & Managing Director
+Nilanjan Roy
+Chief Financial Officer
+Rishi Basu (Emcee)
+Corporate Communications
+JOURNALISTS
+Reema Tendulkar
+CNBC-TV18
+Sai Ishwar
+The Economic Times
+Ayushman Baruah
+Mint
+Chandra Ranganathan
+Moneycontrol
+N R Sethuraman
+Reuters News
+Reshab Shaw
+Deccan Herald
+Uma Kannan
+The New Indian Express
+Anisha Jain
+ET Now
+1
+Harshada Sawant
+CNBC Awaaz
+Sajeet Manghat
+BloombergQuint
+Kushal Gupta
+Zee Business
+Shivani Shinde
+Business Standard
+Shilpa Phadnis
+The Times of India
+Swathi Moorthy
+Moneycontrol
+Surabhi Agarwal
+The Economic Times
+2
+Rishi Basu
+A very good evening, everyone and thank you for joining Infosys’ fourth quarter financial
+results. My name is Rishi and on behalf of Infosys I am delighted to welcome all of you at our
+campus today. All participants at this press conference are fully vaccinated and adhering to
+COVID-19 protocols. With that, let me invite our Chief Executive Officer, Mr. Salil Parekh,
+for his opening remarks. Over to you Salil.
+Salil Parekh
+Thanks Rishi. Good afternoon, good evening. Welcome to the campus after a long time, good
+to see all of you here and good to see all the energy in the room.
+We have had an exceptional year; this year with an annual growth of 19.7% in constant
+currency terms. This was the fastest growth that we have had in 11 years. We are gaining
+market share; we are building on our leadership in cloud and digital and we are working more
+closely with clients on their transformation programs. Growth was broad based across business
+segments, service lines and geographies. Each of our business segments grew in the double
+digits, US and Europe grew 20%, so a very strong performance all around.
+Our digital revenues now account for 59.2% of our company and they grew at 41.2% for the
+year. Within digital, our cloud work is growing faster, and our Cobalt cloud capabilities are
+seeing significant traction with our clients. Our growth has been accompanied by robust
+operating margins at 23%. We delivered these margins while maintaining focus on our
+employees with increased compensation and benefits.
+Our large deal wins were at $9.5 bn for the full year and $2.3 bn for the quarter. In Q4 our
+revenue growth was 20.6% year on year and 1.2% quarter on quarter in constant currency
+terms.
+Our industry leading performance in FY22 would not have been possible without the enormous
+contribution and commitment of all of our employees. I am extremely proud and grateful for
+the extraordinary efforts in delivering all the work for our clients.
+3
+We recruited 85,000 college graduates in this financial year. We added 22,000 employees in
+the fourth quarter. We have an extremely strong recruitment program; this is really a reflection
+of our enhanced recruitment capabilities, solid brand and deep penetration into various talent
+markets. This increases our comfort to support our clients in their digital transformation
+programs. As we look ahead, our sustained momentum in FY 22, large deal wins, robust deal
+pipeline and client confidence in our capabilities give us comfort to provide a guidance of 13%
+to 15% for growth in FY23, in constant currency terms.
+With the pace of digital disruption accelerating across industries, we see a robust demand
+environment and immense potential to partner with our clients. Our ‘One Infosys’ approach is
+serving us well to bring the best of Infosys in the service of our clients’ needs. Our strategy
+that we launched four years ago has really served us well. We have delivered industry-leading
+growth and industry-leading TSR.
+Now as we look ahead to the next phase, we want to further enhance our leadership along the
+digital innovation curve. We plan to expand the capabilities by scaling our cloud capabilities
+even further, expanding our digital work, expanding on our automation, increase relevance
+with large enterprises and the technology native companies and strengthen our employee value
+proposition. Our focus on staying ahead in the cloud and digital ecosystem, and the focus on
+employees, and some of the costs which are coming back after the COVID phase is behind us,
+result in operating margin guidance to be at 21% to 23% for FY23.
+With that, let me pause and open it up for questions.
+Rishi Basu
+Thank you Salil. We will now open the floor for questions. Joining Salil is Mr. Nilanjan Roy,
+Chief Financial Officer, Infosys.
+As always ladies and gentlemen we request you to ask only one question each to accommodate
+everyone over the next hour and with that I am going to ask the first question from Reema
+Tendulkar from CNBC TV18, Reema has sent her questions to us. One question for Salil and
+one for Nilanjan.
+4
+Salil, you started FY22 with a guidance of 12% to 14% and finally ended with 19.7% growth
+for FY23. This year again you are starting with a guidance of 13% to 15%, is there conservatism
+built into it? And the macro environment is far more uncertain now, economists are bringing
+down their GDP forecast, do you see any impact on technology budget as your client face a
+squeeze? And for Nilanjan, what led to the sharp 200 bps margin decline in Q4, your guidance
+21% to 23% is also lower than the 23% that you closed FY22 with. What is the reason and
+what about pricing, do you see pricing being key in margin levers?
+Salil Parekh
+Thanks, Rishi. The first question, let me start off with that. We see the demand environment to
+be robust today. Yes, the macro environment, there is a lot of talk going on, but in our pipeline
+and in the work that we are doing in digital and cloud we see a clear demand with our client
+base. Based on what we have had in terms of large deals $9.5 bn in FY22, $2.3 bn in the fourth
+quarter, 40% of our large deals being net new, 48% in the fourth quarter and what we are seeing
+in our pipeline going ahead gives us good confidence that this is the guidance in which we start
+the year at 13% to 15%. As the year progresses, we will see what the various forces are that
+will play into all of this. We have also had 22,000 net additions in terms of employees and that
+supports our view that we see a strong outlook in this current FY23.
+Nilanjan Roy
+On the margin question first, on the quarter on quarter, I think we were clear at the beginning
+of the year, we gave a margin guidance band of 22% to 24% and we have ended up exact in
+the middle at 23.0%. So what we have achieved this quarter, a part of it has been planned as
+well. So, for instance in this quarter, utilization which is a big driver of margin has come down
+that was planned we were sitting at 88.5% - uncomfortably high for us and we have brought
+that down from 88.5% to 87% in this quarter. So that is one planned intervention we have done.
+We knew that margins will get impacted, some of it is seasonality of Q4 because the working
+and calendar days are lower from the previous quarter that also impacts margin and some of it
+has been some headwinds on the revenue side. We have taken a specific commercial
+contractual provision for a client which we expect to recover in the times ahead. But overall, I
+think we have added 22,000 people in this quarter and this is looking ahead for the demand
+environment and some of that cost pressure stem in the quarter ahead. But like I said, we are
+5
+very comfortable where we are for the year at 23%. Looking at 21%-23% we have seen what
+we want to do, as Salil talked about demand environment is very robust, making upfront
+investments behind talent both in terms of getting freshers earlier in advance and also looking
+at where we can invest ahead with the points which Salil talked about. We have seen the success
+of that in 2019 when we made these investments and the last four years have been a result of
+the market share gain as well. So that is one part of the margin and the second part is travel will
+come back. We have seen that already, some of the facilities cost as people come back to work.
+Those were the tailwinds due to COVID on the margin side and now some of that will return
+to norm and therefore at 21% to 23% is a comfortable band which we think we can operate in
+which builds in both of these impacts.
+Rishi Basu
+Thank you. I am going to move to the questions to our journalist friends who are present here
+and then return to some of the questions we have received from broadcast media on text, so I
+am going to go the Economic Times. Sai Ishwar joins us in-person, Sai why don’t you ask your
+question?
+Sai Ishwar
+Hi, Sir, could you tell us like recently in a brokerage event you said your products and platform
+businesses are doing well, so could you give us some color on what is happening there? Also,
+could you tell us what percentage of your revenue is from the platform business? And also
+talking about this recent influx of GCCs in India from global MNCs, so have you entered into
+any partnerships recently and do you see that also adding revenue or expanding your
+partnerships with global companies? Thanks.
+Salil Parekh
+Thanks for that question. I think on the platforms and products, so first we have a very strong
+business as you know in Finacle in the banking sector, it is a completely digital core banking
+product today and we see continued traction in the growth that we are seeing there. We do not
+break that out individually, but we see good traction with that business. We also put together
+other platforms, for example we have a platform called Equinox, this platform is focused on e-
+6
+commerce, on retail companies. We had a large deal win in Q4 which is built on the Equinox
+platform, and we are starting to see traction across multiple of these areas that we’ve put in
+place. We have also had a platform on insurance with McCamish which is working well. We
+do not disclose the platform and product revenue break up, but we are comfortable with how
+we are seeing the growth and the traction in that at this stage.
+We have very strong partnerships with the global companies that have centers in India and we
+see a lifecycle with them at the early stages so if we look back 5-10 years and as you look ahead
+at the early stages there is a strong interest in partnering as they are scaling up, in the middle
+stages to make sure there is more efficiency and in the later stages to see if we can take those
+over and transform them and we are working with clients in all these different stages. We are
+in conversations, in actual work with clients where they are building out a new capability, we
+are in discussions with clients where they are looking to see if there is something we can take
+over and transform completely and all of that in between. Those are very important locations
+for the global clients, these are places from where the leadership of these centers in India are
+making global decisions for the companies and we are quite fortunate that we are partnering
+with many of them.
+Rishi Basu
+Thank you. The next question is from Ayushman Baruah from Mint.
+Ayushman Baruah
+Hi, Salil. Firstly, what has been the impact on business from the Russia-Ukraine war, right, that
+is one. Point number two is you have recently launched Infosys Metaverse Foundry right, so
+what has been the initial traction, have you managed to win any contracts or deals with regards
+to this? Thank you.
+Salil Parekh
+First with respect to the situation in Europe. Infosys as a company, very much would like to
+see that the two sides come together and come to some agreement on peace. We have also
+launched fund of $1 mn to help on the humanitarian areas. Given what is going on in the region
+we have started to transition all of our work from our centres in Russia to our centres outside
+7
+Russia. We have less than 100 employees in Russia. We work with no Russian clients and the
+work we do is with small number of global clients in Russia for which as I just mentioned we
+have started the transition. So at this stage we have no impact within our business given what
+is going on from an Infosys perspective. Once again, we are very much concerned with what
+is going on the ground and we are doing everything we can to help. We are also providing some
+assistance for re-skilling of individuals that are displaced and seeing as they move to other
+geographies if they can work in some of our locations in Eastern Europe. We do not do any
+business with Russian clients today and we have no plans of doing any business going ahead.
+The Metaverse has been an incredible launch, I am glad you mentioned it. We have created an
+ecosystem, a Metaverse Foundry which was launched a few days ago. We are already in active
+discussions with several clients to start to see how they can use it. There are examples on
+AR/VR, there are examples that we are already using, for example the work we do in supporting
+ATP. There is active work in the manufacturing segment because there is a lot of use within
+the Metaverse of what is going on in supporting whether it is training, whether it is security,
+whether it is safety procedures, so lot of discussions. We are excited about it and our clients
+are excited about it.
+Rishi Basu
+Thank you. The next question is from Chandra Ranganathan.
+Chandra Ranganathan
+Hey Salil and Nilanjan, I have questions for both of you, so please bear with me.
+Salil, I think Reema covered the Q4 numbers but you know it is still below what the street was
+estimating so are these one-off factors because Q1 you typically have a strong start to the year
+so are these one-off factors, will you sort of regain momentum because you do not have the
+mega deals that you had that cushioned you in the previous fiscal. I also wanted to ask you
+about first of all the whole controversy around Russia, you recently closed your presence there,
+there are also questions about Akshata Murthy’s stake in Infosys, well I know you have nothing
+to do with it, are these discussions happening at the Board level, are clients asking you about
+8
+it because North America and Europe is where you get a majority of your business, so how
+serious are those concerns?
+Questions for Nilanjan, attrition has zoomed to 27.7%, TCS is still at 17% so do you see this
+getting worse in the coming quarters before it gets better what are you doing to reign in attrition
+and if you can give us numbers in terms of the number of freshers hired in the previous fiscal
+and your fresher hiring target for this fiscal, if you can break that down for us, Thank you.
+Salil Parekh
+Thanks, Chandra. I think on the first one we had very strong volume growth in Q4. As you
+mentioned this is one-off, as Nilanjan was sharing with the client which relates to contract
+situation, we fully expect that this will be reversed in the coming quarters, we see very good
+momentum into our business as we look ahead. Our view is with the guidance we have given
+13% to 15% growth and the fact that we have significant new number of recruits in Q4, 22,000,
+we have clear understanding that we are in a good place and the growth there is working well.
+With respect to the discussions in the UK, we have no comments to make on any individual
+shareholders. Our approach on Russia I just outlined, we are transitioning our work from
+Russia, and we have real concern for what is going on, on the ground and we are providing
+humanitarian support and help on that.
+Chandra Ranganathan
+Decision to cease operations in Russia came on the back of that controversy that is why I am
+asking you since she is part of the promoter family, is this a concern, has it been taken up at
+the Board level?
+Salil Parekh
+There again I have no comments to offer on any individual shareholder within the company.
+Our approach has been driven essentially by what we see, the work that we are doing in that
+location, how we have to manage the delivery of that work and what are the implications to our
+employees that are in that location. Those were mainly the factors that we looked at and that
+was a discussion that we had within the management and the leadership team.
+9
+Nilanjan Roy
+Just to add to Salil’s point. I think in Q4 if you see our year on year growth, we end the year at
+20.6%, the full year is 19.7%, it is very important not to get fixated just on the quarter, so our
+exit velocity is very high, the volumes are very good for the quarter. There is some seasonality
+on the revenue line as well, which I talked about, but I think overall giving the guidance of
+13% to 15% - I do not recall in the last 10 years that we have given such a guidance.
+So, your question was on attrition and the freshers hiring. So, in the last year we have hired
+85,000 freshers across, both globally and in India and the year before, the pandemic year I
+don’t think there were many hiring - maybe few thousands. We are planning to do upwards of
+50,000 at least and we will see how that plays out but that is just initial, and the good news is
+we have these two bright gentlemen who have mastered the art of off campus recruitment.
+Earlier the engine used to just go to the campus and they actually did not have any flexibility
+in volumes. Today we have that flexibility to ramp up volumes anytime and this year we had
+no idea that we would be able to service a 20% demand with a limited fresher set. So, that is
+working very well. Attrition is 27.7% on a LTM basis, which is last 12 months. Actually,
+attrition for the quarter has come down by close to 5% - both in percentage and in absolute
+headcount. In last quarter attrition had actually stabilized and in this quarter, we are seeing
+rduction both as a percentage and number for the quarter. The tail effect you are seeing - on an
+annual basis will continue to climb, but the good news is we have seen some of the stability
+and hopefully with the interventions we are looking ahead and with the April 1, comp hike
+planned we should continue to see some improvement in that.
+Rishi Basu
+Thank you. The next question is from Reuters News, N R Sethuraman.
+N R Sethuraman
+Sir, could you please be more specific about like what exactly was the business in Russia and
+what exactly are you moving out and you said like there is no impact on operations so if there
+is no impact on operations, like what was the work earlier being done in Russia and what is the
+impact of Finacle because you had been working with some clients for Finacle in Russia, Alfa-
+10
+Bank was part of it right, like there was a blockchain environment that was created a couple of
+years back and it was tested and what is the update on that and you said there is no plan to work
+with clients going forward in Russia, which means there are a lot of major banks there on the
+sanctions so what would be the impact of your financial services in banks business if you are
+moving out of the region because it is all interlinked. Like in Europe would be more specific
+about those operations that you are moving out and could you please also help me out on how
+many resources were there in place in Russia and what exactly is the plan for them, is there any
+sale you are considering for the Russia operations? I think it is not a 100% subsidiary for you?
+Salil Parekh
+Thanks for the question. I think the work we do is for few of our global clients that have
+operations in Russia. We have less than 100 employees in Russia working with our clients. We
+have initiated how we can transition all of that work outside of Russia. We have no work with
+any Russian client today and we have no plans for any work with any Russian client going
+ahead. Finacle of course works with companies but not in Russia so they work with banks all
+over the world. That market was not a market that we were servicing in the past as well so we
+have no active clients in Russia and no plans for anymore clients there. There are less than 100.
+Nilanjan Roy
+I think probably less than what are there in this room.
+Rishi Basu
+Thank you. The next question is from Reshab Shaw from Deccan Herald.
+Reshab Shaw
+Hi gentlemen. So, my question is have you gained market share from some of your bigger
+rivals, and you spoke about attrition, but is the worst behind us, and the third question is, so
+you spoke about Russia, but in Eastern Europe what is your presence?
+Salil Parekh
+11
+On market share, we are clearly gaining market share in our view at 19.7% growth - from what
+we understand, we are one of the fastest growing. All of this growth was based on an organic
+basis and we see the tremendous traction we have with clients and that gives us an increase in
+the market share.
+On attrition as Nilanjan shared in the quarter, the attrition was about five percentage points
+lower than in the previous quarter and everything we see gives us a view that attrition is coming
+more and more into the range that we would become comfortable with. We will see how that
+progresses. We are actively working on many of the initiatives that are helping on this.
+Rishi Basu
+Thank you. The next question is from Uma Kannan from The New Indian Express.
+Uma Kannan
+Congrats on a strong execution in the quarter and it is fantastic to see you all in-person here.
+My question is considering the present geopolitical risks since you have presence in Eastern
+Europe are you planning to increase local talent there since you were talking about skilling
+there so are you planning to increase there and my next question is on workforce, are you facing
+any challenges in terms of a) retaining employees and b) bringing them back to base locations?
+Thank you.
+Salil Parekh
+In Eastern Europe, putting aside the geopolitical point that you mentioned I think we have a
+plan of expanding in Eastern Europe we have strong locations in multiple geographies, we are
+growing all of those locations. We had an approach as you know over the last few years for
+localization and in that light, we have already expanded quite significantly whether it is Poland
+or Romania, and we will continue to expand in the Eastern European geography. We have work
+that is done there and is really strong, and we believe that it will continue to expand.
+As we were both mentioning, our approach to attrition, our approach to employee engagement,
+we are making huge changes there and we are seeing increased numbers internally on what we
+track with employee engagement, employee connect. What we have done as a company
+12
+through the COVID period has really resonated with our employees in the flexibility and we
+have provided the support and care, complete support around any medical issues, the
+vaccination program that we ran among other things for our employees.
+In terms of the base location, our approach to return to work has been to work keeping in mind
+what our clients are looking for and keeping in mind what our employees are comfortable with,
+we are slowly moving work back onto campus. We understand that some of our employees are
+of course not in the primary location and today the work from home is working extremely well,
+so what we build as we go through the next several months and quarters will be with that
+flexibility with a tremendous advantage to the employees with the flexibility and we will keep
+in mind what our clients are looking for. There are certain requirements within some clients
+and some industries which will require some of those teams to come back sooner and then over
+time with this massive recruitment from colleges we also want to be aware and responsive to
+how we build the culture within the company going ahead and rebuild our social capital. But
+all of those will be done in keeping the best interest of our clients, employees and the company
+in mind.
+Rishi Basu
+Thank you. Salil, Nilanjan, I am going to read out some questions we have got from some of
+our media friends who have not been able to join us physically, we about have five or six
+journalists who sent questions. The first in the order is from ET Now and the question is the
+reported numbers on topline and margins are below street expectations, was there a delay in
+execution and on large deal TCV wins, should we continue expecting a range of $2 bn to $2.5
+bn going forward or is there a plateauing of deal wins?
+Salil Parekh
+Let me start with that. I think on the full year, as we had shared earlier and Nilanjan mentioned
+we have tremendous growth at 19.7% and the margin at 23%, so very strong execution all
+around. For Q4 as Nilanjan shared and I shared, we had one-off instance which is related to
+contractual situation. We see strong volume in Q4, we see very strong net addition to the
+employee base at 22,000 and we have a very strong guidance of 13% to 15% growth, so all of
+13
+the factors give us a view that we see good traction in the market with our clients and we
+continue with our execution.
+Rishi Basu
+Thank you. The next question is from CNBC Awaaz. They want to know if you are seeing
+signs of inflationary pressures on client budgets and if you could throw some light on the
+texture of the deals for this quarter, which sector are they from?
+Salil Parekh
+So, on the inflationary pressure I think what we see with clients and what we see in the
+environment all around, we see most industries are facing inflation in their own businesses and
+they appreciate and understand, that we also have wage increases and other aspects to our
+business that have been put in place, so yes there are discussions we are having more today
+with our clients, which relate to discussions on pricing. We will see as and when they convert
+actually into concrete steps, but certainly there are discussions on that basis. In terms of the
+deals, we had a good spread across all of our sectors, we had 25 large deals in Q4, spread pretty
+well across most of our business segments.
+Rishi Basu
+Thank you. The next question is from BloombergQuint from Sajeet Manghat. He has one
+question for Salil and one for Nilanjan. Salil, with Infosys ending the year was nearly 20%-
+dollar growth due to the FY21 base effect and with the kind of order book we close the year,
+what is the challenge to replicating a similar growth rate in FY23 and for Nilanjan the margin
+band maintained at 22% to 24%, what is the big challenge to the margin given cost pressures,
+what are the levers to ensure you are at the upper end of the band?
+Salil Parekh
+On the growth question I think we have really gained tremendous market share in FY22 by
+having the growth at close to 20%. We can see that in the way our interactions are working
+with clients, we can see that in the way we have done on various analysts ratings, we can see
+that in the way the perception of the company is positioned vis-à-vis digital with our clients.
+14
+We have given a strong guidance of 13% to 15% and we look forward to executing on that with
+our clients support and trust and with the work of our employees.
+Nilanjan Roy
+I think the guidance somebody mentioned as it has been maintained at 22% to 24%, it is actually
+21% to 23% firstly. Like I mentioned earlier, as we look ahead into the year we are very clear
+there is a very robust demand environment which we need to capture and this also calls for
+investments to be made upfront. We already talked about utilization, putting freshers early into
+the mix, hiring 22,000 employees even before we start next year and some of the other
+headwinds of the pandemic which we enjoyed in a way as tailwinds which was the travel,
+which was also facilities, etc., and some of that will come back. We, of course have a very
+strong cost optimization program which we run throughout the year, this is elements of onsite,
+offshore mix as you all know it is about the pyramid, it is about automation at scale, we put bot
+factories across all our delivery lines, so these are reusable resources and assets which we can
+deploy into our many of our fixed price projects, subcontractors cost which were massive
+headwind for us and my friends here from the recruitment team are going to solve it this year
+to get us a tailwind on subcontractor, so 21% to 23%, that margin band we are comfortable
+with. And like I said, pricing is another element we are talking to our clients, of course this is
+a much more longer term discussion because it only happens largely with renewals, but we can
+go and start pushing for things like COLA, change request, etc. but that is something which we
+really are trying to press our pedal on with our sales folks. That is very, very important part in
+next year’s strategy.
+Rishi Basu
+Thank you, we have a couple more questions on attrition and client spending I just read it out,
+this is from Zee Business. We have seen attrition levels rising across IT companies and it has
+been similar for your company as well. When do you see this easing and what is your strategy
+to control and on the client part how do you see client spending for FY23 and in which vertical
+do you see the highest spending coming?
+Salil Parekh
+15
+On the attrition we have already given a view on it, what we see today is attrition having come
+down five percentage points in the quarter. We also see as we look ahead many of the
+initiatives, we put in place whether it is greater employee engagement, the compensation
+reviews, different ways of people working on projects, different rates in which we go through
+various carrier progressions, some of them starting to have impact now and some over the
+course over the next few quarters. We feel attrition is definitely something which we have seen
+a small decline from the previous quarter, and we will watch it to see how it plays out in the
+quarters ahead.
+In terms of the client spend we see today our pipeline is actually very strong, we see in all of
+our discussions, clients are more and more ready to spend much more focused on the cloud
+area, very much on the data analytics business, on IoT, and lots of discussion on automation
+which also has impact in cost and efficiency. So, in all of the elements where we have strength,
+we see good traction with client discussions and client spends.
+Rishi Basu
+Thank you. The next question is from Shivani Shinde from Business Standard and similar to
+the Russia-Ukraine conflict. What is the impact of Russia-Ukraine conflict on Europe business
+and do you see any reservations or step back on spends? And for Nilanjan, two quick questions-
+what are the plans on getting people back to office and in addition to Chandra’s question
+Shivani has asked compared to Q3 this quarter looks soft, can you give some more color?
+Salil Parekh
+So, on the first point, the clients that we are working with, and we are interacting with in Europe
+today we do not see any impact of the situation between Ukraine and Russia directly with those
+clients. We will wait and watch how that plays out, but in our pipeline today, in our discussions
+today we do not see any change to what they are doing with the project they are thinking of,
+with the transformation they are looking at, with the cost and efficiency they are looking at.
+Nilanjan Roy
+Yes, on the return to work. We have a three-phase plan. In fact, we have rolled out in April
+itself, so the first phase is people who are in the home locations so in the DCs where they are,
+16
+whether it is in the base DC or they are in the upcountry town which is close to a DC we are
+encouraging people to come at least twice in a week, eight days in a month into the DCs and
+we are already seeing a lot of traction there. Senior leaders already coming in and teams are
+already having huddles, etc. that is the first phase. We are also now encouraging people - and
+that is part of phase two - who are outside the DC town to start making preparations over the
+next few months to see if they can come back into the base DC. This is again based on the
+individual circumstance, etc. and then over a longer period of time we are looking at more
+hybrid sort of work, of course that will depend on clients. It will depend on regulatory
+environment and a number of other considerations so this will be a phased approach and we
+are seeing it really each quarter.
+Chandra Ranganathan
+Currently how many people are working from office and home?
+Nilanjan Roy
+I think we have about 95% of remote, if I am not wrong.
+Rishi Basu
+Thank you, the next question is from Shilpa Phadnis from The Times of India on similar lines.
+Infosys’s attrition has gone up to 27.7% from 10.9% in the last one year despite all the measures
+put in place it is a tight talent market. Do you see a downward spiral in the coming months and
+the second question is the subcontracting expenses have gone up substantially to Rs.16,000
+crore from little over Rs.9,500 crore in the last one year? How are you revisiting the employee
+pyramid when there is a steady ramp up in sub-contractor cost impacting margins?
+Salil Parekh
+On the attrition what we see today is in Q4 our attrition is down by about 5 percentage points
+from the previous quarter. We also see that many of the initiatives that we have put in place
+with regard to employee engagement, compensation, rotation of work, career progression,
+those are already starting to have an impact and we anticipate they will have an impact over
+17
+the coming quarters, so we believe we have several of these initiatives in place that will help
+us as we go ahead.
+Nilanjan Roy
+You know just to add Salil saying on attrition. I think firstly it is important to understand is we
+are in an environment where demand is chasing supply. I mean this is an industry to be in,
+right. If you are in industry where at least supply chases demand you have ten times worse
+problems, so that in a way is a good problem to have, and the way we have to fulfill this demand
+is through freshers, right otherwise attrition is rotational and it is net zero game. My attrition is
+somebody else lateral and somebody else attrition is my lateral. So, end of the day the fresher
+has to feed into the entire system across all companies. We have put 80,000. There are larger
+players. Somebody who is put 100,000 plus. So once these freshers feed in they take three to
+four months to come into production, etc. and that is the time you will start seeing benefit of
+this coming into the overall macro environment of hiring market as well, now until then you
+have to make sure that you are also meeting that demand and not leaving demand on the table
+which is why you go for subcons. You of course have to pay higher for lateral compensation,
+etc. but like I said this is an opportunity to grab demand. These are deals which are for five
+years, seven years. You do not want to leave them on the table because you are not able to
+fulfill them for a year and so I think over a period of six months etc. definitely with freshers
+coming in into the entire industry and you will see a moderation of this from a more macro
+prospective and subcons is one of them where we are already seeing a plateauing of our subcon
+costs. I think the last quarter and this quarter and of course we have planned as part of the year
+this will definitely ramp down.
+Rishi Basu
+Thank you. We have covered all our questions from our friends from media. Chandra, I can
+give you time for one more question and I have one more question from The Economic Times
+on text. Swati, one question please.
+Swati Moorthy
+18
+I want to ask more about the metaverse, which you said? When we spoke to Ravi, I think couple
+of months back he told about you are in conversation with lot of clients but how are you actually
+looking at it? Is it going to be a separate service unit? What is the scale of people working here
+and any metrics you can share? Internally are you looking at any metrics to measure because
+suddenly everyone is like talking about Metaverse and actively looking at and in talks with
+clients to take this forward?
+Salil Parekh
+So the metaverse foundry launch was a huge success for us. What we have are a set of assets,
+which form a part of this metaverse foundry. These are ways in which we can help our clients
+as they are considering their journey into the Metaverse. So let us say there are different
+segments in the manufacturing segment. There are clients who are considering how they can
+use this in terms of replicating actions on a factory floor and on training on various areas. When
+you are in retail, people are looking at the metaverse concept to demonstrate various aspects of
+their products to engage with the new customer who is more present in the metaverse. We have
+created a set of asset which can help our clients to engage in that activity and there are several
+discussions which are ongoing which give us good comfort that this is starting to become
+important. Internally we have some goals we have set for ourselves, which we want to drive
+through and as and when we see some of those things that we can share outside as well.
+Those are internal goals because we see some of the things that we have in place there, are
+giving us tremendous traction. We will also have this as part of the living labs that we have in
+different locations all around. We will also have this when we do events with clients. We have
+a way to showcase some of this and so it is starting to come into it, but there are some internal
+goals we have set for this.
+Rishi Basu
+Thank you. Salil, we have just a couple more questions, one is from The Economic Times.
+Surabhi Agarwal says could you talk about a bit in detail about the demand environment and
+client spending in the coming years especially where is the demand coming from which
+verticals given the COVID situation and the geopolitical situation and also is the 20% growth
+19
+reported this year is it sustainable or a one off and what would you attribute this 20% growth
+to?
+Salil Parekh
+So on the demand environment, we see good demand across many industries and there are
+different dynamics in each of the industries. So you look at HiTech businesses, they are looking
+to really connect with their customers in a different way, in a faster way and we are part of that.
+They are trying to rework their supply chains given all of that is going on globally and we are
+a part of those discussions. We see good demand in Financial Services which is our largest
+industry segment. There we are part of areas where this is really Ops and Tech transformation
+programs where clients are looking to have someone who can help them with the
+transformation of their operations while we infuse technology and create a modernized estate
+for them. We have good demand in the Manufacturing segment where we see clients looking
+at leveraging the IoT infrastructure, leveraging what is going on with the cloud and the data
+center evolutions. So the demand is broad based across many of our industry segments today
+and we see that looking good in terms of our pipeline as we look out to this financial year.
+Rishi Basu
+Thank you, the second part was on the 20% growth?
+Salil Parekh
+I think we see clearly a very good traction with our clients and we are gaining market share
+and we anticipate and hope with the new phase of expansion of capabilities in cloud and Cobalt,
+in automation, in the new digital tech companies that we will continue to gain market share as
+we go ahead.
+Rishi Basu
+Thank you, the last question is from CNBC TV18 once more, Reema Tendulkar asks you
+alluded to an impact due to a client contract, which you expect to get reversed? Can you
+quantify the heat on revenue and margins due to this?
+20
+Salil Parekh
+At this stage, we will not quantify any of those specifics within that as Nilanjan shared and in
+one of the questions earlier mentioned is a one off contractual impact. We see very strong
+volume growth in Q4 and we see 22,000 new employees joining. Good demand going ahead
+and a good growth outlook with our guidance at 13% to 15%.
+Rishi Basu
+Thank you. With that we come to an end of this Q&A session. We thank all our friends from
+media who are here in-person and who have sent us questions for being part of this press
+conference. Thank you Salil and thank you Nilanjan.
+Salil Parekh
+Thanks, Rishi. Thank you everyone for joining us.
+Nilanjan Roy
+Thank you everyone.
+Before we conclude please note that the archive webcast of this press conference will be
+available on the Infosys website and on our YouTube channel later today. Thank you once
+again and please join us for some high tea outside.
+######
+21

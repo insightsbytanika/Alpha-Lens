@@ -1,0 +1,790 @@
+TCS/SE/14/2022-23
+April 16, 2022
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, Bandra Kurla P. J. Towers,
+Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Transcript of the earnings conference call for the quarter and year ended March 31, 2022
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the quarter
+and year ended March 31, 2022 conducted after the meeting of Board of Directors held on April 11,
+2022, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Pradeep Manohar Gaitonde
+Company Secretary
+Encl: As above
+TATA Consultancy Services Limited
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel. 91 22 6778 9595 Fax 91 22 6778 9660 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.
+Corporate identification No. (CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited
+Q4 & FY22 Earnings Conference Call.
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Moderator: Ladies and gentlemen, good day and welcome to the TCS Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-only
+mode and there will be an opportunity for you to ask questions after the
+presentation concludes. Should you need assistance during the conference
+call, please signal an operator by pressing ‘*’ then ‘0’ on your touchtone phone.
+Please note that this conference is being recorded. I now hand the conference
+over to Mr. Kedar Shirali, Global Head, Investor Relations at TCS. Thank you,
+and over to you, sir.
+Kedar Shirali: Thank you, Steven. Good evening and welcome, everyone. Thank you for
+joining us today to discuss TCS' financial results for the fourth quarter and full
+year fiscal year 2022 that ended March 31, 2022. This call is being webcast
+through our website and an archive, including the transcript, will be available
+on the site for the duration of this quarter. The financial statements, quarterly
+fact sheet and press releases are also available on our website.
+Our leadership team is present on this call to discuss our results. We have with
+us today, Mr. Rajesh Gopinathan -- Chief Executive Officer and Managing
+Director; Mr. N.G. Subramaniam -- Chief Operating Officer and Executive
+Director; Mr. Samir Seksaria -- Chief Financial Officer. Our Chief HR Officer --
+Mr. Milind Lakkad, could not join us today due to a personal emergency, but
+Samir will be speaking on behalf of Milind.
+Our leadership team will give a brief overview of the company’s performance,
+followed by a Q&A Session.
+As you are aware, we do not provide specific revenue or earnings guidance.
+Anything said on this call, which reflects our outlook for the future or which
+could be construed as a forward-looking statement, must be reviewed in
+conjunction with the risks that the company faces. We have outlined these risks
+in the second slide of the quarterly fact sheet available on our website and e-
+mailed out to those who have subscribed to our mailing list.
+With that, I’d like to turn the call over to Rajesh.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Rajesh Gopinathan: Thank you, Kedar. Good morning, good afternoon and good evening to all of
+you.
+We are closing fiscal year 2022 on a strong note, our full year revenue growing
+at 16.8% in rupee terms, 15.4% in constant currency terms and 15.9% in dollar
+terms.
+We added $3.533 billion in incremental revenue during the year, our highest
+ever. Our operating margin for the year was at 25.3% and net margin was at
+20%.
+Having crossed the $25 billion milestone this year, we are now focused on
+ways to get to the next $25 billion. Towards that, we are rolling out a new
+industry-first organization structure that adds customer relationship stage to
+the existing three-dimensions, that is the geography, industry vertical and
+service lines.
+The new structure is more customer-centric and will enable curated
+experiences to our customers based on what stage they are at in their
+relationship journey with TCS. We believe this would ease the path for us to
+become a growth and transformation partner for more of our customers.
+I will now invite Samir and NGS to go over different aspects of our performance
+during the quarter. I’ll step in again later to provide more color on the demand
+trends we are seeing. Over to you, Samir.
+Samir Seksaria: Thank you, Rajesh. Let me walk you through the headline numbers. In the
+fourth quarter of FY'22, our revenue crossed `50,000 crores mark, reaching
+`50,591 crores, which is a Y-o-Y growth of 15.8%. In dollar terms, revenues
+were $6.696 billion, a Y-o-Y growth of 11.8%. And in CC terms, our revenue
+growth in Q4 was 14.3%.
+For the full year, our revenue was `191,754 crores, which is a growth of
+16.8%. In dollar terms, revenue was $25.707 billion, a growth of 15.9% and in
+constant currency terms, this translates to 15.4%.
+Let me now go over the financial performance. Our operating margin in Q4
+stayed flat sequentially at 25%. As in the previous quarter, we had headwinds
+of about 90 basis points from ongoing supply side challenges, which were
+mitigated from operational efficiencies and 10 basis points of currency
+support.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+For the full year, our operating margins continue to be industry-leading at
+25.3%. Annual increment, tactical interventions and increased subcontractor
+usage represented a headwind of 330 basis points, offset to some extent by
+operational efficiencies, improved realization and some currency support.
+Net income margin in Q4 was 19.6%, and for the full year, 20%.
+EPS grew 16.1% during the year, excluding the provision we made towards a
+legal claim in FY 21. Effective tax rate for the year was 25.6%.
+Our accounts receivable was at 64 days DSO in dollar terms down 3 days
+sequentially and 4 days Y-o-Y. Net cash flow from operations was `110.51
+billion, which is a cash conversion of 111% of net income. Free cash flow was
+`102.59 billion. Invested funds as on March 31st stood at `560.53 billion.
+The board has recommended a final dividend of `22 per share. For the full
+year, this represents a shareholder payout of `31,424 crores, and this does
+not include `4,000 crores of buyback tax which has an outflow in the month of
+April.
+Now, since Milind could not join the call today, let me go over the people
+metrics as well.
+On the people front, this has been a standout quarter where we set many
+benchmarks. We had an all-time high net addition in the quarter as well as for
+the full year at 35,209 and 103,546 respectively, bringing the total headcount
+to 592,195. The record net addition reflects the strength of our employer brand
+and our ability to draw talent across the world.
+We received several accolades and external validations this quarter for our
+commitment to excellence and talent management. We were recognized by
+the Confederation of Indian Industry, (CII), with the Role Model in HR
+Excellence and Prize for Leadership in HR at the CII HR Excellence Awards.
+The Role Model award has been given only twice before in the last 12 years.
+TCS ranked #1 in the LinkedIn Top Companies list of the Best Workplaces for
+Career Growth in India, with top scores in providing the ability to advance, skills
+growth, company stability, external opportunity, company affinity, gender
+diversity and spread of educational backgrounds.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Lastly, we were recognized as the Global Top Employer for the Seventh Year
+in a Row by the Top Employers Institute.
+Our focus on diversity and inclusion and localized hiring in all our major
+markets has resulted in a very diverse workforce in 153 nationalities
+represented and women making up 35.6% of the base.
+We continue to invest heavily in organic talent development. In Q4, TCSers
+clocked 22 million learning hours. For the full year, TCSers locked 60.3
+million learning hours and acquired 3.5 million digital competencies.
+The number of contextual masters, that is, individuals who have demonstrated
+deep contextual knowledge of their customers business and IT landscape, hit
+a new milestone crossing 50,000 in Q4.
+Moving to talent retention, we have a track record of consistently maintaining
+the highest talent retention in the industry, even in the face of high levels of
+churn across the industry. Our attrition in IT services continues to rise on an
+LTM basis and was at 17.4%. However, the quarterly annualized attrition is
+plateauing.
+Lastly, we have announced a salary increment with effect from April 1st similar
+in quantum to prior years.
+With that, I’ll request NGS to give the segmental and product commentary.
+N.G. Subramaniam: Hello, again. Thank you for joining us. Let me begin by providing the segmental
+performance result for the quarter. All growth numbers are on Y-o-Y constant
+currency basis.
+All our industry verticals grew in the mid-to-high teens in Q4 and for the full
+year. Q4 growth was led by Retail and CPG, which grew 22.1%, Manufacturing
+and Utilities grew 19%, and Communications and Media grew by 18.7%,
+Technology and Services grew 18%, Life sciences and Healthcare grew
+16.4%, and Financial Services grew by 12.9%.
+For the full year, growth was led again by Retail and CPG, which grew by
+20.6%, Manufacturing and Utilities which grew by 19.4%, Life sciences and
+Healthcare 19.2%, Financial Services 15.1%, Technology and Services 15.8%
+and Communications and Media by 14%.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+On an accounting segment basis, including revenues from emerging markets
+and products and platforms, our BFSI segment crossed the $10 billion
+revenue milestone this year.
+Moving on to geographic markets, growth in Q4 was led by North America,
+which grew 18.7%, UK at 13% and Continental Europe at 10.1%.
+Among emerging markets, Latin America grew by 20.6%, Middle East and
+Africa grew by 7.3%, India by 7%, and Asia Pacific by 5.5%.
+On a full year basis, North America grew by 17.5%, Continental Europe by
+15%, and UK by 14.3%. Moving on to emerging markets, Latin America grew
+18.2%, India grew by 16%, Middle East and Africa grew by 12.9%, while Asia
+Pacific had 6.7% growth.
+Our portfolio of products and platforms continue to do well in the market.
+ignio™, our cognitive automation software signed up 36 new clients in Q4, and
+we had six clients went live with ignio™ during the quarter. For the full year,
+ignio closed over 100 deals and had 27 go-lives.
+The Digitate Academy has trained over 11,500 professionals in the
+marketplace and certified more than 4,100 professionals on ignio.
+ignio continues to transform operations across domains using AI and
+automation, to enhance resilience in delivering superior business outcomes.
+For a leading energy generation and distribution company in North America,
+ignio is managing over 100,000 incidents autonomously, with 100% successful
+resolution rate, covering 30% of their overall IT footprint.
+A global professional services provider has gone live with ignio’s Digital
+Workspace, proactively managing the health of over 11,000 laptops globally
+for better user experience and productivity. ignio also manages group policies,
+privileges and updates for improved compliance and reduced vulnerability.
+TCS BaNCS™, our flagship product suite for the financial services industry
+had 4 new wins and 3 go-lives in Q4. In FY 22, TCS BaNCS won 22 new
+customers and had 16 key go-lives. Half the wins were for the SaaS model,
+demonstrating the growth adoption of cloud, and more importantly, TCS
+BaNCS’ cloud readiness for large and niche projects.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+During the quarter, TCS BaNCS Global Securities platform was selected by a
+leading South African Financial Services group for their personal and business
+financial banking, business banking offerings catering to investor services and
+it includes custody and corporate actions as well. With this new deal, almost
+95% of the custody transactions in South Africa will run on TCS BaNCS™ in
+addition to the Central Depository.
+Quartz blockchain platform had 2 new wins in Q4. The Quartz brand has
+extended its presence across multiple industries, ranging from financial
+services to the energy sector and pharmaceuticals.
+A leading corporate depository in India has selected Quartz for markets to
+implement a solution for corporate bond issuance and covenant monitoring.
+The solution will facilitate the creation of bond instruments by bringing together
+different stakeholders, including CSDs, debenture trustees, valuation firms and
+exchanges into a blockchain based ecosystem. The solution is designed to
+enable greater transparency in the issuance process by eliminating potential
+double counting of underlying assets, enabling real-time information updates
+from various stakeholders and providing a single source of truth through the
+shared ledger.
+TCS HOBS™ suite of products for communication services had 2 deal wins in
+Q4.
+TCS TwinX™, our AI-based digital solution had 6 wins and 3 go-lives during
+the quarter.
+TCS OmniStore™, our AI-powered universal commerce suite had 3 new wins.
+TCS Optumera™, our AI-powered merchandise optimization suite had 2 new
+wins and 3 go-lives.
+TCS iON has now onboarded over 700 corporates to enable job outcome
+linkage. In FY’22, TCS iON conducted 45 million in-center and 2.9 million
+remote assessments at national and regional scale.
+Let me now spend some time on our client metrics. As you know, our customer-
+centric strategy entails continually investing and building newer capabilities to
+create value in newer parts of our clients business, so that our relationship
+keeps expanding and deepening over time.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Measuring our customers’ upward progression across various revenue
+buckets is that surest validation of our strategy. So, we track these metrics very
+closely.
+In Q4, we added 10 more clients over the last 12 months in the $100 million
+plus band, bringing the total to 58.
+We added 19 more clients in the $50 million plus band, bringing the total to
+120; 40 more clients in the $20 million band, bringing the total to 268; 52 more
+clients in the $10 million band, bringing the total to 439; 69 more clients in the
+$5 million band, bringing the total to 638 and 86 more clients in the $1 million
+plus band, bringing the total to 1,182.
+With that, let me hand it over to Rajesh for some additional color on the demand
+drivers and the order book.
+Rajesh Gopinathan: Thank you, NGS. We have spoken about three broad growth drivers this year
+-- increased outsourcing, cloud adoption and growth and transformation.
+When we talk about cloud adoption, it’s not a single event, but a multi-horizon
+transformation journey that begins with migration and other Horizon 1 activities.
+G&T is often the primary driver of our customers’ Horizon 2 investments and
+so partnering customers in the initial stages of the cloud adoption is also
+opening the doors to us to their G&T initiatives.
+As in prior quarters, we had several new wins around Horizon 1, initiatives such
+as cloud migration, application and data modernization, etc., I’ll give a few
+examples of such instances.
+• Coop, a leading Swedish retailer, engaged us to migrate critical logistics
+applications to the public cloud. This migration has future proofed Coop’s
+core systems and enhanced its agility and scalability.
+• For a large Australian power utility, TCS helped execute the end-to-end
+transformation, including cloud discovery and assessment, foundation
+services, cloud migration, application modernization and operations
+management. Using our factory approach, we helped migrate more than
+150 applications and over 1,800 servers to the cloud, helping
+decommission its IT infrastructure, reduce technology debt, enhance
+resilience and provide a solid foundation for the company’s Horizon 2
+plans.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+• Similarly a large U.K.-based communication service provider has engaged
+TCS as its strategic data and analytics transformation partner, to help build
+a common and simplified data platform on a public cloud, enabling future
+use cases around hyper-personalization, micro marketing, differentiated
+customer experience and even new revenue streams like data
+monetization.
+While such initiatives help improve the organization’s operational resilience
+and give it greater agility and scalability to handle future growth, the real value
+unlocking of the cloud investments comes from Horizon 2 initiatives, which use
+the native capabilities of the cloud to try out new ways of working, innovations
+around products of business models and new customer experiences.
+Let me share a few examples to show what we mean when we talk about new
+ways of working.
+• A leading European Financial Services firm engaged us to transform their
+time-consuming and error-prone financial spreading process used for
+determining the creditworthiness of corporate clients. Our TCS FSaaS, the
+Financing Spreading-as-a-Service Solution on a hyperscaler cloud,
+digitized the spreading process, extracting data from financial statements
+and regulatory filings using ML-based models 7x faster, with 99%
+accuracy. This enabled more accurate credit scoring, quicker lending
+decisions and higher throughput and business growth.
+This engagement also highlights how we are originating and winning such
+Horizon 2 deals. The idea itself came up as a visible manifestation of
+contextual knowledge during an Innovation Day Hackathon we had
+organized for the client. The account team then proactively pitched the idea
+to the client’s risk management organization, eventually leading to an
+engagement.
+• For Rabobank, a leading European bank, has partnered with TCS to build
+a modern data warehouse platform on a public cloud for their wholesale
+customers’ KYC business domain. The platform will ingest, curate and
+generate KYC reports to view customer data in a consistent way across
+the globe, using cloud-native analytics and reporting tools, and enable
+faster forecasting and business decisioning and onboarding.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+• We have been selected by a leading Swiss building materials provider as
+a strategic partner for its `plants of tomorrow’ initiative, digital
+transformation and journey to net zero goal.
+TCS will leverage its Neural Manufacturing™ framework to develop IoT-
+based digital solutions, enabling predictive operations and maintenance,
+intelligent automation and robotics. These are expected to improve asset
+and plant performance, and reduce energy costs and carbon footprint.
+A recurring theme in Horizon 2 initiatives, is product and service innovation to
+enable new business models, generate new revenue streams and to drive
+growth. Here are a couple of examples.
+• For an American corporation that specializes in water treatment,
+purification, cleaning, hygiene and infection prevention solution, TCS is
+helping to develop a cloud-based connected products platform that will
+remotely monitor multiple equipment and related sanitizing consumables
+at customer sites.
+Using this, the company can launch innovative products like digitally
+connected appliances for hand hygiene, surface sanitization and
+dishwashing. That will enable as-a-service business model in the facilities
+management area and drive new revenue streams. Actionable insights
+from the platform leveraging AI and predictive analytics will enable timely
+refills, proactive maintenance and unlock the ability to cross-sell and
+upsell.
+• Similarly, we have been selected by Hartmann, a leading surgical and
+medical instrument manufacturing company to work on a future product
+line to add to their high compression bandage products portfolio. TCS will
+conceptualize, design and co-develop a digital health solution for
+healthcare professionals and patients using IoT to simplify the patient
+monitoring process. TCS will develop the sensor patch and its associated
+software components to detect the pressure sensor data and transmit it
+using NFC to the patient monitoring mobile application and cloud back-
+end.
+Lastly, with the idea of metaverse catching on in the enterprise world, we are
+seeing growing interest in providing customers and users with immersive
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+online experiences using XR or extended reality. Let me give you a couple of
+examples.
+• A leading U.S.-based communication service provider faced with the
+challenge of driving retail sales while physical stores were seeing lower
+footfall during the pandemic, partnered with TCS to provide a personalized
+at-home experience of a real store.
+TCS organized the design thinking workshops to conceptualize and design
+a virtual replica of a store using passive VR, which customers can enter
+and virtually navigate on their mobile devices. Built using TCS
+Avapresence™ foundry and the webAR technology, the virtual store is
+accessible from any device with virtual try-on and try-out features.
+It has integrated commerce capabilities so customers can purchase the
+products and accessories on display, just as in a physical store. The cloud
+native framework made it easier to integrate with existing e-Commerce
+platforms, provide real-time insights and scale the solution. The virtual
+store has resulted in better customer engagement, a 30% increase in
+sales conversion and an 80% growth in digital channel sales.
+• For marketing of their newly launched product, a prefilled injection, a
+leading medical devices manufacturer engaged TCS to provide an
+immersive experience for its healthcare partners to show them how the
+model can be conveniently self-administered. TCS came up with various
+options using AR experience and recommended the best approach to the
+client. It used WebAR to create a realistic virtual 3D model of the injection
+which provides users with usage instructions through an immersive
+experience, obviating the need to go through lengthy user guides.
+The successful use of AR to market has sort of just led to interest in
+building similar experiences around their other products as well.
+These are some examples of the continuing demand trends that have been
+filling our order book and driving strong growth over the course of the year.
+In Q4, we had very strong deal wins, resulting in an all-time high order book
+with TCV of $11.3 billion. This includes two mega deals of roughly $1 billion
+each. Even excluding these two mega deals, our order book TCV in Q4 is at
+$9.5 billion, which is also an all-time high.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+By vertical, BFSI had very strong TCV of $3.2 billion, while retail posted an
+order book of $2.6 billion. The TCV of deals signed in North America stood at
+$6.1 billion.
+For the full year, our order book TCV was $34.6 billion, a growth of 9.5% over
+the prior year.
+With that, we can open the line for questions.
+Moderator: The first question is from the line of Kumar Rakesh from BNP Paribas. Please
+go ahead.
+Kumar Rakesh: My first question was around the margins. So, we had set our aspiration band
+above 26%. In the current context of the supply side constraint and especially
+for FY'23, how do you see that aspirational band panning out and what are the
+headwinds and tailwinds we are looking at immediately in the next few
+quarters?
+Samir Seksaria: Hi, Kumar. So, the 26% to 28% remains our guiding base, and our long-term
+cost structures are very well placed and we firmly believe that we can operate
+in the 26% to 28% band based on our long-term cost structures.
+If you look at the near term, we will double down on our operational levers to
+help us get closer to this band. From a short and near-term perspective, given
+what we are seeing in terms of the churn, until it goes back to our normal levels,
+we will see some volatility on margins. So, that’s our view. And if I look at FY
+23, at least initially we would be seeing some churn and pressure on margins.
+Kumar Rakesh: Given that now we’d be ramping up the onsite as well with the travel resuming,
+how would be the wage hikes on the onsite side? And how are we looking to
+mitigate that impact?
+Rajesh Gopinathan: Rakesh, this is Rajesh here. Overall, we think that salary hikes will be similar
+from a medium perspective to what was there last year with a slightly upward
+bias. While there will be pressures in individual markets or individual capability
+side, the hiring and the pyramid rebalancing that has happened will also give
+a significant support. And we think that, as travel opens up more and more, our
+optimization levers will also increase. So, there is no one specific answer to it.
+If you take a given variable, of course, those variables have their own
+unidirectional impact. But in aggregate, we believe that the portfolio can lend
+itself for some optimization, but short-term volatility is to be expected.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Kumar Rakesh: Rajesh, one clarification. So, early this month we had announced one large
+material deal win from a large American company. So, this quarter deal win
+which we have announced of $11.3 billion, so that includes that or –?
+Rajesh Gopinathan: It happened on the cusp of the quarter so this $11.3 billion includes that deal.
+Moderator: The next question is from the line of Diviya Nagarajan from UBS. Please go
+ahead.
+Diviya Nagarajan: Couple of questions from my side. NGS, earlier on the press conference you
+had talked about some of your customers stepping back and you kind of
+described that as backing up. Could you kind of explain what that means in
+terms of the budget expectation or spending trends that you're seeing with
+some of those customers? That’s question number one. Question two, from an
+overall perspective, if you were to look at your demand outlook and the
+confidence that you have on the outlook versus last year, how would you kind
+of rate that -- is it the same, are you seeing more risk, or how would you
+characterize that?
+N.G. Subramaniam: Thank you, Diviya. I think I answered that in the context of the Europe
+performance in the current quarter compared to the previous quarters.
+What we see in Europe typically across verticals is that they are the ones which
+were most impacted by COVID, because different countries were affected by
+COVID at different times, and they are a fairly integrated economy, number
+one. Number two is that they are just about to also manage the Brexit which
+happened during the last 18 months or so, and now the war situation. All of
+that put together, there is some thinking about what should be the investment
+areas. At the same time, there is enormous focus on sustainability across
+verticals. Everybody in Europe is looking at putting sustainability on the
+agenda.
+Looking at all of this, there is a kind of stepping back and see where are the
+investors, what should be the priorities for technology investments and so on,
+so on. In that context, some readjustment and re-orientation of budgets are
+taking place. But, as we explained in the press conference as well, that
+technology is the solution for the majority of the issues that they are facing. In
+that context, the technology spend continues to happen, but there are some
+reallocation in terms of where they actually go and they spend on technology.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+To your second question on confidence in the overall demand outlook, it looks
+very good. The kind of deal wins and the momentum that we have, we are
+clearly in a better position now compared to where we were same time last
+year. So, that should augur well for our growth and our aspirations for FY 23.
+Moderator: The next question is from the line of Sandip Agarwal from Edelweiss. Please
+go ahead.
+Sandip Agarwal: I have only one question on the manpower side. So, just wanted to understand
+that the situation we are going through is led by high demand and the supply
+is not matching it. So, basically, there is kind of poaching from one another.
+So, the real solution probably is the supply increasing. So, how will supply
+increase in next two quarters – will it be completely through this fresher hiring
+which has happened in past and the way we are hiring right now or you think
+that there are other ways to increase the supply, like cutting down the training
+time through accelerated training programs, are there some other options by
+which we can increase the supply because I think that is where we are right
+now most hurt and probably demand environment remains robust, so what is
+your sense on supply issues cooling off, by when you think it will happen?
+Rajesh Gopinathan: Sandip, Rajesh here. As you rightly pointed out, what we’re seeing is a
+demand-supply mismatch in our industry. Fresher hiring and productive use of
+freshers is a long-cycle activity. But you have seen the industry step-up hiring
+over the last four quarters. We expect that as that supply hits productive use,
+that will ease up a lot of what was going on over the last few quarters.
+So, that’s why when we say that as we look forward two quarters ahead, we
+think that attrition will flat line and then start tapering.
+The expectation is that the bulk of this hiring that has gone on across the
+industry in the last calendar year will start coming in and playing a role. So, it’s
+very similar to what you are saying; just that there is a little bit of a lag and by
+middle of the year we should see it.
+Moderator: The next question is from the line of Apurva Prasad from HDFC Securities.
+Please go ahead.
+Apurva Prasad: Rajesh, a couple of quick ones. So, the changes in the operating structure that
+you mentioned and the participation across a wider spectrum now, how does
+that intersect with the hyperscaler deals? And as a result of this, likely to reflect
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+more in the $100 million client bucket or do you think it’s probably going to
+reflect more in the $10 million category initially?
+Rajesh Gopinathan: Apurva, let me explain what we are doing and hopefully that will answer the
+question, because the services, our focus on cloud and hyperscalers is
+independent of what we’re doing on the structure side.
+On the structure side, we are realigning our governance to bring in focus on
+our engagement model for customers across different points of their
+relationship journey with us.
+We are creating three new groups. One, focused on customers who are at the
+early stage of the relationship with us. Typically, in that stage, a customer is
+very focused on assessing whether TCS can deliver the specific project given
+to them.
+As they go forward in their relationship with us, typically the focus shifts and
+many of our customers try and see if TCS can be a strategic vendor around
+whom they can consolidate. Typically, most customers prefer to have one or
+two or three large vendors and vendor consolidation is a common theme
+across our customer base. And at that time, the question is, does TCS have
+the full spectrum of services? Do they have an ability to deliver those services
+in a consolidated manner? Can they manage the relationship at a stepped level
+in terms of an enhanced support to them across both services as well as across
+geographical markets that they operate in, etc.? So, the focus shifts to the full
+services model and our ability to scale up to be a strategic supplier to them.
+And as that phase passes through, the focus then shifts again to whether we
+can step beyond being a scaled strategic vendor to being a vendor who can
+participate well in their transformation initiatives and across a wide spectrum
+of their CXO initiatives.
+Now I’ve laid it out in a very kind of a time-bound manner. Many times, it might
+happen in a different sequence, but broadly this is the sequence in which a
+relationship develops over time. So, we are standing up different organizational
+groups that are focused on ensuring that the engagement models are aligned
+to these three stages of the customer relationship.
+The specific service that we offer, for example, at an early stage itself, the first
+project might be a product implementation or it could be a TCS IP being
+delivered or it could be a transformative engagement on the G&T side. It
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+doesn’t matter what that is. That project has to be executed well because that
+is the proof point of the early part of the relationship. So, whether it is
+hyperscaler, not hyperscaler, whether it is G&T, that is not actually pre-decided
+based on any of these three structures. It is more the way the engagement is
+governed that is being set up. I hope that answers your question.
+Apurva Prasad: Yes, Rajesh, that clarifies. I was also actually trying to understand how does
+that reflect in the $100 million versus $10 million and I am assuming it’s the
+latter initially, but I get the point. My second question Rajesh is, you did earlier
+mention of TCV reverting to $8 billion, $8.5 billion. So, I want to understand
+from you how is the mega deal pipeline looking and any additional color on the
+two mega deals?
+Rajesh Gopinathan: Apurva, that point was in a context, I will come to it. So, if you look at our
+commentary through the last few quarters, we have consistently maintained
+that the pipeline distribution of deal sizes is fairly even, and similar to earlier
+periods. But when a very large mega deal will close is very hard to predict.
+This quarter’s numbers are a validation of the fact that there is no skew to the
+pipeline. It’s not that the industry is shifting towards very large deals or very
+small deals. So, the quarter’s results actually validate the point that we have
+been emphasizing over the last few quarters.
+The point about $8.5 billion was different. A better way to think about the overall
+pipeline progression and demand outlook is to look at the long-term trend line
+of our TCV. We used to be in the $6.5 billion range eight quarters back,
+whereas we are now well into $8 billion+ range currently. So that’s the context
+of that $8.5 billion. It is not to say that $11.3 billion will immediately step down
+to $8.5 billion.
+I was saying that we have seen a steady expansion of our base TCV levels,
+which is an indication of the robust demand environment and the relevance of
+our services and market presence to the target customers that we have.
+Apurva Prasad: Just the second part of that, on the two mega deals and does that mean better
+line of sight to replicate the $3.5 billion incremental next year?
+Rajesh Gopinathan: That is a very leading question, which I shall skip.
+Moderator: Thank you. The next question is from the line of Mukul Garg from Motilal Oswal
+Financial Services. Please go ahead.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Mukul Garg: Just two questions from my side. The first one is on the pricing and its impact
+on margins. You guys mentioned earlier on that you are seeing some impact
+of pricing in part of your business. So, if you can zoom in a little bit on that
+segment, is there a way to quantify the change of pricing which is happening
+at this point of time versus maybe a year or two prior to this? And just moving
+that forward, is that something which can help you mitigate the margin pressure
+which is there? And can that be more of a H2 event or is that impact going to
+flow through in FY 24?
+Rajesh Gopinathan: Difficult to put a timeframe to it, but let me try and give you some color on
+what’s happening on the pricing side. Typically, in renewals and other aspects
+of ongoing relationships, there is a slight uptick in terms of the pricing that we
+are seeing. It could manifest itself as COLA clauses being better enforceable,
+or in terms of renewals at a slightly increased price points from customers with
+whom where we have had a good relationship and also who have seen us
+stand by them during the pandemic period. So, that’s the nature of the pricing
+there.
+Whereas if you look at fresh new deals that are coming in, the competitive
+intensity is quite high and the price points there are reflective of the nature of
+the work. If it is a very wide field, with lots of competition, the pricing reflects
+that. So, there is no one single answer to it. It is more the smaller aspects of it
+are where the slight uptick of pricing is happening. The cumulative impact of it
+will take some time to come through.
+For the full year, of course, gaining from the base effect of last year, we have
+had a net improvement in realization. But for the quarter per se, actually the
+realization has been flattish. So, as I said, the cumulative effect will take some
+time for it to become a material impact.
+Mukul Garg: And the second question was on the net adds. You guys have done an
+incredible job of adding over 100,000 employees this year. How should we look
+at this given that you don’t share broad utilization levels? How much of that
+adds this year was more to do with the future growth which you have visibility
+on? And was there a cushion which was to kind of ease out the stressed deals
+which saw very strong growth last year and hence got consumed there?
+N.G. Subramaniam: Mukul, NGS here. Overall, we had about 100,000 people who were freshers
+during the last financial year. Initially we thought that we would add about
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+40,000, but then we remained agile and our hiring model allowed us to source
+the required number of people at the right levels through the year.
+Taking that into account, we are planning to do the same thing. We will start
+thereabouts with 40,000 freshers for the target for of this year. But having said
+that, I think our utilization levels, including the freshers has come down in this
+quarter. So, that is an opportunity for us to improve the utilization in the coming
+quarter as well as probably in H1 also.
+We are also looking at other levers, right. The whole productivity will hopefully
+improve in the coming quarters. Our approach to bringing people to work
+should see a certain amount of better utilization and also, better ways of
+structuring the teams as we move forward as well. All this should contribute to
+better utilization and better overall realization, while we continue to look for the
+right talent and majority of them will be organically grown as well.
+The new organization structure and operating model that we have put in place,
+also means that there are additional investments that we are making, and the
+talent is aligned to that curated customer journey that we are putting in place.
+So, at the entry level, the focus is more on the right amount of technology skills,
+the process orientation, making sure that the rigor in delivery is in place and
+the overall quality of experience is improved at the entry level.
+While at the top of the business transformation growth, we look for talent
+specifically contributing to the growth and transformation programs that we
+look at, partly from the contextual master programs that we have and then
+partly from the local market knowledge that we’ll be acquiring.
+So, it’s a very well-rounded thinking process by which a good amount of talent
+is sourced fresh, upskilled internally, as well as hired laterally and it aligns the
+right team and putting together horses for courses or courses for horses as the
+situation demands for it.
+Moderator: The next question is from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+Sandeep Shah: Rajesh, just the first question is in terms of this new operating model. TCS is
+always best known in terms of client mining efforts. So, whether this new
+operating model will take into consideration in acceleration of a client mining
+efforts and whether the variable incentives of the sales and the delivery and
+the other subject matter experts will have a laser-sharp focus in terms of mining
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+across all the buckets? So, how this will provide an incremental benefit to TCS?
+Just that is what I wanted to understand.
+Rajesh Gopinathan: Thanks. The model is more designed to ensure that the right talent in TCS is
+brought to bear at the right stage of client relationship so that we can maximize
+the value that we add to our customers. So, that’s the main focus.
+More than incentivization, it is about choosing the right people and also setting
+up their support structures appropriately, and investing in those aspects of the
+engagement model, and also the distribution of people and customers and the
+kind of concentration that we have of relationships. That’s the focus.
+So, a), more than incentive, it is about finding the right people for the right roles
+and structuring the roles in a more concentrated way; and b), it is about making
+sure that we maximize the value that we add to our customers.
+Sandeep Shah: NGS in his comments has also said, while entering FY’23, we are more
+confident versus FY’22. While what we foresee in FY’23 is there could be lot
+many macro related issues. So, is it client discussion indicates that this time
+the co-relation of the IT spend versus macro issue would no longer be that
+direct and the IT spend may not get impacted despite the macro related issue
+as a whole? So, just wanted to understand any client discussion which gives
+you even concern in terms of reprioritization of spend, delay in terms of project
+starts or ramp up as a whole?
+N.G. Subramaniam: Sandeep, I mentioned that comment in the context of comparatively speaking
+as we were last year and where we are this year. Comparatively speaking, I
+think from our momentum that we see, the demand environment that we see
+and the pipeline and the deals that we have contracted, all that when I compare
+it, I think we are in a better wicket compared to what we were in the same time
+last year. That is the context in which I made that statement.
+Having said that, on the macro issues, there are many comments are being
+made, economists, IMF has made a series of comments on this. World Health
+Organization has made certain comments, the war situations are there. We are
+tracking all of this and then we will have to stay agile and course correct
+ourselves as we execute our operations, one.
+Secondly, what we see is that, whether it is in good times or bad, technology
+is the answer. The investment buckets might change from one to the other, but
+the technology spend itself is likely to remain robust. That’s the way that we
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+see things. That’s the way that we also try and measure the impact on
+geopolitical risk and other macroeconomic indicators.
+Sandeep Shah: Just lastly bookkeeping. For these two large mega deals, is it possible to share
+the tenure of these two deals? And also, in cost of revenue line, this time the
+absolute travel cost has been one of the lowest in the fourth quarter of FY'22.
+So, will that remain in this level because work from office is starting across
+most of the vendors as a whole, so what is the reason for such a lower cost on
+travel?
+Rajesh Gopinathan: I will answer the first part and then Samir will take the next one. Typically for
+larger deals, the deal tenure is somewhere in the five to seven range and for
+deals which are closer to $1 billion there upwards of seven years. Both these
+deals are in the seven to 10-year kind of a range.
+Samir Seksaria: On travel costs, travel was sluggish in the first two months of the quarter, and
+there was also moderation in visa cost during the quarter. As we have called
+out, we expect discretionary expenses to increase, so to that extent, this is an
+abnormality. We have been seeing travel expenses increasing through
+previous quarters and that trend should continue.
+Moderator: The next question is from the line of Ravi Menon from Macquarie. Please go
+ahead.
+Ravi Menon: Typically in Q3 you have furloughs and lower number of working days with a
+lot of holidays and Q4 you really get the benefit of that despite fewer days in
+the quarter. At this time, that absolute incremental revenue has declined
+compared to what we had in Q3. So, what were the headwinds? And did we
+not have any furloughs in Q3, usual seasonality, the focus on it like?
+Samir Seksaria: One thing to look at in Q3 is that Christmas was on a Sunday. So, technically
+there was one more working day than usual. Furloughs did continue in Q3. But
+if you look at it from a working days perspective, Q3 had one more day because
+of the global holiday being on a weekend.
+Ravi Menon: And then in Europe, we had a slight revenue decline in absolute terms. So, I
+think you mentioned in your press comment about the deal answer at
+Postbank? Is there anything else, do you have any programs put on pause by
+clients because of the war situation in Ukraine or anything else that you see as
+temporary or is there anything specific that you’re concerned about?
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+Rajesh Gopinathan: Ravi, you have got to see it in the perspective that Q3 had very strong numbers.
+The current growth is off that base. It’s a normalization from the Q3 growth. In
+Q3 we had a 6%-plus sequential growth in Europe. So, it’s in that perspective.
+Ravi Menon: In the first half of FY'22, the trainees you onboarded, I would assume have
+been largely deployed if not wholly deployed. So, why is there a large gap
+between the employee addition and revenue growth? Should we say that this
+is just capacity that’s built up because of attrition and preparing for better
+growth so that you’re not really short of people, are we just playing safe?
+Rajesh Gopinathan: If you are asking why is there a mismatch in terms of when there is employee
+addition happens and where the revenue comes, we have been long-term
+focused especially on our fresher hiring.
+It’s a programmatic hiring approach that we have taken. We were one of the
+few companies that hired through the pandemic, honored every offer that we
+made and continued to hire through the pandemic. So, our approach to fresher
+hiring has always been medium-term focused and EP hiring is the one that is
+more short term one.
+But short term side, as you can see from our subcontractor expenses, we are
+anyway running very tight on that. So, the EP hiring continues, fresher hiring is
+more medium to long term focused.
+Moderator: The next question is from the line of Gaurav Rateria from Morgan Stanley.
+Please go ahead.
+Gaurav Rateria: The first one is, just your comment around Europe. You talked about some re-
+allocation and reorientation of technology budgets. Just trying to understand
+how did this manifest in client behavior in terms of timing of deal closures or
+decision-making cycle?
+N.G. Subramaniam: I think the re-allocation of budgets comment was made in the context of again,
+Europe, right, where there are multiple scenarios are emerging there. In certain
+verticals, sustainability is important, pretty much in across the client base that
+we see. Most of them have made some very strong commitments on the
+sustainability front and the goal front. From that perspective, one of the things
+that happened is, every program that they are doing, there is a very strong
+alignment to the sustainability goals and how the technology that they are
+implementing is going to be contributing to their sustainability goals. To that
+extent, some amount of reallocation takes place.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+The other thing is actually the war situation currently, means, should we really
+look at it in the context of where we should invest or how we should do? And
+as a conscious thing on the customers are asking us to see whether we could
+actually execute it from our Eastern European development centers, because
+that is the skill sets that are coming and then they are available. Number two
+is that also, the least that we can do at this point in time is to be meaningful to
+the communities in those countries. So, in that sense, some amount of
+reallocation, rethinking in terms of how the technology can take place, how the
+allocation of the technology, from where the spend has to take place. These
+are things that have been deliberated.
+Gaurav Rateria: The second question is around margins. So, you talked about volatility in
+margins in fiscal ’23. So, is there any threshold level below which you would
+want margins to not go or the focus will be largely to fulfill the demand without
+caring too much about the volatility in the near term?
+Rajesh Gopinathan: We don’t have any specific floor or cap on the margin front. Our commentary
+on margin has always been about where we think the overall opportunity is and
+where we think we can stabilize it. But per se, as you said, we have never put
+margin over given business or growth opportunity. But we stay very disciplined
+in chasing growth and we prefer profitable growth over everything else.
+Moderator: Ladies and gentlemen, that was the last question for today. I now hand the
+conference over to the management for the closing comments.
+Rajesh Gopinathan: Perfect. Thank you. As I said, we had a strong well-rounded growth in Q4,
+which helped us close FY 22 on a strong note, growing 16.8% in rupee terms
+and 15.4% in constant currency terms and 15.9% in dollar terms.
+Our margins continue to be industry leading.
+The strong growth came from our customer-centric model, which visibly shows
+in our clients metrics where we have had strong addition across all revenue
+band buckets. We are now doubling down on that customer-centricity by rolling
+out a new organization structure that will enable curated experiences for our
+customers depending on what stage their relationship with TCS.
+The strength of demand for our services showed through in an all-time high
+order book during the quarter, even after excluding the two mega deals we won
+in Q4.
+: 
+Tata Consultancy Services Q4 & FY22 Earnings Conference Call
+April 11, 2022, 20:00 hrs IST (10:30 hrs US ET)
+We have hired fresh talent in record numbers this year in India and in our major
+markets, while taking tactical measures to retain our best talent in the midst of
+an elevated churn across the industry.
+Thank you all for joining us in this call today. Enjoy the rest of your evening or
+day and do stay safe.
+Moderator: Thank you, members of the management. On behalf of TCS, that concludes
+this conference call. Thank you for joining us and you may now disconnect
+your lines.
+_________________________________________________________________________________
+Note: This transcript has been edited for readability and does not purport to be a verbatim
+record of the proceedings.
+:

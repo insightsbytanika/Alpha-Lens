@@ -1,0 +1,1274 @@
+TO ALL STOCK EXCHANGES
+BSE LIMITED
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+NEW YORK STOCK EXCHANGE
+October 17, 2022
+Dear Sir/ Madam,
+Sub: Transcripts of the press conference and earnings call conducted after the Meeting of
+Board of directors on October 13, 2022
+Please find enclosed the transcripts of the press conference and earnings call conducted after the
+Board meeting held on October 13, 2022, for your information and records.
+This information will also be hosted on the Company’s website, at
+https://www.infosys.com/investors/reports-filings/quarterly-results/2022-2023/q2.html
+The audio/video recordings of the press conference and earnings call are also made available on the
+Company’s website, at https://www.infosys.com/investors/reports-filings/quarterly-results/2022-
+2023/q2.html
+Yours Sincerely,
+For Infosys Limited
+A.G.S. Manikantha
+Company Secretary
+INFOSYS LIMITED
+CIN: L85110KA1981PLC013115
+44, Infosys Avenue
+Electronics City, Hosur Road
+Bengaluru 560 100, India
+T 91 80 2852 0261
+F 91 80 2852 0362
+investors@infosys.com
+www.infosys.com
+“Infosys Limited
+Q2 FY23 Media Conference Call”
+October 13, 2022
+C O R P O R A T E P A R T I C I P A N T S:
+Salil Parekh
+Chief Executive Officer and Managing Director
+Nilanjan Roy
+Chief Financial Officer
+Rishi Basu (Emcee)
+Corporate Communications
+JOURNALISTS
+Ritu Singh
+CNBC TV 18
+Anisha Jain
+ET Now
+Sajeet Manghat
+BQ Prime
+Kushal Gupta
+Zee Business
+Chandra Ranganathan
+Moneycontrol
+Shilpa Phadnis
+The Times of India
+Sai Ishwar
+The Economic Times
+Haripriya Sureban
+1
+The Hindu BusinessLine
+Sethuraman NR
+Reuters
+Binu Paul
+Business Today
+Shivani Shinde
+Business Standard
+Uma Kannan
+The New India Express
+Tushar Goenka
+Financial Express
+Harshada Sawant
+CNBC Awaaz
+Debasis Mohapatra
+Deccan Herald
+Reshab Shaw
+Informist
+Mint
+2
+Rishi Basu
+A very good evening everyone and thank you for joining us physically this time at our second
+quarter results press conference. My name is Rishi and on behalf of Infosys, I would like to
+welcome all of you, our friends from media, and our leaders from Infosys. We are delighted to
+host you today. A couple of house rules before we start. We have a lot of friends from media
+present today, so I will request one question from each media house like I always do so that we
+can accommodate everyone over the next one hour. With that let me invite our Chief Executive
+Officer Mr. Salil Parekh for his opening remarks. Over to you Salil.
+Salil Parekh
+Thanks, Rishi. Good afternoon and welcome. It is always good to have all of you here on the
+campus and I am sure you are also enjoying being back in person and being at our campus, so
+thank you for being here.
+Our Q2 performance was strong with year-on-year growth at 18.8% and sequential at 4% in
+constant currency. Growth in Q2 was broad-based with all industries and geographies growing
+in double digits in constant currency. This momentum is accompanied by a strong pipeline of
+large deals and the highest large deal value in the last seven quarters at $2.7 bn, 54% of this is
+net new.
+These elements are a clear reflection of the deeply differentiated digital and cloud capabilities
+we have developed, that are highly relevant to our client’s strategic priorities.
+Our digital revenues are now 61.8% of our overall revenue and they grew at 31.2% in the
+quarter in constant currency terms. While digital continues to see strong growth rates, we are
+seeing in this quarter acceleration in the growth trajectory of our core services. This is due to
+our industry leading-automation capabilities and reflects an interest among clients towards cost
+optimization programs. We also see this in our large deal pipeline with strong focus on cost
+reduction programs, in addition to the digital transformation programs in the pipeline.
+While we generally do not share the specific amount of our cloud revenue, we are delighted to
+share that in Q2, our cloud revenue was larger than $1 bn showing tremendous strength of our
+cloud services, especially our industry-leading Cobalt capability. A strong growth was
+accompanied by an operating margin expansion of 150 basis points, where we had an operating
+margin in the quarter of 21.5%. This stems from cost efficiencies, optimization in large deals,
+and currency benefits.
+3
+Our attrition has been decreasing now for three quarters on a quarterly annualized basis,
+including now in Q2 and we see this trend along a downward trajectory.
+In keeping with our capital allocation policy, the board has announced a share buyback of
+Rs.9,300 crore and an interim dividend of approximately Rs.6,940 crore.
+With that, let me open it up for questions. Rishi, over to you.
+Rishi Basu
+Thank you, Salil. Joining Salil is Mr. Nilanjan Roy, Chief Financial Officer, Infosys. With that
+we will open up for questions. The first question is from Ritu Singh from CNBC TV18.
+Ritu Singh
+Hi Salil. A quick question on your guidance that you have given from 15% - 16% revenue, you
+have tightened it further to about 14% - 16%. The upper end remains the same, but if you could
+give a sense on what made you tighten the guidance? And also, your share buyback, you have
+the option to go all the way up to 18,000 as we understand then why capped at about Rs.9,000
+crore odd that you have done?
+Salil Parekh
+On the guidance, we have had an incredibly large deals performance in this quarter at $2.7 bn.
+We have had strong momentum at 18.8% growth in the quarter. We continue to see good
+traction. We also see that there is some caution. Last time we had mentioned that we saw some
+caution in mortgages in financial services. We talked about retail. We now see some caution in
+hi-tech and in telecom. Keeping all of those factors -- the positive factors and the global macro
+factors, we have decided to make our guidance narrower at the higher end of the band that we
+had - so it was 14% - 16% and now it is 15% - 16%. On the share buyback, let me request
+Nilanjan to address that.
+Nilanjan Roy
+On the share buyback, of course, the board considers a lot of factors, but coming to your
+specific point on the maximum. Since this is an open market offer, it is limited to 15% of the
+share capital and reserves which is about Rs.9,400 odd crore -- give or take. So, the board has
+decided on a figure of Rs.9300 crore.
+4
+Rishi Basu
+Thank you. The next question is from Anisha Jain from ET Now and Anisha sent her question
+on text. What has supported the margin performance? What are the levers to improve margins
+hereon? Deal wins is strong at $2.7 bn. Going forward do you expect clients to cut spending of
+this run rate of over $2 bn, will that continue? Will FY24 also see double-digit growth?
+Salil Parekh
+Let me start with a couple of them. On the margin, Nilanjan will come back on. On the deal
+wins, I think this is an incredible performance from the company, $2.7 bn is a very large
+number. We have a very strong focus on large deals and 54% being net new that gives us a
+really good platform for what we see in the future. Now large deals, we have always
+maintained, these are volatile. In some quarters the numbers are high, and some are low. These
+are not very predictable outcomes, but in general, if you look over a four-quarter period, we
+have a fairly good large deal momentum. Our pipeline for large deals remains quite strong
+today and it is in a good position. So we feel comfortable with where we are in the market. Just
+to add, the macro comments that I made in the earlier question, those obviously, still hold.
+Nilanjan Roy
+On the margins, we have improved from 20.0% - 21.5% sequentially, which is a 150 basis
+points improvement. We have got 70 basis points out of that because of currency benefits, all
+currency versus the dollar as you know depreciated as well, and of course, there was cross-cost
+currency impact so that gave us 70 BPS. We got 90 basis points from cost optimization and
+you are aware of the levers we deploy in terms of the pyramid, in terms of automation, in terms
+of onsite/offshore, pricing, so between that large deal optimization, and other costs which we
+have been able to take out are partly offset by utilization, we got about 90 BPS from there. We
+have got about 40 BPS from reducing our subcon. Again, cost lever which we have been trying
+to attack gave us 40 BPS and this was offset by about 40 BPS from comp related because some
+of our comp hikes were rolled out on 1st July as we mentioned. So, all in all, we got 150 basis
+points improvement. If you see from the guidance perspective and as we had mentioned in the
+last earnings call, we had said we will be at the bottom end of our 21% - 23% guidance. We
+5
+are now looking at our first-half performance. We have for this year at least tightened it to 21%
+- 22% and we expect to be at the bottom end of that band.
+Rishi Basu
+Thank you. The next question also on text is from BQ Prime. Sajeet Manghat asks Salil, can
+you elaborate on the demand environment in the US and Europe in the context of the
+geopolitical events in Europe and macroeconomic challenges seen in the US. What is the
+exposure to Europe, especially Germany, and how do you see the TCV pipeline? For Nilanjan,
+a similar question on margins again, how do you see the trajectory for margins given weak
+traditional H2? And what is the kind of leverage available with respect to bench utilization?
+Salil Parekh
+On the demand environment, what we see is on the macro front, which we had indicated last
+time is that we started to see some concerns on the mortgage side, in financial services, and in
+the retail industry. We are seeing this time some concerns in the hi-tech and in the telecom
+industry, in addition to those, these are more on the discretionary part of our pipeline. We are
+also at the same time seeing a strong large deals pipeline, which gives us some confidence. We
+have pivoted and I think the market itself is also pivoting, the clients where there is more and
+more interest in automation and cost efficiency, and we see that coming through within our
+pipeline. We have seen growth - both in digital over 30% and in the core which shows that both
+of our engines are working quite well. In terms of the US and Europe, in Q2 we had very strong
+growth in Europe near 30%, and strong growth in the US over 15%. We continue to see the
+pipeline between both of those geographies today, but also keep in mind that we are being
+watchful given the macro environment developing.
+Nilanjan Roy
+6
+On the margins as we look at the second half, we have ended the first half with about 20.7%.
+And like we have guided, at the bottom end of 21% to 22%, so, of course, margins for the
+second half will have to go up. We have our levers in terms of our utilization, which is one of
+the factors mentioned because we are really at the bottom end of utilization as we put a lot of
+freshers into the system, now they are sitting on the bench, but over a period of time they will
+start getting deployed so this will become a tailwind. As attrition starts coming down, this will
+be a benefit in terms of stretch salaries so that is one of the other things which started helping
+us. So, in this range of 21 to 22, we are quite comfortable for the full year as well.
+Rishi Basu
+Thank you. The next question is from Zee Business from Kushal Gupta. Kushal’s question for
+Salil – Europe’s growth has been great with 28.5% constant currency growth. Is there actually
+no issue with client IT budgets for the next year amidst the fears of recession? For Nilanjan,
+operationally the performance has been great, what were the key factors behind this and the
+outlook ahead?
+Salil Parekh
+We have had very good traction in Europe for the last several quarters and that has shown again
+in this quarter’s growth number. We continue to see that the pipeline of large deals is strong,
+but we are also cautious and watching the macro development. Today our pipeline looks good
+and our guidance for the full year, therefore, is at 15% - 16%.
+Nilanjan Roy
+On the operations, as we have mentioned, we have a good margin story but I think even beyond
+that our ability to absorb freshers and making sure that they are trained, they are picking up
+new skills, putting them into projects, and then over a period of time start rotating them.
+Because this talent pipeline for us we knew, in the long run, is the only way this industry would
+grow other than rotational churn. Therefore, in fact, in the first half we have already done, I
+7
+think close to 40,000 freshers across the company in all streams. So, we are quite hopeful in
+terms of absorbing the freshers, putting them through their paces, and then start putting them
+into large deals and other deals as well and that has been a big learning for us during this entire
+process.
+Rishi Basu
+Thank you. The next question is from Chandra from Money Control.
+Chandra
+I just want to ask you about the net employee addition number. I mean it is usually a good lead
+indicator of growth and that has come in at 10,000 I think which is what compared to 21,000
+in the previous quarter. So, what does it say about the growth going ahead, I mean because on
+the one hand you sound confident, but is this also a sign of caution? What are you hearing from
+clients in conversation because other companies are saying at least in Europe, the discussion is
+only about how they are going to manage the winter so if you can give us a sense on what you
+are hearing from North America as well as Europe? For Nilanjan, a question on the margin
+guidance, you know you have kind of tightened at the upper end at a time when supply side
+challenges are coming down, again how should we read this? Are there growth constraints,
+pricing constraints and if you can also tell us about why you are opting for a market buyback
+for the second time because even the last time many shareholders felt it was a negative move
+because it really does not benefit them so why are you opting for a market buyback? And one
+question for HR head on moonlighting. Infosys sent out a missive to its employees on how they
+should not two time, but if you can give us your views on moonlighting, thanks.
+Salil Parekh
+On the first question, I think 10,000 is a very strong net addition for us on top of the 20,000
+that we had in the last quarter. Having said that, what we see with clients in the industries that
+I was referring to before, for example mortgages in financial services, retail, or parts of hi-tech
+8
+or telecom, we see more caution in the way that the buyers, the clients are looking at services.
+We also see some impact on discretionary spending there. At the same time our pipeline is
+extremely large, we had a very strong large deals number for this quarter. The way we are
+looking at it is we are making sure that we support our clients as they are looking for their
+growth/transformation programs and now more and more for their cost efficiency where we
+are deploying our automation services and our pipeline has shown that there are more and more
+of those types of activities as well. Our view is we are ready in this macro environment for all
+types of client work - whether it focuses on digital and growth, whether it focuses on cost, and
+yet we want to be careful that we are cognizant of what is going on with the macro environment
+and make sure that we go into this watchfully so that is how we are seeing this progression
+happen at this stage.
+Nilanjan Roy
+On the buyback, I think firstly we have a very predictable capital allocation policy which we
+believe is really best in class. It is a five-year policy. From FY20 to FY24 we said we will
+return 85% of our free cash flows so it is a very predictable policy. It has got a dividend element
+on it and it has got a buyback and an option also to do special dividend and therefore we also
+look at over this period how will our cash flows change and therefore how do we give back
+money in terms of both dividends and buybacks or special dividend and therefore we also want
+to see how much cash will be on the balance sheet. So, it is not about finishing our cash on day
+one, so we pace all this out. And of course, one of the ways you can do it - is through a tender
+offer or through an open market offer. For the last two we have done open market offers and
+the board feels looking at our listings in the US, our regulatory concerns, and EPS accretion
+that it could be better to go for an open market offer so they look at other considerations as well
+and we decided to go for an open market. On the margin guidance, I just mentioned we are
+20.7% at H1, and like we said, we are going to be at 21% to 22%, at the bottom of 21% so
+mathematically we will have to be probably closer to 21.4% or something to even hit 21% so
+we are looking at margin levers going ahead. As we talked about, there will be some abatement
+from the attrition side, there will be on the same side headwinds because of furlough because
+it is a seasonally weak quarter as you mentioned, so we will have some headwinds coming
+from furlough and lower working days and which some of these we will try to offset through
+9
+our cost optimization, etc., and therefore like we said that 21% to 24% is a narrow band which
+we will be comfortable with for this year.
+Salil Parekh
+On moonlighting, let me address it. One of the things that our company is always focused on
+is making sure that we have real attention to learning opportunities and general opportunities
+for all of our employees and we have always encouraged our employees to have that sort of
+mindset within the company. In fact, within the company, we have set up - over the last several
+years not now, not last week over the last several years a platform which we call ‘Accelerate’
+where employees can look at what we call internally - gig work, different projects outside of
+their main work. On the average quarter, over 4000 people apply for this. About 600 are
+selected so it is something that is active within the company. Now for gig opportunities in the
+external environment, we support the aspirations of our employees to learn beyond their work.
+We will support them to work on certain gig projects after the prior approval of their managers.
+We are also developing more comprehensive policies for that while ensuring contractual and
+confidentiality commitments are fully respected. However, to be clear we do not support dual
+employment.
+Chandra
+(Inaudible question)
+Salil Parekh
+I do not have the information on the processes. If we have found in the past that the employees
+who are doing blatant work in two specific companies, whether it is confidentiality issues, we
+have let go of them in the last 12 months.
+Rishi Basu
+The next question is from Shilpa Phadnis from The Times of India.
+Shilpa Phadnis
+10
+Infosys believes in converting an adversity into an opportunity, what are two or three things
+you would do differently in a probability of uncertain events especially when the client’s
+decision-making velocity has slowed down? My second question is that barring BPM very few
+subsidiaries are firing up, you and Mr. Roy did an internal review two months back on different
+subsidiaries so are you taking a hard look at some of them, and are you folding some of them?
+Salil Parekh
+Sorry Shilpa can you just repeat the first one please?
+Shilpa Phadnis
+Infosys believes in converting an adversity into opportunity. What are the two or three things
+that you will do differently when uncertain events are panning out, especially in terms of
+macroeconomic indicators and client decision-making velocity slowing down? My third
+question is Infosys long back started collapsing layers internally. Recently, we have seen some
+of the seniors put on sabbatical and some of them are let go due to account-related challenges.
+How do you plan to motivate this back especially when we hear that variable payout of JL7
+and above have still not been rolled out?
+Salil Parekh
+I will start with the first one. I think it was a question about how we convert in this environment
+different situations to what Infosys can do best. I think that is a very critical point. What we are
+seeing in this environment is the capabilities that Infosys has. We have a very strong set of
+capabilities on digital and cloud and we are seeing good traction and growth on those. We also
+have very good capabilities on automation, leveraging artificial intelligence and machine
+learning and efficiency and we are seeing very good traction on the cost programs where clients
+are looking at efficiency. So what our approach is we want to make sure that both of those
+pillars and both of those engines are available to clients depending on what situation they are
+in. And as the macro develop because the macro will change, there could be positive stimulants,
+there could be negative stimulants so that are things we do not know, but we have both of these
+engines which are working well and we believe that that will support us as we look at it in a
+careful way as we go through the next period of time. The second one was about subsidiaries.
+Nilanjan, do you want to take that one?
+11
+Nilanjan Roy
+We review subsidiaries every quarter. It is not as if it is an annual exercise. In fact, three of our
+best subsidies: Ben is here. Andrew is here. Radha is here. We continue to push them for
+performance. There is no question about it, the way we get pushed and so, that is part of the
+game, but I think they are all doing very well. There are a lot of synergy benefits. Ben looks
+across the entire DX world. WONGDOODY is now across Europe and India, and it is now in
+the USA and across the DX and it is a very large platform for us to take to our clients for
+experience so I think we have no concerns.
+Salil Parekh
+On the layer, I am not aware of people on sabbatical. We have internal tracking, for example,
+connecting with our employees and we track what we call our engagement scores. We have
+seen a steady and good increase in our engagement scores across our company. We are seeing
+real connect where people are seeing, there is a new set of policies and initiatives that our HR
+team has rolled out for leadership development, for skilling, for making sure that there is much
+more awareness and support in the time during COVID, both from a medical perspective and
+also from a mental health perspective, so we are seeing a lot of traction. I do not see any of
+those levers being something which is a concern. There is always something that is being
+watched and in fact, we are now seeing the last three quarter’s attrition coming down quite
+significantly each quarter. In Q2, it was down by over another two points than the previous
+quarter, so we think some of the initiatives that were put in place are starting to have an impact
+and we will continue to drive those initiatives ahead.
+Rishi Basu
+Thank you. The next question is from Sai Ishwar from The Economic Times.
+Sai Ishwar
+Sir, you had said that you are seeing caution in mortgages, financial services, retail and that is
+catching on to hi-tech and telecom as well, right? So, can you actually tell us whether these are
+discretionary spends that are getting affected, or do you see the total tech spends itself being
+held back by clients? And also, one more question to Nilanjan Sir is, we are also hearing news
+12
+about the onboarding delay of freshers, but on the other hand you have already reached the
+40,000 targets in terms of fresher hiring, so, how should we read into this? Because we are
+hearing reports seeing people who got offers in 2021 are not on-boarded yet. So, did Infosys
+probably overestimate demand?
+Salil Parekh
+On the first one, what we are seeing in those specific industries, that I mentioned whether it is
+mortgages or hi-tech or the others, is an impact on the discretionary spend right now. What we
+are also seeing is the stepping back from all of that, many large companies are also looking at
+being more cost-efficient, So, we see that given that we have a strength in digital, we have
+strength in transformation, we have strength in discretionary, and we have strength in
+automation, and cost efficiency, we are able to support clients on both of those engines. But
+we do see those areas where we see some caution in more of the discretionary side.
+Nilanjan Roy
+On the fresher side, like I said, we have already done 40,000. When we started, we told you
+50,000, so, I do not think there has been any delay, particularly. A lot of people are going to
+Mysuru. In fact, in physical it is a good thing that we have opened up the campus and it is a big
+attraction for our talent to go through the physical training of Mysuru and then go to the DC.
+We are tracking, as per our plan, in fact, like we said, our 10,000 net add probably is the highest
+in the industry. It will go up maybe. We have not given out a number as yet, but of course the
+50K will go up.
+Rishi Basu
+Thank you. The next question is from Haripriya Sureban from The Hindu BusinessLine
+Haripriya Sureban
+So, what percentage of your workforce is back to the offices? What is your play there? Do you
+intend to call your employees back to offices? And the second question on attrition, you have
+sort of tried to get it down, so what is helping you? How have you achieved it? And do you see
+moderation going forward? Thank you.
+13
+Salil Parekh
+On the return to work, we are looking at this every week. Last week, across India, we had about
+45,000 employees in the office at any given time, not all five days, but at different times and
+that is a huge number, given where everyone was in this industry a few months ago. And what
+we are finding is the approach we have taken so far, we have been extremely supportive of our
+employees. We have been extremely supportive of a flexible approach, and it has been well
+received and it is working. We are seeing that this is now gradually increasing. A couple of
+weeks ago, I was in our Pune DC. In fact, Radha and I were both there. We could see a lot of
+engagement with employees as we connected with several of them. My sense is that over time,
+we will make all the support necessary so more and more employees can come back. There are,
+of course, several client situations which require specific action, so, those will be followed as
+the clients are requiring it, but where we are able to provide some flexibility, we will continue
+to provide flexibility.
+On the attrition, there were several initiatives that Krish and our HR team rolled out, maybe
+12/18 months ago, and I think we had shared some of those. There is one of them, for example,
+where there is a very well-defined path in terms of career in the first several years of an
+employee and the steps are clearly defined and well understood. That is a big positive for
+employees so there are no surprises anymore for them. There is a lot of emphasis on leadership
+development and skilling. There are programs with large global universities which the
+company runs, which give employees the ability to self-improve, and then we have our online
+platform, which allows employees to do it. So, there are several of those initiatives as a
+combination of that and it is worth it. The trend in the last three quarters is good, and my sense
+is, these initiatives will continue to give us benefit.
+Rishi Basu
+Thank you. The next question is from line Reuters News, Sethuraman.
+Sethuraman
+Good evening, Sir. I just wanted to know, was there any standout deal or closure this quarter?
+Would you be able to help me with your benchmark for the large deal? Just wanted to know
+whether there were multiple sized chunk of deals? And also wanted to know about where there
+14
+any smaller deals because you do not normally give out details on the smaller ones? Also, last
+minute buy back announcement and the open market buying looks like a bit of a pressure from
+the market, in terms of, I just wanted to know, was there any pressure? Because normally, you
+consider buyback when you come out with earnings announcement, so this was the last
+moment, so, was there any delay or any consideration about that? And lastly, is there any
+reorganization going on in the company with Mr. Ravi Kumar’s exit? Will the backfill happen
+for the president role? Are you looking at anything? Thank you.
+Salil Parekh
+I will start with the first one. I think on large deals. We had 27 large deals. So, for us, large
+deals are deals which are more than $50 million in value, and so it is a very significant size of
+a deal. We do not give out any specific deal information. To give you a sense, there are 27.
+That number can then give you a sense, given the overall value of the large deals. On the
+buybacks, let me start and Nilanjan might want to add. We have a very well-defined capital
+allocation policy. We have followed all of the reviews internally and externally on that. We
+feel no unusual activity, whatever sort of phrase you use, it was a well-informed decision by
+the board, and we think it is going to be a huge positive because we have a capital return
+approach through this policy and Nilanjan can add a little bit on that in a second. On Ravi, first:
+Ravi is a good friend. I wish him all the best in his new endeavors. Infosys has incredible
+leadership talent in my mind. So over time we will make sure that all of the activities are in the
+best interest of the clients, the employees, and the company.
+Nilanjan Roy
+Our capital allocation is very predictable. We said 85%. In fact, last year we had given 73%.
+So, I think if we have to catch up to 85%, buyback was the most natural way to do it. So, I do
+not think there is any pressure and that is the beauty of our policy. It is so predictable.
+Rishi Basu
+Thank you. The next question is from Binu Paul from Business Today.
+Binu Paul
+15
+On the hiring of the freshers so there is a large number of people that you have hired and? I
+just wanted to ask what kind of impact when these freshers get on to newer projects will it have
+on your cost optimization and margins?
+Salil Parekh
+Regarding the hiring of college graduates, I think last year we did something in the range of
+80,000 college graduates who joined us. One of the things that we are extremely good at and
+known for is our training program and especially now that everyone is back in person at Mysuru
+training centre and in addition to what we have now which is online. We have also set up
+training for some of the modules within our different DCs, i.e., our delivery centers. We find
+that these individuals coming out of the Infosys training are extremely ready to start to be
+productive and they help us tremendously. Last year we had 20% growth, with Q1 having 21%.
+This quarter has 18% growth, so that needs tremendous input that we see from new employees
+joining us.
+Rishi Basu
+Thank you. The next few questions are on text. We have a question from Shivani Shinde from
+Business Standard - Attrition is still in the 20% range. By when do you see this coming down
+to sub-20%?
+Salil Parekh
+On attrition, my sense is that it has come down three quarters in a row for us. Each quarter is a
+sizeable, large step. All of the initiatives that have been put in place by the company and by the
+HR leadership are starting to yield some benefits. Over time my sense is that we will continue
+to see more benefits with attrition.
+Rishi Basu
+Thank you. The next question is from The New Indian Express. Any plans to make work from
+office mandatory as your peers are calling employees back to office? Or any plans to continue
+the present work-from-home model? Also, are there any plans to increase local hiring in the
+American and European markets?
+16
+Salil Parekh
+I think what we have seen is that over the last several quarters all through COVID, our work-
+from-home approach has been extremely effective for our clients and for our employees. We
+have already seen a lot of our employees coming back. We have put in place in the past a very
+flexible approach where employees really had a tremendous amount of choice. And we see this
+traction of the employees coming back increasing week-on-week on its own. We want to make
+sure that we build things in the future which keep this element of flexibility and make sure that
+we address client-specific needs, but we want to make sure that it is something that our
+employees are comfortable with.
+Rishi Basu
+Thankyou. The next question is from Financial Express. What is the revenue model for Infosys
+from 5G? Are you in talks with clients to leverage the opportunity? There is also another
+question on moonlighting which we have already answered.
+Salil Parekh
+On 5G, it is really a step change in the world as it is in India. At Infosys, we have developed
+huge sets of capabilities for 5G, with client solutions first for the telco industry and also for use
+cases which are for other industries leveraging 5G. For example, retail, financial services,
+logistics, warehousing, there is a host of these use cases being developed. We see a huge
+amount of traction in this business as we look forward and so it is one of the growth drivers
+that we will continue to see in the future.
+Rishi Basu
+Thank you. The next question is from CNBC Awaaz. Are you sensing any hesitation from
+clients on expanding budgets? What is the sentiment of clients in Europe? You mentioned some
+pressure in the BFSI sector, is it likely to worsen?
+Salil Parekh
+17
+On the client environment, the information that we read comes down to us in different formats.
+One is that we have two big drivers or engines on digital which is growing in Q2 for us and
+core services which is also growing. Both are supported by very strong capabilities whether it
+is Cobalt or automation. We also see that there are specific areas in the macro environments
+where we are more cautious - mortgages in financial services, retail, and some parts of hi-tech
+or telecom. But at the same time, our large deals pipeline is doing quite well, and we see good
+traction in this quarter in large deals which was at $2.7 bn. So all of those are different aspects
+of what we see in the environment.
+Rishi Basu
+Thank you. The next question is from Deccan Herald. How is the overall pricing environment?
+Are you looking at passing some of the costs to clients where cross currency movement has an
+adverse impact? Will the current pricing power sustain in the second half of FY2023?
+Nilanjan Roy
+We have seen inflation across the world and the pandemic in some sort of way across
+geographies. It is both across consumer prices and wage inflation. And of course, we are going
+back to many of our clients, one being as part of the clauses which we have like COLA.
+Sometimes we are going back as part of our digital pricing and trying to demonstrate the value
+we are able to bring. For instance, in the cost takeout program and how that can be taken back
+in terms of pricing or productivity with us. So, these are multiple conversations across each
+client because clients are unique. They speak on tracks, there are T&M contracts, mid-cycle
+contracts, and new contracts. But the good news is that we have seen a reduction in discounts
+which is very visible. The kind of discount we would have on renewals, etc. earlier has
+definitely come down. On the other hand, we are trying to position ourselves to increase our
+prices on the digital rate card, at the same time demonstrating the value this talent can give. So,
+the answer is yes, but this is a very long haul, and it will take time. It is not something which
+we can flip the book on every quarter, but this is something which we are seeing some traction
+in.
+18
+Rishi Basu
+The next question is from The Informist. How do you see the Q3 performance given the
+macroeconomic situation? You have answered this in case you want to add more.
+Salil Parekh
+I think on Q3, we do not give quarterly guidance, we give annual guidance. We have taken our
+growth guidance which has gone from 14% - 16% to 15% - 16%, which is at the higher end of
+the growth guidance. We expect it to be in the 15% -16% bracket for the full year.
+Rishi Basu
+The last question for this evening is from Mint. On the India market, given that there has been
+a steady growth of enterprise spends for digital transformation in India, how does Infosys
+expect the domestic market to contribute in the coming quarters?
+Salil Parekh
+We are extremely bullish on where the Indian digital transformation agenda is. We have done
+projects which are really mission-critical. We can see, for example, on the GST program, there
+is a tremendous realization and increase in the collection that the government is seeing through
+the digital implementation of a completely new platform. We have seen similar things this year
+with the IT platform. So, we are well positioned to do scaled digital transformation programs
+and we look forward to working with government organizations and private companies in that
+area as appropriate.
+Rishi Basu
+Thank you. With that, we come to an end of this Q&A session. We thank our friends from
+media for being part of this press conference. Thank you to our leaders from Infosys for being
+part of this press conference. Thank you, Salil, thank you, Nilanjan. Before we conclude, please
+note that the archived webcast of this press conference will be available on the Infosys website
+and on our YouTube channel later today.
+19
+Thank you and please join us for some high tea outside.
+20
+“Infosys Limited
+Q2 FY2023 Earnings Conference Call”
+October 13, 2022
+CORPORATE PARTICIPANTS:
+Salil Parekh
+Chief Executive Officer & Managing Director
+Nilanjan Roy
+Chief Financial Officer
+Sandeep Mahindroo
+Financial Controller & Head Investor Relations
+ANALYSTS
+Ankur Rudra
+JP Morgan
+Moshe Katri
+Wedbush Securities
+Ashwin Mehta
+Ambit Capital
+Jamie Friedman
+Susquehanna
+Zack Ajzenman
+Cowen
+Keith Bachman
+BMO
+Aniket Pande
+ICICI Securities
+Kumar Rakesh
+BNP Paribas
+1
+Dipesh Mehta
+Emkay Global
+Nitin Padmanabhan
+Investec
+Sandeep Shah
+Equirus Securities
+Manik Taneja
+JM Financial
+Ravi Menon
+Macquarie
+2
+Moderator
+Ladies and gentlemen good day and welcome to the Infosys Limited’s Earnings Conference
+Call. As a reminder all participant lines will be in the listen-only mode. There will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by pressing “*” and then “0”
+on your touchtone telephone. Please note that this conference is being recorded. I now hand
+the conference over to Mr. Sandeep Mahindroo. Thank you and over to you Sir!
+Sandeep Mahindroo
+Thanks Inba. Hello everyone and welcome to Infosys Earnings Call to discuss Q2 FY23
+financial results. This is Sandeep from the Investor Relations team in Bangalore. Joining us
+today on this call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy and other
+members of the senior management team. We will start the call with some remarks on the
+performance of the company by Salil and Nilanjan, subsequent to which we will open up the
+call for questions.
+Kindly note that anything that we say that refers to our outlook for the future is a forward-
+looking statement, which must be read in conjunction with the risks that the company faces.
+A full statement and explanation of these risks is available in our filings with the SEC, which
+can be found on www.sec.gov.
+I would now like to pass on the call to Salil.
+Salil Parekh
+Thanks Sandeep. Good afternoon, good evening, and good morning to everyone joining the
+call and thank you for joining our call.
+Our Q2 performance was strong with year-on-year growth at 18.8% and sequential growth at
+4.0% in constant currency. Growth in Q2 was broad based with all industries and geographies
+growing in double-digits in constant currency.
+3
+Growth in constant currency in the first half of FY2023 was 20.1%, compared to the first half
+of FY22. This momentum is accompanied by a strong pipeline of large deals and the highest
+large deal value in the last seven quarters of $2.7 bn, 54% of this was net new. These
+elements are a clear reflection of the deeply differentiated digital and cloud capabilities we
+have developed that are highly relevant to our client’s strategic priorities.
+Our digital revenues are at 61.8% of our overall revenue and grew 31.2% in the quarter in
+constant currency terms. While digital continues to see some strong growth rates, we are
+seeing acceleration in growth trajectory of our core services this quarter. This is due to our
+industry leading automation capabilities and reflects an interest among clients towards cost
+optimization programmes. We also see this in our large deal pipeline with strong focus on
+cost reduction programmes.
+While we do not generally share the specific amount of our cloud revenue, we are delighted
+to share that in Q2 our cloud revenue was larger than $1 bn showing tremendous strength of
+our cloud services, especially our industry leading Cobalt capabilities.
+Several examples of client transformation demonstrate the value we deliver –
+- A European telecommunication company is closely engaging with us to accelerate
+their business growth and prepare for a digital future.
+- An aviation giant is working with us to digitally advance the engineering of the
+product development and emerging aircraft programmes.
+- A fast-growing logistics company is working with us to secure the cloud environment
+and build greater resilience into their operations.
+These examples and several others showcase our commitment to deliver value for our clients
+and the trust and confidence in our expanding digital capabilities.
+Strong growth this quarter was accompanied by operating margin expansion of 150 basis
+points. The operating margin for the quarter was 21.5%. This was because of cost efficiency,
+optimization in large deals and currency benefits. Nilanjan will provide more colour on this.
+Our H1 operating margins are 20.7%.
+4
+Our attrition has now been decreasing for the past three quarters including this Q2 on a
+quarterly annualized basis.
+While the overall demand environment continued to be healthy as reflected in broad-based
+growth and robust large deal pipeline, we also see signs of cautious behavior by clients due to
+macro concerns. Apart from slowness in the mortgage segment of financial services and the
+retail industry segment we talked about last quarter, we see emerging concerns in high-tech
+and telecom industry segments in the form of reduced spend especially towards discretionary
+programmes. We are well positioned to help our clients with their digital agenda and their
+cost agenda. Growth in our digital and core services demonstrate that. As the macro
+environment evolves, both of these components of our business will help us to be
+appropriately positioned with our clients.
+We have initiated a pivot to focused cost programmes within our large deal pipeline. Our
+operating model and offerings are agile to deliver value for clients in this evolving macro
+environment.
+In keeping with capital allocation policy, the Board has announced a share buyback of `9,300
+Crores or $1.13 bn and an interim dividend of approximately `6,940 Crores or $850 mn.
+Our H1 performance of 20.1% growth in constant currency and robust large deal signings in
+Q2 give us the confidence to change our revenue growth guidance, which was at 14% to 16%
+earlier to 15% to 16%, even as we are seeing emerging concerns that we talked about earlier.
+Our ability to grow at strong rate and take market share gain is a clear validation of the
+relevance, depth and breadth of our service offerings and deep client relationships. We
+change our operating margin guidance for FY2023, only for this year to 21% to 22%, which
+was earlier 21% to 23%. We anticipate, we will be at the lower end of this range.
+With that let me request Nilanjan to share other updates.
+Nilanjan Roy
+Thanks Salil. Good evening everyone and thank you for joining this call.
+5
+Q2 revenues grew by 18.8% year-on-year and 4% sequentially in constant currency terms.
+All business segments and geos grew in double digit year-on-year in constant currency.
+Specifically, North America grew by 15.6%, Europe by 28.5%, Manufacturing by 45%,
+EURS by 24.3%, Communication by 18.4%, and Retail by 15.4%.
+Digital revenues constitute 61.8% of total revenues and grew by 31.2% year-on-year in
+constant currency. Revenue growth was 20.1% in constant currency terms in H1 2023 over
+H1 2022.
+Client metrics remained strong with year-on-year increases in client count across revenue
+buckets. Number of $50 mn clients increased by 15 to 77, while number of $100 mn clients
+increased by 4 to 39. Number of $300 mn clients increased to 5 from 2 in the Q2 last year
+reflecting our strong ability to mine top clients by providing them multiple services.
+Employee count increased by approximately 10,000 to 345,000. Utilization excluding
+trainees was 83.6%. Onsite effort mix remained flattish at 24.4%. Quarterly annualized
+voluntary attrition came down further by another 2.5% during the quarter. This is also starting
+to reflect in reduction in our LTM attrition numbers which reduced to 27.1% compared to
+28.4% in Q1. We expect attrition to reduce further in the coming quarters.
+Q2 operating margin stood at 21.5%, an increase of 150 basis points QoQ. The major
+components of QoQ margin movements were as follows:
+- The margin tailwinds of 70 basis points comprising of rupee depreciation partially
+offset by cross-currency,
+- 90 basis points from cost optimization including large deal optimization, RPP
+increase, etc., partially offset by lower utilization,
+- 40 basis points from reduction in subcons spends,
+- These were partly offset by headwinds of approximately 40 basis points from
+compensation related increases and impact.
+Q2 EPS grew by 11.5% in rupee terms on a year-on-year basis.
+Our balance sheet continues to remain strong and debt free. Consolidated cash and
+investments were $4.8 bn at the end of the quarter. Free cash flow for the quarter was $589
+6
+mn implying conversion of 79% of net profits. Free cash flow generation is typically low in
+Q2 due to higher tax payout in both India and the US. ROE increased by 1% year-on-year to
+30.8%.
+Yield on cash balances increased to 5.8% in Q2. DSO increased by 2 days sequentially to 65
+reflecting higher billing done during the quarter.
+Coming to segmental performance,
+We signed 27 large deals in Q2 with a TCV of $2.74 bn with 54% net new. 5 large deals in
+Financial Services, 4 each in Retail, Communication, Energy Utility Resources and Services
+and Hi-Tech segments, 3 in Manufacturing, 2 in Life Sciences and 1 in Others verticals.
+Region wise 18 in America, 6 in Europe, 1 in India and 2 in the Rest of the World.
+Growth in Financial Services segment continues to be strong backed by large deal wins,
+account expansion and new account opening. We continue to see acceleration in cloud
+adoption in the FS sector and are working with many of our clients in cloud migration, cloud
+management, and other cloud-related platform deals.
+In Retail we are seeing focus on digital consumer engagements, supply chain transformation
+initiatives; cost optimization, legacy modernization and new in-store capabilities. There are,
+however, some pockets of slowdown in different cycles especially for fashion/apparel retail
+and general merchandisers. We have a healthy mix of outsourcing and digital deals.
+In Communication segment we are seeing healthy order pipeline and deal conversion, but we
+expect cost pressures from client side with impact on budgets especially for traditional
+services due to macroeconomic concerns.
+Energy, Utility, Resources and Services segment reported robust and steady growth backed
+by strong large deal wins. The cost take out initiatives continue to take momentum in the
+vertical.
+Manufacturing segment growth continues to remain strong and broad based along with steady
+flow of new deals. We see continued tech spends by customers driven by the need to increase
+7
+security posture, migration to cloud, increase the productivity by transforming to smart
+factory, transitioning to smart products and other broader digital transformation initiatives.
+In smaller verticals like Hi-Tech as well we are seeing some increasing cautiousness amongst
+clients around discretionary spend and consequently, there have been some delays in deal
+closure.
+For digital services capabilities, in Q2 we have been ranked as leader in 19 ratings in the
+areas of public cloud, tax, design experience, automation, and data and analytics.
+We remain committed to maximizing our total shareholder returns and in line with the capital
+allocation policy of returning 85% of free cash over the period, the Board has recommended
+the following:
+- an interim dividend of `16.50 per share for FY2023 versus `15 per share for FY22;
+this is a 10% increase in dividend per share.
+- Buyback of equity shares of up to `9300 Crores through open market route post
+approval of shareholders at a maximum buyback price of `1,850.
+We believe our progressive capital allocation policy continues to provide predictability to our
+shareholders.
+Although there is a gradual abatement of talent cost pressures, they continue to exert
+pressures on the cost structures and hence will need to be countered by our various cost
+optimization measures including rationalization of subcons, flattening of the pyramid,
+increasing automation, reducing onsite mix and engage with clients to increase pricing.
+While H1 growth was strong we expect H2 growth to be impacted due to seasonality
+comprising of furloughs and lower working days. The revenue guidance for the year is
+changed to 15% to 16%.
+As we mentioned in the last quarter earnings call FY2023, operating margins would be at the
+bottom end of the guidance band. We are now narrowing the guidance range to 21% to 22%
+for FY2023 and we expect to be at the lower end of the range.
+With that we can open the call for questions.
+8
+Moderator
+Thank you very much. Ladies and gentlemen we will now begin the question and answer
+session. We will take our first question from the line of Ankur Rudra from JP Morgan. Please
+go ahead.
+Ankur Rudra
+Thank you and good evening. The first question is for Salil, you mentioned the
+macroeconomic conditions, in that context could you elaborate how realistic or conservative
+your guidance is for the second half and also what has been the nature of the client
+conversations in the last month or so and have you seen any impact on the pipeline refill rate
+in this period?
+Salil Parekh
+Thanks Ankur. On the guidance, I think what we saw was very strong large deals in Q2. We
+had great growth in Q1 and Q2, we continue to see overall pipeline for large deals is quite
+strong, in fact, it is larger than it was in the last couple of quarters. We also see the macro
+points that I shared earlier, specifically mortgages in financial services, some aspects of retail
+or hi-tech or telecom. So, keeping all that in mind we came with a view on the guidance
+which was 14% to 16% earlier and now moving it to 15% to 16% which is the higher end of
+that band.
+The conversations with the clients we have seen for this quarter, our digital business has
+grown over 30% and our core services have also grown. We see in our pipeline a good focus
+on cost programs and on the growth programs. And, there are clients in different sectors at
+different intensity looking at both of those, so the conversation depends more on the context
+that the client is in. We feel that given these two engines that we have we are somewhat well
+prepared for the evolving macro environment.
+Ankur Rudra
+Thank you. Nilanjan clearly great to see the margins back in the band and the extent of
+margin recovery in the quarter. Could you elaborate if there were any special interventions
+9
+that were taken that drove this change in the quarter or perhaps with respect to wage increases
+or something else and if there is any one-offs within this? Thanks.
+Nilanjan Roy
+Ankur as we explained, I think our cost optimization engine continues to chug along well. I
+think working on the pyramid, working on subcons - this was something which was very
+apparent, you would have also seen the numbers QoQ. So I think it has been an overall
+continued focus across and we have seen that benefit helping us. But for the year, as we know
+we are still at 20.7% and we have a guidance of 21% to 22% and we said we will be at the
+bottom end of that range, so we still have ways to go. Of course, this is going to continue -
+the conversations on pricing, etc. with clients, like I mentioned in the earlier press conference
+that our discounts definitely have come down. We continue to push our sales force on how to
+go and approach clients on this. So, this is a long haul on pricing but at least the discussions
+have started around this.
+Ankur Rudra
+Just one clarification in your margin breakup that you have highlighted before- the impact of
+compensation increases seemed a bit light, is there any change in the compensation trajectory
+over the next two or three quarters or if you do not mind may be elaborating that part a bit
+more?
+Nilanjan Roy
+No, there was nothing. This is largely for the Q1 that we had the biggest impact, Q2 was
+more for the mid senior level of folks so I do not think there is anything unusual in that.
+Ankur Rudra
+Appreciate it. Thank you and best of luck.
+Moderator
+Thank you. Our next question is from the line of Moshe Katri from Wedbush Securities.
+Please go ahead.
+10
+Moshe Katri
+Thanks for taking my question and a good quarter. So on your point of clients being cautious
+beyond longer sales cycles and delayed deal closures, are we also seeing project deferrals or
+project cancellations or are we not there yet, but obviously this would be us playing the 2008
+kind of slowdown playbook, so I just wanted to get some more color on that?
+Salil Parekh
+I could not hear properly but what I understood was, are there any project cancellations or
+other such things in the quarter, if that is the question, we did not see any project
+cancellations in the quarter. We saw some slowness in discretionary spend within the macro
+segments that I mentioned. For example, in Hi-Tech we saw that, we saw some in Telco, we
+had mentioned last quarter in mortgages within financial services and the parts of retail
+industry. That is how we saw it for this quarter.
+Moshe Katri
+How would you categorize the discretionary spend, is it predominantly cost takeout?
+Salil Parekh
+For that, the discretionary spend are more spends which support transformation programs - is
+the way we see it. For the cost programs those are different – more targeted or fixed spends.
+Moshe Katri
+Do you have any views about the budget cycle for next year, do you think we will see any
+slippage? i.e., rather than budgets being all set and ready sometime by January, maybe we see
+some sort of a slippage because of the macro?
+Salil Parekh
+So today, what we are seeing is within our large deals pipeline there is a large number of
+programs which are cost related and we see our own core services growing. What it shows us
+is there is an interest from clients on both - some elements of digital and now also on
+11
+elements of cost. On the budget cycle, this is the quarter in which we will start to get a sense
+for the calendar year budget, so it is not something that we have within a grasp from the
+previous quarter. In the next few months we will start to see that.
+Moshe Katri
+Just final point just a slight detail can we get the number in terms of subcontractor costs for
+the quarter as a percentage of revenues?
+Nilanjan Roy
+It is 10.1% now
+Moshe Katri
+Thank you very much.
+Moderator
+Thank you. Our next question is from the line of Ashwin Mehta from Ambit Capital. Please
+go ahead.
+Ashwin Mehta
+Thanks for the opportunity. I had a question on what is happening in the manufacturing
+vertical in terms of margins because we had a $46 mn incremental revenue addition but our
+segmental profitability bumped up by almost $49 mn, so that seems to have helped our
+margin by almost 100 bps plus, so wanted to get some color on what exactly is happening
+there. And then a clarification on our cloud revenues you mentioned is now above $1 bn, so
+is it on a quarterly basis or on an annual basis?
+Nilanjan Roy
+For the manufacturing margins, I think the same question many of you had in the previous
+quarter, and we took heed of that advice and we have worked on making sure our
+manufacturing margins across deals and large deals improve. And yes we have plans on how
+12
+deals evolve over a period of time and that should give us comfort. This is what we have over
+the last four to five years of how we approach large deals and large deal margin
+improvements. And of course, the other cost optimization levers across the entire
+manufacturing which helped the other sectors as well. The second question I did not clearly
+get.
+Ashwin Mehta
+I want to get a sense in terms of the cloud revenues that you mentioned of $1 bn plus, is it for
+this quarter?
+Nilanjan Roy
+It is for this quarter $1 bn plus.
+Ashwin Mehta
+Thanks and all the best.
+Moderator
+Thank you. Our next question is from the line of Jamie Friedman from Susquehanna. Please
+go ahead.
+Jamie Friedman
+Again let me echo the congratulations on the robust results. I am sorry to come back to the
+macro Salil but in the instance that there were recession, is that contemplated in the
+guidance?
+Salil Parekh
+Thanks for your question. The way we look at it today is - the guidance is for our financial
+year which is two more quarters, we have kept in mind what we have done in Q1 and Q2 and
+a very strong large deals number that we had in Q2 with 54% net new. We have also kept in
+mind the seasonality which all of you know, for example in Q3 there will be some impact
+13
+with furloughs and typically Infosys has more seasonality in Q3 and Q4. And then we built in
+what we see today of the macro environment specifically those industry segments that I
+talked about where we see some of the slowing. Keeping all that in mind we built this
+guidance for the revenue growth given where we are, that is what we factored into the
+guidance update.
+Jamie Friedman
+In terms of the potential transition from transformational work to cost containment, you are
+obviously very well positioned for both, is there a gross profit or margin difference for the
+same quantum of work like dollar transformation versus a dollar or cost containment, how do
+we think about the margin implications from that transition?
+Salil Parekh
+As you pointed out, we see growths today in both of these engines which is a huge positive
+for Infosys, it is something where we are very differentiated from many of our peers. The
+margin profile is not so much differentiated on the type of work, there are different scenarios
+in the margin profile, for example, depending on the scale of the entire industry, the
+geography, in general we will see that at aggregate level, so aggregate cost program,
+aggregate transformation programs we will have similar margin outlook. So we do not
+consider today that pivot itself has any positive or negative impact on margin. However, as
+Nilanjan was pointing out we have a very strong internal cost program which he and the team
+has put in place and that will continue to give us benefit in either of the scenarios.
+Jamie Friedman
+Thank you so much. I will join back in the queue.
+Moderator
+Thank you. Our next question is from the line Bryan Bergin from Cowen. Please go ahead.
+Zack Ajzenman
+14
+Hi, this is Zack Ajzenman on behalf of Bryan. First question that we have is on the revenue
+per fulltime employee, looks like it is trended lower for multiple quarters now can you give
+us a sense of the dynamics here, what the expectation is going forward?
+Nilanjan Roy
+This is directly reflecting our utilization as well. So, like I mentioned in fact pricing has been
+actually stable to positive this quarter, but revenue per employee is across entire headcount of
+the company and we have put so many freshers in both in our training programs in Mysore
+and on the bench. So, this is just a mathematical number around revenue per employee, it is
+not indicating anything about pricing really. There is also cross-currency impact as well, as
+you can imagine because only 68% odd of our revenues are in dollars, 32% are on currency
+outside dollars and those have depreciated, so just as a pure metric it will also automatically
+come down.
+Zack Ajzenman
+Understood make sense and followup is more of a broader one on the macro, so more
+industries are seeing caution now we have heard Hi-Tech and Telecom this quarter in
+addition to what we heard in the prior quarter, are there any other specific areas that are
+expecting to get worse going forward based on line of sight here?
+Salil Parekh
+What we are seeing today is in the areas that you just mentioned and that reflects in some of
+the discretionary spend which is slowing. We also see that the large deals pipeline is at a very
+strong level, so we see somehow some balance in the cost programs also becoming a part of
+the large deals pipeline, but in terms of the macro we will see those areas as of today that we
+are watchful and making sure we have early signs if any other areas show this sort of a point
+in the future.
+Zack Ajzenman
+Thank you.
+15
+Moderator
+Thank you. Our next question is from the line of Keith Bachman from BMO. Please go
+ahead.
+Keith Bachman
+Thank you for taking the question. I wanted to ask you about the sensitivity of your margins
+to revenue growth and more specifically what I want to see if you could address this, we look
+at over the horizon the calendar year 2023, if revenue growth were to slow to something like
+10%, just to pick a number, how sensitive is that growth rate to margins and specifically what
+I am asking, could you reduce the subcontractors and or just let attrition take your headcount
+lower such that you could maintain your 21% kind of operating margins or just any
+characterizations on how we should be thinking about the sensitivity of operating margins to
+the growth rate which I think you can tell by the question, a lot of industry is concerned,
+growth will continue to slow as we look a little bit longer term than your fiscal year? Thank
+you.
+Nilanjan Roy
+I think you have answered most of the questions. Reality is that we can predict our operating
+margin quite fast and fundamentally in the IT services business, the operating leverage
+element is quite small compared to other fixed cost businesses. So you can in terms of both
+the points like you mentioned, first the intake of laterals or intake of freshers, gradual
+attrition, the subcons, all these four literally by quarter and you can pivot on these to get cost
+structure in line. So, I do not think it is a big drag unlike high fixed cost industries, so in that
+sense in the past also we have seen it. A perfect example I would say, the COVID period
+wherein six months pretty much everybody in the industry when they were seeing negative
+growth had pivoted at least from the margin front, we did not degrow during that time, but
+nonetheless given the slower growth at that time we were able to pivot our entire cost model.
+Keith Bachman
+16
+I was not asking you to guide margins, I was just asking for the sensitivity, what you think
+about, you can manage your cost structure regardless of the revenue growth rate to sustain
+margins even if growth were to slow.
+Any comments more specifically on how we should be thinking about attrition, as you said
+you will move it lower, but should we thinking kind of point of quarter or how should we be
+thinking about attrition as we look at to the end of fiscal year and that is it from me. Thank
+you.
+Nilanjan Roy
+So I think like Salil has mentioned, we have three consecutive quarters of decline, 2.5%
+decline in this quarter itself and indicators improve going into Q3, because we have in a lot of
+geographies like 90-day notice period and that gives us a reasonable view of what is coming
+ahead and we continue to see that the figure of attrition going down.
+Keith Bachman
+Many thanks.
+Moderator
+Thank you. Our next question is from the line of Aniket Pande from ICICI Securities. Please
+go ahead.
+Ankit Pande
+Thanks for the opportunity. I just have two questions. Salil, I wanted to understand the trend
+of your TCV number, I wanted to understand how the mix between cost optimization and
+transformation deal changed since last three quarters and has the deal tenure increased now as
+compared to before?
+Salil Parekh
+Thanks for the question. First, on the large deal pipeline itself or are you asking on the TCV,
+we declared as large deals.
+17
+Aniket Pande
+The trend between the TCV actually. And how the mix has changed between cost
+optimization and transformation?
+Salil Parekh
+On the large deals itself, we have looked at it within our numbers, so that is not information
+that we have shared outside. What I can share with you is what we see in our pipeline today is
+a good focus on cost programs and we are also seeing because of the growth of core that I
+shared earlier that we have both sides growing, of course digital growing over 30% and we
+also see now the cost programs which is core also growing.
+Aniket Pande
+Thank you. Last question, if I turn to pricing, so just wondering what the tone and tenure of
+pricing conversion has been, how they have progressed since last two quarters and right now,
+how are you building that in? Thank you.
+Nilanjan Roy
+Like we said, it is horses for courses, it is client specific, it is whether there is a new deal,
+there is a renewal, is it FP deal, is it a T&M, is there a COLA clause, it is really complex. We
+have seen discount, which used to be a quite large in terms of pricing, in terms of renewal
+etc., that definitely has come down. There is a lot more focus on the clients, and the clients
+also appreciate that because they are seeing the same impact on their attrition etc.. Some we
+have seen in terms of COLA clauses, we have seen a larger implementation of that - being
+able to push as the COLA increases. In some cases, you have to show more value to the
+customers in terms of digital rate card - so what you have been able to offer to client in terms
+of transformation dollars. So like I said, it is varied across clients, but it is going to be a long
+haul, we never said it is going to easy and that continues.
+Aniket Pande
+Thank you.
+18
+Moderator
+Thank you. Our next question is from the line of Kumar Rakesh from BNP Paribas. Please go
+ahead.
+Kumar Rakesh
+Good evening team and thank you for taking my question. My first question, Salil, can you
+help us understand on the deal win side, so we have seen quite a sharp acceleration in deal
+win especially in the new deal side, which has almost doubled both quarter-on-quarter and
+YoY basis. At the same time, we are talking about some caution coming in at some of the
+verticals and some of the clients taking more cautious stance. In that context, what is driving
+the sharp increase in our new deals wins, is it that these discussions of caution are still at the
+CXO level and we are yet to see the impact of that in the deal wins or these concerns are
+getting compensated by a higher focus on the cost side?
+Salil Parekh
+Thanks Rakesh. The deal wins I think represent the strength that we have on both sides of the
+capabilities - on digital and on core, automation. So what we have seen today is we have the
+ability to be appropriate for clients depending on what macro they are facing and as the
+overall macro evolves, we have both sides ready for that. There my sense is we have sort of
+differentiation from our peers with this approach. We have also put a little bit more emphasis
+within our pipeline to actively look at automation, cost deals with our clients, so that is
+driving it. Having said that, it is also to be kept in mind that large deals are deals which are
+over $50 million for us and we have always maintained that there is no sort of quarter-on-
+quarter trend on this. It is more to look at for that quarter and that is also something to keep in
+mind.
+Kumar Rakesh
+Got it. Thanks for that. Second question was for Nilanjan, you have talked about margin band
+and margin coming closer to 21% and we have already been 21.5% in this quarter. So, that
+effectively implies we are not expecting sequential margin improvement meaningfully from
+here on and that is in the context when we are talking about supply side concerns have started
+19
+easing and our subcontractor cost is also coming down. So, where do these two points meet
+when the supply side issues are resolving, but we do not expect margin to expand from here
+on this year?
+Nilanjan Roy
+First, we are at 20.7% for H1 and the guidance is 21% to 22%. We are also going into Q3, Q4
+– seasonally weak quarters because of furloughs, lower working days and those straightaway
+dropdown to margins. Yes, we are seeing some of the benefits which we are getting from
+lower attrition figure, and all these basically play into the guidance which we have given for
+the year.
+Kumar Rakesh
+Got it. Thank you that answers my question.
+Moderator
+Thank you. Next question is from the line of Dipesh Mehta from Emkay Global. Please go
+ahead.
+Dipesh Mehta
+Thanks for the opportunity. Two questions first about moderation in revenue growth
+trajectory which you are implying from the revised guidance. So can you help us understand
+you eluded some of the segments which are likely to be softer but even after considering
+there seems to be some sizable moderation which is happening in next two quarters. So if you
+can provide some sense whether any specific industries where you are seeing more weakness
+or client specific situation. Second thing is about the deal intake. Now you indicated about
+cost efficiency program and cost take out programs showing uptick. Do you think it would
+lead to a higher deal TCV closures in next few quarters? And on mega deal - how the mega
+deal pipeline is picking up - if you can provide some progress or are clients deferring those
+decisions. Thanks.
+Salil Parekh
+20
+Hi, I did not follow all of your questions. The first one I think you are talking about the future
+Q3, Q4 growth in the segments. If that is the question, we do not give more color for future
+growth firstly by quarter or by segment. But overall, I go back to what we shared earlier that
+the macro environment has some areas which we are looking at with more caution. Our
+overall large deal pipeline is strong, and both sides of our engine, digital and core and
+automation are doing well. I did not follow the next point.
+Dipesh Mehta
+The second question was about the cost efficiency program or cost take out generally they are
+large in TCV because of tenure and overall volume efficiency which clients are generally
+expecting considering the mix is now tilting towards those programs compared to
+discretionary digital program, do you think deal TCV will be showing uptick which we have
+seen even in Q2 which will is seven quarter high kind of deal TCV.
+Salil Parekh
+So on the cost optimization we see good discussions of that with our clients, in some of the
+industries we see more of that, in others at a moderate level. So, that is where we are seeing a
+good traction which is also showing up in the growth of core services. Deal TCV again - in a
+quarter-by-quarter basis it can go up and down because these are deals over $50 million and
+these deals take some time to build up. As Nilanjan shared, it is 27 deals in Q2, but if I look
+on an annual cycle there is a good way of looking at large deals across years. So on a quarter-
+on-quarter basis we do not have a like a simple way where we forecast it, it can go up and
+down there.
+Dipesh Mehta
+Let me rephrase the question. Do you think that size of the deal between digital and cost take
+out by nature cost take out it will be larger in size or you do not think any such thing.
+Salil Parekh
+The size of the deal sorry I did not follow that. No I do not think so because sometimes we
+have a very large digital transformation program of the client and sometime there could be
+21
+large modernization plus cost efficiency program, sometime there could be only cost
+efficiency program. So it is not like one is larger and one is smaller.
+Dipesh Mehta
+Understood thank you.
+Moderator
+Thank you. Our next question is from the line of Nitin Padmanabhan from Investec. Please
+go ahead.
+Nitin Padmanabhan
+Hi good evening, thanks for the opportunity. I wanted to ask on the client performance this
+quarter. So I think most of the revenues have come from the non top 25 and top 25 has been
+relatively soft. So just wanted your thoughts on, do you see that softness sort to continuing
+and do you think the remaining can sort of hold up, so that is the first question. The second
+one is I think over the past two years there were lot of smaller size deals that sort of was a
+reasonable mix overall and that sort of led to faster velocity and deal conversion, deal to
+revenue conversion. Do you think in the new sort of setup wherein it is more cost
+optimization the deal to revenue conversions should slow down or there is no such thought
+process there. Thank you.
+Salil Parekh
+I will start with the second one. In general at a higher level there is no big correlation
+between the conversion of a deal to revenue. Sometimes there is an immediate large impact
+because there is early transformation, sometime there is rapid transition and other time it is
+more drawn out in the size, specifically large deals which is more than $50 million. So, there
+is no real link to conversion like that which is you can correlate to something.
+Nilanjan Roy
+22
+I think the question was about the 25 clients they declined from 36.3% to 35.3%. I do not
+think there is anything really impacted. But one thing to be kept in mind is there is a lot of
+cross currency applicable during this time, so there could be clients in certain geographies
+like Europe etc., who could be in the mix but nothing we have seen unusually in the top 25
+slowing down or anything like that.
+Nitin Padmanabhan
+Sure fair enough. Just one last quick one from my end how big is the capital market for us
+within the financial services piece because I thought that should normally be a cause for
+concern but I have not heard that in any of the calls so far so just wanted your thoughts on the
+same.
+Salil Parekh
+So we typically do not breakup the segment beyond what we have given in financial services.
+We have a very good business in capital markets across the board. The whole financial
+services has insurance, asset management and capital markets among other things.
+Nitin Padmanabhan
+But is there any slowness that you are seeing within that piece - that was not a call out at all,
+so just curious.
+Salil Parekh
+So the ones we called out at this stage were related to what I shared earlier which was on
+mortgages in financial services, parts of retail, high-tech and Telco.
+Nitin Padmanabhan
+Thank you so much and all the very best.
+Moderator
+23
+Thank you. Our next question is from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+Sandeep Shah
+Thanks for the opportunity. So the ask rate to achieve the guidance is 0 to 1.2% in the next
+two quarters which looks softer despite a strong deal wins, also we are talking about more
+cost optimization deal coming along with the digital deals. So, is it a client specific issue or is
+it higher than abnormal furloughs are we factoring or this is more a conservative way of
+looking at things because of the higher macro issue in the second half and I have a follow up
+which I will ask later.
+Salil Parekh
+So there first what we are seeing typically as you know the Q3 has furlough - we have not
+estimated anything higher or lower, we have essentially had a sort of a similar estimate to
+previous year. We typically have more seasonality for us in the past year in both Q3 and Q4
+so that is what we have estimated. And then for the macro what I shared earlier is the sort of
+color that we put as we were developing the guidance and then we factored in the large deal.
+So, there is no additional view to say whether it is conservative or not conservative, if those
+factors are taken into account to develop the guidance.
+Sandeep Shah
+The follow-up is the question to Nilanjan. So if I look at we are implying a EBIT margin
+guidance of 21.3% in the second half versus 21.5% in the second quarter, this is a QoQ
+decline versus Nilanjan your first quarter comment was into Q3, Q4 we may see a QoQ
+increase in the margins and the way we are in terms of the utilization as well as likelihood of
+lower subcontracting cost, likelihood of lower pass through cost is it fair to say again on
+margin we are conservative or there are some additional cost headwind which we should be
+aware about.
+Nilanjan Roy
+24
+No I do not think it is conservative. I think we are realistic in our margin projections. We see
+certain headwinds, we see some impact of furloughs, some of the attrition impact will come,
+some of that will be in sub-cons etc. With the seasonality of the volume, we do not have
+growth as a lever really in terms of operating leverage. So SG&A for instance is where we
+think we have some operating leverage. So, these are multiple things and that is all factored
+into the figure that we have given for our H2 and full year.
+Sandeep Shah
+Just last thing on the variable pay it looks like in the first quarter we might have paid 70%.
+How was the variable pay payment in the second quarter, is it a headwind or a tailwind on a
+QoQ basis.
+Salil Parekh
+So on variable pay we do not share that number externally as you know. We will come back
+with what we do from an internal basis when we disclose it internally.
+Sandeep Shah
+Thanks and all the best.
+Moderator
+Thank you. Our next question is from the line of Manik Taneja from JM Financial. Please go
+ahead.
+Manik Taneja
+Thank you for the opportunity. Just had one clarification question related to the margin
+performance or the margin improvement this quarter when one looks at our cost schedule,
+you said subcontracting expenses are down by about 120 BPS while in your opening remarks
+you suggested that subcontracting expenses are down 40 BPS so just to understand if some of
+the large deals cost optimization being captured in the cost of taking subcontractors.
+Nilanjan Roy
+25
+Yes so I think that is the cost as a percentage of revenue, but the impact on margin is what is
+the premium you are paying to subcontractors vs. own employee so it is not a mathematical
+impact of subcontractor cost coming down from 11 to 10 - by that token if we say if we can
+bring down subcontractors to zero our margins can go up by 10%. So this is just the premium
+you are paying to the subcontractors which is impacting your margins. That is the 40 BPS.
+Manik Taneja
+One last question was with regards to the hiring that we have seen through the year we have
+already hit the full year hiring target in terms of the fresher intake how are we thinking about
+the fresher intake in the second half of the year given the fact that there have been some
+media reports of companies in the sector delay on fresher onboarding.
+Nilanjan Roy
+Yes, so like I said we had 40000 in H1 and we will be above 50000. We will get back later on
+the numbers but we will go above the 50000.
+Manik Taneja
+Sure thanks and all the best for future.
+Moderator
+Thank you. Our next question is from the line of Ravi Menon from Macquarie. Please go
+ahead.
+Ravi Menon
+Thank you and congratulations for excellent performance this quarter especially considering
+that utilization has dropped. Can you talk a bit about how you see headroom for utilization
+and margin improvement as attrition has started to decline?
+Nilanjan Roy
+26
+Yes, sure so I think at 83.6% we are much lower than what historically we have been. The
+fresher which we have got in, we want to make sure that they are learning both at our training
+facility in Mysore plus on the bench. So we are very cognizant of not putting them into
+projects on day one and therefore we are ready to take a hit on the margins and utilization on
+account of this. We know this is long-term investment for us. We strongly believe the
+industry can only grow through fresher intake year-on-year and that is an investment we are
+ready to make and over a period of time. As the demand picks up and we are able to train
+them we can rotate them into project - so we are quite comfortable, and of course, we want to
+get this figure slowly inching back to the more comfortable 85% levels.
+Ravi Menon
+While you talked about concerns started to emerge in industry verticals like retail, high-tech,
+telecom and the mortgage subverticals, have we actually started seeing project cancellations
+or we are just seeing slower decision making for new programs.
+Salil Parekh
+So today where there are discretionary work we see slowness in that area. We will keep
+watch on anything else that starts to develop in those specific industry verticals.
+Ravi Menon
+So do we mean that there have been no cancellations yet?
+Salil Parekh
+So we do not see cancellations of programs, we see slowness in the discretionary part of the
+programs.
+Ravi Menon
+Okay, thank you so much best of luck.
+Moderator
+27
+Thank you. Ladies and gentlemen that was the last question I now hand the conference back
+to the management for closing comments.
+Salil Parekh
+Thanks everyone for joining us. Just a few comments from me to close out.
+In summary, first we really have both engines in our business digital and core growing which
+is very strong for us. Digital capabilities and Cobalt are resonating and core and automation
+we believe we have industry leading set of capabilities and that makes us ready for the
+evolving macro environment. We had large deals of $2.7 bn which we are delighted with and
+we have a very strong margin performance of 21.5%. So margin is clearly part of our focus
+and we have a strong internal cost program that will help us drive all of these things. Attrition
+is coming down so we see a huge impact of the initiatives that we put in place sometime ago.
+So overall we feel we have a good quarter and we are well position for the environment that
+is coming ahead in whichever scenario that evolves in that environment.
+Thank you all for joining and we will catch up in a quarter or so.
+Moderator
+Thank you members of the management. Ladies and gentlemen on behalf of Infosys Limited
+that concludes this conference. Thank you for joining us and you may now disconnect your
+lines.
+28

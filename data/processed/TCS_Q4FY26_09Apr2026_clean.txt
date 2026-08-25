@@ -1,0 +1,942 @@
+TCS/SE/10/2026-27
+April 14, 2026
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, P. J. Towers,
+Bandra Kurla Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Transcript of the earnings conference call for the quarter and year ended
+March 31, 2026
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the
+quarter and year ended March 31, 2026, conducted after the meeting of Board of Directors held
+on April 9, 2026, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com.
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Yashaswin Sheth
+Company Secretary
+ACS 15388
+Encl: As above
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Corporate Identity No. (CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited
+Financial Results Q4 & Full Year FY 2026 Conference Call
+April 09, 2026,19:00 hrs IST (08:30 hrs US ET)
+Moderator: Ladies and gentlemen, good day and welcome to the TCS Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-
+only mode and there will be an opportunity for you to ask questions after
+the presentation concludes. Should you need assistance during the
+conference call, please signal an operator by pressing star then zero on
+your touchtone phone. Please note that this conference is being
+recorded.
+I now hand the conference over to Ms. Nehal Shah, Head of Investor
+Relations at TCS. Thank you and over to you.
+Nehal Shah: Thank you, operator. Good evening and welcome everyone. Thank you for
+joining us today to discuss TCS's financial results for the fourth quarter
+and full year FY2026 that ended on March 31st, 2026. This call is being
+webcast to our website and an archive including the transcript will be
+available on the site for the duration of this quarter.
+The financial statements, quarterly fact sheets and press releases are
+also available on our website. Our leadership team is present on this call
+to discuss our results. We have with us today Mr. K Krithivasan, Chief
+Executive Officer and Managing Director.
+K Krithivasan: Hi everyone.
+Nehal Shah: Ms. Aarthi Subramanian, Chief Operating Officer and Executive Director.
+Aarthi Subramanian: Good evening, everyone.
+Nehal Shah: Mr. Samir Seksaria, Chief Financial Officer.
+Samir Seksaria: Hello everyone.
+
+Nehal Shah: And Mr. Sudeep Kunnumal, Chief HR Officer.
+Sudeep Kunnumal: Hello everyone.
+Nehal Shah: Our management team will give a brief overview of the company's
+performance followed by a Q&A session. As you are aware, we don't
+provide any specific revenue or earnings guidance, and anything said on
+this call which reflects our outlook for the future or which could be
+construed as a forward-looking statement must be reviewed in
+conjunction with the risk that the company faces.
+We have outlined this risk in the second slide of the quarterly fact sheet
+available on our website and email out to those who have subscribed on
+our mailing list.
+With that, I would like to turn the call over to Krithi.
+K Krithivasan: Thank you, Nehal.
+Good day everyone and thank you for joining us today.
+I would like to open with five key messages for the quarter and the year:
+1. First, about Q4 – We are very pleased to announce third consecutive
+quarter of sequential growth. We delivered a strong 1.2%
+sequentially on a constant currency (CC) basis, in the backdrop of
+intensifying geopolitical conflicts and macro-economic uncertainty.
+This momentum was broad based across major markets, with North
+America growing 1.4% QoQ, UK growing 2.4% QoQ and Europe
+growing 1.0% QoQ in CC. Most of the industry segments also grew.
+Our order book performance was also very strong in Q4, with $12
+billion in TCV including three mega deal wins from Marks and
+Spencer, a leading telecom operator in the UK, and a leading
+American healthcare & pharmacy retailer. This underscores the
+
+strength of our five pillar strategy and our AI-led positioning across
+services.
+2. Second key message is on our client metrics – You will see from the
+factsheet that every revenue band saw healthy additions this
+quarter after a gap of about 2 years, which speaks to the early signs of
+stability and growth returning to our mid-sized and large accounts. The
+number of accounts where we generate more than $100 million
+annually increased by 4 QoQ, bringing the total to 66; we added 3 more
+clients in the $50 million+ band, bringing the total to 139; and 14 more
+clients in the $1 million+ band bringing the total to 1,397 from
+last quarter.
+3. Third message is on the announcement of salary increments. We
+have announced annual salary increments for our eligible associates
+across all grades, effective April 1.
+4. Fourth is the momentum we see in our AI Services, which
+continued to accelerate impressively, standing at US$2.3 billion on an
+annualized basis.
+5. Lastly, the promise we see in our HyperVault Business – which has
+made significant progress this quarter on its journey to build out 1 GW
+of capacity. This includes winning customer commitments, land
+parcel finalizations and partnering agreements. We are actively
+engaging across the full ecosystem of—hyperscalers, semiconductor
+companies, and model providers, while TCS is the integration partner
+across infrastructure, engineering, and AI-led services. Demand
+signals remain strong and are translating into structured engagements
+and commitments, positioning TCS at the forefront of this build-out.
+As we progress, this infrastructure layer is forming the foundation of
+TCS’s full spectrum play from infrastructure to intelligence.
+
+Coming to our full year performance, even though our FY 2026 revenue
+declined by 2.4% in constant currency, we delivered a strong $40.7B in
+TCV including 5 mega deals. We maintained a strong focus on execution
+to deliver an operating margin of 25%. This is the highest operating margin
+achieved in the last 4 years.
+As enterprises navigate increasing complexity across technology,
+operating models, and business transformation, the role of trusted
+System Integrators has become even more vital. Clients are looking for
+partners who can bring deep technology excellence, strong enterprise
+and industry context, and take end-to-end accountability with confidence
+on outcomes and ROI. In FY26, TCS was uniquely positioned to meet
+these expectations through sustained investments in AI led engineering, a
+highly skilled and scalable talent base, differentiated solutions, and a
+strong partner ecosystem. This has translated into the major highlights I
+talked about earlier, broad based client additions across revenue bands,
+strong TCV, and continued momentum in large deals, with clients showing
+greater willingness to commit to long term, multiyear, multimillion dollar
+partnerships reflecting the trust they place in TCS to deliver certainty and
+value at scale over extended transformation journeys.
+I will now invite Samir, Aarthi and Sudeep to go over different aspects of
+our performance during the quarter.
+I will step in later to provide more colour on the demand trends we are
+seeing in our key verticals and our outlook for the next year. Over to you,
+Samir.
+Samir Seksaria: Thank you, Krithi. Good day to all.
+I will start with the commentary on the recent quarter and then proceed to
+the Full year numbers.
+
+In the fourth quarter of financial year 2026, our revenue
+was ₹70,698 crore, which is a quarter-on-quarter growth of 5.4%. In dollar
+terms, revenue was $7.621 billion, a quarter-on-quarter growth of 1.5%.
+In constant currency, we had a sequential revenue growth of 1.2%.
+Our Q4 operating margin stood at 25.3%, a sequential increase of 10
+basis points.
+During the quarter, we saw an improvement in realizations driven by
+continued focus on value-led delivery. Currency was also supportive
+during the quarter, providing a translation tailwind. These factors
+contributed to a benefit of around 40 basis points and 110 basis
+points respectively.
+Consistent with the ‘Build–Partner-Acquire’ strategy we shared at our
+Analyst Day, we consciously reinvested these tailwinds back into
+strengthening our capabilities and growth engines.
+• Under ‘Build’, we saw higher external consultants’ cost of 40 basis
+points, to capture the demand and to ensure delivery timelines and
+quality were protected while we continue to scale internal
+capabilities.
+In parallel, we made targeted interventions in critical talent,
+certifications, upskilling and creation of niche delivery pods. These
+investments are aimed at building a scalable, future-ready AI delivery
+model that straddles the entire stack across our Infrastructure to
+Intelligence strategy layout. Also, the ingoing impact of the India wage
+code is included. Together these two accounted for an impact of 40
+basis points.
+• Under ‘Partner’, we stepped up investments in ecosystem
+partnerships, reflected in multiple announcements such as OpenAI,
+
+AMD and ServiceNow made during the quarter. These investments are
+focused on industrialising AI solutions, increasing cross-sell
+opportunities, and improving speed-to-value for clients through
+deeper hyperscaler and platform collaboration.
+We also increased go-to-market activity, with higher participation in
+client events, showcases and industry forums. This is directly linked to
+expanding demand pipeline and improving conversion
+by demonstrating our AI and platform-led offerings. Together, these two
+accounted for a margin impact of 50 basis points.
+• Finally, aligned to ‘Acquire’, we incurred integration-related
+investments of approximately 10 basis points, as we embedded
+acquired capabilities into our operating model. This included talent
+alignment, platform integration, go-to-market enablement and delivery
+readiness, all aimed at accelerating synergy realisation and scaling new
+offerings.
+Net margins for Q4 were 19.4%, and our EPS grew 12.2% YoY.
+Our accounts receivable stood at 74 DSO in dollar terms for Q4, down 2
+days sequentially.
+Our cash conversion this quarter continues to be strong, exceeding
+100% of our net profits. Net cash from operations was $1.6 billion, which
+is 106.7% of our net income.
+Invested funds at the end of the period stood at $5.3 billion.
+Coming to the full year FY26, our revenue was ₹267,021 crore, which is
+a growth of 4.6% on a YoY basis. In dollar terms, the reported revenue
+was $30.017 billion, a decline of 0.5%. In Constant currency terms,
+revenue declined 2.4% YoY.
+
+For FY26, our operating margin was 25%, an expansion of 70 basis
+points over the prior year, and at a 4-year high.
+The operating margin for the year excludes a few one-off items recognised
+during this year. These exceptional items relate to severance-related
+expenses, legal provisions, and the impact of changes in India wage
+code.
+Net margins for FY26 were 19.8% and our EPS grew 8.8% YoY.
+Our effective tax rate for the year was 24.6%.
+Going forward, we will continue our investments to maximise growth. Our
+operational rigor will continue to focus on optimizing margins, robust
+cash conversion and strengthening the balance sheet.
+We remain firmly committed to returning substantial free cash flow to
+shareholders through a consistent and shareholder friendly dividend
+policy, while prudently expanding investments under the ‘Build-Partner-
+Acquire’ framework to strengthen long-term growth.
+The Board has recommended a final dividend of ₹31 per share, taking the
+total dividend for the year to ₹110.
+I would now like to invite Aarthi.
+Aarthi Subramanian: Thank you, Samir. Good evening to all of you.
+FY26 was a pivotal year for enterprise AI adoption across industries. For
+the first time since the advent of GenAI in late 2022, the shift from
+experimentation to scaled AI deployment showed a marked improvement
+last year. AI became a core part of our every customer conversation and
+solutioning, creating a tailwind for enterprise adoption. In Q4, our
+annualized AI revenues surpassed $2.3 billion, driven by the accelerated
+deployment of AI solutions across industries.
+
+We experienced strong deal momentum across new services in
+Enterprise Transformation, Digital Engineering, and Cloud Modernization.
+Our HyperVault business has made significant progress since the
+announcement in October 2025.
+Last quarter, I spoke about our two-pronged approach to engaging deeply
+with our customers on AI. One, to help them ‘Get ready with AI’, and two,
+to partner with them to ‘Lead with AI’. Let me share more detailed updates
+on both these areas.
+Get AI Ready
+While our customers want to accelerate AI adoption, their current
+enterprise stack lacks the readiness for what it takes to scale. We are
+working with our customers to address this gap by upgrading their
+infrastructure to be scalable and secure, modernizing their core
+applications and setting up modern data foundation. Significant part of
+the technology spend is being invested in these areas.
+Let me share a few examples:
+• TCS modernized mission-critical crew management systems using
+Generative AI for a European Airline. We reverse-engineered complex
+legacy systems to reconstruct the core business logic embedded in
+these systems. This modernization was powered by Google Gemini
+platform. The airline now has a scalable foundation to build new-age
+crew operations solution.
+• For a car rental company in US, we executed a complex, high-stakes
+legacy data warehouse migration, moving over 20 terabytes of
+mission-critical data to a Modern Data platform. This program
+decommissioned their legacy systems delivering an estimated $2.5
+
+million in savings but more importantly, it established a scalable data
+foundation for them to Get Ready for AI.
+Lead with AI
+To help our customers implement AI in their context, we have created an
+AI acceleration playbook – Innovate with AI, Build with AI and Scale with
+AI. This year, we deployed this playbook across a significant number of
+our customers to solve high-value business problems in rapid
+deployment cycles of 12-16 weeks.
+• For a leading utility company in the US, we conducted CxO-level AI
+immersion programs to identify challenges that can be best solved
+with AI. We also built their Enterprise AI Platform which provides a
+secure scalable foundation to industrialize AI adoption.
+Physical AI deployment is also gaining traction in industrial sector. Digital
+twins, computer vision, quadruped-based solutions are driving
+efficiencies, throughput and safety.
+• For an electronics manufacturer, in their fabrication facilities, we
+are integrating NVIDIA Omniverse-driven digital twins with
+autonomous quadruped-based inspection systems. This Physical
+AI solution is driving better construction accuracy and
+proactively identifies safety hazards.
+Services transformation
+Redefining every service line is central to our Five-pillar strategy. TCS has
+created a services re-design framework which we call our ‘Human + AI’
+Service autonomy model. This model integrates service line specific
+industry leading tools which are integral to delivering value in the
+customer context.
+
+This is resonating well with our customers as it provides a well-defined
+framework for consistent deployment across the enterprise. We are
+taking AI-led re-designed services proactively to our existing customers
+and new prospects.
+In last 2 years, AI model capabilities have evolved tremendously and
+rapidly. Yet there is a gap in enterprises realizing the true potential of
+these technologies. One of the challenges our customers face is that they
+have invested in these tools but have not yet reaped the expected
+productivity benefits. Our goal is to systematically help our customers
+address these gaps with our ‘Human + AI’ Service autonomy model.
+• For a retailer in UK, we deployed the AI-Engineering framework
+with agents through the software lifecycle from translating
+unstructured requirements into structured specifications as well
+as executing spec-driven coding, testing, and deployment. Our
+‘Human+AI’ approach accelerated software delivery and reduced
+the deployment cycle time by about 40%.
+Business process services is becoming a fast adopter of Agentic AI. We
+are working with multiple customers on their AI-led GBS transformation.
+• For a steel major, TCS proactively deployed AI agents in
+procurement bid management process, resulting in order to
+invoice cycle reducing from 28 days to under 10 days.
+In FY26, all next-gen services delivered strong growth across industries
+and markets, backed by our continued investments in AI, talent, and
+innovative solutions.
+
+Partnerships
+In FY26, we invested significantly in strengthening our AI partnerships.
+This includes Enterprise partners, Hyperscalers, Deep Tech AI native
+partners and domain specific partners.
+In Q4, we forged several strategic partnerships that have expanded
+our joint collaboration, this includes a partnership with ServiceNow,
+Google Cloud and ABB.
+With Open AI, we announced a partnership spanning multiple high-
+impact areas - empowering Tata group employees with ChatGPT
+enterprise, building industry specific agents, Joint go to market initiatives
+and creating a state-of-the-art AI infrastructure.
+HyperVault
+Finally, I would like to provide an update on TCS HyperVault.
+Our engagements with hyperscalers and frontier AI model companies
+have moved beyond early exploration into design alignment, security
+frameworks, site due diligence, and commercial structuring. We see the
+demand converging around large, anchor AI workloads in the 100–200 MW
+range per customer.
+HyperVault has aligned a deep partner ecosystem, including Tata Power,
+Tata Projects, Tata Communications as well as GE, Honeywell, ABB,
+Siemens, and many of our customers to cover EPC, power, cooling,
+controls, network and security.
+Some of the key announcements we made this quarter are:
+• We have partnered with Open AI to build 100 MW capacity, with an
+option to scale to 1 GW.
+
+• In collaboration with AMD, we are combining their world class
+“Helios” rack-scale AI architecture with Tata group synergies to
+create high density AI capacity in India.
+• We signed an MOU with ABB to strengthen collaboration across IT
+infrastructure and applications, digital and industrial AI initiatives,
+data centres, and other emerging technologies.
+In summary, FY26 saw a good momentum on AI and new services. As we
+move into FY27, we will continue to accelerate deployment of our five-
+pillar AI strategy. We are well positioned to support our customers with a
+deep knowledge of the enterprise context that we possess and our ability
+to integrate AI into the customer business and technology landscape to
+create customer value.
+Thank you. I would now like to hand over to Sudeep.
+Sudeep Kunnumal: Thank you, Aarthi. Good evening, all of you.
+At the outset, I would like to thank all our employees and their families
+stationed in West Asia for their utmost dedication and resilience during
+these tough times.
+All our employees and their families in the Middle East are safe and we
+are in constant touch with them providing the necessary support.
+At the end of March 2026, our global headcount stood at 584,519, with
+associates from 149 nationalities of whom 35.2% are women.
+We have announced Annual increments to all eligible employees across
+grades, effective April 1, with top performers getting double digit increase.
+We are focused on building a future-ready organization by strategically
+hiring both fresh graduates and experienced professionals. Our
+
+recruitment efforts have been concentrated on individuals with expertise
+in AI, data, Enterprise Solutions, software engineering, cloud,
+cybersecurity, and digital engineering.
+In FY26, we have also hired over 750 employees with deep advisory and
+consulting expertise.
+We stepped up our investments in talent development initiatives as well.
+• In FY26, a total of 69 million learning hours has been completed,
+and 5.2 million competencies have been attained by our associates.
+• Over 270,000 associates now possess advanced proficiencies in AI
+and machine learning.
+TCS demonstrates its commitment to innovation by being its own
+"customer zero", adopting and refining AI technologies across internal HR
+practices before deploying them externally.
+Within the human resources function, we are embracing AI as follows:
+• Nearly half of internal resource allocations occur through the internal
+Talent Market Place which uses AI driven recommendations to match
+demand and supply.
+• Our GenAI-powered Learning Coach platform has helped over
+100,000 TCS employees improve their proficiency through targeted,
+role-specific learning.
+• Our GenAI enabled Interviewer accelerates hiring with technical
+assessments, while our AI recruitment platform enhances post-offer
+engagement to answer very specific queries.
+• The AI assistant provides instant multilingual, contextual HR policy
+support, improving employee experience.
+
+We have further strengthened our position as Employer of Choice
+globally and are pleased to have been recognized as an Enterprise-wide
+Top Employer for the 11th consecutive year by the Top Employers
+Institute - reflecting our commitment to foster an inclusive and engaging
+workplace where our people can thrive and grow.
+I would now like to invite you back Krithi.
+K Krithivasan: Thank you, Sudeep.
+Scaling Enterprise AI adoption requires organizations to address
+technology debt, data readiness, and operating model complexity. AI will
+enable clients to rapidly move from end consumer feedback to demand
+identification to code.
+With every tech cycle, clients have realized far greater value and TCS has
+scaled its business. With AI, TCS aspires to be the World’s largest AI led
+Tech Services company. This aspiration is powered by:
+• Capitalizing on AI led renewals, vendor consolidation and cost
+optimization deals resulting in market share gains.
+• Using new age services & adjacencies that enable enterprises
+to ‘Get ready for AI’
+• Becoming a full stack AI services player – Infrastructure to
+Intelligence; thereby, delivering maximum ROI to clients on their AI
+investments through end-to-end industry value chain
+reimagination; and
+• Building new revenue streams such as building AI infrastructure
+In FY26, we made good progress across all the above opportunities.
+The strong order book closures were led by Vendor consolidation, AI led
+modernization, scaling AI across the enterprise, Digital core and data
+
+platform modernization, Operating Model transformation, and regulatory
+compliance.
+Let me now share specific details of our industry-wise performance
+during the quarter.
+• The BFSI vertical continued to grow this quarter.
+Client demand across BFSI remained technology-led and outcome
+o
+focused through Q4, shaped by heightened macro and geopolitical
+volatility. Increased uncertainty around interest rates, inflation, and
+central bank actions influenced client sentiment, resulting in cautious
+investment decision-making. Despite this backdrop, BFSI clients
+continued to prioritize core and legacy modernization, data estate
+transformation, cloud migration, and scaled AI/GenAI deployments,
+productivity led operating model transformation and vendor
+consolidation. Spending patterns increasingly shifted from
+experimentation to industrialized business driven transformation, with
+strong emphasis on cost discipline, regulatory resilience, and measurable
+outcomes.
+• Our Consumer Business Group saw another quarter of good growth,
+supported by market share gains and emerging pockets of technology
+conviction, resilience and guarded optimism. Retail globally and TTH
+in UK/EMEA led the growth, while CPG and TTH North America
+segments declined.
+Enterprises continued to tightly align spending to initiatives delivering
+o
+near-term efficiency, cost control, and operational resilience, with
+growing emphasis on vendor consolidation, technology simplification,
+legacy modernization, and selective AI and GenAI adoption.
+
+CBG had 2 mega deal wins this quarter, which helped propel its TCV to
+o
+an all-time high. One of the two mega deals was the renewal and
+expansion of our services to Marks & Spencer, a customer of TCS, for
+well over a decade. The deal is a testimony to the deep trust and
+strong partnership between the two organizations. The other mega
+deal is with a leading American healthcare and pharmacy retailer,
+another longstanding and trusted strategic partnership with TCS, that
+we are proud to have retained.
+Clients are appreciating TCS’s track record of successfully
+o
+delivering transformation programs, more than ever. An excellent
+example is as follows:
+A leading American healthcare and pharmacy retailer partnered with
+o
+TCS to modernize its mission-critical claims processing platform.
+Operating at a massive scale - processing over 5 Mn prescriptions
+daily - the platform underpins core pharmacy operations including
+claims validation, accumulation and tracking of a patient's out-of-
+pocket (OOP) expenses, ordering, replenishment and reporting. As
+prescription volumes continued to rise, the legacy architecture began
+to limit performance, real-time visibility and scalability, creating
+operational bottlenecks across the ecosystem.
+Leveraging deep domain expertise and contextual knowledge, TCS
+o
+reimagined process flows and led the comprehensive cloud native re-
+architecture of the platform. The transformation introduced event
+driven processing, complex multisystem integrations and world-class,
+enterprise grade security to ensure resilience and compliance. This
+has enabled near real-time processing, compressing claims cycles
+from 48 hours to just 12 hours, data-driven decisioning leveraging AI,
+and autoscaling to support growing prescription volumes and rapid
+
+onboarding of new entities, positioning the client for sustained future
+growth.
+• Life Sciences and Healthcare saw marginal growth this quarter:
+Healthcare payers are managing rising costs and growing friction with
+o
+providers due to preauthorization and claims issues. Key priorities
+include affordability, transparency, simplicity, and better patient
+experiences. Organizations are focusing on data marketplaces, cyber
+resilience, and AI to boost productivity, while regulatory changes add
+to compliance costs and administrative burdens, prompting selective
+modernization focused on efficiency.
+The pharmaceutical industry is streamlining pipelines and adopting AI
+o
+to tackle growth and pricing pressures. Companies in the Americas
+and UK/EU are focusing on efficiency through vendor consolidation,
+tech modernization, and enterprise-wide transformation.
+• The Manufacturing vertical also saw good growth this quarter despite
+the macro uncertainties and the impact to the global supply chains.
+Client demand across Manufacturing remained cautious in Q4,
+o
+shaped by macroeconomic uncertainty, tariff volatility, recalibration of
+EV demand, and continued restraint in capital expenditure across
+Automotive, Industrial, and Chemicals. Customers prioritized
+near-term cost optimization and operational resilience, with sustained
+focus on AI-led productivity, including predictive maintenance and
+quality automation, alongside ERP and cloud modernization to
+streamline operations and improve reliability.
+• The Technology and software segment saw reasonable growth this
+quarter given the environment.
+
+Client demand in Q4 remained disciplined amid a challenging
+o
+macro environment, shaped by heightened geopolitical tensions,
+tariff-related uncertainty, and increasingly stringent manufacturing and
+data-sovereignty requirements. Customers continued to prioritize cost
+rationalization to fund a strategic pivot towards AI-led transformation,
+with spend focused on vendor consolidation, GCC expansion, and
+structural efficiency, and the resulting savings reinvested into scaling AI
+across core operations and product portfolios. Incremental investments
+were also directed towards digital sovereignty and supply-chain
+resilience.
+• CMI saw a modest decline this quarter, but we are witnessing
+promising signs of a rebound in IT spending in CMI.
+Telecommunications companies are advancing their journeys to
+expand into adjacent businesses while simultaneously enhancing the
+efficiency of their core operations. This strategic shift is paving the way
+for growth and innovation.
+Momentum remains strong in securing large deals within the
+o
+telecommunications sector. We have signed our first mega deal in
+CMI this quarter - a significant expansion of its long-standing
+partnership with a leading UK-based telecom operator. This five-year
+contract will see TCS lead the operator's comprehensive IT
+transformation journey for its consumer business, leveraging advanced
+AI, Cloud, and Digital Engineering capabilities. The expansion, built
+on the strength of years of trusted partnership and demonstrated
+delivery, will see TCS take end-to-end responsibility for running the
+entire IT systems of the operator's consumer base and become its
+strategic technology partner, consolidating the entire landscape
+previously spread across multiple service providers.
+
+• ERU demonstrated robust growth this quarter. Within ERU, the Energy
+& Resources segment performed well, led by supply chain
+modernization initiatives gathering momentum in the near term.
+However, the Utilities segment is experiencing stress, and significant
+cost optimization opportunities are opening up.
+In summary, even in a year marked by global uncertainty, we have
+demonstrated resilience, discipline, and the ability to lead through
+complexity. Our performance in FY26 reflects not just strong execution,
+but enduring trust—from clients who are committing to longer-term
+partnerships, and from associates who continue to drive transformation
+at scale. With a robust order book, expanding client relationships across
+revenue bands, accelerating AI momentum, and foundational
+investments like HyperVault, we are building the next phase of TCS with
+conviction. As enterprises increasingly seek partners who can deliver
+certainty, accountability, and outcomes end-to-end, TCS stands
+exceptionally well positioned combining technology excellence, deep
+contextual knowledge, and scale to help our clients navigate change and
+create sustainable value. We enter the new year with confidence, clarity
+of purpose, and an unwavering focus on delivering growth with resilience
+and trust.
+With this, I will now open the line for questions.
+Moderator: Thank you very much. We will now begin the question-and-answer
+session. We'll take a first question from the line of Sudheer Guntupalli
+from Kotak Mahindra AMC. Please go ahead.
+Sudheer Guntupalli: Hi Krithi, thanks for the opportunity. My first question, is there any
+foreseeable change in quantity or quality of client inquiries or even
+bookings around agentic AI implementation post first week of Feb when
+Anthropic announced a string of agentic AI launches?
+
+K Krithivasan: Sudheer, definitely clients are curious to know about expanding
+capabilities of all the models. And they also want to leverage their models
+to achieve both productivity as well as business value chain re-
+imagination, but is it because post Anthropic, I won't say that. As the
+model capability improves, there'll be more interest in seeing how they
+can leverage.
+Aarthi Subramanian: Client interest and demand actually increases with new
+capabilities coming out of the model providers.
+Sudheer Guntupalli: Fair enough. The second question, many of these frontier model
+companies, they're just announcing a new project or agent, which may be
+in their development pipeline, but not yet launched. The latest example
+being Claude Mythos. Is this in any way leading to client’s sort of deferring
+their existing IT spends to maybe wait and watch, once the product
+actually hits the shelf, maybe a few months or years down the line?
+K Krithivasan: We have not seen that, Sudheer. It's been, as I said, our clients are quite
+interested in leveraging it. They know this will be constantly evolving. And
+there is no major benefit in waiting for the next best model to come. So,
+clients are willing to invest now, and we have been helping them with the
+overall philosophy that their architecture is built for change. We are
+helping them in building that architecture so that they can exploit and
+leverage the models as they come in.
+Sudheer Guntupalli: Sure, sir. Last question from my side. How do we think of FY27
+growth, given the exit run rate and where our order booking is and also
+high expectations around some AI-led deflation?
+K Krithivasan: As we mentioned, we have a good order book getting into FY27. We have
+strong three mega deals booked in this quarter. And as we also described,
+most of the industry verticals, we see a positive momentum and our new
+
+age services are also gaining traction. So overall, we are getting into our
+next year with a lot of positivity and confidence.
+Sudheer Guntupalli: That’s it from my side.
+K Krithivasan: Thank you, Sudheer.
+Moderator: Thank you. We'll take our next question from the line of Kumar Rakesh
+from BNP Paribas. Please go ahead.
+Kumar Rakesh: Hi, good evening and thank you for taking my question. My first question
+was around what you were just talking about, that getting into FY27, we
+are exiting at a healthy growth. We are also exiting with a bulk of multiple
+mega deals and across verticals as well, it seems demand has started
+improving, at least growth for TCS has started improving. Would you call
+out and say that we should start getting back to 3- 4% sort of a growth in
+the international business where we used to be or better than that or the
+recovery is going to be far more gradual this year?
+K Krithivasan: Kumar, I don't want to put a number, but I would say that, again, as I was
+telling Sudheer, we are quite positive about FY27, quite positive about the
+international growth.
+Kumar Rakesh: Got it. Thanks for that and my second question was around margins, so
+SG&A in the second half has been elevated. So, is this the new normal we
+should now start looking at or it should normalize back to below 15%
+where it used to be?
+Samir Seksaria: As you know, we have been investing on the ‘Build-Partner-Acquire’
+strategy and incremental investments on partnerships, on recruitment
+and training, on the new businesses are all reflecting on the SG&A. Some
+part of it will see an elevated increase, both in the absolute amount as
+well as in percentage of revenue.
+
+Kumar Rakesh: Got that. And just for a clarification, our restructuring is done or there's
+more cost associated to that which has to come through?
+Samir Seksaria: So if you look at Q4, we have not called out any one-offs, so it is business
+as usual.
+Kumar Rakesh: Yeah. But there is a restructuring charge, which you have booked in the
+quarter, right?
+Samir Seksaria: We have not called out any one-off for Q4. The combined one-off for the
+year is ₹1,300 crores; there are no one offs in this quarter.
+K Krithivasan: But Kumar, just to get the clarity, I will be specific. The restructuring
+program that we started, we have completed that program. The program
+towards restructuring has been completed.
+Kumar Rakesh: Got it. Perfect. Thanks a lot for that.
+Moderator: Thank you. We'll take our next question from the line of Yogesh Aggarwal
+from HSBC Securities. Please go ahead.
+Yogesh Aggarwal: Hi. Thanks. Krithi, just firstly on the next few quarters, can we expect the
+similar type of seasonality going forward? Because the reason I'm asking
+is there's not been much headcount addition, so the typical seasonality of
+better first half, does that still work going forward?
+K Krithivasan: We are looking at a regular Q1, regular Q2 that we are used to seeing, and
+this is the way we are looking at as we stand now, Yogesh.
+Yogesh Aggarwal: No, Krithi, I was asking, so usually the first and the second quarter are
+stronger than Q4, right?
+K Krithivasan: That is what I said. We are also expecting a stronger 1H. Our planning
+assumption is along those lines only.
+
+Yogesh Aggarwal: Okay, great. And secondly, just going back to this AI stuff. So usually in the
+past, you had all these historical relationships and partnerships with
+software companies like SAP and all these diamonds, platinum ratings.
+Can you talk a little bit about what are these partnerships with the AI
+models, especially Anthropic? What is the level of tiering with them? And
+does it really matter anymore? Thanks.
+Aarthi Subramanian: Yogesh, I think with all the model companies, we are building strategic
+partnerships. We have announced with OpenAI, we are already working
+significantly with Anthropic and will be announcing strategic partnerships
+with them in the near future. We are very closely working with Mistral.
+With all model companies, it's extremely important for us to build a
+strategic partnership.
+But I would say that we are also trying to shape these partnerships
+differently than the traditional GTM partnerships of the past. So, we want
+to make them 360-degree partnerships. Also because of our investment
+in HyperVault, we have a very unique opportunity where they can become
+our customers.
+You saw the announcement that we made with OpenAI, where there is a
+committed capacity of 100 MW and the opportunity to grow that to 1 GW.
+So, we are having similar conversations on our opportunities with these
+model companies and hyperscalers. So that's one new pillar of strategic
+collaboration.
+Apart from that, using their products, ChatGPT Enterprise, we made an
+announcement, so using Anthropic Claude, so that's the second pillar of
+our collaboration. Third is industry specific solutions with them. The
+fourth one is very specific GTM motions, which is similar to strategic
+partnerships of the past. So that is a pillar, like I said, we are trying to
+
+shape this partnership differently, more deep, more strategic and value
+for both.
+Yogesh Aggarwal: Got it. Thank you. Thank you so much.
+Moderator: Thank you. We'll take our next question from the line of Nitin
+Padmanabhan from Investec. Please go ahead.
+Nitin Padmanabhan: Yeah. Hi. Good evening. Thank you for the opportunity. Krithi,
+initially, you mentioned some caution in BFSI during the quarter. I just
+wanted your thoughts on how clients are thinking about spending going
+forward, considering the macro.
+Do you think this ends up like last year where you had the Liberation Day
+and we thought we were probably getting into good start, but then you had
+all these headwinds. So, in the context of what you see today, what are
+the conversations with clients? It would be great to have your perspective
+there, maybe across a few key sectors at least.
+K Krithivasan: See, at this time, if you look at our direct impact from the geopolitical
+situation, so far has been restricted to Middle East and to some extent
+into our travel and transportation industry and we have not seen major
+impact in other industries so far.
+But Nitin, as you would know, if things continue and if it results in further
+supply chain disruption or any other secondary issues, it may have an
+impact. But at this time, I think the impact will be limited to our travel and
+transportation and probably the work we do in Middle East. We have not
+been hearing any other specific concerns from our clients in other
+industries or other geographies.
+Nitin Padmanabhan: The caution that you mentioned was very geo specific, it's not a
+broad-based caution?
+
+K Krithivasan: Yes, that's correct.
+Nitin Padmanabhan: That's very helpful. The second is on, from a margin perspective,
+how should we think about margins going forward? Because on one hand,
+you do have the currency giving you a tailwind and on the other side, you
+have to invest on capabilities and multiple other things. So just how
+should we broadly think from a margin perspective as we get into the next
+year?
+Samir Seksaria: Nitin, we are exiting FY26 at a four-year high on annual margins at 25%.
+And we see continued positive momentum. Our focus will be to ensure
+growth with profitability, so we'll not be shying away from making the right
+investments for ensuring strategic growth.
+Stepping into FY27, the immediate headwinds would be the annual
+increments which we have talked about. And also, as you rightly
+mentioned, we'll continue our focus on the build, acquire and partner
+framework and investments around that would be part of it.
+While some of those we would want to mitigate with better operational
+rigor, with the help of the usual levers which we have called out and also
+look at optimization on some of the non-employee expenses. As you
+rightly called out, the rupee depreciation does help, not guaranteed
+always. Overall, we'd want to balance it and keep margins within a tighter
+reach. We'd like to move towards 26%, but on a longer-term basis.
+Nitin Padmanabhan: Perfect. That's helpful. Just one last from my end. Overall, coming
+out of last year and getting into the next, do you believe that all known
+client-specific headwinds are behind, and we should see better revenue
+accretion from deal wins and from a deal win momentum perspective as
+well? But do you think that is on an accelerating trajectory.
+
+K Krithivasan: By and large, most of the headwinds we know probably are behind us,
+excepting few that may come up or that we have already accounted for.
+But at this time, we are not expecting. Of course, nobody can predict what
+will happen down the line, but I think most of the issues are behind us.
+Nitin Padmanabhan: That's helpful. Thank you so much and all the best.
+Moderator: We'll take our next question from the line of Vibhor Singhal from Nuvama
+Equities. Please go ahead.
+Vibhor Singhal: Hi, thanks for taking my question. Just two questions from my side. One
+is, Krithi, we mentioned our AI revenue to be around $2.3 billion
+annualized, that's basically almost 6.5% to 7% of our total revenue.
+Wanted to basically understand, if I were to draw a parallel to the last
+digital cycle, there also, I think after a certain stage, we had started
+quantifying our digital revenue.
+The way we saw that cycle play out is that initially there was
+cannibalization of revenue. And at the same time, we had growth from the
+digital revenues. And gradually the growth from the digital revenue was
+able to more than compensate the cannibalization of revenue.
+Are we seeing a similar trend this time? Do we expect a similar cycle to
+follow this time also, that there are productivity gains that we are passing
+on to the clients because of which we are losing out revenue? On the
+other hand, your $2.3 billion is going to grow much strongly.
+And at some point, of time in the coming quarters, we'll probably reach an
+inflection point. Is that a good way to look at the GenAI cycle? How similar
+or different would it be from the last cycle? That would be really helpful.
+K Krithivasan: Structurally what you are saying is correct, however, I don't know whether
+it will be the same time period in which the whole thing will change. You
+would expect the AI revenues to increase going forward, along with some
+
+of the traditional revenues to slowly taper down and AI revenue to
+overcompensate for the reduction in the revenue in other parts of the
+service line.
+But the timelines probably can vary. I'm not able to predict the timelines
+on how all these different cycles will move. Aarthi, you want to add?
+Aarthi Subramanian: Vibhor, if I may just add to that, if you have to compare to the
+digital transformation that you alluded to, where is the transformation
+budget, right, largely bucketed as AI going?
+There are three buckets, one is, Enterprise transformation. There is still a
+lot to be done on digital, which is still to be done in companies, whether
+it's cloud adoption, migrating to cloud, data modernization, cyber
+security, enterprise systems upgrade, whether it's S/4HANA, Salesforce,
+so all those are ongoing, So that's a transformation bucket.
+The second one, which is very purely AI-led, is the modernization
+opportunities that we see. Tech debt reduction was always a priority, but
+that was always postponed by enterprises because it would take long, it
+would cost a lot, but I think AI is playing in there and helping customers
+clear tech debt better, faster. So that's begun. Long way to go, but that's
+the second vector of opportunity.
+The third is the pure play AI transformation, what Krithi earlier alluded to
+as industry value chain transformation, where you're really doing AI
+engagements that create direct business impact.
+Vibhor Singhal: That was really helpful, Aarthi. Krithi, one more question from my side and
+it's probably more at a strategy level, maybe you and basically the team
+can answer on that. If you look at FY26, we ended the year at -2.4% CC
+YoY decline. If I compare our revenue growth this year with our closest
+
+competitor, the difference would be almost 5 to 6 percentage points.
+That's probably the widest that the gap has ever been.
+But on the other side, our margins are very, very strong, probably one of
+the highest margins that we have. We, of course, remain at the highest
+margin level in the industry, and we are very strong in margins while the
+entire industry is facing a lot of margin pressure.
+What is the company level strategy at this point of time, like, we want to
+continue to focus on the profitable growth part. Have we ever discussed
+that? Should we be ready to compromise a bit of margins to maybe boost
+growth? What is the direction in which the board and management is
+thinking in terms of balance between a better growth and profitability?
+K Krithivasan: Vibhor, I get the question. Fundamentally, we believe our focus on margin
+is not affecting our revenue growth. Of course, at the same time, in fact,
+we believe the good margins we have, gives us greater flexibility to
+approach new deals and be more competitive in gaining market share.
+And we have been able to prove that time and again. We don't lose deals
+on pricing. We work with our customers, we ensure that we give the best
+solution, and we've been able to win deals.
+This is our overall thesis. We believe margin and growth are not conflicting
+with one another. We should be able to do well on both. And we continue
+to stay close to our customers. We continue to invest, the margin we have
+helps us to invest, like what you saw in the last two acquisitions and
+investment on HyperVault. They are all possible because we are able to
+generate margin and it gives us the ability to invest for growth. We don't
+believe these are at loggerheads with one another.
+Vibhor Singhal: Okay. Thank you so much for answering my question and all the best.
+
+Moderator: Thank you. Our next question is from the line of Ashwin Mehta from Ambit
+Capital. Please go ahead.
+Ashwin Mehta: Hi, thanks for the opportunity. One question Samir, what is the impact of
+wage hikes that we see in terms of our margins next quarter? And
+secondly, any color in terms of this deal flow that we've announced,
+which is pretty strong? What is the renewal share in terms of that, given
+that there are quite a few deals in the press release where we have
+extended our relationship with these clients?
+Samir Seksaria: On the wage increments, you should expect a similar impact on what we
+have seen in the past annual increment cycle, which had been in the
+range of 150 to 200 basis points.
+K Krithivasan: In terms of colour or the characteristics of the deals of TCV, I would say
+about mostly a 50-50 or 45-55 in terms of between renewals and new
+programs. I think this quarter maybe about 50% to 55% could be on
+renewals, around 40% to 45% would be on new programs. And this varies
+typically in a smaller band, between 40% to 60% band, it varies one way
+or another.
+Ashwin Mehta: Thanks, Krithi. And just one follow-up, in terms of deals, are you seeing
+early renewals wherein vendors like yourself as well are going in for early
+renewals or the deals are largely getting renewed on time?
+K Krithivasan: By and large on time, but when we also see an opportunity to go back to a
+customer and ensure that there is really a renewal can be done with
+greater AI infusion, greater productivity delivered, and at the same time,
+with expansion in scope. We do go to the customers, and we offer to
+renew early whenever they see value and whenever it's mutually
+beneficial as well.
+Ashwin Mehta: Thanks, Krithi. Thanks, Samir. And all the best.
+
+Moderator: Thank you. Our next question is from the line of Rishi Jhunjhunwala from
+IIFL. Please go ahead.
+Rishi Jhunjhunwala: Yes, thanks for the opportunity. I think my questions have been
+answered, but maybe just a quick clarification. Just if we think about your
+thought process around wage hikes, right? So, we've deferred it twice in
+the last five, six years since COVID. This time, we have reinstated it after
+when we announced it in September, back to the April cycle.
+Just wanted to understand what's the thought process behind that, given
+that the overall demand environment, the supply side environment, and
+the macro uncertainties largely remain there and haven't seemed to be
+changing materially over the past six to nine months.
+K Krithivasan: Rishi, it's a reflection as a first is we want to ensure that we properly
+reward all the associates who have been working tirelessly for us. And as
+you know, that while in September, we were able to give increments to
+80% of associates, for the senior executive associates we were unable to
+give increments at that time.
+We wanted to ensure that when we restart our increment cycle, we reset it
+and start for everyone. But it's also a reflection of the fact that we believe
+that we have enough deal momentum and demand on our side, so that
+we'll be able to handle the increased wage cost, wage bill, because of
+increments.
+Rishi Jhunjhunwala: While you've started giving annualized AI revenues, would it be
+possible to throw some color on AI deals as well, just to get some sense
+of how those are progressing?
+Aarthi Subramanian: Rishi, if you look at it, AI deals are -- I would say of two kinds, one is
+many of the mega deals that Krithi spoke about today, they have a
+
+significant amount of AI embedded into them, in terms of how we deliver
+the service, also in terms of how we transform clients' business.
+But apart from this, when we are saying AI revenue, we are only calling out
+the specific AI for business transformation revenue, which we said has
+exceeded $2.3 billion on an annualized basis and when you look at the
+nature of programs, it's across industries, across markets.
+And we see that a lot of these programs are rapid build, 12-to-16-week
+delivery type of solutions. These are high impact problems that the
+customers are choosing, that we can deliver in faster cycles with forward
+deployment engineers. So that is included. Some of the AI modernization
+I talked about, which is starting to gain momentum is all included as part
+of that.
+Rishi Jhunjhunwala: Understood. Thank you.
+Aarthi Subramanian: And one last thing is agentic BPS, which I missed talking about. I
+think that's something which is gaining traction. Agentic AI in business
+process services and we see that earlier in FY25, the time taken to
+implement AI in business process versus this year, we are seeing faster
+adoption cycles from customers, because customers are more confident
+of now putting AI into production. But obviously, with all the guardrails,
+focus on security, governance and all of that.
+Moderator: Thank you. Our next question is from the line of Gaurav Rateria from
+Morgan Stanley. Please go ahead.
+Gaurav Rateria: Hi, thank you for taking my questions. I have two questions for Krithi and
+one for Samir. My first question for Krithi is your comment that you made
+on the growth in the client's band of revenue bands in mid and large size
+and you talked about stability returning.
+
+Is this due to a lower leakage compared to the past or is it more led by
+better macro, which is improving the spend in these accounts? The
+second question is on AI. If you keep the macro aside for the moment,
+would you expect the new AI services to be accretive to revenue growth in
+fiscal '27, net of all the deflation that you see in your renewals existing
+business or is it too early to confirm any such trend?
+And the last question for Samir is that AI for business, when you look at
+the revenue productivity and the margins in that portion of the business,
+how does it compare to company average? Is it better? Is it in line? Is it
+lower? Thank you.
+K Krithivasan: So, Gaurav, first on the client metric improvement. See it's a combination
+of all the factors, because you will not be able to grow if there's no
+stability or there's no revenue coming in and essentially, it's a reflection of
+the fact, overall at a high level, the clients are more comfortable in getting
+into larger transformation programs or some amount of discretionary
+spend improving.
+And, of course, it's also possible there are some cases of vendor
+consolidation happening where you gain market share, but definitely, it
+indicates that the stability and the increased confidence from the clients
+as well. For your question about AI, again, our expectation is AI will be net
+accretive, like to see the initial year, our attempt would be to ensure that
+we arrest the degrowth while the AI revenue increase.
+But, of course, over a period of time, AI revenue or AI related revenue,
+because it will become very difficult to classify after some time on what is
+AI, what is AI adjacent revenue, but ensure that they all grow, we will
+expect them to grow much faster. At that time, the deflation in the other
+part may not matter materially like same cycle with whatever happened
+during the digital transformation cycle that trend will resume.
+
+Samir Seksaria: Gaurav, on the AI and data part, the revenue productivity is definitely
+much better than the TCS average or the traditional business, both at
+onsite and offshore. Margins, I will not call out because there would be
+investments which would be temporary or in the initial phase, so it
+wouldn’t be like to like for comparison.
+Gaurav Rateria: Thank you very much and all the very best.
+K Krithivasan: Thank you, Gaurav.
+Moderator: Thank you. Ladies and gentlemen, that was the last question for today. I
+now hand the conference over to management for closing comments.
+Over to you.
+K Krithivasan: Thank you, operator.
+• We are very pleased with the continuous revenue growth momentum
+we have seen in the last 3 quarters. In Q4, our Revenue grew by 1.2%
+QoQ in constant currency, with an operating margin of 25.3% and a
+net margin of 19.4%.
+• We had a very strong TCV of $12 billion in Q4, with 3 mega deals.
+• Annualized AI services revenue crossed US $2.3 billion.
+We remain dedicated to our goal of establishing ourselves as the world’s
+premier AI-driven technology services provider. Our robust five-pillar
+strategy, combined with sustained investments across Infrastructure to
+Intelligence, continues to advance this objective.
+I extend my appreciation to all TCS employees for their unwavering
+commitment and professionalism, which have been instrumental to the
+company’s continued success.
+This concludes our call today.
+
+Thank you for your participation.
+Moderator: Thank you, members of the management. On behalf of TCS, that
+concludes this conference call. Thank you for joining us and you may now
+disconnect your lines.
+Note: This transcript has been edited for readability and does not purport to be a verbatim
+record of the proceedings.

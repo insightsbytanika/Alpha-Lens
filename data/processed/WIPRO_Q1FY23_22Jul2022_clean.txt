@@ -1,0 +1,981 @@
+July 22, 2022
+The Manager- Listing
+BSE Limited
+(BSE: 507685)
+The Manager- Listing
+National Stock Exchange of India Limited,
+(NSE: WIPRO)
+The Market Operations,
+NYSE: New York
+(NYSE: WIT)
+Dear Sir/Madam,
+Sub: Transcript of 76th Annual General Meeting of Wipro Limited
+Please find enclosed the transcript of the 76th Annual General Meeting of the Company held on
+Tuesday, July 19, 2022 at 9 AM IST. This will also be available on the Company’s website at
+www.wipro.com/investors/annual-reports/.
+This is for your information and records.
+Thanking you,
+For Wipro Limited
+G Kothandaraman
+General Manager- Finance
+WIPRO LIMITED
+TRANSCRIPT OF THE 76TH ANNUAL GENERAL MEETING OF WIPRO LIMITED HELD AT 9
+AM IST ON TUESDAY, JULY 19, 2022 THROUGH VIDEO CONFERENCING
+Rishad Premji:
+I welcome all the members to the 76th Annual General Meeting. I am Rishad Premji, Chairman of
+Wipro Limited.
+I hope all of you are keeping well. This meeting is being conducted through Video Conference as
+per circulars issued by Ministry of Corporate Affairs and the Securities and Exchange Board of
+India. The requisite quorum being present through video conferencing the meeting is properly
+constituted and I call this meeting to order.
+Before we start the proceedings of the meeting, let me introduce you to the persons sitting on the
+dais with me.
+To my right are:
+Mr. Azim H. Premji
+Mr. William A. Owens
+Ms. Ireena Vittal
+Mr. Deepak M. Satwalekar
+Ms. Tulsi Naidu
+and to my left are:
+Mr. Jatin Dalal
+Mr. Thierry Delaporte
+Dr. Patrick J. Ennis
+Mr. Patrick Dupuis
+Mr. Sanaulla Khan
+In addition, Mr. Vikas Bagaria, Partner, Deloitte Haskins and Sells LLP, Statutory Auditor and
+Mr. V Sreedharan and Mr. Pradeep Kulkarni, from V. Sreedharan and Associates, Secretarial
+Auditor have also joined us today.
+I request Sanaulla Khan, Company Secretary, to read the arrangements made for the Members
+at the 76th Annual General Meeting.
+Sanaulla Khan:
+Dear Shareholders, welcome to the 76th Annual General Meeting of Wipro Limited. This meeting
+is being held through video conferencing mode, as mentioned by Rishad, in accordance with the
+circulars issued by the Ministry of Corporate Affairs, applicable provisions of Companies Act, 2013
+and the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+Company has enabled the Members to participate at the 76th AGM through the video conferencing
+facility. The proceedings of this Annual General Meeting are also being web-casted live for all the
+Members as per details provided in the Notice to Annual General Meeting. The proceedings of
+this meeting are being recorded for compliance purposes.
+In accordance with the provisions of the Companies Act, 2013 and the SEBI Listing Regulations,
+the Members have been provided the facility to exercise their right to vote by electronic means,
+both through remote e-voting and e-voting at the Annual General Meeting.
+Remote e-voting facility has been made available to all Members holding shares as on the cut-off
+date i.e. July 12, 2022, during the period commencing from 9 AM IST on Friday, July 15, 2022 till
+5 PM IST on Monday, July 18, 2022. Remote e-voting has been blocked on July 18, 2022 at 5
+PM.
+Members joining the meeting through video conferencing mode, who have not already cast their
+vote by means of remote e-voting, may vote through insta-poll e-voting facility provided at this
+meeting. The Members who have cast their vote by remote e-voting prior to the AGM shall not be
+entitled to cast their vote once again.
+The Board of Directors has appointed Mr. V Sreedharan, Partner, V Sreedharan and Associates,
+as the Scrutinizer for this Annual General Meeting. Based on the report of the Scrutinizer, the
+combined results of remote e-voting and the e-voting done at the meeting today will be announced
+and displayed on the website of the Company, and will also be submitted to the stock exchanges
+as per the requirements under the SEBI Listing Regulations.
+I now request, Mr. Rishad Premji, Chairman, to continue with the proceedings of the meeting.
+Rishad Premji:
+Thanks, Sanaulla. I am satisfied that all the efforts feasible under the circumstances have been
+made by the Company to enable Members to participate and vote on the items being considered
+at this meeting.
+Before we take up the items as per the Notice, I would like to share with our shareholders, the
+performance of the Company during the financial year 2021-22 and the general Outlook for the
+IT Sector.
+Once again welcome all of you to the 76th Annual General Meeting. And again, on behalf of the
+Board of Directors, I extend all of you a very warm welcome and thank you for joining us today.
+Financial year 2021-22 was a momentous year for us at Wipro, we cross the $10 billion market
+revenue this year. When I look back in the journey of Wipro that we have travelled in these last
+77 years from a tiny oil mill in Amalner in Western India to a Global Technology Company with a
+presence in over 66 countries and employing nearly 250,000 people today. I feel humbled but
+also immensely proud that we have managed to reach here on a bed rock of strong values.
+Overall, we had a fantastic year and I want to thank Thierry and the entire Wipro team for the
+solid performance.
+In the last two years, under Thierry’s leadership, Wipro has seen a new direction while building
+on our strong legacy and core strengths of the organization.
+Let me quickly share some highlights of the year gone by. Revenue grew 27.3% year on year in
+reported currency. We also ended the year with strong order booking and closed 37 large deals
+in TCV of over $2.3 billion. For the full year the EPS was Rs. 22.35 per share up 17% year on
+year and the operating cash flows were at a Rs. 110.8 billion which was at 90.7% of our net
+income. Our gross cash was at $4.6 billion and our net cash was at $2.6 billion. Our payout
+through buy backs and dividends including dividend including dividend distribution tax to our
+shareholders for the Financial year 2021-22 on a trailing three year basis was 81.6% of our net
+income.
+Wipro was born in an uncertain time. The World war II had just ended and India was still under
+colonial rule. Not only that we overcome those hardships, but we also grew stronger, bigger and
+more resilient in these years to come.
+We are going through another period of uncertainty in the world today. The pandemic is not yet
+over. Inflation is soaring. An armed international conflict is underway. And we are staring at a
+huge climate and energy crisis.
+And yet I remain optimistic. Because I believe that great up evils carry within them seeds of great
+possibilities. The fact that we had a Covid vaccine within a year of the outbreak, and that two-
+thirds of the world population has already received at least one dose of the vaccine, is testament
+to this belief.
+Covid has changed our relationship with technology forever, driven by the pandemic, all of us –
+individuals, and businesses – have discovered new ways to work together at scale with
+technology. This tectonic shift in the adoption of technology has impacted every customer we
+serve in every industry in the world. Demand for digital, cloud, data, and cybersecurity services is
+growing and will continue to grow as more of our customers adapt to the new world order. And
+so, despite some elements of uncertainty in the short term, the long-term prospects of the
+technology industry services industry look very good.
+We, at Wipro, are doing everything we can to seize this moment.
+As enterprises adopt digital business models they face significant challenges in navigating a
+complex ecosystem with multiple providers that are difficult to manage. They need an end to end
+transformation partner to orchestrate digital transformation for them, this is where we intend to
+play.
+We have completely transformed our structure and our operating model. We have gone from
+being industry- organized to being market-organized (supported by our global capability units).
+We have added new talent across the board, with particular emphasis on women leaders. Our
+leadership team is more diverse now. We have several new leaders who bring in a new mindset,
+even as many leaders in the top 200 mark a decade or more at Wipro.
+We are much more growth-obsessed than before. We are driving deep strategic partnerships with
+hyperscalers and increasing our focus on large deals. We have also invested in a Chief Growth
+Office function and changed the seniority and maturity of our sales leaders.
+We have also invested significantly in acquisitions either for gain market access or to acquire new
+capabilities. We completed six acquisitions in last few quarters. Capco, our largest ever
+acquisition, Ampion, Leanswift, Edgile, the CAS group and most recently in May of this year
+Rizing. Each acquisition fulfills different piece of the puzzle creating new synergies and
+differentiate for us in key strategic markets and deepening our consulting domain expertise in high
+growth industries.
+Cloud is at the core of most transformation initiatives with a significant headroom for growth in the
+coming years. We have long been a cloud services pioneer. We are now investing $1 billion in
+Wipro FullStride Cloud Services over the next few years to deliver an orchestrated transformation
+that accelerates business results for clients.
+We will continue our investments to build capabilities and acquire market leading talent in strategic
+growth areas whether they be cyber, data, AI and our engineering business. The future of
+technology is exciting and opportunity rich. We are accelerating our investments in Topcoder
+platform and in emerging areas such as Metaverse, Web 3.0, Robotics, self-learning AI, and
+privacy systems.
+We are also very proud of our culture and values. It is a huge differentiator for us, and it is
+important that people experience it. To me culture represent the sole of the organization.
+Reinforcing our values and assimilating peoples in our culture become even more important given
+there are significant percentage of our organization is new to the company and that we continue
+to work in a hybrid model, and so my personal focus remains on people. I spent a lot of time
+talking to our top 200 leaders one on one as well as meeting group of employees in virtual session.
+One of the things we are driving is the Five Habits. Our big learning is that people don’t experience
+our values – they experience our behaviors, they experience the thing happen implicitly and
+explicitly inside an organization through which they interpret our values. The Five Habits takes
+our values closer to our people, as I have discussed personally with over 29,000 of our Wipro
+colleagues over 96 sessions spending over 300 hours.
+We at Wipro believe our story is deeply connected to our communities. 66% of the economic
+interest in Wipro is irrevocably pledged for philanthropy through the efforts of Azim Premji
+Foundation. And so your company’s majority is owned by a philanthropic institution. The
+Foundation works tirelessly to create at-scale, institutionalized changes in the quality of education
+in India. It also works with vulnerable groups, health, nutrition governance and livelihood.
+One of the biggest challenges facing the world today is climate change. We are already witnessed
+to its various manifestations. This year for example saw the hottest April and May in the large
+parts of North India while Bangalore saw the rainiest summer in decades. There was a heat wave
+in western Europe, wild fire in France and Spain, a drowned Italy, a record breaking high
+temperatures in large parts of the U.S. While it’s encouraging to see governments, business and
+civil society step up to the challenge, much needs to be done. Wipro’s climate change program
+goes back 15 years and over the years has evolved into a mature yet dynamically responsive set
+of initiatives. In April 2021, we announced our goal of achieving ‘Net Zero’ greenhouse gas
+emissions by 2040 for all three scopes i.e. scope one, two and three. We have a clear roadmap
+for the short and medium terms with targets of 100% renewable energy and 100% electric mobility
+by 2030. We were one of the first seven companies globally to have their Net Zero targets
+validated by Science Based Targets initiative (SBTI).
+I am proud that we are well position to meet our goals with renewable energy comprising close to
+15% of our total electricity footprint in India today. We plan to rapidly scale this up in three years
+through appropriate investments. Our focus remains on deep decarbonization of our own value
+all aspects of our work and encouraging all Wiproites to be their authentic selves at all times. Our
+inclusion and diversity journey is an ongoing effort working constantly on various pillars of
+inclusivity. Various programs and initiatives have helped us to nearly double the gender diversity
+at senior leadership levels in the Company in FY’22. And overall as a Company, we are at 36.1%
+gender diversity.
+To foster a safe place for LGBTQ+ employees and protect them from bias and discrimination, we
+launched the Global Prevention of LGBTQ+ Discrimination Policy last year. We also took several
+steps to advance an inclusive work environment for Black employees, from introducing a holiday
+on Martin Luther King Day to strategically recruiting from Historically Black colleges and
+universities (HBCUs).
+In closing I want to acknowledge that the Indian IT industry come a long way and we are today a
+true partner a true partner to our clients, helping them navigate to a digital economy and working
+on their most important strategic and business priorities. This Financial year has been a
+momentous year for Wipro and I would like to express my gratitude to our client, our partners, our
+employees, our shareholders and other stakeholders for reposing their trust and confidence in us.
+I am incredibly excited about the progress we have made, the path we are on, and confident of
+building on this incredible momentum. Thank you again.
+So, before we start the proceedings, I also want to invite Mr. Thierry Delaporte for few opening
+comments. Thierry over to you.
+Thierry Delaporte:
+Thanks, Rishad.
+This year our meeting can be in person while that is not the case just yet I am joining you today,
+live from our campuses in Bangalore, along with some of our Board members.
+This Annual General Meeting is special for me, as I complete two full years leading Wipro. It’s
+been a privilege, and an honor to lead this exceptional company. Today, Wipro is an industry
+leader in the IT Services space. And Wipro is also a force for good in our community. Especially
+during the great hardships brought on by the Covid-19 crisis, we led with a people-first mindset,
+and I am proud of that.
+As a business, we have made incredible strides in the Fiscal Year 2022.
+1. We started realizing the benefits of our transformation strategy.
+2. We began to move the needle on every yardstick we set out for ourselves.
+3. We became a 10 billion dollar company, and
+4. We recorded our fastest-ever revenue growth in absolute terms!
+Not surprisingly, we ended the year with the most robust order pipeline ever. Despite a very
+challenging labor market, we added new talent at a record pace, reaching a global employee base
+of over 240,000 colleagues around the world.
+These results reflect the success of:
+1. our bold growth strategy,
+2. our single-minded focus on value creation for our clients, and most importantly,
+3. the unwavering dedication of our colleagues.
+This will not change going into the future as well, especially as technology investments grow in
+the coming years. We expect businesses to increasingly turn to Cloud-based technologies, and
+digital tools,
+1. to enable an increasingly dispersed global workforce,
+2. to enhance enterprise agility, and speed of innovation to better prepare for the future.
+And as companies become more sophisticated in their use of the Cloud – and as they start to
+understand its benefits – we expect the demand for our services to remain strong.
+Sure, the backdrop today is a bit uncertain. We are all watching closely the rising economic
+headwinds, the conflict in Europe, increasing inflation, and emerging food shortages across the
+globe.
+In this weather, we know what we must do – we will stay focused on our clients, on our service
+quality, we will stay focused on our employees and our stakeholders. Because we are, above
+everything else, a people business.
+In the Fiscal Year 2022, we ramped up investments in certain parts of our business. We made
+upfront investments so that we can capitalize on the growth opportunities in the market and
+strengthen our position as a “trusted advisor” to our clients. We invested in well-planned and
+strategic organic capabilities, and prioritized certain inorganic investments. Those decisions are
+allowing us today to offer our clients seamless solutions, and world-class expertise. Those
+decisions are letting us help them realize their most ambitious business and technology
+transformation goals.
+Cloud is one such area. We continued to invest in our Cloud Transformation capabilities because
+Cloud migration and Cloud-based business models are becoming more of the standard.
+We launched Wipro FullStride Cloud Services to bring together our portfolio of Cloud offerings,
+talent, capabilities, and Cloud Studio. Wipro FullStride Cloud Services realizes our vision of being
+a “Value Orchestrator”, someone that seamlessly blends capability and thinking from business
+and technology, and helps clients transform or realize new business opportunities.
+We significantly expanded our cybersecurity capabilities as well. We acquired two consultancies
+– Edgile, in the US, and Ampion, in Australia. Both these acquisitions set us up pretty well, in the
+evolving landscape of cyber threats.
+The closure of our largest acquisition to date, Capco, was an important milestone last year.
+Capco’s consulting capabilities and domain expertise have proved to be invaluable additions to
+our Banking Financial Services and Insurance offerings. The addition of Capco now allows us to
+deliver a full-spectrum of services in this sector — from consulting and strategy, to technology
+development and implementation. I am pleased to share that Capco recorded a strong double-
+digit growth in Fiscal Year 2022, and we signed over 60 joint client wins across all our markets.
+Overall, we completed six acquisitions in the last few quarters - Capco, Ampion, LeanSwift,
+Edgile, CAS Group and, most recently, Rizing. Every acquisition fills a different piece of the
+puzzle, creating new synergies and differentiators for us in key strategic markets, and deepening
+our consulting expertise in high-growth industries.
+Another investment area has been talent. We have continued to invest in people and added over
+45,000 new employees on a net basis in the fiscal year 2022. This was the highest-ever net talent
+addition Wipro has seen.
+Being a global company, we believe our strength comes from our ability to tap into a world of
+diverse views, thinking, backgrounds and experience.
+So, I am proud to report that, in fiscal year 2022, ethnic diversity of our senior leadership improved
+by 24 percentage points. And we have almost doubled gender diversity in the leadership bands.
+We know that career progression and development is important for our people. To help our
+colleagues realize their ambitions, we revamped our promotion cycle, and incentive programs.
+We created new learning tools, launched new training programs to help our people stay up-to-
+date on latest professional and technical developments.
+These investments matter. Today more and more top talent from around the world are keen to
+join Wipro. I am proud to see that Wipro is an employer of choice for top technology talent! When
+I meet clients, and Partners, I hear from them that they are noticing a major shift in our client-
+facing teams – they say they are noticing agility, confidence, thought leadership and quality in our
+people more and more.
+Our people will always be our greatest asset. We will continue to invest in their development, so
+they can deliver the cutting-edge thinking, and solutions, that our clients expect from us.
+Now, let me share with you how we are accelerating our transformation journey.
+In Fiscal Year FY22, we achieved significant successes in all aspects of our strategy. We
+delivered ahead of expectations on several parameters.
+To accelerate growth, we prioritized specific sectors in our chosen markets. We invested in
+building solutions in areas where we see strong growth potential, and doubled down on strategic
+sectors where we already have solid market presence.
+Banking and Financial Services is one such area where we are growing our strength and brand,
+as a preferred partner for consulting, technology, and digital transformation services.
+Another sector where we see strong growth potential is Technology, Media and
+Telecommunications. The acquisition of CAS Group will allow us to bring specialized expertise,
+strategic consulting, and program management capabilities to large-scale business and
+technology transformation projects in this sector, while increasing our client base in the Fortune
+100 segment.
+Our focused and careful strategy has led to robust revenue growth, not only in our top market –
+the U.S – but also across Europe, where we experienced a remarkable 39% growth.
+We also made significant strides in strengthening our Partnerships. And we added more than half
+a dozen new clients with engagements exceeding $100 million each.
+It helps that we are increasingly shaping our client approach to lead with business solutions, and
+investing in areas that are critical to their success.
+Last year, we continued to build out our AI and Data Analytics capabilities, leveraging over two
+decades of Analytics experience. Today, over 30,000 Wiproites are focused on delivering Big
+Data, AI, and innovation capabilities, across the globe.
+We made exceptional progress in strengthening our frontline sales and leadership teams in local
+markets. This has allowed us to deepen client relationships, and better understand local
+challenges.
+We are also continuing to expand our ‘Talent Cloud’ through our Topcoder platform. Topcoder is
+turning into a significant competitive advantage for us in an environment where most companies
+are struggling to find the tech talent they need to deliver digital solutions at scale.
+In terms of Business Performance, in Fiscal Year 2022, we crossed revenues of 10.4 billion dollars
+– a significant milestone that represents a 27% growth in constant currency terms, and an addition
+of $2.2 billion in revenues for the year.
+Our order bookings in Annual Contract Value terms grew 30% YoY. We delivered profitability of
+17.7% in fiscal year 2022 despite significant investments in solutions, capabilities, and talent,
+adjusted for Capco, our largest acquisition. This will be well above the pre-pandemic margin
+levels.
+Our net income in absolute terms was the highest ever, which grew by over 13%. Earnings per
+share expanded by 17% for the full year. We also had a robust operating cash flow generation of
+INR 110.8 billion, which is 90.7% of net income for the year.
+But as you all will know, especially those of you who have been part of the company for many
+years, Wipro is more than just business. We have always operated with integrity and purpose,
+and believed that our company has an important role to play in society.
+Wipro has always had a strong commitment to values and purpose, we’ve conducted business
+responsibly, and stood by the principles of democracy, justice, and equality.
+As one of the only companies that gives back two thirds of its earnings to its communities, our
+shared sense of purpose is one of the main drivers of our success.
+We had acknowledged the impact of climate change on our society many years back. We had
+therefore incorporated Environmental, Social and Governance or ESG Principles into our core
+business. As a founding member of global Transform to Net Zero initiative, we are fully committed
+to reducing our greenhouse gas emissions to zero, by 2040.
+I am proud to state that our long history of commitment to our communities, employees, and to
+the environment, continues to be a distinct and critical differentiator for us in the market. This will
+become even more important as stakeholders increasingly focus on ‘responsible business’ in the
+coming years.
+The past two years have been truly transformative for Wipro. The changes we made to our
+operations, and organizational structure, as well as the new capabilities we built, are changing
+how the market, and clients, see us.
+Clients are now turning to us to help them realize some of their boldest business and technology
+transformation goals. They are looking to us to design new solutions, to orchestrate across
+ecosystems so they can act with the agility and innovation they need.
+Reflecting this significant transformation in our market position, we recently launched a new brand
+campaign that speaks to who we’ve become to our clients and stakeholders.
+“Ambitions Realized” – our new brand campaign, is a culmination of our transformation, and I
+believe it will become a guiding light for where we go from here.
+So, as we kick off Fiscal Year 2023, we remain committed to helping our clients, employees,
+partners, and stakeholders realize their biggest ambitions, and transform their most complex
+challenges.
+Before I close, I want to thank our employees across the globe, who show up every day with
+passion, energy and commitment. I would also like to thank you all for your continued trust in us.
+Thank you, and back to you Rishad.
+Rishad Premji:
+Thanks Thierry!
+The notice of the 76th Annual General Meeting and the Annual Report, containing Audited
+Financial Statements (including consolidated financial statements) for the year ended March 31,
+2022 and Board’s and Auditors’ Reports, have been sent by electronic mode to those Members
+whose e-mail addresses are registered with the Company or Depositories. These documents
+have also been made available on the Company’s website. Considering the above, the Notice is
+being taken as read.
+The Register of Director’s Shareholding, Register of contracts, copies of Audited Financial
+Statements etc. are available for inspection to the Members. Members seeking to inspect such
+documents can send an email to corp-secretarial@wipro.com.
+Deloitte Haskins & Sells LLP, Statutory Auditors, have submitted their report for the financial
+statements for the year ended March 31, 2022. The Auditors’ report does not contain any
+qualifications/modified opinion or adverse remarks. There being no qualifications, the entire report
+is not required to be read in this meeting and the Auditors’ Report is being taken as read.
+In terms of the notice of the 76th Annual General Meeting, the following items of ordinary business
+are to be considered at this meeting:
+1. To receive, consider and adopt the Audited Financial Statements of the Company (including
+consolidated financial statements) for the financial year ended March 31, 2022, together with
+the Reports of the Directors and Auditors thereon.
+2. To confirm the interim dividend of ₹ 1/- per equity share declared by the Board on January
+12, 2022, and ₹ 5/- per equity share declared by the Board on March 25, 2022, as the final
+dividend for the financial year 2021-22.
+3. To consider appointment of a Director in place of Mr. Azim H. Premji (DIN: 00234280) who
+retires by rotation and being eligible, offers himself for re-appointment.
+4. To consider and approve re-appointment of Deloitte Haskins & Sells LLP, Chartered
+Accountants, as statutory auditors of the Company and to fix their remuneration.
+We will be glad to answer any questions, which any Member may like to ask on the financial
+statements or other matters.
+The insta-poll e-voting facility will now be activated for Members who are participating in this
+meeting and have not already voted through remote e-voting. The insta-poll facility will remain
+active till 30 minutes after the meeting.
+Before we commence the Q & A session, we will play a short video on our branding that Thierry
+just talked about.
+- After branding video -
+Thank You! I request Sanaulla Khan, Company Secretary, to share a few guidelines for the Q&A
+session.
+Sana over to you!
+Sanaulla Khan:
+Thank You Rishad!
+In order to ensure smooth interaction and participation, we request the Shareholders to note the
+following guidelines for the Q&A session:
+1. The Q&A session will be anchored by me and I will call the pre-registered Shareholders to
+come-up one-by-one.
+2. I will invite the speakers in the batches of 5 and we will answers those 5 questions before
+moving on to the next batch of 5 speaker Shareholders.
+3. Members are requested to un-mute their microphone before speaking, and also enable
+web-cam, if they wish to appear on the video.
+4. Members are requested to mention their name, folio number and location.
+5. Members are requested to restrict their questions to two minutes, so that all speakers will
+get an opportunity to share their views.
+6. In the interest of time, I request members to not repeat questions raised by the previous
+speakers.
+7. It may be noted that the Company reserves the right to limit the number of Shareholders
+asking questions depending on the availability of time at the AGM.
+Question & Answer session:
+Sanaulla Khan:
+Please unmute your microphone and switch on your video. Yes Mr. Shastri, we can see you.
+Please go ahead.
+Sadananda Shastri:
+Are you? Is it audible to you?
+Yes, Sir. Yes
+OK, I will start now, uh, good morning Sir, I'm Sadananda Shastri from Bangalore. My number is
+11702201. Sir, coming to the report, page #13 company has shown that 27% growth even in the
+pandemic period. But however, the market value of the shares is diminishing from ₹620 to 300
+and 290 rupees. What is the reason? There is a rumor that the company is declaring bonus
+shares? Is this the reason for diminishing the value of shares? Chairman sir, you have said in
+your message historical milestone. Of course. Even then the company is losing big image in the
+market, Why? Page #47 General… General and administration expenses is increasing by 33%,
+is on the higher side, we feel it is because of the extension of higher emoluments to certain
+category of executives. Is it fact? Page #49 IT services. You have shown other operating income
+growth to the extent to 2800%. Whether it would be a regular income here afterwards? Page #50
+IT products are backbone to the company. Here there is a concern about the negative growth to
+the extent of 1512 million. What is the reason? Page #72 COVID-19 response, company has
+given cautious look towards the COVID patients by building hospital. It brings special image to
+the company. Thank you very much for that. Page #85 Natural Capital, Company has undertaken
+urban biodiversity projects, especially Butterfly Park, to cool the climate and a small contribution
+to lessen the global warming. Why can't you put these projects in all urban cities? Page #90
+Board’s report you have acquired 8 companies. Can you confirm that all these are profit making
+ones? Page #100 remuneration to the managerial. The increase of salary and allowances to
+managerial stop, it is a setback to the positive growth results of the company. 80 Crores to CEO
+is being questioned by the public. Nowadays CEO from other countries have become costly. Why
+can't the company explore the possibility of finding inland CEO? Page #147 in first phase balance
+sheet. Investment in investment. All of a sudden there is an increase of 83,500 billion. Whether
+these are forced investment or voluntary investment. Page #221 CBS studies consolidated
+balance sheet, i.e., In trade receivables, credit impaired and dispatched are to the extent of 8000
+million. Whether all these are loss assets for the current year. Page #148 SBS, that is standalone
+balance sheet. Even though borrowing saw increased by 18,700 minimum million, the finance
+cost is in reduction to the extent of 352 million. Why, what is the reason? Page #293 lastly, you
+have 140 subsidiaries, out of which 52 are under loss. The maximum loss is in item number 51,
+that is, capital Market Company, 1694 million. What is the company's strategy to bring these to
+Positive? Thank you very much Sir. See you in next year in cafeteria, Wipro. Thank you very
+much.
+Sanaulla Khan:
+Thank you thank you Mr. Shastri. I now request Ms. Mansi Bihani to switch on her mic and the
+camera and ask your question, ma'am.
+Since Miss Mansi is not coming online, I request Ms. Jasbir A Puravankara to switch on the mic
+and the camera and ask your question.
+Ms. Jasbir A Puravankara:
+Yes hi, good morning. Am I audible?
+Sanaulla Khan:
+Yes, ma'am, please go ahead.
+Ms. Jasbir A Puravankara:
+Good morning Mr. Premji. I'm Jasbir Puravankara, member of the millennium Mams Bangalore
+chapter and an honored shareholder of the company. I would first like to mention that I'm
+extremely gratified to learn that Wipro's management team is diverse with many women now
+holding top positions in the company. Mr. Premji, I have two questions for you today. Digital
+economy is the buzzword in today's day and age, with India targeting to reach $1 trillion economy.
+This is a big opportunity for established companies like Wipro. How is Wipro poised to participate
+in this huge surge? My second question to you is our honorable Prime Minister has made an
+announcement of India becoming a $5 trillion economy by 2027. Where do you see Wipro in
+2027? Thank you.
+Sanaulla Khan:
+Thank you, thank you ma'am. OK, we'll now request Mr. Santosh Kumar Saraf to come on to the
+screen and ask your question, Mr. Saraf.
+Mr. Santosh Kumar Saraf:
+Namaste Sir! I hope I am audible.
+Sanaulla Khan:
+Yes, please go ahead.
+Mr. Santosh Kumar Saraf:
+What steps company is taking to increase the women ration in company as it is stands at 36% as
+on date, steps to increase employment ratio; whether the paternity, maternity benefits and health
+insurance has been given to the employees? steps to increase source of green energy; explain
+the policy of e-wastage disposal; plan of new acquisition in future; pls give booster dose to
+employees of wipro.
+Sanaulla Khan:
+Thank you, thank you Mr. Saraf. I now request Ms. Alka Karnani to come to ask her question.
+Ms. Alka Karnani:
+Good morning, respected chairman. Sir, I'm Alka Karnani, a proud shareholder of the company
+and a member of Millennium Mams Kolkata chapter. On behalf of Millennium Mams, I would like
+to congratulate you for Wipro being recognized in the top leadership category in governance
+practices. Sir during this growth phase of IT sector, the way demand is going up, there will be
+shortage of manpower, engineers, skilled workers in a big way. The Indian IT industry in the recent
+past has been dealing with an all-time high attrition rate of around averaging 25%. Sir, I would
+like to understand how will our company lower this attrition rate or retain the manpower. Second,
+how will you get new talent? Because if the money part remains the same, why will people join
+Wipro? 3rd, what type of comfort are you giving to your employees? Maybe ESOPS or emotional
+attachment with the company because of brand value system. Sir can you please throw some
+more light on the same other than what you mentioned in your address? Thank you so much.
+Sanaulla Khan:
+Thank you ma'am. I now request the management team to provide their responses to the
+questions asked and then we will move to the next set of questions by the shareholders.
+Rishad Premji:
+Thank you. Sana. And thanks to all of you for asking your questions. I will try to answer as many
+of them and try and pass some of them on to other colleagues on the dais. So, Mr. Shastri thank
+you for your questions. Your comment on the price of the share you know that's not something
+we control our focus as a management team is to give the best performance. I think we've had
+an outstanding year last year. As you know, with everything happening in the economy, stock
+market is volatile holistically and that's something that we are conscious of. But our focus is to
+deliver the best results for our customers and for our employees and as a consequence of which
+to our shareholders as well by consistent good performance. Uh, the cost of G&A has gone up
+and that is purposeful. It's gone up because we are intentionally investing in our market
+organizations as we talked about and I talked about in my speech, we've invested in a Chief
+Growth Office that is focused on building strong partnerships with our ecosystem partners as well
+as focusing on helping us grow and build large deals. Uh, the IT products business is a focused
+Business and you will likely see you know lumpiness in the way that business unfolds. The intent
+of that business is to very strategically tie and drive product sale, where it helps our overall
+services business. So, it's an integral part of our IT services business and by the nature of that
+business you will see lumpiness in that in that overall business.
+Thank you for your comment on the COVID hospital. That was something that was incredibly
+important to us and something we remained very committed to over almost 7000 people had an
+opportunity to use the hospital, so I think it came to great use. We've just shut it down because
+there was limited use earlier this year. That you know our focus on sustainability holistically
+remains so Thank you for the comment on the urban Butterfly park.
+We do other components of work in the cities that we work at through the Wipro Foundation. One
+of the efforts that we're driving, for example, in the city of Bangalore, is helping clean up lakes.
+So whether or not we are doing butterfly parks, we are focused on other elements of sustainability
+through the Wipro Foundation in the location that we exist as a company.
+You know, we don't comment specifically on the profit of specific MNAs, but let me give you
+comfort that the MNAs we've done in the 6th that we've talked about both theory and I talked
+about have done well for the company. They are tracking to plan, and we are seeing the benefits
+both organically for those MNA's as well as through the synergies that we are able to bring
+together as Wipro and that particular MNA. You know, the comment on remuneration for senior
+leaders, including the CEO, we think we benchmarked this very closely to global standards and
+to our global competition. We think it is very much commensurate and in line with our
+performance, as well as with where leaders of organizations of our size and repute are
+compensated. You had a couple of questions on investment and trade receivables which I will let
+Jatin answer and also a question on finance cost reduction as well as on the subsidiaries. Do you
+want to take that and then move to the next shareholder? Jatin.
+Jatin Dalal:
+Yes, so the increase in trade receivables is in line with the growth of the company you. You have
+to also appreciate that we grew 27.3% in FY22 and therefore it is commensurate with the growth
+in the Organization. Of our subsidiaries that you mentioned, Some of them are exhibiting laws,
+but that is Typically a result of portfolio approach where a particular type of work or a particular
+contract in that particular quarter or year is loss making, but you have seen that on an aggregate
+basis, we have delivered a 17% earning per share growth that is collective success of our all our
+operating entities, including some which may have been in loss for FY22. Over back to Rishad
+Rishad Premji:
+Thanks, Jasbir thanks for your questions on your question on the, uh, the digital economy. You
+know it is incredible how COVID has just accelerated the journey for we find for customers across
+industries, across geographies, across sizes to really sort of drive this very strong digital first
+agenda and the way they engage and interact with their customers and our focus and play is how
+do we become this strong digital / Ecosystem orchestrator that brings together for our customers
+both their existing world and their existing legacy, as well as all the new Age capabilities that a
+slew of past partners have to offer. And so how do you bring all of this together in a manner that
+is consumable inside of the organization and can return great value? So, our mission is to how to
+become the choice; You know, preferred orchestrator ecosystem and digital orchestrator for our
+customers. Look, it's an exciting time for the technology services industry and it's an exciting time
+for Wipro and we are very excited about the journey of transformation that we've been on over
+the last couple of years. I talked a lot about some of the components of that change, and so I
+remain, and we remain as a as a management team. Incredibly excited about the opportunity of
+where the technology industry. And where wipro can go over the next five years. Participating in
+this transformation of change that is happening world over. Mr. Sarafji, thank you for your
+comments. You know My Hindi is not very good so I will try and answer some of your questions
+in English, but perhaps with a little bit of English. Thank you for your comment on women leaders.
+You know hamari koshish hein ki we have 50% of leaders who are joining us from campus to be
+is 50% and our big focus is how do we retain leaders as they move through the journey? We're
+driving a lot of programs to encourage women who are starting families, etc to start again with the
+organization? Our big focus on the hybrid model is to be more inclusive. It is to allow people to
+have that option if they want the flexibility to work from home. It's also an objective to be more
+inclusive, even with people with disability as well as people in smaller towns.
+So, I intend to try and leverage and continue with the hybrid model to be more inclusive is an
+important focus for us. As we also talked about, there's been a very purposeful focus on
+leadership at Wipro for women, and we've almost doubled the percentage of leaders that we have
+in the company. We've hired over 50 leaders in the last year at Wipro who are women leaders for
+the organization. We do offer maternity benefits and we do offer paternity benefits for all people
+both in India as well as in every market that we serve in. And as I mentioned, we are in 66
+countries. That's something that's incredibly important. And we recently in the last year,
+introduced paternity benefits as well, and this exists for same-sex partners as well. You know our
+focus on; I will expand your comment on rainwater harvesting and talk more holistically. Our focus
+is holistic from a sustainability perspective, not only from a renewable energy but from a waste,
+and from a biodiversity perspective as well. Over 40% of the water we use on our campuses is
+reused water. As I mentioned, 50% of the power we use in our locations is renewable energy.
+Our intent is to go up to 100% Of renewable energy by 2013 all of our campuses in India are
+intended to use 100% of electric mobility across all our campuses in India. A lot of our waste is
+repurposed as fuel and about a 40% of our fuel in our campuses again comes from this
+repurposed biowaste. So, we're incredibly conscious and this is a journey we've been on for the
+last 15 years, and it only strengthens every year. As we move forward. You know, I certainly
+cannot comment on new acquisitions, but I want you to rest assured that we continue to look for
+opportunities that make strategic sense that either give us new market access or help enhance
+the capability that we have in a particular market. We are, you know, as you know, the government
+has announced publicly that over the next 75 days is a free booster dose and we will booster dose
+certainly in India and we will continue to encourage our employees to get that taken care of. And
+I want you to be rest assured that we will certainly explore the idea of a hybrid AGM next year, If
+we do this in person so that we can be much more inclusive and give the opportunity for people
+like yourself who may not be able to travel to Bangalore. Alka, thank you for your questions and
+for your recognition on our governance practices as well.
+Thierry, do you want to comment on the skilling and the attrition and sort of what we are doing on
+that?
+Thierry:
+Yeah, you're absolutely right that you know attrition is being a reality for pretty much every
+company in our industry. Given the high demand driven from digital transformation and you know,
+development of new operating model. Across industries, you know the demand for talent is such
+in every country is, and in particular in India, that it has created a, you know, a certain volume
+acceleration of attrition. It's not the biggest ever. We have a known or in different period of our
+industry, picks of attrition and there's, you know, are you know? Uh, not, uh, Absolutely not in
+common. Uh, we have been managing attrition pretty well over the last quarters. It has, uh,
+moderated, and then started to slow down two quarters ago, and I think the trend is comforting,
+although we stay very focused on it, uh, as you know, talent is our asset. It's you know it's all we
+have really.
+It's all about talent and so you know, obviously actions in order to attract talent but also retain
+talent and grow talent are incredibly strategic for us. We are working on it. It starts obviously with,
+you know, interesting job, True career opportunity, Opportunity to learn new technology,
+Opportunity to be exposed to new markets to new clients and really grow inside Wipro. It is
+obviously including financial aspects but also a lot of aspects around. You know how to create a
+sense of community? A sense of belonging, the unique sense of purpose of Wipro is certainly
+helping us. Uh, to create, you know more, you know cohesion inside our organization and helps
+us moderate the level of attrition.
+But you know, we stay very focused and will continue to make sure that our people see their future
+at Wipro more than anywhere else. It's a reality as well that as we continue to grow, as you know,
+this industry continues to be exposed to high demand. The demand for talent will continue to
+increase and you know, fortunately, the good news is that the potential of talent in India is quite
+exceptional. It's the best in the whole world. And you know, we continue to realize that you know
+when we are welcoming talent freshers. So, coming straight off universities that we can grow, you
+know we, we can really develop outstanding talents. This year at Wipro, we will go for the most
+ambitious plan of acquisition of freshers, you know, and that will certainly help us to continue to
+develop the talents that we will need for the future. Back to you Rishad.
+Sanaulla Khan:
+Yeah, thank you. Uh Rishad. Jatin and Thierry. I now request the next set of five shareholders
+starting with Bharat Narawed to come onto the screen. Switch on your mic and ask. I can't hear
+you. Your mic is can you switch on your mic please? OK, I now request Ashit Kumar Pathak to
+come onto the screen. Yes, Sir, we can see you Mr. Pathak.
+Ashit Kumar Pathak :
+Yes, yes. Very good morning. Respected founder chairman Mr. Aim H Premji. Present chairman
+Mr. Rashid Premji. CEO MD Mr. Thierry Delaporte and Board of Directors company Secretary
+and Good Evening overseas members, joining at 76th AGM of Wipro Limited. My name is Ashit
+Kumar Pathak joining from Dominam, Kolkata, my esteemed gratitude to company Secretary Mr.
+Sanaulla Khan for sending me the notice of the annual report by e-mail very well in advance and
+allow me to speak. Also, my esteemed gratitude to secretarial department for nicely conducting
+site verifications and continuous touch with member Speaker. Excellent secretarial service. Sir
+my only request for sending the hard copy of annual report before AGM for better to read in lieu
+of screen. This is my small request. Excellent and transparent representations by respected
+chairman and CEO MD. I have noted all the very valuable points. That is focused on customer
+stakeholders. Capitalized growth opportunity, $10 billion marks revenue, industry organized and
+also market organized and future road map and also ECG framework. I have already casted for
+all the four resolutions mentioned in the notice. Sir, I have brief views which I like to share.
+Financial performance of Financial Year 22 is excellent, excellent and $10 billion marks revenue
+financial year 22 and IT services revenue $10.4 billion. EPS also gone up 22.35 against 19.11
+and market capitalization 221 lakhs crore and book value is 119.39 and also 18 point 7718.7 and
+sale price yesterday 409.99 excellent management services. I congratulate my company's
+management team also in respect to dividend and also buyback. Sir regarding cost control, what
+steps my company taking. It mentioned IT services revenue increased by 29.1 percent but
+operating margin 17.7 against 20.3? And also, Sir uh, cost of revenue is increased by 31.3% and
+selling and market expenditure expense 32.7. If possible, throw some highlights.
+In mentioned acquisition of CAPCO is a large deal and achieve double digit growth. Financial
+Year 22. Also seeks acquisition also incurred and CV dollar 2.3 billion mentioned. But, uh, the
+acquisition for the prospective for acquisition CS Group and Rising rupees 44,600 and 22 million
+in mention? If so possible, prospective highlights where it mentioned by companies’ liquidity and
+capital requirements affected by many factors, normal ongoing operations, and some which arise
+from uncertainties, related global economics and market we target from our service. Also, debt
+reduction policy. The debt is 1,51,696 million against 83,332 million previous year a:nd date equity
+ratio is 0.23 against 0.15. Also, free cash flow to net income reduced to 17%.
+Sanaulla Khan:
+Mr. Pathak, in the interest of time. I request you to keep your questions brief please. In the interest
+of time can you please be brief in your question.
+Ashit Kumar Pathak:
+OK Sir, OK Sir. In the Capex program, next years building Virtual Lab where metaverse widely
+regarded as the next phase of Internet. But it is mentioned we will be worth of dollar 1.5 trillion by
+2030. And said in the in Commercial Industries Ministry had inserted a new rule in Sage Under
+this 50% of employees can be WFH mode. So, if any positive impact in my, in our business
+operation, if possible, throw some highlights. Sir Capex program next to three years where it
+mentioned increased demand on hyper personalized production and services. Next take data and
+AI, mixed reality and digital engineering blockchain, multi cloud and edge computing, mostly cyber
+securities, where US support several major cyber-attacks last year and also a big demand in
+domestic market. If possible, throw some highlights about Capex program in cyber security. Also
+finally my company's presence in 66 countries mentions and Americas and UK are the large key
+focus market. But Sir current financial year global economy is under stress. US retail inflation is
+9.1% in June. Also, Americans to dig deeper to pay in higher inflation and it may, the Federal
+Reserve may hike another 75 basis points in percent to battle inflation. So possible throw some
+highlights. Doing business in global markets.
+Also, Indian Rupees depreciation is better than other emerging economy. So possible throw some
+highlights about ISD business verticals. Because that is comparatively down 18.1% and that
+should matter. My previous speaker also mentioned I do not repeat this.
+Thank you thanking you Sir.
+Sanaulla Khan:
+I now request the next speaker shareholder Bindu Satish Chandra. Ms. Bindu?
+Bindu:
+Good morning, respected chairman. I'm Bindu Chandra, a proud shareholder of Wipro and a
+member of Millennium Mams Bangalore chapter. Congratulations, Sir, we are very proud of Mr.
+Azim Premji, who has created a large philanthropic ecosystem. What are your main focus areas
+in philanthropy? We would also like to know the female to male workforce ratio in your company
+and on the board. We are also keen to know why we can't have more female directors in the
+company.
+Sir we haven't had the opportunity of you address our forum last year. This time we would like to
+invite you to our Millennium Mam's Investment conclave in November. We would be grateful if we
+could learn more from you in person. Thank you, Sir.
+Sanaulla Khan:
+Thank you thank you, Ms. Bindu. I now request Mr. Shashank Shekhar and go ahead with your
+question.
+Mr. Shashank Shekhar:
+OK, so I would first like to thank all the board directors and respected chairman to sharing the
+growth plans and the future plans. I think most of my questions have been shared with my fellow
+shareholders so I'll just be quick. My question is basically in the crypto space right now so we
+have no standard architecture we are using in India. So what will be the plan if we are going to
+enter into crypto space where three or any blockchain technologies? Yeah, basically this is the
+question, and I mean basically what projects we will be targeting in future to take part in this
+space, so we will have something by 2025.
+Sanaulla Khan:
+Thank you, thank you Mr. Shashank. I now request Mansi Bihani to come onto the screen and
+ask the question.
+Mansi Bihani:
+Good morning, respected chairman and members of the board. I'm Mansi Bihani, a member of
+Millennium Mam's Bangalore chapter and a shareholder of the company. My question to you is
+the only way to grow in your industry is to acquire, but it comes at a high cost. So, considering
+there is demand, how will you manage to sustain and deliver? So, also costs are going up because
+of inflation. The client costs are going up too since IT is a discretionary spend and there is a
+slowdown all over the world. How would you tackle this slowdown? Thank you.
+Sanaulla Khan:
+Thank you, Miss Mansi, I now request the management team to respond to the questions already
+asked while we get the other shareholders on board, in the meantime, thank you.
+Rishad Premji:
+Thank you, Mr. Sana. Thank you to all of you for your questions. Mr. Pathak. We had lots of
+questions. I'll try and answer as many of them as I can and that I was able to capture. Thank you
+for your recognition of our excellent secretarial services. Thank you also for your recognition of
+our excellent performance. As I, as we mentioned and we talked about that, our focus has been
+on investing in the company over the last couple of years, we've invested significantly on our sales
+organization. We've invested strategically and smartly through MNA as well. But we remain
+equally focused about how do we manage cost in our business. We manage costs through the
+pyramid and there's been a very purposeful focus on how do we integrate more freshers into our
+business.
+As you will know, as we've shared publicly, you know two years ago we hired about 10,000
+freshers from campus last year in financial year 2122 we hired 20,000 and our objective is to
+nearly double that. As we move into financial year 22-23 as well. So please be rest assured that
+we're very focused on how do we manage cost and cost is an important ingredient of our business
+model. As you would appreciate. You had some questions on Capex, which I will let adequately,
+which I will let Jatin answer in a second.
+We today work in a hybrid work model. We are our offices across the world are open three days
+a week on Monday, Wednesday and Friday and we are strongly encouraging our employees to
+come in and some people choose to come in at the moment and some people don't. We are also
+working closely with government and with the industry association to ensure that we can work on
+a continuous basis in a hybrid model of work, which we think allows us to leverage talent better
+to be more inclusive, as I mentioned, both with people who live in smaller towns and cities, but
+women who want flexibility as well as people with disabilities. So, we will work and hope to
+continue working in a hybrid model of work. We remain focused on many of the new age
+technologies that you talked about, and cybersecurity is certainly an incredibly important practice
+for us that we are seeing a huge amount of relevance for, for exactly the reasons that you
+mentioned where the world is getting much more digitally connected. It's a sizeable scaled
+practice for us. We've acquired recently an asset which is agile, which brings us some
+cybersecurity consulting capabilities in that space. So, it's an important area of focus for us as a
+company. Jatin, do you want to touch on some of the other questions I may not have this question
+set.
+Jatin Dalal:
+So, Mr. Pathak, I'll try and cover 3 questions specifically that you posted. One was on debt to
+equity ratio. As you know, we completed our largest acquisition ever. In April 21 and we funded
+half of that roughly through our maiden U.S. dollar denominated bond offering. An offering that
+was received very well. I'm very happy to share that the cost of funds that we were able to lock
+in, in Q1 of last year, has been a very wise decision given the interest rate hike since then. So
+that has resulted in the increase in the debt that you see in the balance sheet. That's the first
+question that I would like to answer. Your second question on Capex, as some of you know, we
+completed a large Capex cycle for our investments in our development centers in India just before
+pandemic. So, in fact we are very well poised as we have grown, to leverage the investments that
+we completed by March 20. So, we do not anticipate a large Capex in India. But we will remain
+invested in creating experience centers, innovation centers, digital pods, cloud capability, cloud
+migration studios in our developed markets for our customers and that would remain the focus of
+our Capex. The last, the third question was on how do we see the investments in agile and CAS
+and both are very strategic. Specifically, as Thierry, and Rishad both mentioned; our focus one
+on cyber security, which is represented in agile and focus on domain, which is reflected in cash.
+So, we are very excited about those investments and we hope that in 2023 we will see an excellent
+performance from that.
+Rishad Premji:
+Thanks Bindu, thank you for your questions. You know, the comment on philanthropy. I just, you
+know, as we mentioned, both Thierry and I mentioned in our opening comments, a sense of
+community is a very integral and important part of the company.
+I'll talk briefly about what the Wipro Foundation does. Most of the efforts of the Wipro Foundation
+are focused in urban settings around locations in which we exist as a company. We do a lot of
+work around education, so from rebuilding government schools to enhancing the capacity of
+Government schools in urban settings to work around healthcare, to work around restoration.
+As I shared the example of lakes to natural disasters and then we also do a fair amount of work
+overseas where we work in STEM education, so both in the US and in the UK, where we work
+with STEM teachers to make them and enhance their capacity to be better STEM teachers so
+they can produce better STEM students. So, we're working with the consortium of seven
+universities in the US. We've had over 450 teachers graduated. It’s a 2 year program in the US
+over the last many years.
+And we recently in the last three or four years began this program in the UK as well, so that's the
+effort of the Wipro Foundation and the Azim Premji Foundation, which is a shareholder like
+yourself of Wipro, as well, has a much broader mandate there. The fundamental focus at the more
+is on education and working in the poorest, most remote parts of India, working to enhance
+essentially the capacity of the teachers so they can produce. Better students when we work
+through three means of intervention, we work through efforts on the field where we have about
+1500 people on the ground. We work through the efforts of grant making and we work through
+the efforts of a university which offers programs, both Masters and Undergraduate programs, with
+a very strong social orientation and social bent of mind. Over the last few years, we've become a
+strong grant making organization, so we offer grants in various different areas and of vulnerability
+from people with disabilities to domestic violence, to small and marginal farmers, to adolescent
+girls etc. And recently in the last 6 to 8 months we've had a very strong thrust on healthcare as
+well as on livelihoods. To your point on both building female representation in the organization,
+I've already talked about, that I think it's incredibly important. You know where 36.1% overall for
+the company. Our joining ratio, especially from campus, are 50- 50. We're very purposeful and
+focused about how do we retain people and so our running program so we can encourage and
+enhance the number of women that stay on with us and don't leave when they're making family
+choices, but have the flexibility of making that choice as well as continuing working in the
+organization. And, you know, I think our board is quite diverse, but we can remain focused on
+that. You know, we have 4 directors from overseas. We have two women directors on our board
+of the six independent directors, so we have, I think a fair amount of diversity and representation
+on our board, but we remain purposeful on that. And thank you. Thank you for your comments on
+that. Shashank, you know I don't want to comment specifically on crypto, but I just want to give
+you the comfort that new age technologies is an incredibly, incredibly important area for focus for
+us. And so, we drive this both through our mainstream organization, but also through our CTO
+function, which is purposefully focused on looking at technologies that can pay off commercially
+on scale for the company in the long term. So, whether it be Web 3.0, the metaverse, crypto, 5G,
+etc. These are areas that we are investing in and investing in for the future. Uh, you know, for
+opportunities as we work with customers, we've just, for example, formalized the Metaverse
+practice within the company as we see more and more opportunities emerging in that space.
+Mansi your question, you know, I just want to be clear, we don't acquire companies for growth.
+We it's not a volume play for us. We acquire companies to help us build strategic differentiation
+in the company, so whether it's helping bring a new capability into the company and Thierry talked
+specifically about, you know some of our acquisitions and CAPCO and CAS Group for example,
+which gave us huge domain and consultative capability in two distinct areas of media and
+communications and banking and financial services. And also, we do it for market access to help
+us open new geographies, where we're perhaps underrepresented or not large enough.
+So, it is not a compensation for growth. It is an enhancement to growth, strategically by bringing
+in new differentiators and new capabilities.
+And you know your point on inflation and technology being a discretionary spend, you know it's
+interesting in some ways that the technology services industry is, at some level recession proof,
+right? Because in times are good people are spending on the discretionary side where they're
+spending on new initiatives and transforming their businesses and serving their customers in this
+new digital first agenda. And when times are not so good, they're focused on reducing costs and
+transforming their cost side of their business. So, you know, at some level, both elements work
+well when things don't work well. When like what happened in 2008 when decision making stops
+when customers are not making decisions either way. But as long as customers are making
+decisions, the IT services industry and we feel well placed to participate both on the cost side as
+well as on the revenue side. So, thanks. So now, do you want to move to the next set?
+Sanaulla Khan:
+Yeah, thank you. Thank you Rishad, I now request the next set of shareholders starting with Mr.
+Manoj Kumar Gupta to come on to the screen and ask the question please. Mr. Manoj Kumar
+Gupta.
+Manoj Kumar Gupta:
+Hello, good morning. Can you hear me?
+Sanaulla Khan:
+Yes, please go ahead.
+Manoj Kumar Gupta:
+Yeah, can you hear me? Good morning Respected Chairman board of Directors fellow
+shareholders my name is Manoj Kumar Gupta. I'm equity seller of Wipro Limited. I'm attending
+this meeting from my residence Kolkata. And thanks to your company secretary and his team,
+especially Mr. Sowrabh, to help us to join this meeting through video. And I'm a great admirer of
+your father, Mr. Azim Premji.
+I had met him once in my life in 2005 during a CIF conference in Calcutta, and I said Namaskar.
+His birthday is on 24th July and I wish to God for his healthy and prosperous safe, long life. So
+now I will take two or three minutes for CSR. You are doing a wonderful job for in under the CSR
+policy to serve the community and the society. But I request you to do something in this part of
+the country in West Bengal, Orissa, Assam to serve the community and society under your CSR
+umbrella. And Sir, is there any impact will come through Russia and Ukraine war on our company?
+Direct or indirect? And Sir, try to increase the number of female directors, either whole time
+director or independent directors. Your business runs in 66 countries, so what's the position in
+US, Russia, Canada and Britain. And Sir, have you any plan to launch some Wipro campus in
+Northeast like Tripura, Assam, Meghalaya. These are fast growing states now. And in
+Chhattisgarh people are coming to Calcutta to take part in New Year Wipro campus. Why are you
+not starting a Wipro campus in Chhattisgarh, Raipur? Chhattisgarh is developed.
+Now I've seen the face of the Azim Premji, I'm a great admirer of him. Sir consumer products and
+inflation has gone up. So how you face the challenge of inflation in the consumer products?
+Because everything raw material prices has gone up by 20% to 30%. How you face that challenge
+due to high inflation.
+And healthcare products, How much your market share in your healthcare products like MRI, CT
+scan and cataract? How much your market share? I rushed to hospital. I've called several times
+to your people but they do not turn up to meet us. So that we have gone to Fuji and Philips. And
+Sir, why are you not approaching to build the government portals like as income tax has gone to
+Infosys, passport gone to TCS. So you should have bid to get the government business. And
+have you any plan to reduce the number of subsidiaries? The number of subsidiaries is near
+about 60-76, so have you any plan to reduce the number of subsidiaries? What will what is?
+What's your vision for 2027? If our economy will cross $5 trillion, So what will be your and thanks
+for your COVID hospital last but not least, but last year you have forget as to reward on the eve
+of 75th year. So how you will reward to the investors and the employees. Thank you, Sir.
+Sanaulla Khan:
+Thank you. Thank you, Sir. I know request Mr. Sunil Jaiswal to come on to the screen and ask
+his question. Mr. Sunil. Please go ahead.
+Sunil Jaiswal:
+When will we reach the market cap of TCS and Infosys? I am doing B.Tech, from Shri Guru Gram
+Sahab university, Punjab. No big companies come in my university for placement, so I request
+you to please include our university also in campus placement.
+Sanaulla Khan:
+Thank you. Thank you for your question, Mr. Sunil. I now request Mr. Ramesh Shankar Golla. Mr.
+Ramesh Shankar Golla. Can you please switch on your microphone and your camera and ask
+the question please? Mr. Ramesh? Mr. Ramesh, we are unable to hear you. I now request Mr.
+Bharat to come on to the screen and ask his question Mr. Bharat. Bharath are you there?
+Bharat:
+Hello
+Sanaulla Khan:
+Yes Mr. Bharath. Please ask.
+Bharat:
+Am I audible Sir?
+Sanaulla Khan:
+Yes, please go ahead.
+Bharat:
+Just a minute I'm connecting with the microphones. Good morning Sir. Hello.
+Sanaulla Khan:
+Yes, go ahead Mr. Bharat. We are able to hear you.
+Bharat : Sir, very much good morning entire board of directors. I'm calling from Hyderabad. First
+of all, I'm happy to see our entire team, Sir, I'm congratulating the entire world for a wonderful
+performance in the financial year Sir. First of all, I'm thank my CEO, Sir, under the leadership, my
+company is growing fabulously Sir. I'm very happy, Sir, for giving a highest pay in India says he
+deserves that. Salaries are because under his leadership, share price and the dividend part is
+good Sir. So, he deserves for the highest pay. Sir what is the future plan for coming year Sir.
+And respected chairman since past, we are asking for the bonus, Sir, we deserve a bonus, Sir,
+because past four years there is no bonus Sir. And in the 75 celebration also requested for the
+bonus, but we are not deserved Sir. Yeah, even in the Platinum Jubilee also. At least this financial
+year we expect a bonus from the management, Sir. That is the only request. I thank Mr. Sanaulla
+Khan for this. The way he outlook for us 24x7 Sir. He is always accessible for us Sir and his entire
+team. And thanks for arranging a wonderful visit. Sir, once again chairman and entire board, be
+happy. Be safe. Be safe, Be Healthy. My best wishes to enter board of directors. Thank you very
+much.
+Sanaulla Khan:
+Thank you Mr. Bharat. I now request Dheeraj Jhamnani to come on to the screen and ask his
+question. Mr. Dheeraj. Mr. Dheeraj are you available? Yeah, please go ahead with your question.
+Ramesh Shankar Golla:
+Hello, I'm in the line. Ramesh Shankar Golla.
+Sanaulla Khan:
+Yeah, please go ahead with your question.
+Ramesh Shankar Golla:
+Hello ok, can I speak?
+Sanaulla Khan: Yeah, go ahead Mr. Ramesh.
+Ramesh Shankar Golla:
+OK thank you. Thank you, Sir. Thank you very much and a very good morning.
+To all, Sir, Sir. Hamara chairman Sir. Uh. Very good person Sir.
+All aspects is very fine, Sir.
+Actually, Sir. At Present how many clients to added Sir new clients, new clients to Wipro and is a
+Corporate social responsibility is taking very much good, Sir. Our CEO is very good, Sir. All board
+of directors too. Thanks to you and the financial performance so good Sir. Very appreciating to all
+Sir. Sir, I wish to Mysore and Bangalore Campuses. Please request sir. Advance wishes to Mr.
+Azim Premji, Birthday wishes.
+And Thanks to you all sir and have a good day. And lastly one more question sir, Expecting bonus
+sir, please and raise the dividend sir. Thankyou. From Ramesh Shankar Golla, Hyderabad Sir.
+Sanaulla Khan:
+Thank you. So, this is the last set of shareholders, we have completed. One or two shareholders
+could not join, but we will close the shareholder question session here and I request the
+management team to respond to the last set of questions please. Thank you.
+Rishad Premji:
+OK. Thank you, uh, thank you Mr. Gupta. Thank you for your admiration for Mr. Premji. He
+appreciates it. Thank you, uh, for your comments on CSR, uh, you know, as you know we have
+a we have a campus as Wipro in Kolkata. It's of size and scale and we continue to invest in that
+campus. We have no plans to open any new campus at the moment given the fact that we have
+capacity in our existing campuses as well as with the hybrid model which we hope will be a reality,
+will also give us an option to be able to incorporate and include people from different locations
+without having to add new campuses. So, there's no plan at the moment of having a new campus.
+There has been no direct impact of the war on our business. We have no people in Russia or in
+Ukraine and we do no business with clients in Russia or in Ukraine. But certainly the rub off effect
+of our clients that do business in those markets. And that's why both Thierry and I alluded to the
+element of uncertainty in the environment with the war. But we see no direct impact of the war in
+our business, in terms of our presence there or customers that work in that market. I've already
+addressed the point on female director, so I won't repeat that.
+Our largest market today in the world is the US market. We do about over 55% of revenue in that
+market. The UK would be our second largest market and we you know we have a sizable and
+growing presence in Canada. Both the US, UK and Canada are incredibly important and strategic
+markets for us. You know this is a shareholder meeting for Wipro Limited, which is the IT services
+company, so I won't comment on the consumer products or the healthcare business here. And
+you can connect separately and offline for that. I also want you to be assured that we do
+participate in government business as and where it makes sense for us as you can appreciate
+some of these deals are large and complex and we have to ensure that we have the ability to
+deliver these impactfully before we participate. But we participate selectively, but we do participate
+in government tenders and opportunities. And you know, Jatin do you want to quickly talk on the
+plan to reduce subsidiaries.
+Jatin Dalal:
+Yes, uh, you know uh, Mr. Manoj, we continue to reduce subsidiaries. The reason you are seeing
+the increase is because of the acquisitions. Uh, typically when you acquire a new business, it
+comes with subsidiaries that they have across the globe. So, you are seeing an increase, but
+every quarter we reduce and reduce the subsidiary and the complexity of the structure. Thank
+you.
+Rishad Premji:
+Thank you, I also already talked about the vision for 2027, so I won't repeat that as well. Uh, Mr.
+Sunil, thank you for your comments. You know our endeavor is to outperform competition. Like
+every person who plays in the space and that continues to remain our endeavor. So we're giving
+it our best shot so you know, and you know we don't control market caps, but certainly driving and
+performing a best among our, among our peers is a strong, continuous focus endeavor of the
+company. We have no plans to open a new University campus but you can participate as a
+campus student to apply to a job at Wipro. We have a standard test that's available across the
+country. Anybody can participate irrespective of the university you go to. And if you clear that
+exam, you certainly have an opportunity to have a job at Wipro. So, I would encourage you to do
+that and if you need any more information, you can certainly only reach out to our company
+Secretary, Mr. Sanaulla Khan.
+Uh, Mr. Bharat. Appreciate your comments on the, the recognition for Thierry and for all the efforts
+he and the management team have driven over the last couple of years and we will take your
+comment into consideration and keep that in our mind on bonus the same for you Mr. Ramesh.
+You talked about the bonus and again thank you very much for all your appreciation on what
+we've done on CSR and Thierry and the leadership's effort as well as your comment on the bonus.
+Certainly, you can also reach out to Mr. Sana on any potential possible visit to our campus in
+Bangalore or in Mysore and Jatin, do you want to quickly comment on how many new clients we
+added last year?
+Jatin Dalal:
+We added 428 new customers in FY22.
+Rishad Premji:
+Super. Good, thank you very much. Great so you know, all the questions that is all the questions
+of the people that we were able to connect with and I'm sorry some of you were not able to connect
+at the last minute. All the items of business as per the notice of the 76th annual general meeting
+have been taken up. I now declare the proceedings of the annual general meeting as completed.
+As mentioned earlier, the Insta poll E-voting facility will continue to be available for 30 minutes
+after this meeting and on behalf of the Board of Directors and the management of Wipro, I convey
+our sincere thanks to all the Members for attending and participating in this meeting, please take
+care of yourselves, stay healthy and stay safe and thank you very much for joining us this morning.
+Thank you.

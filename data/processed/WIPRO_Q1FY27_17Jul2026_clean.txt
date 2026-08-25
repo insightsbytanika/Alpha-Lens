@@ -1,0 +1,557 @@
+July 17, 2026
+The Manager- Listing
+National Stock Exchange of India Limited
+(NSE: WIPRO)
+The Manager- Listing
+BSE Limited
+(BSE: 507685)
+The Market Operations
+NYSE, New York
+(NYSE: WIT)
+Dear Sir/Madam,
+Sub: Transcript of the Analyst / Institutional Investor Meeting
+Please find attached herewith copy of the transcript of the Analyst / Institutional Investor
+Meeting held on July 16, 2026. The audio recording of the same is available at
+https://www.wipro.com/investors/quarterly-results/.
+Thanking You,
+For Wipro Limited
+M Sanaulla Khan
+Company Secretary
+ENCL: As above
+“Wipro Limited
+Q1 FY '27 Earnings Conference Call”
+July 16, 2026
+MANAGEMENT: MR. SRINI PALLIA – CHIEF EXECUTIVE OFFICER AND
+MANAGING DIRECTOR – WIPRO LIMITED
+MS. APARNA IYER – CHIEF FINANCIAL OFFICER –
+WIPRO LIMITED
+MR. SAURABH GOVIL – CHIEF HUMAN RESOURCES
+OFFICER – WIPRO LIMITED
+MR. HARI SHETTY – CHIEF STRATEGIST AND
+TECHNOLOGY OFFICER – WIPRO LIMITED
+MR. ABHISHEK JAIN – VICE PRESIDENT, CORPORATE
+TREASURER AND HEAD, INVESTOR RELATIONS –
+WIPRO LIMITED
+
+Wipro Limited
+July 16, 2026
+Moderator: Ladies and gentlemen, good day and welcome to Wipro Limited Q1 FY27 Earnings Conference
+Call. As a reminder, all participant lines will be in the listen-only mode and there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need assistance
+during the conference call, please signal an operator by pressing star and then zero on your
+touchtone phone. Please note that this conference is being recorded and the duration for today's
+call will be for 45 minutes.
+I now hand the conference over to Mr. Abhishek Jain, Vice President, Corporate Treasurer and
+Head of Investor Relations. Thank you and over to you.
+Abhishek Jain: Thank you, Yashashri. Good evening and warm welcome to our Q1 FY27 earnings call. We will
+begin the call with the business highlights and overview by Srinivas Pallia, our Chief Executive
+Officer and Managing Director, followed by updates on financial overview by our CFO, Aparna
+Iyer. We also have our CHRO, Saurabh Govil, and the Chief Strategist and Technology Officer,
+Hari Shetty, on this call. Afterwards, the operator will open the bridge for Q&A with our
+management team. Before Srini starts, let me draw your attention to the fact that during this call,
+we may make certain forward-looking statements within the meaning of Private Securities
+Litigation Reform Act 1995.
+These statements are based on management's current expectations and are associated with
+uncertainties and risks, which may cause the actual results to differ materially from those
+expected. The uncertainties and risk factors are explained in our detailed filings with the SEC.
+Wipro does not undertake any obligation to update the forward-looking statements to reflect
+events and circumstances after the date of filing. The conference call will be archived and a
+transcript will be available on our website. With that, I would like to turn over the call to Srini.
+Srini Pallia: Thank you, Abhishek. Good evening, everyone. Thank you for joining us today. Let me start
+with a quick view of the broader market. The macro environment remains resilient, but
+uncertainty continues to shape decision making. Technology investment has not slowed. They
+have become more focused. Clients continue to invest in AI, data, cloud, modernization,
+cybersecurity, and productivity-led transformation.
+Spending today is measured with more rigor and longer decision cycles. The AI disruption is
+expanding the market, not shrinking it. At the same time, conversations around AI are becoming
+more intense. As the tokenization landscape evolves, clients are focused on net productivity and
+require a tighter linkage between investment and outcomes. Despite selective client spending,
+our pipeline remains healthy. We continue to see strong engagement across our markets and
+industries. We are executing a consulting-led AI-powered strategy to help our clients reimagine
+and redesign their enterprise around intelligence.
+With that, I'll now share our financial performance. All numbers are in constant currency. Our
+IT services revenue for quarter one was $2.61 billion, up 0.9% year-on-year and down 1.2%
+
+Wipro Limited
+July 16, 2026
+sequentially. Our IT services margin was 16%, a 1.2% decline year-on-year. In our markets,
+Americas remain soft, declining both sequentially and on a year-on-year basis.
+We continue to see momentum in technology and communication sector and some good wins in
+the consumer sector. As we move into quarter two, we're also seeing momentum build up in
+BFSI. APMEA revenue grew sequentially and on a year-on-year basis.
+We are encouraged by the momentum we continue to see in this market, particularly in the BFSI
+and consumer sectors. Our Europe SMU grew year-on-year with strong traction in BFSI,
+technology and communication. However, energy, manufacturing and resources remains soft.
+We see a healthy pipeline across various regions in Europe such as UK and Nordics. During the
+quarter, order booking totaled $3.4 billion and large deal bookings totaled $1.6 billion. Our order
+booking includes 13 large deals this quarter.
+Let me highlight two of these deal wins. A leading global animal healthcare provider selected
+us to modernize and manage digital operations across their global network of hospitals and
+clinics. Using Wipro Intelligence, we will help transform service operations, improve
+productivity and enable predictive issue prevention.
+We are helping the client create a more autonomous technology environment. The goal is to
+improve experiences for clinical teams, employees and customers, while increasing operational
+rigor. In our second deal win, a leading European specialty chemicals company chose us to run
+and transform their complex application landscape.
+Leveraging AI-led capabilities through WINGS, part of our Wipro Intelligence -- excuse me, we
+will automate operations, improve delivery efficiency and provide greater visibility through an
+AI-powered digital command center. The outcome here will be elevated service quality, higher
+productivity and lower operating costs.
+Across markets and industries, we are helping clients reimagine operations by embedding AI at
+the core of their business, spanning both physical and digital worlds. In this context, let me share
+some examples of the work we are already doing with clients. One, for a global industrial
+manufacturer, we are reimagining finance and procurement through our WINGS platform,
+combining Agentic AI, intelligent orchestration, real-time analytics and AI-powered knowledge
+management to create a highly automated operating model.
+In my second example, with one of our healthcare clients, we are deploying multi-agent AI
+systems, reducing provider enrollment processing times up to 70% while automating their
+manual effort up to 90%. Three, for a leading global technology company, we are improving the
+quality, reasoning and safety of their next-generation AI models through expert-led data creation
+and AI evaluations. This is delivering significant gains in model accuracy and reasoning
+capability.
+With a life sciences client, our WINGS platform is transforming pharma-covigilance from a
+document-centric, labor-intensive process into an AI-native safety operation. This is powered
+
+Wipro Limited
+July 16, 2026
+by autonomous agents and regulatory-grade workflows. For a global energy leader, we are
+defining their enterprise robotics strategy and roadmap for physical AI-enabled autonomous
+operations.
+Collectively, these engagements demonstrate the breadth of Wipro's AI capabilities from
+strategy and advisory to domain-specific solutions. And the wins that I talked about also reflect
+a broader shift in enterprise priorities. In fact, interestingly today, clients are looking beyond
+technology modernization alone.
+The focus is moving towards AI-enabled operating models that improve service quality, reduce
+operational complexity, strengthen resilience and unlock sustainable productivity gains. And
+this is where we are well positioned.
+Let me now share a few additional updates. During the quarter, we closed the acquisition of
+Mindsprint and quickly transitioned from integration planning to execution. While we continue
+to deepen our relationship with Olam Group, we have also started to see good opportunities in
+the food and agriculture sector.
+You may recall last quarter, we launched AI-native business and platforms unit. Since then, we
+have moved decisively from strategy to execution. We are building multiple AI-powered
+industry platforms, developing new AI-native business models and forging strong partnerships
+across our AI ecosystem.
+We have laid the foundation, strengthened the team with specialized AI-native leadership talent
+and defined our roadmap to establish clear priorities for the next phase of growth. As you would
+have been aware, we recently launched Applied AI Center of Excellence for Claude models
+powered by Anthropic.
+This strengthens our ability to help clients rapidly adopt frontier AI capabilities while
+maintaining enterprise-grade controls and governance. Capco, our BFSI consulting arm, won
+the AI Governance and Risk Excellence Award at the OpenAI Partner Summit. And our UK AI
+Lab won the OpenAI Codex Hackathon for an AI-powered banking solution.
+With that, let me shift focus to the next quarter. In quarter 2, we are guiding for a sequential
+growth of -1.5% to +0.5% in constant currency terms. As we continue to navigate macro
+uncertainty and geopolitical instability, our priority is to remain disciplined in execution, helping
+clients navigate complexity and creating sustainable value for all our stakeholders.
+With that, let me hand it over to Aparna to share financial performance in more detail. Thank
+you.
+Aparna Iyer: Thank you, Srini. Good evening, everybody and thank you for joining us. Let me share a quick
+update on the financial performance and then we can open up the Queue for questions. Our IT
+services revenues grew 0.9% year-on-year in constant currency while declining 1.2%
+sequentially. This is well within our guided range.
+
+Wipro Limited
+July 16, 2026
+Our operating margins for the quarter was 16%. We declined 1.2% year-on-year. The reasons
+are because of the incremental impact of salary increase, ramp up of large deals won earlier and
+our ongoing investments in AI. This was partially offset by the rupee depreciation benefits and
+the other operational efficiencies.
+We remain focused on returning back to our previously stated narrow band. Net income for the
+quarter was INR33.6 billion. Our EPS for the quarter was INR3.2, both grew 0.6% year-on-year.
+Moving on to our SMU and sector performance, all the growth numbers that I will share will be
+on constant currency. Americas 1 was flattish year-on-year while declining 2.3% sequentially.
+Americas 2 declined 7.3% year-on-year and 2.5% decline sequentially. Europe grew 6% on a
+year-on-year basis while declining 0.9% sequentially. APMEA grew 13.5% on a year-on-year
+basis and grew 4.4% sequentially.
+Moving on to sector performance, BFSI grew 2.6% on a year-on-year basis while declining 1.2%
+sequentially. Consumer grew 1.9% year-on-year and 0.7% growth sequentially. Technology and
+communication grew 10.8% on a year-on-year basis and grew 0.2% sequentially. Health
+declined 2.6% sequentially and 3.0% year-on-year. EMR also declined 3.6% sequentially and
+8.9% year-on-year.
+Our operating cash flows stood at 98% of net income for quarter 1. Our gross cash including
+investments was at $4.3 billion. Accounting yield for the average investments held in India was
+stable at 7.2%. Our ETR was at 22.6% for quarter 1 versus 21.6% in the same time last year.
+In our terms of the guidance, to reiterate what was stated by Srini, our IT services business
+segment is expected to be in the range of $2.574 billion to $2.627 billion. This translates to a
+sequential guidance of -1.5% to +0.5% in constant currency terms.
+Lastly, in the recently concluded Board meeting, our Board of Directors have declared an interim
+dividend of INR2. Including this dividend, our payouts in the last 1 year, we would be returning
+in excess of $3 billion in terms of the cash back to shareholders.
+With this, we can open up for Q&A.
+Moderator: Thank you very much. We will now begin the question and answer session. We'll take our first
+question from the line of Ravi Menon from Axis Capital. Please go ahead.
+Ravi Menon: Hi, thank you for the opportunity. Little surprised that you have added head count despite, the
+guidance that implies sequential decline. Attrition still seems to be well under control.
+Utilization has also come off slightly quarter-on-quarter. So why add head count now when
+you're still looking at a decline in revenue next quarter?
+Aparna Iyer: Our head count also includes the people who joined us from the Mindsprint team, Ravi. If you
+exclude that, our head count has actually gone down quarter-on-quarter. And our guidance, of
+course, includes the revenues from Mindsprint completely in quarter 2.
+
+Wipro Limited
+July 16, 2026
+Srini Pallia: Just to add, outside of Mindsprint, the head count has actually gone down by 2,500 people.
+Aparna Iyer: 2,500 people, that's correct.
+Ravi Menon: Fine, thank you. And Srini, in BFSI, most of the peers seem to be doing well and you also spoke
+of how things seem to be looking up there. But this quarter then we had a decline. Is this a client-
+specific issue and, is this something that you expect to maybe hold us back a little bit in Q2 as
+well or do you think BFSI comes back to growth?
+Srini Pallia: Hi Ravi, Srini here. So as far as the BFSI sector is concerned, specifically for us, Ravi, if you
+have seen, we did see a year-on-year growth of 2.6% in constant terms. However, the sector
+declined 1.2% sequentially. Now, if I were to give a little bit of a color in terms of how the sector
+is performed, Europe and APMEA, Ravi, actually year-on-year we have seen a growth.
+In fact, Europe BFSI growth was led by ramp up of the large deals we had announced earlier.
+And if I were to look at APMEA, we continue to see very good traction with both in terms of
+ramp ups and also existing deals and the new deal wins that we have seen. I also want to call out
+that we see good momentum in the BFSI in Americas as well. So net-net, yes, I agree with your
+comment and having said that, we are also seeing good traction for us as well, Ravi.
+Ravi Menon: Thanks Srini, appreciate that. So we can look at this as maybe, a one-off client incident,
+something like that. Is there any cutback or -- did you lose out on any vendor consolidation?
+Could you comment on what caused the decline this quarter?
+Srini Pallia: So there are two aspects, Ravi. One is, clearly some of the large deals that we have won have
+taken a lot more time for us to scale, ramp up. I think now the clients are moving, that's the
+reason why I said BFSI Americas, because we have won a couple of deals out there, large deals
+out there, some of them are coming back.
+The second one is the nature of the demand. Discretionary spend has been slower and some of
+the decision making has been slower, but we think it will come back. One thing that we are
+seeing while, from our customer perspective in the BFSI sector, there are a couple of
+opportunities that we see, Ravi.
+One is on the cost optimization and vendor consolidation. That remains the key drivers for our
+clients, right? And, this is very similar to the commentary that we gave in the last few quarters.
+However, Ravi, what we are now seeing is that these savings are getting reinvested by some of
+our clients into AI capabilities. And that's where I think, the new transformation projects and
+discretionary spend will come back. That's how we see it, Ravi.
+Ravi Menon: Thank you, Srini. One last one from me. On AI, your couple of peers have announced very
+different strategies, one setting up a very large data centers, someone else is looking at a small
+capacity data center which they think, they will -- but they will own the entire hardware stack.
+Anything that you're thinking along those lines?
+
+Wipro Limited
+July 16, 2026
+Srini Pallia: So, Ravi, one is I think let's at a macro level, the way we see is that AI is a structural opportunity
+for us and for the industry in general, Ravi. Having said that, the success in AI, to be honest, is
+not just driven by models, right? For us, having the client context, understanding the domain and
+the industry aspect of it, understanding the process, right, and the priming the data for an AI
+implementation becomes very critical.
+And also, clients are looking at security and change management, organizational change
+management in this context. So that is where I would say that, the direction that AI is moving
+on. And for us, Ravi, very clearly we have pivoted to AI and in -- we are doing an AI-first
+approach and our consulting-led, AI-powered strategy is all about that.
+So when you are doing a run aspect of it, which is application management, infrastructure or
+process, we are doing with AI-first approach and we have clearly built a strong platform around
+WINGS, which we are gaining very good traction, which is our delivery platform.
+And the second thing, Ravi, obviously you would be, listening to a lot of commentary around
+that, the software development lifecycle, there's a dramatic improvement in productivity. Now,
+that's -- we have to have the context of -- if it's a pure play greenfield project, which is like a tool
+like, let's say Python, the productivity is significantly higher.
+But on the other end of the spectrum, it is a complex code and if you don't have the right, target
+environment, which is lot more legacy, deployment and production also becomes difficult. There
+the productivity, comes down significantly. And so that's how we see it. But for us, the biggest
+opportunity is all the new AI services that we are seeing in the market.
+Now we call that as Reimagine AI. Now, I think it's very important also, what we are trying to
+do, maybe I'll double click later, but we have clearly created the AI-native unit which I talked
+about, where we are building the industry and cross-industry platforms. In fact, some of the
+margin dilution that you talk -- the question that was asked, we are investing in this.
+I think it's very important for us to invest for the future. So that's number one, AI-native unit.
+Second, you know, we have the half a billion dollar Wipro Ventures and now we are very
+specifically, focusedly targeting those AI and data and, you know, security startups which will
+also enhance our overall Wipro Intelligence platform. Three, we invested in our Wipro
+Innovation Network.
+We actually launched 10 innovation networks for our clients and that's actually picking up, the
+clients are co-innovating with us in those innovation networks. And finally, you know,
+ecosystem partnering with the frontier AI companies. So this is how we are driving AI across
+our industries and each industry are different in terms of adoption, but everyone wants to be,
+you know, in the AI journey, Ravi.
+Ravi Menon: Srini, I'm very sorry, but I have one more thing. When you said that there's not much productivity
+benefit in the, you know, the old complex code. So then can we say that there is -- all of the
+
+Wipro Limited
+July 16, 2026
+investor concern about significant, you know, erosion in the existing book of business, can we
+say that this is really unfounded?
+Srini Pallia: So, the way I see it, Ravi, is that, I'm looking at for the industry and for Wipro, right? What are
+the -- like I said structural -- what are the structural opportunities? Today, if you look at the
+traction that we have on the Reimagine AI services, that's how I call the, you know, new AI
+services. One, AI advisory and change management. That's something that, you know, for
+example, Capco is leading it, OpenAI gave us an award around that.
+Second is, you know, data priming for AI, right? You know, if you don't have the right -- and
+enterprises are struggling with data, we have to be honest about that. Some enterprises have told
+us we've got too much of data, we don't know whether it's -- do we need all this data to get the
+AI right? Third is, you know, agent implementation and managing agents.
+Every organization is building tremendous number of agents. How do you deploy them? How
+do you orchestrate, deploy and manage them? And Ravi, you know, the tokenization, token
+economics, whatever you call it, it's going -- it's actually skyrocketing right now. So the --
+especially the CFOs are saying, you know, "Hey, you know, what's the -- what's my ROI? So do
+I use a high-end LLM for a particular process or a workflow? Do I use a, you know, open source
+model?"
+So that's a conversation that's going on. We having the deep tech, we're able to actually have
+that conversation with the client. So there are multiple new opportunities, whether it's ModelOps,
+you know, AI-DC is something that's picking up with an enterprises. You would have heard of
+Sovereign AI, so that's another one picking up. And finally, every client wants us to make their
+AI secure and, you know, responsible.
+So to me, net-net is a positive, you know, in terms of new services that are coming in. Yes, short
+term, SDLC life cycle will continue to bring in higher productivity and shorter development life
+cycle. But I just want to call out, even there, human -- it is going to be human plus AI always.
+Because in a software development life cycle, the business requirement, user stories, you need
+humans. At the same time, when you're deploying and a productivity, you know, and taking into
+production, you need human intervention. Of course, you know, AI can throw millions lines of
+code, but we need to make sure that code is optimized. So that's how I see it, Ravi.
+Ravi Menon: Thanks so much for the detailed explanation. Appreciate it. Thank you.
+Moderator: Thank you. Next question is from the line of Nitin Padmanabhan from Investec. Please go ahead.
+Nitin Padmanabhan: Yes, hi, good evening. Thank you for the opportunity. First, wanted your thoughts on how should
+we see margins recovering to the band that we stated? Do you think it'll be gradual through the
+year or do you think there's any element that can help a faster sort of recovery considering we
+don't have wage increases and that's done and behind? The second is from an overall business
+perspective, when do you think the headwinds sort of recede where we can start showing some
+
+Wipro Limited
+July 16, 2026
+level of growth as a business? And do you think these headwinds are largely over in Q2 or do
+you see any specific things that could linger? Yes, thank you.
+Srini Pallia: Hi Nitin, Srini here. On the margins aspect, Nitin, you know, Aparna talked about it as well in
+our commentary. The reason why we had a drop of 120 basis points is number one, you know,
+the impact of MSI we had, it's coming into this quarter. Second, the investments that we are
+making, you know, in AI and in deals, that's the second part. Third is, you know, the acquisition,
+some of the acquisitions that we made, they're actually coming to, you know, into execution
+mode right now.
+So that's the impact of the -- impact we had on the margins. Having said that, Nitin, our mission
+is clearly to go back to the narrow band that we've been talking about, 17% to 17.5%. Now, the
+question that you're asking is what is the time frame? Right now, in the context of the volatility
+that we see, in the context of the revenue situation that we see, right, I do not want to predict
+exactly where, you know, when we will get there.
+But the point is that we want to get there. If you've noticed in the last two years also, Nitin, you
+know, despite the challenges with the revenue, we continue to stay focused on margin
+improvements. You can be rest assured we will continue that path. However, I, you know, I want
+to clearly articulate that we want to invest in our new AI-native business. We want to -- because
+when you're doing an AI-native business, you also need to have the right talent, you need to have
+the right infrastructure to build the new products, new platforms and solutions as well. So it's a
+combination of all these, Nitin.
+Nitin Padmanabhan: Yes, qualitatively, do you think it's fair to assume that it's gradual rather than quicker? Just a
+qualitative thought process is fine?
+Srini Pallia: The endeavor is to reach where we want to reach. And if you look at, Nitin, there are, you know,
+multiple levers for us from an operational perspective, whether it's how you can take the cost
+out and FPP, both in terms of automation, AI and productivity. You know, we have other levers
+including, you know, G&A and so on and so forth, you know, the bench utilization has been
+higher, that's another lever that we have.
+How do you restructure the pyramid, right, in the context of AI and how much of the projects
+and programs you can, you know, run it through agents and how many of our current existing
+programs we can agentify. So these are all the levers that we are looking at, Nitin, and we'll stay
+focused on that. But the point, the message I wanted to give you is that despite all this, we will
+also want to continue to invest in our future, which is very, very critical because the world is
+pivoting to AI and we have already pivoted to AI.
+And we will continue our journey around consulting-led and AI-powered and we will stay
+focused on that. Wipro Intelligence platform, both delivery platforms and the industry cross-
+industry platforms, we are seeing good traction, Nitin. And in the future, the consumption will
+be platform plus service, not just pure play service.
+
+Wipro Limited
+July 16, 2026
+Nitin Padmanabhan: Sure. And from a growth perspective, when do you think the headwinds that you're seeing sort
+of recede?
+Srini Pallia: Yes. So if you look at from a growth perspective, Nitin, typically we give just a one-quarter view
+of our guidance, right? Like I said, the demand environment remains soft and that has reflected
+in our quarter two guidance. Having said that, Nitin, I just want to call out the points that I made,
+that we are seeing good traction building up in Americas in the BFSI segment, right, you know,
+which was the question that Ravi had asked.
+Second, EMR, which is energy, manufacturing resources sector, which was very soft in Europe
+and APMEA, we have won a couple of deals in Europe in this segment. We will see that coming
+into delivery, right? So to me, also the way the customer takes the cost out, then they start shifting
+their budgets to AI, we are ready for that. That's how I see it. So, I can't give a commentary in
+terms of how our quarters will go because I want to stay within our -- the quarter two guidance.
+Nitin Padmanabhan: Sure, fair enough. Thank you, Srini, and all the very best.
+Moderator: Thank you. Next question is from the line of Vibhor Singhal from Nuvama Institutional Equities.
+Please go ahead.
+Vibhor Singhal: Yes, hi. Thanks for taking my question. So Srini, a couple of questions from my side. I think
+two verticals kind of dragged the growth this quarter, Energy and Healthcare. You mentioned
+about Energy that the softness in the European markets and we've won a couple of deals, so good
+to hear that we'll probably have recovery there soon.
+What's our take on the Healthcare segment? As this segment has been one of the key segments
+in which we were one of the early pioneers. And at this point of time...
+Srini Pallia: Vibhor, Vibhor, sorry to interrupt you. We could not hear you properly. I'm sorry, could you just
+repeat the question? Thank you.
+Vibhor Singhal: Yes, sure, please.
+Srini Pallia: Go ahead, Vibhor.
+Vibhor Singhal: Yes, I hope I'm audible now?
+Srini Pallia: Yes.
+Vibhor Singhal: Yes, sorry for that, Srini. Yes, so my question was basically on the -- that there were two verticals
+which dragged the growth this time. One was the E&U, which you mentioned that it was because
+of and good to hear that there are deals that we have won will ramp up in the coming quarters.
+On the Healthcare vertical, what is the view that we are looking at? I mean, this we used to be,
+I mean, we were one of the pioneers of this industry and from the peers we hear a lot of comment,
+
+Wipro Limited
+July 16, 2026
+a lot of companies are kind of incubating their Healthcare vertical because of strong demand that
+they are seeing, especially from the payer side and some of course in the provider side as well.
+So what is the outlook on that vertical in terms of deals that we might have won and when do
+you think that vertical kind of comes back to growth? I'll have a couple of follow-up, if you can
+answer this please.
+Srini Pallia: Sure, Vibhor. I think, your observation is very valid. For us, the Healthcare sector has degrown
+by 2.6% sequentially and if you look at from a year-on-year basis, 3%. See, what has happened
+is especially when I say Healthcare, we have multiple segments. We've got payers, we've got
+providers, we've got life sciences and we've got medical device companies. These are the four
+industry segments within the Healthcare sector.
+Vibhor Singhal: Right.
+Srini Pallia: We have a huge presence in payers and providers in the US. The impact that we had is because
+of the US Healthcare ecosystem, right, which is facing sustained pressure both from structural
+and demographic forces due to the situation which is very much within the -- in the US context,
+right?
+So, what we have seen in some of these companies are, you know, because of the pressures that
+they have from the whole government and so on and so forth, right, there -- they have been --
+their budgets have been flattish for us and some places we have seen the negative growth. There
+also there's a lot of pressure around in terms of taking the cost out and also most of the budgets
+right now have kind of being reallocated to some kind of discretionary spend, but towards AI
+and big portion of it is on the compliance, Vibhor.
+So to me, the more they use AI and the automation aggressively and offset the cost pressures, I
+think that would help us going forward. So we are staying focused on the regulatory mandates
+like I talked about, like, both Medicare, Medicaid and ACA. If you recollect, we have a huge
+platform that supports these aspects.
+So the member onboarding in terms of member services that we need to do, how that has evolved
+for us in the last one to two quarters also had an impact on the numbers that you see. Having
+said that, if I look at the opportunities that we see, right, especially reimagining their -- some of
+their processes with AI, so Vibhor, the claims is one important thing.
+Clients are looking at taking the cost out on contact centers, right? Also, now more and more
+with the HIPAA compliance and the regulatory compliance coming into picture, they are able
+to do -- deploy AI more confidently into clinical operations, including regulatory processes. So
+I see these as our new opportunities that are coming in. We are staying focused on that, Vibhor.
+Vibhor Singhal: Got it, got it. Any timeline that you would be able to provide that you think our Healthcare
+vertical should see some recovery?
+
+Wipro Limited
+July 16, 2026
+Srini Pallia: So, Vibhor, like I said, I don't want to forecast beyond quarter two. So quarter two is, all this
+that I talked to you about is baked in. Having said that, AI, you know, like I said, AI is a structural
+opportunity. I see this opportunity in every industry verticals within the Healthcare system,
+Vibhor. Including for providers, because they also want to improve their efficiency.
+Let's look at providers today. They depend a lot on these products like Epic, who are also making
+it more AI, they are actually integrating their provider systems into payer systems and so that
+and employee -- the members and the patients, they can actually have a end-to-end view of how
+the Medicare medical systems work as well. So these are the opportunities that are coming in.
+We are having the conversations around that as well, Vibhor. But I'm not giving you a specific
+timeline at this point in time.
+Vibhor Singhal: Got it, got it. This is helpful, Srini. Just my second question on the deal wins. The total deal wins
+and the large deal wins were down quite sharply on a Y-o-Y basis. I would assume it is just a
+timing kind of a thing because you mentioned the pipeline remains quite strong. So maybe some
+deals got pushed into Q2 or something like that. Is that the correct, Srini?
+Srini Pallia: So absolutely, Vibhor. If you look at our quarter one, right, we clearly had, like I said, $3.3
+billion worth of bookings, out of which $1.6 billion were 13 large deals that contributed to that.
+Having said that, your point is valid. Some of the decisions on some of these deals have actually
+slipped to quarter two.
+And I always tell my team, when it slips, you've got to really hold on, don't let it slip because
+and try and close it in M1, M2 rather than wait for the M3. So that's the work that we are doing
+right now. But your point is valid, the observation is valid. The pipeline is healthy and also there
+are deals around cost optimization and vendor consolidation.
+But I also want to call out, Vibhor, that I want to give a little bit of color in terms of the kind of
+pipeline we have. So the pipeline one -- let me give you a one color, Vibhor. One is sectors, let
+me also give you the type of deals outside of these large and mega deals. So I called out BFSI,
+if you remember.
+Americas and Europe, the pipeline is strong, Vibhor. But if I look at from a consumer we just
+won a couple of deals in Americas, but it is --- I wouldn't want to say that it is big piece, but it's
+definitely modest in Americas and Europe. In APMEA, consumer is weak. That's how I see it,
+Vibhor.
+Tech and comms very strong in Americas. I think that's one place you've seen double-digit
+growth that I talked about and I think it will continue we see continue to see strong momentum
+there. EMR which you also called out after I said it, right now it's strong in Europe because we
+come on a back of two wins and also it's strong in Americas including our LATAM.
+But little bit modest in APMEA, I think based on what's going on. Healthcare now I did talk
+about it. I want to say overall it's strong, but I want to be careful in terms of what we call out. So
+
+Wipro Limited
+July 16, 2026
+that's the color from a sector perspective, Vibhor. But if I look at from a opportunities
+perspective, there are new opportunities also coming in like I talked about.
+There are clients who are talking to us on Sovereign AI, there are clients who want to build AI-
+DCs. So those opportunities are also coming in. The size and scale depends upon how much, for
+example, if I look at AI-DC, how much of design and architecture you do, how much of
+implementation and management that you do, depends on which part of the project and program
+that we are involved and the size and scale and complexity depends on that, Vibhor. But overall
+your point our pipeline is healthy.
+Vibhor Singhal: Got it. Thanks for taking my question. Srini just one follow-up for Aparna if I may. Aparna, just
+wanted to get some color on how to look at the margins in the wake of the AI-driven deals that
+we are seeing at this point of time. I mean I know it's difficult to take a -- one make a one
+statement analysis that okay the margins -- the deals will be margin accretive or dilutive.
+But from an overall point of view, I mean, let's say we are also building SLMs for the client or
+let's say the application layers for them, then there is a token cost involved. So overall, where
+does the math sit for these large AI-driven deals that we are chasing and we are winning in terms
+of margin vis-a-vis our current portfolio?
+Aparna Iyer: So clearly, Vibhor, I think like you rightly said one size doesn't fit all. It'll depend deal to deal.
+Wherever the intention is to use AI for you to be able to drive higher productivity and take costs
+out for a large operations for a client where the cost take-out is priority, you will see that, there
+will be a lot of productivity, forward productivity that gets baked into deals.
+The Reimagine AI that Srini spoke about, the parts which are newer, where you are going to be
+seeing newer spends on account of AI, there we are very confident we will drive a premium in
+rate realization. Similarly, service offerings around data, AI advisory they'll all be very
+incrementally net positive to the realizations and margins.
+So it'll depend on what we are using the AI for and how we are structuring the deal. So large
+deals will remain competitive, you will have some amount of forward productivity that gets
+baked in. When you're looking at AI over smaller programs where you're looking at things like
+data modernization, when you're looking at smaller pockets and you're looking at newer areas,
+they will be accretive. And that's been our experience thus far and yes.
+Vibhor Singhal: Got it. Great. Thanks, Aparna, for the clarification. And thanks a lot, guys for taking my
+questions. Wish you all the best.
+Moderator: Thank you. We'll take our next question from the line of Rajiv Berlia from JM Financial. Please
+go ahead.
+Rajiv Berlia: Yes, thank you for the opportunity. Can you break the 2Q revenue guidance into organic and
+incremental contribution from inorganic?
+
+Wipro Limited
+July 16, 2026
+Aparna Iyer: We're not doing that, Rajiv. We're not breaking our guidance out. And if you look at it, last
+quarter we had said that Mindsprint was coming in and we had in the guidance baked in 45 days,
+whereas in our actual Q1 results, we've had 2 months of it, of the revenues being consolidated.
+You can do the math, but like we typically do, we only disclose in the first quarter and after that
+it's -- we don't make further disclosure.
+Rajiv Berlia: And the second part of the question is if you see in the last earnings calls, you mentioned about
+client insourcing impacting BFSI. Is that fully behind in this quarter or do we see some impact
+from a going forward perspective as well?
+Aparna Iyer: No, I think that is behind us, Rajiv.
+Rajiv Berlia: Yes, thank you. That's all from my side.
+Moderator: Thank you. We'll take our last question from the line of Abhishek Bhandari from Nomura. Please
+go ahead.
+Abhishek Bhandari: Yes, thank you for the opportunity. Srini, all through the call you guys have mentioned that the
+large deal environment remains very competitive. I was curious to understand has the degree of
+competition increased, decreased or is it stable? And a related question is how are you future-
+proofing your margins in the wake of such competitive pressures? We already saw some glimpse
+of margin headwinds in Q1, which of course you will recoup through the year, but if the market
+remains like this, how do you ensure that we don't trade off the margin for chasing growth?
+Srini Pallia: Yes, Abhishek coming to the first point, first question on the competitive landscape. From a
+broader industry perspective, Abhishek, if I look at it, AI is reshaping most of the spend
+allocations. So what that means is from a client perspective, the traditional IT, the traditional
+BPO that we do and the support aspects of it, those budgets are getting compressed.
+So the clients want us to deploy more AI, the clients want us to kind of disrupt that aspect of the
+whole process to bring in agentic aspect of it. So that is a lever for our clients to improve their
+budgets for new spend, spend pools around AI. So what -- so the clients are also driving that,
+which is not just competition, but also client wants to take the cost out on that.
+And we do have opportunities for us to go and talk to our clients in terms of, for example, how
+we can deploy Wings and bring in a end-to-end productivity benefits and make it more agentic.
+And, of course, the clients are also looking at the experience aspect of it, velocity aspect of it
+and so on and so forth.
+Now, coming to the -- so if that is the place where there is compression, there is definitely
+competition, Abhishek. Now, the reason I'm saying is that sometimes we will have to look at
+client-to-client in terms of their ability and propensity to implement AI. We have seen certain
+clients, who want to do it in a lot more faster way and some of them are saying that we want to
+spread it out.
+
+Wipro Limited
+July 16, 2026
+So in that context, the pricing aspects also changes and we have to relook at how the solutioning
+happens. Because when you deploy AI quickly, the token costs also increases for our client. So
+they are looking at total cost of ownership. And that is something that we've been carefully
+working on, Abhishek, and this is something that I think as an industry, as Wipro, we will all
+continue to evolve.
+Now, coming to the margin pressure, it's actually related to that. So if you look at large traditional
+deals, cost optimization, vendor consolidation, there will be margin pressures because
+sometimes you want to invest into the deals for now to, you know, to make it more long-term as
+well, Abhishek. So if it is a net new reimagine AI kind of projects and programs, the margins
+are much better. But if it's a traditional work where you have to bring in the productivity through
+AI at the same time help the clients to shift the budgets, there are competitive pressures.
+Abhishek Bhandari: Got it. Thanks, Srini and all the best for the year.
+Srini Pallia: Thanks, Abhishek.
+Moderator: Thank you. I would now like to hand the conference back to Mr. Abhishek Jain for closing
+comments. Over to you, sir.
+Abhishek Jain: Yes. Thank you all for joining the call. In case we could not take any questions due to time
+constraints, please feel free to reach out to the Investor Relations team. Have a nice day. Thank
+you.
+Moderator: Thank you. On behalf of Wipro Limited, that concludes this conference. Thank you for joining
+us and you may now disconnect your lines.

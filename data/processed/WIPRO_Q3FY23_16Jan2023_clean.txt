@@ -1,0 +1,581 @@
+January 16, 2023
+The Manager- Listing
+BSE Limited
+(BSE: 507685)
+The Manager- Listing
+National Stock Exchange of India Limited
+(NSE: WIPRO)
+Dear Sir/Madam,
+Sub: Transcript of the Analyst / Institutional Investor Meeting
+Please find attached herewith copy of the transcript of the Analyst / Institutional Investor
+Meeting held on January 13, 2023. The audio recording of the same is available at
+https://www.wipro.com/investors/quarterly-results/.
+Thanking you,
+For Wipro Limited
+G Kothandaraman
+General Manager - Finance
+Internal to Wipro
+Wipro Limited
+Q3 FY 2023 Earnings
+Co nference Call
+January 13, 2023
+wipro.com
+Management
+Thierry Delaporte
+Chief Executive Officer & Managing Director
+Jatin Dalal
+Chief Financial Officer
+Saurabh Govil
+President & CHRO (Human Resources)
+Stephanie Trautman
+Chief Growth Officer
+Amit Choudhary
+Chief Operating Officer
+Dipak Kumar Bohra
+Senior Vice President, Corporate Treasurer & Investor Relations
+wipro.com
+Moderator: Ladies and gentlemen, good day and welcome to the Wipro Limited Q3 FY '23 Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-only mode, there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need assistance
+during the conference call, please signal an operator by pressing star and then zero on your
+touchtone telephone. Please note that this conference is being recorded. I now hand the
+conference over to Mr. Dipak Kumar Bohra, Senior Vice President, Corporate Treasurer and
+Investor Relations. Thank you and over to you, sir.
+Dipak Kumar Bohra: Warm welcome to our Q3 FY '23 Earnings Call and wish you all a Happy New Year. We will begin
+the call with our business highlights and overview by Thierry Delaporte, our Chief Executive Officer
+and Managing Director; followed by a financial overview by our CFO, Jatin Dalal. Afterwards, the
+operator will open the bridge for question-and-answers with our management team.
+Before Thierry starts, let me draw your attention to the fact that during this call, we may make
+certain forward-looking statements within the meaning of Private Securities Litigation Reform Act
+1995. These statements are based on management's current expectations and are associated
+with uncertainties and risks, which may cause the actual results to differ materially from those
+expected. The uncertainties and risk factors are explained in our detailed filings with the SEC.
+Wipro does not undertake any obligation to update the forward-looking statements to reflect events
+and circumstances after the date of filing. The conference call will be archived and a transcript will
+be available on our website.
+Thierry Delaporte: Thank you, Dipak. Hello. Good morning, good afternoon, good evening to you all. Thank you for
+joining our third quarter results. From our entire leadership team, I'd like to wish you, first, a
+fantastic year ahead. We are optimistic about 2023 to deliver ground-breaking work for our clients
+and continue on a growth trajectory. We'll talk about some of the opportunities that are ahead of
+us.
+Joining me today is our CFO, Jatin, you know him well; our Chief Growth Officer, Stephanie, our
+Chief HRO, Saurabh and I'm pleased to introduce you to our new Chief Operating Officer, Amit
+Choudhary.
+Earlier today, we reported our third quarter results as you know, I'm pleased to share that we have
+delivered; one, another quarter of double-digit revenue growth. Second, record order bookings of
+over $4.3 billion, led by large deals signing of over $1 billion, a margin expansion of 120 basis
+points, a huge surge in cash conversion and a fourth straight quarter of lower attrition.
+The macroeconomic uncertainty, we had discussed last quarter continues. However, Tech
+spending remains the robust, so our clients, they're looking for value-driven transformation, tighter
+governance and improved return on investments. Cloud transformation continues to be a priority
+even as we see a higher focus on returns.
+It's against this backdrop that we have delivered our highest ever bookings in total contract value
+terms. Clearly, the investments we've been making in our clients, our efforts to bring about a shift
+in our portfolio and proactive deal shaping- are all paying off now.
+wipro.com
+On a year-on-year basis, our bookings in total contract value terms grew 26% in Q3. We signed
+11 large deals with a total contract value of over $1 billion. This strong booking trajectory translates
+into a 50% year-on-year growth in our large deal bookings on a year-to-date basis. And by the
+way, our pipeline of large deals is both strong and diversified.
+Looking at the market, three of our four markets grew more than 20% year-on-year in total contract
+value terms as well. Some interesting insights worth mentioning here.
+One, our strong bookings were driven by Wipro's FullStride Cloud Services and Engineering
+Services. These grew at 25% and 45% year-on-year, respectively.
+Second, our large deals include new and existing clients seeking a transformation partner or going
+through vendor consolidation. Renewals with existing clients are often accompanied by services
+expansion, taking market share from others and expanding into new areas of our clients'
+businesses.
+The deepening of our relationships with our clients is driven by our innovative solutions, improved
+delivery execution, higher customer satisfaction scores and finally by strong ecosystem
+partnerships. In fact, our Customer Satisfaction Score has improved versus the previous such audit
+by 10 percentage points. The strong order bookings proves that our business strategy is working.
+Third, our expertise in business transformation, coupled with decades of experience in delivering
+cost optimal solutions is the combination our clients are seeking in this market. A good example of
+this is a recent deal we signed with a U.S. based financial information, analytics and ratings
+agency. The project involves integration and management of their infrastructure and security
+estate. As their transformation partner, we will help them improve their future readiness at a lower
+cost.
+Now, let's turn to revenue growth. And first, I'd like to note that over the last 10 quarters, we have
+grown at a very rapid pace. Our revenues have grown 45% and headcount has grown by 40%.
+We are now much bigger in size with a breadth of service offerings and deeper client relationships.
+In Q3, we recorded our seventh straight quarter of double-digit revenue growth. We grew 10.4%
+on a year-on-year basis and 0.6% sequentially in constant currency terms. Our sequential growth
+was impacted by furloughs as expected and lower discretionary spending by clients. We have
+continued to turn the tide on margins. The hard-work we've put in to improve our supply chain, into
+delivery excellence, operations automation has actually resulted in greater efficiencies. All this has
+contributed to a margin expansion of of 120 basis points quarter-on-quarter. Our operating margin
+therefore is now at 16.3% versus 15.1% last quarter.
+A little later I'll ask Jatin to talk to you in more details about margin, but I do want to mention that
+this margin expansion is after absorbing the impact of three full months of salary increases that
+we've offered to our colleagues. It also factors quarterly promotions, as well as the restricted stock
+units with granted to our senior employees.
+wipro.com
+Another good news has been on the cash conversation side. We saw robust cash conversion for
+the third quarter at 143% of net income. I will now share some details on our service offerings and
+sectors and how we are continuing to increase market share, market-by-market.
+Our Americas 1 business grew 11% year-on-year in Q3. The fastest-growing sector in that market
+was Communication, Media and Information Services which grew at 14% year-on-year.
+Americas 2 business which grew 9% year-on-year in Q3, and their manufacturing led the pack with
+more than 18% year-on-year growth. But besides, Energy and Utilities, Securities, Capital Markets
+and Insurance also recorded good growth of more than 12% each. Order bookings grew 40% year-
+on-year.
+Our business in Europe also has continued to be a strong growth pillar, double-digit growth for
+seven quarters in a row. Europe delivered a year-on-year growth of 12% in this quarter. Almost all
+the markets in Europe grew double digits, led by the Nordics, U.K. and Ireland, Germany and
+Southern Europe. The order book in total contract value terms grew also at 25% on a year-on-year
+basis.
+Finally, our APMEA, which stands for our Asia-Pac, Middle East and Africa region grew at 7%
+year-on-year in the third quarter. Regions that did, I must say, particularly well during the quarter
+were Southeast Asia, but also the Middle East. Our transformation efforts in this region have
+started yielding results. It's very visible. This quarter, we closed one of our largest deals in this
+market. The order bookings, they grew 22% and are looking forward the pipeline is strong.
+Overall, we've continued to strengthen existing client relationships and I'm pleased to share that
+our top 10 clients grew 15% year-on-year, which also confirm our strategy around growing large
+accounts.
+Now let's look at the service offerings: iDEAS and iCORE. First, our iDEAS Global Business Line
+grew 12% year-on-year in Q3. This growth was led by; one, cloud. The Cloud Transformation part,
+which grew 27% year-on-year Applications and Data, which grew 18% year-on-year, Digital
+Experience, which grew 16% year-on-year and finally, Engineering Services, which grew 12%
+year-on-year.
+Now looking at the iCORE part of the business. This global business line grew 8% year-on-year in
+Q3. Cyber Security led the growth at 16% year-on-year, followed by digital operations and platform
+growing at 9% year-on-year for Q3. From a total contract value standpoint, Cloud Infrastructure,
+our CIS business line grew over 50% year-on-year.
+CIS revenues now are lower as we continue to rotate our existing portfolio and move towards the
+cloud, which is very in line with our strategy, as you know. At the same time, we are signing long-
+term deals with clients in this business. We are continuing to evolve our FullStride Cloud Services
+business, creating new industry offerings, working together with partners, which is in fact, helping
+expand our market coverage.
+wipro.com
+FullStride Cloud Services continue to be a high-growth area for us, contributing over one-third of
+our total revenues today. Our cloud expertise spans the entire spectrum of cloud services, from
+cloud strategy, migration, modernization to full stack industry solutions and running and optimizing
+cloud.
+Partnerships continue to be a source of growth as well. Bookings with Hyper Growth Partners in
+Q3 continued to be strong, nearly $2 billion, that's a 35% year-on-year growth. Bookings through
+hyperscalers today stand at 44% of Wipro's overall booking in terms of total contract value. Besides
+cloud, we are expanding capabilities in artificial intelligence, data and engineering, increasingly
+going to market as, One Wipro. And these investments are getting noticed.
+A U.S.-based energy company has selected us to build an end-to-end greenfield fully automated
+warehouse in Europe. The project will allow the client to manage large sums of chemical storage,
+while maintaining strict health and security requirements. This win, if we look at it brings together
+our domain, engineering, digital, cybersecurity and health and safety capabilities. But it also
+underscores, how our advisory capabilities, technical and engineering expertise are differentiators
+for us in the market.
+Let me now turn to our most important asset, our people. I am pleased to share that attrition
+continues to drop for the fourth straight quarter. In Q3, attrition dropped to 21% on a trailing 12-
+month basis. Our quarterly annualized number, which dropped 360 basis points quarter-on-quarter
+are now at 17.5%. And we are confident that our focused talent strategy will result in continued
+moderation of attrition in the coming quarters as well, frankly.
+Second, we are recognizing and rewarding our talent, promoting a record number of colleagues in
+FY '23, the highest ever, in fact, with numerically 30% more promotions than in FY '22. Our
+leadership teams, breadth of experience, high performance standards and strong collaboration
+continues to fuel our growth and our transformation.
+And finally, I'm encouraged to see more diversity in our leadership ranks, which has been a focus
+for the past several years. And definitely, we have more work to do here, we know that. But one
+promising change worth sharing with you is that we have more than doubled the number of women
+senior leaderships roles at Wipro.
+As these visible impactful leaders progressed their career, they demonstrate the impact diversity
+has on our clients, on our business and on our people. We've been strict about maintaining that
+focus on talent quality, high performance orientation and inclusion in our graduate hiring as well.
+Year-to-date, we have hired and onboarded more recent graduates than the whole of previous
+years and actually ever before.
+Now as always, I'll close with an outlook for the full year. We expect full year revenue growth to be
+at 11.5% to 12% in constant currency terms. On margins, our Q3 number is now the new base,
+and we will look to improve it further. In summary, I'll say that we had an excellent quarter with
+record bookings, sustained growth and delivery excellence. Our strategy continues to pay-off and
+we will remain on course.
+wipro.com
+With that, I will hand it over to Jatin now for his comments.
+Jatin Dalal: Thank you very much, Thierry. I will quickly summarize the financial highlights for the quarter. We
+grew 10.4% year-on-year on constant currency terms. Our margins expanded 120 basis point to
+16.3 percentage points. If you see our ETR, it was 22.9% compared to 21.5% last year. So that
+impacted a little bit net income conversion. But despite that, sequentially, we delivered 14.8%
+growth in net income and 2.8% on a year-on-year basis.
+Cash flow remained strong at 143.5% of operating cash flow as a percentage of our net income.
+Our cash at the end of the quarter was 4.6 billion gross and 2.7 billion net. This is a volatile year
+and quarter on forex. We had about $4 billion of forex hedges and our realized rate for quarter 3
+was 82.24. As Thierry mentioned, we have guided for 11.5% to 12% growth in constant currency
+terms for the FY'22-23 at the exchange rates, which are mentioned in our PR. Thank you very
+much for joining and we'll be very happy to take your questions from here.
+Moderator: Thank you very much, sir. We take the first question from the line of Mukul Garg from Motilal Oswal
+Financial Services.
+Mukul Garg: I have two questions. One of the first ones for Thierry and Stephanie if she's there. I just wanted
+to better understand, how should we look at the TCV number, the total number, not just a large
+deal because if you look at the Q3 print, your TCV of 4.3 billion implies a book-to-bill of almost
+1.5x.
+You have been growing the TCV number quite handsomely over the last few quarters as well. How
+should we think about the duration of the deal wins, which obviously will convert into revenues and
+when should that impact start flowing through? And B, the revenue in last four quarters, the
+incremental revenue has been barely about 80 million, whereas your deal wins continue to grow
+in 25% to 30% range. So, is there something which is impeding the conversion of these bookings
+into revenues over last four quarters?
+Thierry Delaporte: So, Mukul, its Thierry, I will take your question. And Stephanie if you want to add, of course, feel
+free. But Mukul, you're right. I think the performance in bookings has been good for several
+quarters. This quarter has been outstanding. I think we've really done a great job of not only
+developing our pipeline of deals, but also converting them into deals contracts for us.
+We've shown two things during this quarter, two confirmations if you like. One is that we continue
+to see a lot of opportunities for us in the market, which confirms that this is still a robust market for
+us. And second, that we continue to win well over competition. We continue to show healthy levels
+of win rate.
+From a type of deal standpoint, I would say, yes. The investment made on large deals now when
+was that 18 months ago is paying off a little more every quarter. It's the reality. It started with one
+big deal. And then few quarters later, another one. And then we are gaining in volume, but also in
+consistency. And you will hear from Stephanie that it's across the realization now. So, this is really
+reassuring because that we get a lot of comfort from that. And I would add that there's also a
+promising volume of a large deal in our pipeline.
+wipro.com
+So, the conversion of bookings to revenue that you are asking. I think this reflects a couple of
+points. Point one is, there is no doubt that while the market continues to be good and the
+investment in tech continues to be good. There is a change that I called last quarter,
+macroeconomic environment, drives a certain volume of uncertainty. And that exists. There are
+sectors, everybody will not be surprised to hear that the tech sector is a sector that has certainly
+felt the impact of this change in microeconomic environment.
+Second is probably the fact that there is a potential slowdown of, or more, I would say, volatility of
+the discretionary spend from clients. Third, what we are seeing is that there is not necessarily a
+slowdown of the decision process. If that was the case, maybe we wouldn't have had such a good
+quarter in terms of bookings. But I think the time it takes to ramp up, to launch and ramp up those
+programs behind may take a little bit of time. And we have to go with the pace of our clients in this
+context of uncertainty.
+An example of that is typically deals where there has been a consolidation of vendors that we have
+won. And then there's a period of transition for the business to go from one partner to another. And
+I think it is a fact of life that we have reflected in our projection. But certainly, the performance in
+bookings, the volume of deals but also the quality of our pipeline gives us quite a nice level of
+confidence for the next year as well. Stephanie?
+Stephanie Trautman: Yes, Thierry. I would just reinforce your comment in terms of the health of our pipeline, the types
+of deals that we're winning. It is a mix of new clients. It's a renewal of existing clients who are
+expanding our scope, we're taking market share and vendor consolidation. And it's also a pivot of
+our portfolio to the new. And you heard us talk about the growth in FullStride Cloud Services. So
+very happy with our pipeline, the health of our pipeline for Q4 and even going into next year. So,
+think our growth will continue, and we'll start to see the revenue converts in future quarters.
+Mukul Garg: And I had one quick one for Jatin. I was a little bit confused with the employee cost number which
+you printed this quarter. If you look at the cost per employee, excluding the subcontracting
+expenses, this was a quarter where two months of wage hike was flowing through. We also had
+promotions which took place. But your employee cost per employee in INR terms has been flat
+and actually declined almost 2% versus last quarter in USD terms. So, what really is leading to this
+flatness kind of a cost which actually has been managed quite well? What are the drivers which
+are helping you keeping this under check given that I think last few quarters have been
+exceptionally tough in terms of overall expenditure of on employees?
+Jatin Dalal: So, I think the most foundational reason Mukul, and there are three reasons. I will go through each
+of the three. The one is the most foundational reason is that we have improved the way we manage
+our supply chain. We have far more freshers who are part of our pyramid. So, pyramid has
+continued to improve quarter-on-quarter. Second is the attrition is lower which helps us manage
+the cost better because to that extent there is the impact of premium, which reduces of lateral
+hires. So overall, the most foundational reason is that we have managed our cost structure much
+better.
+wipro.com
+The third and of course, the other third component is that we have released a lot of efficiency gains
+from our fixed price projects and those get redeployed for our T&M and other work. And therefore,
+you don't need your employee cost remains the constant, whether you are able to add revenue.
+So, these are the most foundational, as I said, the cost structure improvements that we have made.
+The second is also that if you look at it from a considered at Wipro limited standpoint, there was a
+restructuring cost which was sitting in the employee cost line which was not counted towards the
+segment margins of 15.1% in quarter 2, but it was sitting in consolidated line which is not present
+now so that shows a downward path on the employee cost so that is the second.
+And third is quarter 3 typically the employee cost also has certain amount of accruals related with
+leave and other provisions, which it takes it up or down. But if you want to model it, you model it
+based on the first reason that I've shared, which is the more foundational improvement in the cost
+structure of our employees, and we'll continue to work on that.
+The second and third factors, the second factor was one quarter impact, which will not recur, and
+the third impact is seasonal, which will come back in next December, but won't recur in the future
+quarters.
+Moderator: We'll take our next question, that's from the line of Gaurav Rateria from Morgan Stanley. Please
+go ahead.
+Gaurav Rateria: First question, any colour on the percentage of renewals in TCV. Is it consistent with the historical
+last few quarters or anything has changed? And how should one think about timing of ramp-up of
+the deals that you have signed in the current quarter, would it be like a 1Q phenomenon? Would
+it be more like a 2Q phenomenon? How should one think about the timing?
+Thierry Delaporte: To your questions, I would say, first of all, the Yes. Regarding the balance, I was trying to remember
+the balance between the new and renewal, what I would say, this is a as expected. There's a
+healthy balance, I would say. From one standpoint, the deals that we managed to extend them to
+sometimes widen the scope, increase our presence. That's also, in particular, when we've been
+able to consolidate some positions, but we've also had a good volume of new deals, and which is
+quite comforting because we know that we will be able to continue to expand and grow in those
+new accounts as well. So, this is good balance, I would say, a good balance between the two.
+The second question that is about the timing, things will take to ramp up. It's a difficult question. if
+we are sticking to the rule that we're only guiding for the next quarter. But what I would say is that
+for sure, we are seeing growth ahead of first quarter. So, this projection for Q4 certainly reflects
+for the reason that I mentioned before, a little bit the way we are seeing ramp-ups happening, but
+it can only go up.
+Gaurav Rateria: Secondly, we made a very interesting point on percentage of the order book coming through
+hyperscalers. How should one think about the nature of these deals? Is the contract profitability
+similar to regular deals, or there are different nuances one has to keep in mind?
+wipro.com
+Thierry Delaporte: Well, so the first point, Gaurav, remember, back mid-2020 when we started to lay out our strategy,
+partners was at the centre of it. And the way we grow was connecting and engaging at the strategic
+level with partner who was insufficient. And so, we've clearly, we organized ourselves to be able
+to be a lot more relevant with them. And so, we have built these teams globally with local
+connections under the leadership of our CGO function.
+And this is paying off every single quarter ever since. At that time, I remember that the revenue we
+were getting from our top five or six partners was not exceeding 1/4 of our bookings. And today,
+as you heard, we are not that far from half of the bookings coming from our hyperscalers only.
+So, it gives you a feel for the volume of growth that we've been driving with them. But in a very
+strategic way, so going to clients together, developing solutions together, literally developing
+strategy and going after the market as real close partners, and that is now you can ask what type
+of deal, typically, obviously, hyperscalers are involved in most of our cloud transformation deal.
+So, the whole strategy that we've developed around FullStride has been paying off as well. And
+so how you should see it as a relation that is accelerating, that is gaining muscle every day, and
+we'll continue to drive growth.
+The margin profile actually is rather good. As you can imagine, if we are improving our operating
+margin, so significantly, it's because the margin we are getting from our deals is going in the right
+direction. I think it's also, we all know that, and it's actually visible in our books that every time we
+are taking winning a deal that is more where it's more value-based, if you like, we are able to
+deliver better margins as well.
+Gaurav Rateria: Lastly, if I can squeeze one on FullStride, TCV grew 25%. This is in context of what we are hearing
+in the market that cloud spend is likely to moderate because of the macroeconomic involvement.
+So, would it be more a phenomenon of market share gain for you, or you fundamentally believe
+that slowdown in cloud spend may not necessarily have happened as it was feared?
+Thierry Delaporte: It's interesting. Your question is a good one, Gaurav. I have a view on that. And let me tell you,
+what I've observed, and I spend a lot of time with the hyperscalers personally. Is that there was a
+gap in our, there was a shortage in our ability to deliver there on their demand, just because of the
+magnitude of the size of this market.
+And so, the fact that they are slowing down doesn't necessarily mean much in terms of impact for
+us. I believe that with the size of these are hyperscalers, even when they are growing a few
+percentages less, we can still grow more or less at the same speed. I remain very bullish that what,
+what we're talking about cloud and what is representing today north of one third of our business
+will continue to gain grow in terms of proportion of our revenue mix, if you like, going forward. So,
+market may slow down, we may not slow down around cloud.
+Gaurav Rateria: All right. Very clear, thanks a lot and all the best.
+Thierry Delaporte: Thank you and you too.
+wipro.com
+Moderator: Thank you. Our next question is from the line of Nitin Padmanabhan from Investec. Please go
+ahead.
+Nitin Padmanabhan: Good evening and very Happy New Year. I had a couple of questions. First is on Europe. So, I
+think it's been a little counterintuitive almost everyone has been sort of showing very solid growth
+out of Europe. And the geographies which we thought were relatively stronger are actually much
+weaker. If you could give some colour on what exactly are the dynamics at play here? That's the
+first question, and I had one more after this.
+Thierry Delaporte: Nitin, indeed, I am aware of -- and I should not necessarily comment on relative trends versus the
+competition. I think in the case of Wipro, what is clear is that over the last years, we have
+completely changed speed, focus attention -- and our impact in Europe is different. There's no
+doubt.
+I think the organization we've put in place with a focus on key strategic markets, the leadership
+that we've either hired or promoted in these regions the organization that we have reinforced the
+connections that we have built with our clients, the intimacy, the ability to combine the power of
+our global network and very strong impactful legal leaders in this market is making a difference.
+And yes, Wipro is a different competitor in Europe today than it was some years ago.
+Is it paying off? I'm assuming, yes, it's clear that, yes, we continue to grow. We continue to see
+nice deal. We have a nice portfolio of clients in Europe, and we will continue to gain market share
+in Europe.
+Nitin Padmanabhan: Sure. The second one was more of a clarification. So, I think, the deal wins have been sort of pretty
+-- in the last three quarters have been pretty decent compared to the earlier quarters. And you
+mentioned that the conversion was low because of the environment. And then if I just look at how
+we typically grow in the Q1, apart from one of the years where we had large deals and we grew
+pretty well.
+Is the understanding correct in terms of the commentary that you think the level of build in terms
+of the deals won is sort of sufficient enough that despite those headwinds, you'll actually see an
+improvement next year from a trajectory perspective, on a sequential growth rate if you look at in
+that way? Or alternatively, maybe the flip side of the question is, do you think the cautiousness by
+clients and the view on discretionary spends and all of those, do you think that cautiousness should
+sort of dissipate maybe as we get into the new year in the next fiscal?
+Jatin Dalal: So, Nitin, this is Jatin, Thierry and I are smiling because this is one way to talk about Q1 numbers
+that we don't want to talk about, so we will give it a pass. We understand your question precisely.
+It's a great question, but we are not at a point in time we would answer that. But directionally, the
+fact that we are winning large deals, the TCV, the revenue, the backlog is improving, and it will
+convert into revenue. It's difficult to pinpoint a specific quarter that will get the boost out of it.
+Nitin Padmanabhan: Sure, fair enough. Thank you so much and all the best.
+wipro.com
+Moderator: Thank you. We'll take a next question from the line of Ravi Menon from Macquarie. Please go
+ahead.
+Ravi Menon: Thanks for the opportunity. First on the overall deal with it, it looks like that's really strong. So how
+do you think about the market demand, especially, do you say north of 50 million discloses large
+deals. So, would we continue to see that momentum even over the next quarter? Or do you think
+that is making is largely going to be on hold?
+Thierry Delaporte: Ravi, your voice came a little muffled, so I hope I understood the question. But I believe you are
+asking some of our views on the market itself, okay? Am I correct?
+Ravi Menon: Yes, Thierry, that's right. I was just asking about the deal pipeline. Do you think the position making
+could slow and therefore deal wins could get a little softer next quarter?
+Thierry Delaporte: When it comes to projecting bookings, you can certainly base your level of confidence on the
+quality of the pipeline and on your trend of win rate over a certain period of time. If I base my
+judgment on that, I see that we have another solid quarter of bookings coming ahead of us. Will it
+be as good as the one this quarter -- that I don't know. I cannot tell sometimes it depends on one
+deal, and it makes a big difference. So, I think very confident that it will be another solid quarter in
+terms of bookings.
+Let's see how it goes, okay? But a little bit of reflection on the market. again, the softness of the
+economy, the uncertainty of the macroeconomic environment is a reality. I said it in this room three
+months ago, Ravi, at the time, we are not necessarily others were saying it. But this hasn't
+changed. This hasn't changed. In this context, I can only recognize looking at the performance and
+the activity in the field from our sales teams, that the tech spending remained robust. That's clear.
+I take obviously comfort from the fact that we are winning and that we are winning nice type of
+deals. And if you look at being a little bit more, looking at the type of deals, you probably have
+noticed that we are talking about total contract value. We also look at the annual contract value.
+What's interesting is that the total contract value has been our highest ever. The annual contract
+value performance has been also our highest ever. And what it says to me is that we have a good
+volume of large deal, good volume of medium deal and good volume of smaller deal. I think this
+tax-on, this good pyramid of size of deals also, reflect also the fact that our backlog for the quarters
+to come is reinforcing and is getting stronger. So, reasons for us to be optimistic for the next year.
+Ravi Menon: And next is a question, it's a bit of a revenue and margin question. If the demand is strong, why
+are we looking at Middle East as a geography, we talked about investing in it. I mean historically,
+we used to think about the Middle East as a relatively lower billing rate at lower profitable
+geography. So why not focus on the developed markets if supply is still tight there?
+Thierry Delaporte: This, Middle East is a very important market for us. A very important market. In fact, by size, Wipro
+is one of the big players in the Middle East. So, we are very proud of our business. We continue
+to invest in this business, such that we've decided to establish the headquarter of the region in
+Dubai for APMEA region in Dubai. And so, we have invested in innovation lab in capabilities. We
+wipro.com
+have just decided to launch our Capco business in the Middle East also a few weeks ago. And we
+are very bullish about our, the outlook of Wipro in the Middle East over the next quarters. It will
+continue to surprise.
+Moderator: Our next question is from the line of Surendra Goel from Citigroup.
+Surendra Goel: Thierry, just one question. How should we think about the correlation between TCV and growth?
+And the reason I asked that question is for the past six quarters, whatever metric you have
+disclosed ACV or TCV is up greater than 24% year-on-year, while growth in that period has gone
+from 25% plus Y-o-Y to a guidance of around 8% at the higher end in the coming quarter. So just
+wanted to understand how we should think about the correlation between TCV...
+Jatin Dalal: Surendra. So, I would, I meant it, it didn't have a demand color but more conversion point, so I
+would take it. The key issue is that we have mentioned in last three quarters that in the first quarter,
+we said our TCV growth is 32 than 28, and this quarter also has been very robust growth.
+The conversion has two components. It has a future timing component, when does it convert? And
+second is clearly the immediate component, which is it converts into next quarter or in two-quarter
+phenomena, et cetera, you have to appreciate the fact that we have won a very large component
+of TCV and something that we also covered in Thierry's speech is that a large component of that
+is in Cloud and Infrastructure Services, which are typically long-ended contracts over four to five
+years.
+So, we can give you comfort that as we enter every quarter, we are entering with a superior backlog
+than what we are carrying in the previous quarter and the uncertainty around discretionary spend
+or the conversion of large deal continues to pay out in the immediate quarter. So, you are not
+seeing this correlation in an immediate 3-quarter period that of '22, '23 that you have seen the
+results of -- but as we model it for future, we feel very comfortable that we are moving in the right
+direction of securing a better book to carry as we enter '23,'24.
+Surendra Goel: Jatin, the ACV that you were disclosing in Q2, Q3 and Q4 of last year was all in excess of 24%
+also? So, this question was more around like -- I'm sure deals would have been gone, then should
+have converted by now. So just wanted to understand it better if you want to kind of take it offline
+that’s fine.
+Jatin Dalal: Yes. And we take your point, Surendra, we can -- even in next quarterly commentary, we can cover
+this point specifically, but we feel comfortable that the bookings in the current environment is the
+only way to continue to grow, because uncertainty will always mean that in our business, there is
+always -- there is certain amount of projects coming to an end and only way to continue to grow is
+to add more on the top. So, we feel comfortable, but we can cover it as we go forward.
+Surendra Goel: And just one clarification. On your comments on the margin walk. You mentioned like something
+in the employee cost, which kind of moved away from the cost of employees -- per employee cost
+for IT services. Could you just kind of elaborate on that? And could you also quantify it for us?
+wipro.com
+Jatin Dalal: Yes. So, Surendra it is quite straightforward, when you see our employee cost numbers, you see
+it on a consolidated basis for entire Wipro Limited. As you know that we had a restructuring cost,
+which was sitting in the company book. So, it was sitting in quarter 2 employee cost. But when we
+publish our segment results and IT services, it was sitting in not in IT Services segment, it was
+sitting elsewhere. And clearly, that restructuring cost has not recurred in quarter 3 and that has
+reduced from quarter 2 to quarter 3, that much cost in the employee cost line when you look at
+consolidated Wipro Limited books.
+Surendra Goel: Could you quantify that, Jatin, that's for a convenience.
+Jatin Dalal: Yes, I can quantify it, but you can also see it in last quarter's numbers or Dipak, or Abhishek will
+give you shortly.
+Surendra Goel: No, that's very helpful, Jatin. Thank you so much.
+Jatin Dalal: About INR 130 crores, yes.
+Surendra Goel: Thank you, Jatin.
+Moderator: Thank you. Our next question is from the line of Manik Taneja from Axis Capital. Please go ahead.
+Manik Taneja: Well, thank you for the opportunity. I actually just wanted to get your sense around the margin
+improvement trajectory, given the fact that over the course of last 18, 24 months apart from
+acquisitions you've invested in terms of engine especially when it came to freshers. And now you're
+getting much more moderated...
+Moderator: I am sorry to interrupt. Mr. Taneja, it looks like there's an audio breaks from your connection. If you
+are on a handsfree mode, please switch to handset and speak, and you might have to repeat the
+question, sir.
+Manik Taneja: Sure, thank you. I am on handset only and I'll repeat that question. So, the question was on
+margins. Over the course of last 18, 24 months we see transition in our margins because of the
+investments that we made around are -- around our delivery in terms of -- especially in terms of
+freshers, as well as some of the acquisitions that we made. So now given the fact that growth
+actually slowing down and hiring essentially is coming off, is there a timeline that you can -- you
+would want to essentially suggest as to us getting back to 18%, 19% EBIT margins?
+Jatin Dalal; Okay. So Manik, thanks for your question. And as you can see, we have made a substantive move
+on margin in quarter 3. Certainly, we will protect this base and make an incremental effort for future.
+But right now, I don't think we should go ahead and quantify the quarter or year in which we'll reach
+a particular threshold.
+Our effort clearly as we articulated in past also, is that we will -- these are not the margin we are
+satisfied with, from a medium-term standpoint, and our trajectory for our goal for medium term is
+higher and we'll continue to make an effort. But please be mindful that in quarter 3, we have made
+wipro.com
+significant movements, and we'll have to sustain that and on that build it incrementally in next
+quarters.
+Moderator: Thank you. Our next question is from the line of Abhishek Shindadkar from InCred Capital. Please
+go ahead.
+Abhishek Shindadkar: Hi, thanks for the opportunity and happy new year. Thierry, in the preparatory remarks, you
+mentioned about modest slowdown in the discretionary spend, was this comment related to Capco
+by any chance? And given the fact that you have a solid U.K. European presence. One of your
+competitors had highlighted that H1 could see some of the deals delayed, these could convert in
+the first half. Anything that you would like to comment on the same? Thank you for taking my
+question.
+Thierry Delaporte: When I was referring about to discretionary spend, Abhishek, I was not referring to any units
+specifically. It's a reality that applies to all kind of discretionary spend. As you mentioned, Capco,
+let me tell you one thing. The acquisition of Capco that we've done -- when was that now, 18
+months ago, was an extremely strategic acquisition. The purpose of this acquisition was to change
+-- game changers for us in the BFSI market, be able to suddenly completely transform the type of
+conversation that we're having with clients in order to be able to really engage with them at strategic
+level and drive larger program.
+This is exactly what has happened. The performance of Capco quarter-after-quarter over the last
+18 months has been very good, actually higher than what we had anticipated or expected at the
+time of the acquisition and that the nature of the strategic -- the strategic nature of the acquisition
+is a reality on the ground every day. So that's -- I just wanted to be clear about this -- the Capco
+since you mentioned it.
+As for discretionary spend, I think it's -- the type of deals that the clients feel they can stop at any
+moment in time. And this happened with every kind of clients across sectors.
+Moderator: Thank you. We'll take the next question from the line of Dipesh Mehta from Emkay Global.
+Dipesh Mehta: Thanks for the opportunity. Just on the deal related question. So, if I look now press release contain
+note four, which include we report only gross deal intake and any subsequent cancellation,
+termination and reduction is not the part of the number. So, do we see any different trend, let's
+say, over the last few quarters, particularly on the termination and reduction side, which could have
+implication about revenue growth trajectory compared to the deal intake trajectory? Second
+question is about the growth trend or demand trend. If you can provide some sense about
+communication, BFSI and consumer? Thank you.
+Thierry Delaporte: Okay. Dipesh, thanks all your questions. So, the first one, if I understand, well, is about, has there
+been more cancellation or termination? Is it what -- that's what I understood, right? The answer is
+we have not -- let's be very clear. We have not lost one single -- it's not like we -- there was a
+question earlier in another form about is it structural. It's not -- we have not lost a client.
+wipro.com
+We have not lost a -- there hasn't been a big termination or anything. So, it's not like there's been
+a particular loss. That's the nature of the discretionary spend or the nature of a slightly slower
+ramp-up that is more explaining the revenue profile.
+Jatin Dalal: Dipesh, if you are okay, I wanted to also clarify the earlier question by Surendra so that we
+conclude this call answering every question. Surendra's question was for clarification, I will mention
+that Q2, Q3, Q4 Wipro's ACV growth was quite high, and that was -- I'm repeating 31%, 22% and
+33%. And if I take the average of the three, it comes to around 28% growth in ACV and that -- if
+you see our '21, '22 growth in revenues was also 28% plus.
+So, our ACV growth did reflect in our revenue growth. Both numbers included Capco, so they are
+apple-to-apple. And therefore, we continue to see a strong correlation of our booking business with
+revenue. And if there are any other questions on this line, IR team will be very happy to take it after
+the call.
+Dipesh Mehta: Sorry, the second question, if you can answer.
+Jatin Dalal: Sorry, Dipesh. Can you ask me again?
+Dipesh Mehta: So, the second question was about the demand trend, what we are seeing in communication, BFSI
+and consumer verticals? Thank you.
+Thierry Delaporte: Communication, no particular slowdown in communication, the market continued to be good. BFSI,
+we know by reading like you that there are some slowdowns. We haven't seen it so far. The
+performance in BFSI continues to be good. I think it's probably -- let's see, but I think it's our ability
+to really connect at the more strategic level with our clients, which is getting us to place that are
+less exposed to cyclicity, if you like, of volatility. The third sector was...
+Dipesh Mehta: Consumer?
+Thierry Delaporte: Consumer is -- okay. So, the consumer actually is sensing. If you look at our performance, it's solid
+as well. I suspect, however, that it may be a sector between consumer and retail, in particular, in
+America, which could get a little bit exposed in the foreseeable future to follow.
+Moderator: Thank you. Ladies and gentlemen, that was the last question. I would now like to hand the
+conference back to Mr. Dipak Kumar Bohra for closing comments.
+Dipak Kumar Bohra: So, thank you all for joining the call. In case we could not take any questions due to time
+constraints, please feel free to reach out to the Investor Relations team. Have a nice day. Thank
+you.
+Moderator: Thank you, members of the management. On behalf of Wipro Limited, that concludes this
+conference. Thank you for joining us and you may now disconnect your lines.
+Wipro Limited (NYSE: WIT,
+BSE: 507685, NSE: WIPRO) is
+a leading global information
+technology, consulting and
+business process services
+company. We harness the
+power of cognitive computing,
+hyper-automation, robotics,
+cloud, analytics and emerging
+technologies to help our clients
+adapt to the digital world and
+make them successful. A
+company recognized globally
+for its comprehensive portfolio
+of services, strong commitment
+to sustainability and good
+corporate citizenship, we have
+over 250,000 dedicated
+employees serving clients
+across six continents. Together,
+we discover ideas and connect
+the dots to build a better and a
+bold new future.
+For more information, please
+write to us at info@wipro.com

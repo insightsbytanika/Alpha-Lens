@@ -1,0 +1,968 @@
+TCS/SE/125/2025-26
+October 15, 2025
+National Stock Exchange of India Limited BSE Limited
+Exchange Plaza, C-1, Block G, P. J. Towers,
+Bandra Kurla Complex, Bandra (East) Dalal Street,
+Mumbai - 400051 Mumbai - 400001
+Symbol - TCS Scrip Code No. 532540
+Dear Sirs,
+Sub: Transcript of the earnings conference call for the quarter and six-month period ended
+September 30, 2025
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed the transcript of the earnings conference call for the
+quarter and six-month period ended September 30, 2025, conducted after the meeting of
+Board of Directors held on October 9, 2025, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com.
+Thanking you,
+Yours faithfully,
+For Tata Consultancy Services Limited
+Yashaswin Sheth
+Company Secretary
+ACS 15388
+Encl: As above
+9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021
+Corporate Identity No. (CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited
+Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Moderator: Ladies and gentlemen, good day, and welcome to the TCS Earnings
+Conference Call. As a reminder, all participant lines will be in the
+listen-only mode and there will be an opportunity for you to ask
+questions after the presentation concludes. Should you need
+assistance during the conference call, please signal an operator by
+pressing star, then zero on your touch-tone phone. Please note that
+this conference is being recorded.
+I now hand the conference over to Ms. Nehal Shah from the Investor
+Relations team at TCS. Thank you, and over to you.
+Nehal Shah: Thank you, operator. Good evening, and welcome, everyone. Thank
+you for joining us today to discuss TCS's Financial Results for the
+Second Quarter of Fiscal Year FY 2026 that ended on September 30,
+2025.
+This call is being webcast through our website and an archive,
+including the transcript, will be available on the site for the duration
+of this quarter. The financial statements, quarterly fact sheet and
+press releases are also available on our website.
+Our leadership team is present on this call to discuss our results.
+We have with us today Mr. K Krithivasan, Chief Executive Officer and
+Managing Director.
+K Krithivasan: Hi everyone.
+Nehal Shah: Ms. Aarthi Subramanian, Executive Director, President and Chief
+Operating Officer.
+Aarthi Subramanian: Hi, everyone.
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Nehal Shah: Mr. Samir Seksaria, Chief Financial Officer.
+Samir Seksaria: Hello, everyone.
+Nehal Shah: And Mr. Sudeep Kunnumal, Chief Human Resources Officer.
+Sudeep Kunnumal: Hello, everyone.
+Nehal Shah: Our management team will give a brief overview of the company's
+performance followed by a Q&A session. As you are aware, we don't
+provide any specific revenue or earnings guidance and anything
+said on this call, which reflects our outlook for the future or which
+could be construed as a forward-looking statement, must be
+reviewed in conjunction with the risks that the company faces. We
+have outlined these risks in the second slide of the quarterly fact
+sheet available on our website and e-mail out those who have
+subscribed to our mailing list.
+With that, I would like to turn the call over to Krithi.
+K Krithivasan: Firstly, I would like to warmly welcome Sudeep Kunnumal who has
+taken charge as our CHRO w.e.f. 01st October, 2025. Sudeep brings
+over three decades of experience, encompassing a wide spectrum
+of areas within Human Resources, with leadership roles across
+multiple geographies, business groups and HR sub-functions.
+Please join me in wishing Sudeep all the very best in his new role.
+Sudeep Kunnumal: Thank you.
+K Krithivasan: Moving on to Q2 performance, we have delivered a good
+performance in the backdrop of continued macro challenges.
+All verticals (except Consumer Business) and all geographies
+(except United Kingdom) returned to positive sequential growth this
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+quarter. India and Emerging markets continued to show strong
+growth momentum in Q2.
+In reported currency, our revenue grew 3.7% sequentially and 2.4%
+year-on-year. Our quarterly revenue grew 0.8% sequentially in
+constant currency. International revenue growth was 0.6% quarter-
+on-quarter in constant currency.
+We also delivered strong operating margins and free cash flow.
+We continue to see robust sales momentum this quarter across
+industries and markets. We are pleased to report a TCV of $10
+billion. BFSI TCV was $3.2 billion, and Consumer Business Group
+contributed $1.8 billion. North America TCV was $4.3 billion.
+Our TCV had a sequential increase of 6.5% and a year-on-year
+growth of 16%. More importantly, this quarter, we announced a
+significant mega deal win with Tryg Insurance, underscoring our
+continued success in securing large-scale complex engagements
+and reinforcing our position as a trusted strategic partner for our
+clients.
+Our deal pipeline continues to show strong momentum with a
+healthy mix of cost optimization and transformation deals as well
+as services and platform deals across new and existing businesses.
+Based on client conversations, Q2 revenue growth and TCV, and a
+strong demand pipeline, we see FY26 International revenue growth
+to be better than last fiscal year.
+IT services spend is steady with no significant change expected in
+the near term. Lingering uncertainties in the broader economic
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+environment continue to remain a key challenge. Companies are
+keeping tight control over their discretionary budgets.
+In response to economic and demand volatility, clients are
+consolidating vendors to achieve transformation objectives
+effectively and efficiently. We are finding good success in many
+such large deals using our differentiated, AI-infused solutions.
+The mega deal with Tryg Insurance is a good example of how we
+scale long standing partnerships with our contextual knowledge,
+unmatched delivery track record and leadership in AI.
+Now I want to move on to another important message.
+In the last few quarters, we have undertaken many internal and
+external transformation initiatives to accelerate the adoption of AI
+within TCS and our clients. We have been engaging with our clients
+in understanding the challenges they are facing in scaling AI and
+collaborating with technology partners and academia to unlock the
+true potential of this technology. This experience gives us the
+confidence to say:
+TCS will become the world’s largest AI-led technology services
+Company, enabling Business, Government and Society.
+This transformation is currently underway.
+Early this year, we expanded our leadership team with Aarthi
+Subramanian joining us as COO and Mangesh Sathe as CSO. We
+also created the new roles of Chief Digital and Information Officer
+(Jana) and Head of AI and Service Integration (Amit Kapur).
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+We are committed to making significant investments towards
+transforming ourselves to realize our vision. Currently, our
+investments are focused on these five pillars:
+1. tcsAI - Internal transformation to Drive an AI-first Culture, Build AI
+solutions, and Scale AI for connected intelligence
+2. Redefining all Services in a Human + AI services model; We have
+established an AI and Services Transformation unit for this purpose.
+3. Building A ‘Future ready’ talent model – We are investing in Future
+ready skills, embracing new ways of working, and recruiting top
+talent locally in the markets we operate.
+4. Making AI real for clients – We are redesigning business value
+chains for every industry; we are also investing in development of
+innovative cross industry solutions leveraging AI.
+5. AI Ecosystem play – We are deepening our partnerships in the AI
+ecosystem, stepping up our efforts in M&A, and foray into new
+business ventures. You would have seen the Press Release earlier
+for ListEngage and new entity for AI Infrastructure in India.
+I'll now invite Samir to share the update on our financial
+performance.
+Samir Seksaria: Thank you, Krithi. Good day everyone.
+In the second quarter of FY26, our revenue was ₹65,799 crore. In
+reported currency, our revenue grew 3.7% QoQ and 2.4% YoY.
+In constant currency, our revenue grew 0.8% QoQ.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Our Q2 operating margin stood at 25.2%, reflecting a sequential
+improvement of 70 basis points. This is excluding one-time
+severance provided this quarter.
+We achieved good growth momentum across all verticals this
+quarter. Our disciplined execution helped us expand our margins
+while making strategic investments. We have prioritized wage hikes,
+building future-ready capabilities and establishing new ecosystem
+partnerships.
+Currency helped support margins by 80 basis points. Giving wage
+hike to our employees was our priority and so we have rolled out
+increments for 80% of our workforce. This increment combined
+with additional Quarterly Variable Allowance (QVA) impacted our
+margins by 70bps, offset by the benefit of 40bps from rebalancing
+of pyramid and 20bps from operating efficiency.
+We continued to make capex investments in infrastructure. A
+couple of examples are:
+• We inaugurated a innovation centre in Singapore, expanding our
+AI research and innovation footprint to 13 hubs globally. This helps
+clients accelerate innovation by providing quicker access to
+advanced capabilities and TCS’ expertise.
+• A new AI-driven operations centre in Mexico City
+• In Europe, we expanded our software-defined vehicle
+innovation capabilities with three new hubs.
+• Recently, we opened our flagship TCS Interactive Design
+Studio in New York City, to help clients create iconic products,
+services, and experiences that are seamless and unified across
+digital ecosystems.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+It is also important to note that we are on a drive to expand our
+already vast pan-India footprint further in both Tier-1 and Tier-2
+cities to the tune of about 50,000 seats in the next 2 to 3 years.
+Our net income margin was 19.6%. Our EPS grew 8.4% Y-o-Y.
+Our accounts receivable was at 75 days outstanding in dollar terms.
+Net cash from operations was $1.5 billion, which is 110.1% of net
+income. Free cash flows were at $1.4 billion and invested funds at
+the end of the period stood at $6.3 billion.
+Our industry leading margins are a vindication of our belief that we
+have the strongest ability to absorb market fluctuations and
+competitive pressures. Secondly growth, when achieved through
+value creation and innovation, will have a positive impact on
+margins over time. We continue to work towards getting back to
+our aspirational band of 26-28%.
+Our financial discipline is also evident in our strong balance sheet,
+robust cash flows, and consistent shareholder payouts. We are
+committed to maintaining a healthy financial position that enables
+us to invest in our bold vision and return value to shareholders.
+This financial strength positions us well in our journey to become
+the world’s largest AI-led technology services Company, to build AI
+centric capabilities, invest in talent development and acquisition,
+strengthen our ecosystem partnerships, while investing in
+infrastructure like data centres and scaling AI platforms.
+Our capital allocation policy remains unchanged. We continue to
+prioritize the return of substantial free cash flow back to
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+shareholders. The Board has recommended a second interim
+dividend of ₹11 per share.
+I would now like to invite Aarthi.
+Aarthi Subramanian: Thank you, Samir. Good evening to all of you.
+As called out by our CEO, we want to become the world’s largest
+AI-led technology services company. Towards this goal we have
+taken a number of steps.
+I will share some perspectives on each of them starting with internal
+AI transformation, that is well underway.
+TCS’ Internal AI transformation:
+We have been focused on our internal transformation journey which
+is now under the broader umbrella of what we call as tcsAI, . We are
+pursuing across three tracks:
+First one is AI-first Culture: To make everyone in TCS to be AI-first,
+we have democratized access to AI Learning by enabling various AI
+tools & environments for our employees to explore, experiment,
+learn and embed AI in their work. The benefit of this is visible in our
+AI-Ready Talent – we now have close to 160,000 associates at higher
+order AI skills. Our leaders are walking the talk - over 10,000 of our
+Sales and Delivery leaders have gone through an immersive and
+hands-on AI Dojo program that we have rolled out.
+I am also happy to share that in our effort to make everyone an AI
+practitioner, we just established a global benchmark in our recently
+concluded Global annual format of tcsAI Hackathon. We saw over
+281,000+ TCSers participating in this hackathon submitting over
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+half a million entries which includes both ideas as well as solution
+base. As we share this with our customers we are hearing
+encouraging response in replicating similar culture change within
+their organization and are keen to work with us to innovate with AI.
+The second initiative as part of the internal transformation is
+‘Building AI first solution’. As part of this we are looking at our
+internal functions like finance, HR, legal and all other internal
+functions and our own IT operation including how we support our
+system as well as build system. One such case in point is HR - we
+have been reimagining how we look at our employee engagements
+with an AI first approach and we are also looking at rolling out a
+learning Co-pilot for every associate.
+Scaling AI: Third aspect of our internal transformation is how do we
+continue to scale these initiatives. We have set up a tcsAI office that
+addresses the three critical foundations of our initiative (a) Scaled
+Agentic AI architecture, (b) Responsible AI use and (c) Platform &
+Partner innovation & IP creation. These foundations are in place and
+continuously evolving within the dynamic ecosystem around us.
+Now let me talk about how we are scaling AI for our customers.
+Making AI Real for our customers:
+The journey of making AI real and experiential for our customer cuts
+across industry value chain, enterprise platforms and solutions. We
+see this journey starting with Ideating and Innovating leading to
+Building and Scaling with AI.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+• We are taking AI close to customers with AI Innovation Days at
+customer locations, TCS Paceports and India Delivery Centers
+• We are leveraging Rapid Builds as an approach delivering
+business outcomes with AI in matter of weeks
+• We are also helping customers scale AI across their enterprise
+through AI Labs, AI Office and AI Platforms.
+We are also building Agentic AI solutions for business value
+chains in each industry and enterprise functions across all our
+industry verticals.
+Moving on to the third pillar of our strategy, we are transforming
+every service line that we operate in and offer to our customers.
+We are reimagining with a ‘Human + AI’ collaboration solutions
+blueprint.
+This blueprint uses our 5 scale AI Autonomy model to define the
+interplay between our employees and AI agent /systems, as we
+progress towards our North Star ambition for each service line, we
+are defining the art of service possible for what the future can look
+for each of this service line
+Sudeep and Krithi will cover the remaining 2 pillars of our strategy
+later in the call.
+Now, I would like to provide a brief update on Cyber Security.
+As all of us know, global businesses are increasingly experiencing
+cyber-threats. These threats are getting more and more
+sophisticated. We are working closely with our customers to
+safeguard their interests. Recent incidents saw some of TCS’s
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+clients becoming victims to these cyber-attacks resulting in severe
+disruptions to their businesses.
+I would like to clarify that there has been no compromise of TCS
+systems, nor any impact to other customers in all these
+incidents. Investigations for these incidents are being managed
+directly by the customers respectively, and TCS is playing a
+significant role in supporting the customers in their recovery efforts.
+These efforts have been positively acknowledged by our customers.
+I would now like to invite Sudeep.
+Sudeep Kunnumal: Thank you, Aarthi. Good evening, all of you.
+In Quarter 2, we announced a wage hike for over 80% of our
+workforce with effect from September 1st. Our Quarterly Variable
+Allowance (QVA) was higher than the last quarter, reflecting our
+commitment to rewarding employees for their contributions. TCS
+has always been first in announcing wage hikes across cycles.
+The IT services industry is rapidly changing with new technologies
+like GenAI, shifts in operating models, and changing client
+expectations. This is a great opportunity for TCS to reposition itself
+and become future-ready. As Krithi outlined, we have embarked on
+our journey to become the world’s largest AI-led technology
+services Company. Building a future-ready talent model is a
+critical and core element of our approach.
+Towards this, we are making efforts across four fronts:
+• Creating personalized learning pathways using Artificial
+Intelligence for our employees. We are also working with
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+academia to introduce skills required for next-generation
+technologies, and human-AI collaboration.
+• Acquiring top talent from industry for cutting edge skills and
+capabilities.
+• Hiring diverse skills locally across geographies. We have
+perfected this model in Latin America and have large local
+workforces in all key geographies including the US, UK and
+Europe, which we will continue to expand.
+• We have released 1% of our workforce, mainly mid and senior
+level with skill and capability mismatch. We are providing the
+impacted employees with benefits, counselling, and
+outplacement support for their transition, as well as severance
+at terms higher than industry standards.
+• Additionally, there has been involuntary attrition as part of
+regular ongoing efforts pertaining to performance and bench
+policies. With the new hires, the releases, and attrition
+(voluntary and involuntary), TCS’ global workforce at the close of
+Q2FY26 stands at 593,314.
+Finally, on H1B, we have significantly localized our workforce in the
+US. Just about ~ 500 associates have travelled to the US in this
+financial year on H-1B. We believe our business model will be able
+to adapt quickly to any changes in immigration policy.
+In Q2, we provided ₹1,135 crore towards severance. The severance
+package is much better than industry standards. We have
+approached this whole exercise with empathy and care.
+We are on a journey to build a stronger future for our associates,
+clients, and all other stakeholders. We will continue to nurture our
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+employees and recruit future relevant skills required for our growth
+across all markets. We will continue to be a net job creator.
+Lastly, we continue to be benchmarked with the best employers
+globally for our workplace practices and policies. In Q2, we won
+more than 23 awards globally across various aspects of HR value
+chain, including our work towards gender equity.
+I will now like to invite Krithi.
+K Krithivasan: Thank you, Sudeep.
+Earlier in the call, I had articulated the 5-pillar strategy to become
+the world’s largest AI-led technology services company. Aarthi
+spoke about our internal transformation - tcsAI and also how we are
+reimagining all service lines and making AI real for our customers.
+Sudeep spoke about the future ready talent model.
+Moving on to the fifth pillar of our strategy, we will be significant
+player in the AI Ecosystem, towards this,
+• We have built strong partnerships with deep tech
+companies, hyperscalers, niche startups, amongst others.
+• We are deepening our participation in the AI ecosystem by
+expanding into adjacencies. We are creating a world class AI
+Infrastructure for all stakeholders including enterprises,
+hyperscalers and sovereign requirements.
+• Earlier this year we announced the launch of TCS
+SovereignSecure™ Cloud. We are seeing very good traction
+for the same in our client base in India.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+• In partnership with IBM and Government of Andhra Pradesh,
+we are deploying India’s largest Quantum computer in the
+country’s first Quantum Valley Tech Park.
+• We have formed strong 360-degree partnerships with all
+major technology players including all the hyperscalers,
+GenAI players, cybersecurity product companies, enterprise
+product companies, and specialist AI-solution providers.
+• Today our Board approved creation of a TCS Subsidiary that
+will focus on building a Sovereign AI datacenter with a
+capacity of up to 1 Giga Watt.
+We have stepped up our efforts in pursuing acquisitions to enhance
+our capabilities including high end services, intellectual property,
+and market presence.
+We have just announced acquisition of ListEngage, a leader in
+marketing tech and Salesforce.
+Our journey to becoming an AI-led organisation is anchored in bold
+transformation—from talent and infrastructure to customer value
+and ecosystem partnerships. With this objective, TCS is poised not
+only to lead the AI revolution but to shape a future where technology
+and human ingenuity together create lasting impact for all. We are
+confident that staying true to our values will lead us to sustainable
+long-term growth with superior profitability.
+I'll now open the line for questions.
+I'll now open the line for questions.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Moderator: Thank you very much. We'll take our first question from the line of
+Yogesh Aggarwal from HSBC Securities. Please go ahead.
+Yogesh Aggarwal: Hi. Thank you so much. So, Krithi, couple of questions. Firstly, the
+heightened investments in AI are a very welcome change. My
+question was, can you provide a little more clarity on the capex
+required? Because 1 gigawatt seems to be a very, very big
+investment.
+I mean global references are almost $20 billion of investment. So,
+what is the time period? what is the kind of capex? And you said it is
+sovereign. So, what does it mean in terms of clientele? Would you
+be selling into your traditional clients or mostly in India? So, a little
+more clarity would be very helpful.
+K Krithivasan: Yogesh, from a capex perspective, while we have set a target of 1
+gigawatt, we will be doing it in phases. We expect to achieve 1
+gigawatt over a period of five to seven years. And our calculation
+roughly is about every 150-megawatt will require a capex of about
+$1 billion. It's not that we are going to put all the money in year one.
+And we also clarified that this would be a combination of equity and
+debt, and we'll also bring in finance partners for the equity. So
+maybe if you require more color, Samir can provide on that.
+The reason that we are saying sovereign cloud is it's going to be
+established in all centers in India. We are expecting all data and
+compute to be hosted in India and not leave the shores of India.
+That's the reason we are saying sovereign data center.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Just to provide more information. Our current objective is to provide
+all passive components. The client whosoever is occupying, they
+will bring in their compute and storage.
+Yogesh Aggarwal: Great. Thank you.
+K Krithivasan: And secondly hoping to sell this to the pure-play AI providers, the
+deep tech companies and the hyperscalers and to a great extent the
+government needs in India and the Indian enterprises or the
+expected participants here.
+Yogesh Aggarwal: Thank you. Secondly, on the growth, you said the demand
+environment hasn't changed and the macro uncertainties are the
+key reason. While the quarter has been a little bit of a beat, the
+current growth rates have not been impacted by deflation on SDLC
+by AI, you think that's not a factor. Is it all macro?
+K Krithivasan: Yogesh, we had better growth compared to Q1. And as I said,
+macros have not changed much. But our deep engagements with
+our clients and the AI solutions, the rapid builds that we take to our
+clients. All of us give us confidence that we will be able to sustain
+the growth momentum or improve the growth momentum
+compared to H1. Otherwise, there's no major change in the demand
+environment.
+Yogesh Aggarwal: Very well, thank you.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Moderator: Thank you. We'll take our next question from the line of Sudheer
+Guntupalli from Kotak Mahindra AMC. Please go ahead.
+Sudheer Guntupalli: Hi Krithi. Thanks for the opportunity. And a follow-up to what
+Yogesh has asked. So, on this AI data center move, currently, do we
+have any tie ups with any of the, let's say, large consortium players
+like a Stargate or any of the deep tech players, either for bringing in
+more equity investments or for being our tenants once this is set up
+in the steady state? And any broad indications on the revenue per
+megawatt you're looking at and the EBITDA margins and the IRR’s
+you are expecting on this data center investment?
+Samir Seksaria: Sudheer, in terms of both, one, Krithi talked about finance partners,
+we are speaking to multiple partners, and we'll finalize in terms of
+combination, it could be one or more coming in. Also in terms of
+customers, as we called out, it would be hyperscalers, India
+enterprises, government, and we look at in terms of overall
+partnership.
+In terms of metrics, too early to call out, we have just set up the
+subsidiary. It would be about 18 to 24 months, when the first
+revenue starts kicking in at the appropriate time, we'll start calling
+out the metrics as well.
+Sudheer Guntupalli: Fair enough, sir. And just to get to understand the operating model
+right. Did you say that we will provide it on a cloud service provider
+basis or a co-location basis or just on a managed services basis?
+Samir Seksaria: On a co-location basis.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Sudheer Guntupalli: Okay. It will be on a co-location basis. Okay sir, thank you and all
+the very best.
+Moderator: Thank you. Next question is from the line of Ankur Rudra from
+JPMorgan. Please go ahead.
+Ankur Rudra: Thank you. I just wanted to understand this AI transformation you're
+doing. What does it entail in terms of existing client engagements?
+Do you have a sense of potential productivity gains or any kind of
+change in scope from a deflation or inflation perspective on your
+existing services as you transform?
+K Krithivasan: Ankur, this whole our belief and confidence in becoming the largest
+AI-led services company is based on the strength of the existing
+client relationships. And the partnerships that we are building with
+all the players in this ecosystem. And we expect every project that
+we do will be AI led.
+So, which means that we'll be offering speed, we'll be offering
+flexibility and there could be productivity gains also in these
+projects, but we'll also be doing projects that could not have been
+done without AI in the past.
+So, our expectation is overall scope of engagement or size of
+engagements would definitely increase. But there would be
+productivity benefits that the clients would get in the individual
+projects. And we also will get some productivity benefits from doing
+these projects because we'll be leveraging AI.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Ankur Rudra: I just want to clarify a couple of things. One, was there any headwind
+on the client this quarter, which had a cybersecurity incident in
+terms of your revenues and margins? And, the second clarification
+was if the redundancy charge, we took this time, given 1% was
+impacted. Should we expect something similar in future quarters
+also?
+K Krithivasan: No. First on the headwind, Ankur, the only headwind was because
+of the nature of the outages they had, we could not start some of the
+projects that we were planning to start, that was the headwind.
+Otherwise, there was no other significant headwind because we are
+working very closely with the customer in helping them recover the
+overall operations.
+The second question on the charges we had taken as severance. As
+we explained before, we would be continuing this exercise
+throughout the year. We are not chasing a particular number here,
+but we will continue to do this throughout the year.
+Whenever we are paying any severance, we'll take that charge
+appropriately in the next two quarters. I cannot quantify what the
+number would be at this time.
+Ankur Rudra: Appreciate it. Thank you and best of luck.
+Moderator: Thank you. Next question is from the line of Ravi Menon from
+Macquarie. Please go ahead.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Ravi Menon: Thank you. Congrats on a very broad-based growth. If I look at the
+data centre investment, again, what really prompted this? Is this
+very unlike, I'd say, approach so far of being asset light.
+K Krithivasan: Yes. Ravi, we've been looking at opportunities to expand our play in
+the overall AI ecosystem. We’ve been working with many of them as
+solution providers, solution integrators, or leveraging the cloud.
+Now in the past, if you look at, we also wanted to expand the
+footprint in India, leveraging the participation we have with all these
+partners.
+As you know, some time ago we've also been in private cloud to a
+limited extent in the past. And then we announced recently the
+Secure Sovereign Cloud for India requirement. We also announced
+participation in the Quantum program with the Andhra Pradesh
+Government.
+We looked at this as an important adjacency that we should enter.
+And with that in mind, and to also strengthen our partnership and
+relationship with the hyperscalers and the deep tech by doing this.
+All this put together, we thought, and of course, the most important
+thing is our calculation of unmet demand; that's going to be in the
+data center space.
+Our calculation shows that we have only 1.2 gigawatt of capacity in
+the country. And in the next five to six years, the demand can go up
+by almost 10 times, whereas the committed capacity is only about
+5 to 6 gigawatts.
+So that is going to leave so much unmet demand. So, with all these
+things put together, we thought it's a good opportunity for us. And
+another point is it also guarantees stable annuity revenue as well.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Ravi Menon: Thanks for a detailed explanation. Second question on the
+productivity improvements that you're seeing in AI. I got it. So, if I
+understand correctly, the primary benefit of GenAI is the application
+development from scratch, right? And that's a relatively actually a
+small part of the overall market that we play in because what we do
+is primarily IT outsourcing, which is application maintenance and
+infrastructure maintenance, things like that, right?
+So would that be right that those activities we already have Level 1
+support more or less automated. So on the existing book of
+business, how should we think about the impact of AI?
+Aarthi Subramanian: Ravi, when you look at the existing book of business, when you look
+at our application support services or our infra services, they are
+increasingly becoming AI led. When you look at how we deliver
+these services, we see significant opportunities to drive productivity
+benefits and drive the quality of the service delivery with AI.
+So that's where the imagination is happening. And the initial
+productivity savings are starting to be seen, and as we increase the
+level of autonomy as we understand these technologies better, we
+should be looking at further productivity benefits.
+Then the second portfolio, which is significantly, again, aided by AI,
+is our software engineering life cycle. Again, starting to see good
+benefits coming in, but then there is an evolution, right? You start
+with single digits, 10% to 15% productivity, then there's an evolution
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+to reach 20%-25%, but that's a journey to achieve a higher level of
+autonomy, and that's what we are driving.
+The third area where we are seeing significant, I would say,
+opportunity is around AI-powered modernization. As you would
+appreciate, many of our customers globally have a lot of technology
+debt that they have carried over the years.
+GenAI and Agentic AI are powerful tools to really address the tech
+debt. You can use these AI, GenAI to understand the legacy code
+and forward engineer and deliver the new code. So, modernization
+with AI is a huge opportunity, and we are seeing significant uptick
+across customers, but I would say right now significantly in BFSI.
+And we expect to replicate this across other verticals.
+Ravi Menon: And if I recall right, you already announced a North American bank
+that's doing a complete mainframe organization using AI right now?
+Aarthi Subramanian: Yes.
+Moderator: Thank you. We'll take our next question from the line of Gaurav
+Rateria from Morgan Stanley. Please go ahead.
+Gaurav Rateria: My first question is about the investment in the new subsidiary on
+data center. Should we look at this investment as a standalone new
+business you need for providing co-location services or should we
+think about having a very thick synergy with your existing portfolio of
+services using this asset intensive business to build some services
+on top of it?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Samir Seksaria: The business itself, we'll be keeping it separate. It will have separate
+management bandwidth. We are in the process of putting in an
+entirely separate team outside of TCS for this, but it will have
+adjacencies with TCS.
+It's a natural extension in terms of what partnerships we are looking
+at creating with hyperscalers, what services we want to provide to
+our customers, and this nicely fits in as an adjacency.
+Aarthi Subramanian: And if I may just add to what Samir said, Gaurav, if you look at the
+entire AI stack, starting from infrastructure as the starting layer, all
+the way up to the apps and the agentic apps at the most layer, this
+gives us the coverage across the AI technology stack.
+Gaurav Rateria: My second question is the interplay between humans and AI that
+you talked about. How is it going to change the delivery model and
+the billing models? Do you think that will incrementally move away
+from effort-based business models to outcome-based business
+models? Is that how the business should evolve, and there should
+be more nonlinearity in the business going forward?
+Aarthi Subramanian: I think that is the direction in which the model is going to evolve.
+These are initial days, but we are starting to make commitments on
+outcome-based projects with the select customers. And there are
+learnings, and this is a model that we see increasingly evolving and
+becoming more mainstream with customers.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Gaurav Rateria: My last question is whether we should evaluate, or should we
+consider this new adjacency as a completely different business
+with respect to the return ratio profile given that right now, we are
+very asset-light business and having a very different return ratio
+profile. Just trying to understand how we should think from a
+medium-term perspective of the company?
+Samir Seksaria: As we said, this is an investment which will have partners coming
+in. From a profitability perspective, I don't think at an overall TCS
+level, it will not be margin dilutive. Return ratios, also given the
+overall size expected over the years, should not have a significant
+impact. Our ROEs are currently over 50%. So, we still expect it to be
+benchmarked.
+Gaurav Rateria: Okay. Thank you so much.
+Moderator: Thank you. The next question from the line of Surendra Goyal from
+Citi. Please go ahead.
+Surendra Goyal: In your prepared remarks, you said that FY '26 growth in international
+business will be better than FY '25. So just wanted to clarify if this is
+in constant currency terms, USD terms? And could you also tell us
+what the comparable growth in FY '25 was?
+Samir Seksaria: It was about 70 basis points, and it is in constant currency terms.
+Surendra Goyal: So constant currency basis, 70 basis points and this year will be
+better than 70 basis points. Understood. The second question is
+with the release of 1% of the workforce; the headcount declined by
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+20,000 people, or 3%. And then what you had announced earlier
+was 2%. So, should we expect a similar kind of head count
+reduction in the next quarter as well?
+Sudeep Kunnumal: The 20,000 net head count decline is a factor of voluntary and
+involuntary attrition. So, you should consider all of that. But as we
+announced again the 2 percent, we are midway, so we have done
+approximately 1 percent of it.
+And like what Krithi just mentioned, we don't have a target. We are
+not chasing a target. We'll continue to evaluate everyone after all
+the investment in learning and development that we've done, where
+we find certain mid and senior level people are not able to find the
+right role based on their seniority. Those are the ones that we will
+release with a lot of care.
+Surendra Goyal: So just to clarify, there will be no involuntary attrition beyond the 1%
+number. Is that understanding, correct?
+Sudeep Kunnumal: No, I didn't say that. We estimate it to be approximately 2%. We are
+currently at 1%, and we will continue to evaluate people whom we
+can redeploy. The ones we are not able to re-deploy; those are the
+people that we will release.
+Surendra Goyal: One last question, Krithi, Aarthi, I think, in terms of the data center
+business, I think there are a lot of businesses which are synergistic
+to AI if we take such a broad view of things. So, is there clarity in
+terms of that, okay, what other areas could we possibly invest in?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+K Krithivasan: We've been evaluating multiple opportunities. As I said, this one
+looked more attractive to us based on the discussion that we've
+been having with the potential buyers, the demand commitment we
+could get, the kind of revenue profile, the committed annuity
+revenue profile it has and the potential unmet demand we'll have in
+India, all combined look most attractive for us to start with. But we'll
+continue to explore if there are other adjacencies that come up,
+we'll explore.
+Surendra Goyal: And Samir, just one clarification on ROE of this new business. What
+is the expected ROE versus your current ROE of 50% plus, as you
+highlighted earlier?
+Samir Seksaria: The ROE of this new business, as you all rightly identified, that's
+capital-intensive and will be low. What I'm saying is, overall TCS ROE
+will remain market benchmarked.
+Surendra Goyal: Understood. Thank you.
+Moderator: Thank you. We'll take our next question from the line of Kumar
+Rakesh from BNP Paribas. Please go ahead.
+Kumar Rakesh: Hi, thank you for taking my question. My first question was for
+clarification. So, the statement which you made is that TCS intends
+to become the world's largest AI-led technology services company.
+How are you defining that as the largest AI-led technology company,
+which metrics you are targeting at?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+K Krithivasan: Kumar, based on the discussions that we've been having with
+customers, and Aarthi talked about the internal training we did,
+Hackathon we did, and the number of participations.
+So, we believe that in multiple metrics, in terms of the number of
+people participating, the number of projects we'll be doing. All
+combined definitely, we aspire to become the largest.
+If you ask me for one single metric today, I don't have it, to be
+honest. We will be evolving. How do we measure ourselves on a
+year-on-year growth and improve on this, so that's the honest
+answer. But we are confident that we'll be able to have the biggest
+impact that we'll deliver in the industry because of leveraging AI.
+Kumar Rakesh: Got it. Thank you for that. My second question was on margins. So,
+we have seen sequential improvement now the wage hike is behind
+you, and pyramid rationalization also will start kicking in and going
+by your comment, your second half growth should be better than
+first half. So, for the rest of the year, is it fair to expect the margin
+should continue to see an expansion?
+Samir Seksaria: Kumar, as you know, in H1, we have improved 100 basis points. We
+will continue our journey towards our aspirational band of getting
+closer to 26%. But the puts and takes on it have been in terms of the
+implications which you called out.
+The wage hike was in Q2 for 1 month; it will be for the full quarter
+next quarter. Also, in terms of the investments which we have called
+out would have an impact we have been investing, and this would
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+have increased investment requirements. Irrespective of it, we
+would want to inch closer to 26%.
+Kumar Rakesh: Great. Thanks a lot for that.
+Moderator: Thank you. Next question is from the line of Nitin Padmanabhan
+from Investec. Please go ahead.
+Nitin Padmanbhan: Good evening. Thank you for the opportunity. Just a couple of
+questions. So, one is in the last quarter on the deal, well we have
+had very good deals on a consistent basis. You had alluded to three
+points that were not leading to better revenue conversion. One of
+them being projects starting at a lower pace and the other one being
+some projects being paused. How is that sort of evolving at the
+moment?
+K Krithivasan: Nitin, at that point like we probably as I was alluding to, I would say,
+much improved situation. The number of deferrals or projects
+getting paused has been reduced compared to last quarter.
+Nitin Padmanabhan: Sure. So incrementally, we should see better accretion. At least
+growth should be in the positive territory here on and you have
+alluded to that?
+K Krithivasan: That is our hope.
+Nitin Padmanabhan: Correct. Any incremental update on, let's say, BFSI or consumer
+business and Europe, I think last quarter you were a little tepid from
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+a commentary on those three. So just wanted to have thoughts
+there?
+K Krithivasan: See, if you look at the growth momentum, all of them have
+improved. BFSI continues to grow globally, particularly BFSI North
+America has done well. And similarly, if you look at Europe, it has
+done well compared to last quarter.
+And then even if you take Consumer Business, the degrowth has
+been largely arrested. And so overall we expect most of the industry
+segments to bend the curve subject to seasonality of Q3, but they'll
+be getting into growth momentum. Of course, the Q3 seasonality
+would be in play.
+Nitin Padmanabhan: On the data center capex, maybe roughly based on what you said,
+it's maybe around $6.5 billion over a 7-year period. From a cadence
+perspective, how should we think about it with the early part of the
+7 years versus the later part? So would the capex be partially by
+partners and partially by us. Just clarification on both?
+K Krithivasan: Yes, definitely, it will be partially by partners, partly by us. And at this
+time we told you it's about 5 to 7 years for the complete build-out of
+1 gigawatt. Currently, we expect it will be more uniform, but if there
+is an increased demand, if we have to accelerate, we will definitely
+calibrate it at that time, but current planning is that it will be phased
+out uniformly over the 6 years.
+Nitin Padmanabhan: And just one last one if I may. Any color on the kind of deals in terms
+of sizing? Are you seeing a return of smaller deals or discretionary,
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+any improvements there that you have seen during the quarter or
+directionally?
+K Krithivasan: No significant improvement, but at the same time, when Aarthi
+spoke, she was mentioning about the number of rapid build projects
+that we are doing. They are smaller in nature, smaller tenure which
+we tend to complete them within a quarter.
+Such projects are increasing in number and we also find more
+modernization projects. Some of them tend to be shorter. While a
+large mainframe modernization will take a long time, some of the
+other modernizations can also be completed in a short time.
+So, such projects are increasing. But overall, if you ask me, is the
+number of short-term projects increasing compared to larger
+projects. There is no significant change.
+Nitin Padmanabhan: Perfect. Thank you so much, Krithi and all the very best.
+K Krithivasan: Thank you.
+Moderator: Thank you. Next question is from the line of Abhishek Kumar from
+JM Financial. Please go ahead.
+Abhishek Kumar: Hi, good evening. Two quick questions about the cybersecurity
+instance, just wanted to check if the issue has now been resolved
+and the projects you said which couldn't start, have they now
+started resuming?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Aarthi Subramanian: Yes, I think the recovery process has been completed. And all the
+sales and manufacturing systems are all up, and this happened
+early this week. So, I think we expect the projects to pick-up in the
+coming weeks.
+Abhishek Kumar: Great. That's good to hear. Second, near term especially 3Q, any
+early indication of how furloughs are looking this year compared to
+previous years. Generally, we have seen that in a weak demand
+environment furloughs tend to be longer. Any such signs at this
+stage?
+K Krithivasan: At this time, we are planning based on the inputs we have, it's likely
+to be similar to last year.
+Abhishek Kumar: Okay. Sure. Thank you and all the best.
+Moderator: Thank you. Next question is from the line of Vibhor Singhal from
+Nuvama Equities. Please go ahead.
+Vibhor Singhal: Thanks for taking my question. So Krithi, just once again, on the AI
+data center investment. Given that you mentioned that it's going to
+be more like a sovereign data center and given the GDPR regulations
+across the world, is it fair to say that this will have limited synergies
+with our existing clients and most of the clients that we would be
+deploying in this data center will be more of India based and that is
+where we would be looking for any synergies if at all from our current
+sector?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+K Krithivasan: It's a passive data center. The likely users could be the hyperscalers,
+deep tech who want to do the training, inferencing in India or Indian
+enterprises, they want to leverage it as a private cloud. We are not
+expecting our overseas customers to be hosted, specifically in
+India. It's more like what we are offering for these hyperscalers and
+India-based businesses or deep tech.
+Vibhor Singhal: And you mentioned that we've basically gone ahead with this, as for
+the demand commitments and the annuity commitments. I would
+assume we would already have conversations with.
+K Krithivasan: I did not say demand commitment. I'm saying that there is a lot of
+unmet demand in the market that led us to getting into this
+business.
+Vibhor Singhal: So, are there any MoUs that we have signed or any early
+connections that we have got into potential clients?
+K Krithivasan: We are having quite a few conversations with our customers, to
+explore the demand, and we are quite positive about the prospects.
+Vibhor Singhal: One last question from my side. In terms of the revenue this quarter,
+we saw a sharp jump in the sale of equipment and software licenses
+revenue. Almost more than half of the incremental revenue in this
+quarter came from that. Is it just a quarterly specific thing? Or do
+you think there could be a trend going forward as well?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+Samir Seksaria: The increase of the equipment and software expenses this quarter
+has been about ₹250 crores. BSNL this quarter has remained flat.
+Vibhor Singhal: I mean it's expected to remain in the same range as it has been?
+Samir Seksaria: We have Q3 seasonality, which you'd typically see. Other than that,
+we don’t expect to see any material change, unless we get the BSNL
+PO later.
+Vibhor Singhal: Thank you so much for taking my question. I wish you all the best.
+Moderator: Thank you. We'll take our next question from the line of Rishi
+Jhunjhunwala from IIFL. Please go ahead.
+Rishi Jhunjhunwala: Yes, thanks for the opportunity. So, just harping a little bit more on
+that AI investment, a couple of reasons that you provide was that
+the demand in this space is very high and provides a new stream of
+annuity revenues. But outside of that, does it put us in any kind of
+disadvantage versus our peers, if we are not doing this investment
+or does it put us at an advantage versus other peers on the global
+revenues that we earn here?
+If that is not the case, then I mean if you look at the overall
+technology spending landscape, then there would be a lot of
+pockets around software and solutions, where those kinds of
+investments probably would have been more synergistic to us.
+K Krithivasan: Rishi, there are definitely a number of places where we can invest.
+We took this place because it creates a synergy with our existing
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+relation with hyperscalers, who also happen to be our large clients
+as well, large GTM partners as well. And we also have deep
+relationships with all the AI native companies, who could
+potentially be using it for their India requirement.
+So, we believe that there will be a natural synergy that will be
+created. As I said, we want to play in this ecosystem strongly.
+K Krithivasan: And, it gives another group synergy as well. If you look at the Tata
+Group companies are in the power, real estate, project
+management business.
+Aarthi Subramanian: Tata Communication
+K Krithivasan: Tata Communication. So there is a different kind of synergy we can
+build in here. But from a client perspective, we believe the strong
+collaboration can be derived of this one.
+Aarthi Subramanian: And the Tata Group synergy, we see this as a very unique Tata
+advantage.
+Rishi Jhunhunwala: Understood. And the second question is, I think in the opening
+remarks, you hinted that while we have done this one acquisition,
+there seems to be some focus around trying do more acquisitions
+as well. I guess this is something we've done after almost 10 years,
+so should we assume that our acquisition intensity may also
+potentially go up in the coming years? And how does that change
+our capital payout policy, if at all?
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+K Krithivasan: Yes. We are very actively looking at more opportunities for
+acquisitions. And capital payout policy, currently; the stated policy
+continues to be to return 80% to 100%.
+Samir Seksaria: Of substantial free cash flows and that is after all investments.
+K Krithivasan: But so, but if we end up making a huge acquisition that impact our
+ability to do a cash flow, we will be upfront about it.
+Rishi Jhunjhunwala: Understood. All right, thank you sir.
+Moderator: Ladies and gentlemen, we'll take that as a last question for today. I
+now hand the conference over to management for closing
+comments. Over to you.
+K Krithivasan: Thank you, operator.
+• In Q2 FY26, our Revenue grew 0.8% sequentially in constant
+currency, with an operating margin of 25.2% and a net margin of
+19.6%. We saw good growth momentum across most verticals,
+service lines and geographies this quarter.
+• International business fuelled growth, along with India and
+emerging markets performing well.
+• Our TCV was robust, at $10 billion in Q2, which grew 16% YoY,
+including a mega deal win, using AI-enabled differentiated
+solutions.
+• We reiterate our outlook for FY26 International Revenue growth
+being better than last year.
+• TCS will continue to be a key jobs provider in the industry.
+
+Tata Consultancy Services Earnings Conference Call
+October 09, 2025,19:00 hrs IST (09:30 hrs US ET)
+• We want to become the the world’s largest AI-led technology
+services Company, enabling Business, Government and
+Society.
+With that, we wrap up our call today. Thank you all for joining us and
+wish you and your families a very happy festive season ahead.
+Thank you.
+Moderator: Thank you, members of the management. On behalf of TCS, that
+concludes this conference call. Thank you for joining us, and you
+may now disconnect your lines.
+Note: This transcript has been edited for readability and does not purport to be a verbatim
+record of the proceedings.
