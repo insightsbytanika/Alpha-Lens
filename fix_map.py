@@ -1,28 +1,7 @@
-"""
-signal_correlator.py
-AlphaLens - Week 5
-Hedging scores aur stock price movement ko correlate karta hai.
-Pearson correlation + p-value nikalta hai.
-"""
-
-import sys
+﻿import re
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
-import pandas as pd
-import numpy as np
-from scipy import stats
-from config import DIR_PROCESSED, DIR_PRICES
-import logging
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s  %(levelname)s  %(message)s",
-    datefmt="%H:%M:%S",
-)
-log = logging.getLogger(__name__)
-
-TRANSCRIPT_MAP = {
+new_map = """TRANSCRIPT_MAP = {
     "AXISBANK_Q1FY23_25Jul2022_clean": ("AXISBANK.NS", "2022-07-25"),
     "AXISBANK_Q1FY24_26Jul2023_clean": ("AXISBANK.NS", "2023-07-26"),
     "AXISBANK_Q1FY25_24Jul2024_clean": ("AXISBANK.NS", "2024-07-24"),
@@ -120,118 +99,15 @@ TRANSCRIPT_MAP = {
     "WIPRO_Q4FY26_17Apr2026_clean": ("WIPRO.NS", "2026-04-17"),
 }
 
-def get_hedging_score(file_stem: str) -> float:
-    """Transcript ki hedging CSV padhke overall hedging % nikalta hai."""
-    hedging_path = DIR_PROCESSED / (file_stem + "_hedging.csv")
-    if not hedging_path.exists():
-        log.warning(f"  Hedging file nahi mili: {hedging_path}")
-        return None
+"""
 
-    df = pd.read_csv(hedging_path)
-    score = round(df["is_hedging"].sum() / len(df), 4)
-    return score
+path = Path("backtesting/signal_correlator.py")
+content = path.read_text(encoding="utf-8")
+pattern = re.compile(r"TRANSCRIPT_MAP = \{.*?\n\}\n\n", re.DOTALL)
+new_content, count = pattern.subn(new_map, content, count=1)
 
-def get_price_return(ticker: str, call_date: str, days: int) -> float:
-    """
-    Call ke baad kitne din mein stock kitna gaya.
-    days = 1, 3, ya 7
-    """
-    price_file = DIR_PRICES / f"{ticker.replace('.NS', '')}_prices.csv"
-    if not price_file.exists():
-        log.warning(f"  Price file nahi mili: {price_file}")
-        return None
-
-    df = pd.read_csv(price_file, index_col="date", parse_dates=True)
-    df = df.sort_index()
-    try:
-        # Call date ke baad ki prices
-        future = df[df.index > call_date]
-        if len(future) < days:
-            log.warning(f"  {ticker} ke paas {days} din ka data nahi")
-            return None
-
-        price_day0 = df[df.index <= call_date]["close"].iloc[-1]
-        price_dayN = future["close"].iloc[days - 1]
-        return_pct = round((price_dayN - price_day0) / price_day0 * 100, 4)
-        return return_pct
-
-    except Exception as e:
-        log.warning(f"  Price return error {ticker}: {e}")
-        return None
-    
-def build_dataset() -> pd.DataFrame:
-    """Saare transcripts ka hedging score aur price returns ek table mein."""
-    rows = []
-
-    for file_stem, (ticker, call_date) in TRANSCRIPT_MAP.items():
-        log.info(f"Processing: {file_stem[:40]}...")
-
-        hedging = get_hedging_score(file_stem)
-        if hedging is None:
-            continue
-
-        r1 = get_price_return(ticker, call_date, 1)
-        r3 = get_price_return(ticker, call_date, 3)
-        r7 = get_price_return(ticker, call_date, 7)
-
-        rows.append({
-            "file":         file_stem[:40],
-            "ticker":       ticker,
-            "call_date":    call_date,
-            "hedging_pct":  hedging,
-            "return_t1":    r1,
-            "return_t3":    r3,
-            "return_t7":    r7,
-        })
-
-    return pd.DataFrame(rows)
-
-
-def run_correlation(df: pd.DataFrame, return_col: str):
-    """Hedging % aur stock return ka Pearson correlation nikalta hai."""
-    clean = df[["hedging_pct", return_col]].dropna()
-
-    if len(clean) < 3:
-        log.warning(f"  {return_col}: kam data hai — skip")
-        return
-
-    corr, pvalue = stats.pearsonr(clean["hedging_pct"], clean[return_col])
-
-    log.info(f"  {return_col}:")
-    log.info(f"    Correlation : {round(corr, 4)}")
-    log.info(f"    P-value     : {round(pvalue, 4)}")
-    if pvalue < 0.05:
-        log.info(f"    ✓ SIGNIFICANT — signal real hai!")
-    else:
-        log.info(f"    ✗ Not significant yet — aur data chahiye")
-
-
-def main():
-    log.info("=" * 55)
-    log.info("AlphaLens  |  Signal Correlator  |  Week 5")
-    log.info("=" * 55)
-
-    df = build_dataset()
-
-    if df.empty:
-        log.error("Koi data nahi mila — TRANSCRIPT_MAP check karo")
-        return
-
-    log.info(f"\n  {len(df)} transcripts ka data ready\n")
-    log.info(df[["ticker", "call_date", "hedging_pct",
-                 "return_t1", "return_t3", "return_t7"]].to_string())
-
-    log.info("\n-- Correlation Results " + "-" * 32)
-    run_correlation(df, "return_t1")
-    run_correlation(df, "return_t3")
-    run_correlation(df, "return_t7")
-
-    out = Path("backtesting/results/correlation_results.csv")
-    out.parent.mkdir(exist_ok=True)
-    df.to_csv(out, index=False)
-    log.info(f"\n  Results saved: {out.resolve()}")
-    log.info("-" * 55)
-
-
-if __name__ == "__main__":
-    main()
+if count == 0:
+    print("ERROR: purana TRANSCRIPT_MAP nahi mila — replace nahi hua")
+else:
+    path.write_text(new_content, encoding="utf-8")
+    print(f"SUCCESS: TRANSCRIPT_MAP replace ho gaya, {new_content.count('.NS')} tickers mile")

@@ -39,6 +39,39 @@ HEDGING_WORDS = [
     "monitor", "monitoring",
     "cautious", "caution",
 ]
+def extract_management_names(text: str) -> list:
+    """Transcript ke shuru se Management list ke naam nikalta hai."""
+    match = re.search(r'MANAGEMENT:(.*?)Moderator:', text, re.DOTALL | re.IGNORECASE)
+    if not match:
+        return []
+    block = match.group(1)
+    names = []
+    for line in block.split('\n'):
+        name_match = re.search(r'(?:MR\.|MS\.|DR\.)\s+([A-Z\s]+?)\s*[\u2013\u2014-]', line, re.IGNORECASE)
+        if name_match:
+            names.append(name_match.group(1).strip())
+    return names
+
+def tag_speaker_lines(text: str, mgmt_names: list) -> list:
+    """
+    Har line ko 'executive' ya 'non-executive' tag karta hai,
+    speaker ke naam ke basis pe. Continuation lines (bina naye
+    speaker ke) pichhle tag ko carry karti hain.
+    """
+    mgmt_last_names = set(name.split()[-1].lower() for name in mgmt_names)
+    lines = text.split('\n')
+    tagged_lines = []
+    current_tag = 'non-executive'  # default jab tak pehla speaker na mile
+
+    for line in lines:
+        speaker_match = re.match(r'^([A-Za-z\s]+):\s', line)
+        if speaker_match:
+            speaker = speaker_match.group(1).strip()
+            speaker_last = speaker.split()[-1].lower() if speaker else ''
+            current_tag = 'executive' if speaker_last in mgmt_last_names else 'non-executive'
+        tagged_lines.append((current_tag, line))
+
+    return tagged_lines
 
 def detect_hedging(sentence: str) -> dict:
     """
