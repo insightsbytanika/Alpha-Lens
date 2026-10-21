@@ -37,7 +37,6 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-
 # ── Core function ─────────────────────────────────────────────────────────────
 def fetch_price_history(ticker: str) -> pd.DataFrame | None:
     """

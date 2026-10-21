@@ -99,15 +99,31 @@ def process_file(txt_path: Path) -> Path:
     log.info(f"Processing: {txt_path.name}")
     text = txt_path.read_text(encoding="utf-8")
 
-    sentences = [s.strip() for s in text.replace("\n", " ").split(".") if len(s.strip()) > 20][20:]
-    log.info(f"  {len(sentences)} sentences mile")
+    # Speaker tagging — kaun executive hai, kaun nahi
+    mgmt_names = extract_management_names(text)
+    tagged_lines = tag_speaker_lines(text, mgmt_names)
+
+    # Tagged lines ko wapas text mein jodo, lekin tag info sath rakho
+    # Har line ke saath uska tag jod ke ek naya text banate hain,
+    # phir sentence split karte hain, aur tag ko sentence ke sath map karte hain
+    combined = []
+    for tag, line in tagged_lines:
+        for part in line.split('.'):
+            part = part.strip()
+            if len(part) > 20:
+                combined.append((tag, part))
+
+    # Pehle 20 (boilerplate) skip karo, jaisa pehle karte the
+    combined = combined[20:]
+    log.info(f"  {len(combined)} sentences mile ({len(mgmt_names)} management names mile)")
 
     results = []
-    for i, sent in enumerate(sentences):
+    for i, (tag, sent) in enumerate(combined):
         hedging = detect_hedging(sent)
         results.append({
             "sentence_id":   i,
             "sentence":      sent,
+            "speaker_tag":   tag,
             **hedging,
         })
 
@@ -116,7 +132,10 @@ def process_file(txt_path: Path) -> Path:
     df.to_csv(out_path, index=False)
 
     hedging_count = df["is_hedging"].sum()
-    log.info(f"  {hedging_count} hedging sentences mile {len(df)} mein se")
+    exec_hedging_count = df[df["speaker_tag"] == "executive"]["is_hedging"].sum()
+    exec_total = (df["speaker_tag"] == "executive").sum()
+    log.info(f"  {hedging_count} hedging sentences (all speakers) mile {len(df)} mein se")
+    log.info(f"  {exec_hedging_count} hedging sentences (executive-only) mile {exec_total} mein se")
     log.info(f"  -> Saved: {out_path}")
     return out_path
 
