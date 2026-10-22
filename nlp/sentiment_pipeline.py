@@ -6,11 +6,15 @@ Input: data/processed/ ki clean .txt files
 Output: data/processed/ mein _sentiment.csv
 """
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from transformers import BertTokenizer, BertForSequenceClassification
 from transformers import pipeline
-from pathlib import Path
 import pandas as pd
 import logging
+from nlp.speaker_filter import filter_executive_text   # sirf management ki lines score hongi
 
 # Config
 INPUT_DIR  = Path("data/processed")
@@ -71,6 +75,7 @@ def process_file(nlp, txt_path: Path) -> Path:
     """Ek transcript file li , score kari, CSV save kari."""
     log.info(f"Processing: {txt_path.name}")
     text = txt_path.read_text(encoding="utf-8")
+    text = filter_executive_text(text)   # moderator/analyst/boilerplate hata do (hedging_detector jaisa hi)
     results = score_sentences(nlp, text)
 
     if not results:

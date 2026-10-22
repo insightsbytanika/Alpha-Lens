@@ -1,14 +1,31 @@
 """
 signal_correlator.py
-AlphaLens - Week 5
-Hedging scores aur stock price movement ko correlate karta hai.
-Pearson correlation + p-value nikalta hai.
+AlphaLens - Week 5 (v2)
+Hedging / sentiment signals aur stock price movement ko correlate karta hai.
+
+v2 changes:
+  * call date: data/call_dates_verified.json se (filename date nahi - Infosys/Wipro
+    ke filenames filing date the, call se 1-5 din baad) -> ingestion/verify_call_dates.py
+  * ABNORMAL returns = stock return - Nifty 50 return (same window). Raw return mostly
+    market move hota hai.
+  * hedging_z / net_sentiment_z : company ke apne average ke relative (TCS naturally
+    Axis se zyada hedge kar sakta hai - hum company identity nahi, "us company ke liye
+    unusual" signal naapna chahte hain). Note: mean poore sample se liya hai.
+  * Pearson + Spearman dono (returns mein outliers hote hain)
+  * Primary test PEHLE se fixed: hedging_z -> abn_t3. Baaki sab exploratory hain aur
+    Bonferroni threshold ke saath report hote hain (24 tests mein se kuch p<0.05 aana
+    chance se bhi normal hai).
+
+Return window: close-to-close. Day0 = call date (ya uske pehle ka last trading close,
+weekend/holiday ho to). T+N = Day0 ke baad N-th trading day ka close. Zyadatar calls
+market ke baad hoti hain, isliye T+1 pehla tradable reaction day hota hai.
 """
 
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+import json
 import pandas as pd
 import numpy as np
 from scipy import stats
@@ -120,116 +137,172 @@ TRANSCRIPT_MAP = {
     "WIPRO_Q4FY26_17Apr2026_clean": ("WIPRO.NS", "2026-04-17"),
 }
 
-def get_hedging_score(file_stem: str) -> float:
-    """Transcript ki hedging CSV padhke overall hedging % nikalta hai."""
-    hedging_path = DIR_PROCESSED / (file_stem + "_hedging.csv")
-    if not hedging_path.exists():
-        log.warning(f"  Hedging file nahi mili: {hedging_path}")
+BENCHMARK_FILE  = "NIFTY50"   # data/prices/NIFTY50_prices.csv  (price_fetcher.py banata hai, ^NSEI se)
+CALL_DATES_FILE = Path("data/call_dates_verified.json")
+HORIZONS        = (1, 3, 7)
+PRIMARY_SIGNAL, PRIMARY_RETURN = "hedging_z", "abn_t3"
+
+_PRICE_CACHE = {}
+
+
+def load_call_dates() -> dict:
+    """Verified call dates (stem -> 'YYYY-MM-DD'). Missing ho to filename date fallback."""
+    if not CALL_DATES_FILE.exists():
+        log.warning("  data/call_dates_verified.json nahi mili - filename dates use ho rahi hain!")
+        log.warning("  Pehle chalao: python ingestion/verify_call_dates.py")
+        return {}
+    return {k: v["call_date"] for k, v in json.loads(CALL_DATES_FILE.read_text()).items()}
+
+
+def load_prices(name: str):
+    """data/prices/{name}_prices.csv, date-sorted, tz-naive. Cached."""
+    if name in _PRICE_CACHE:
+        return _PRICE_CACHE[name]
+    path = DIR_PRICES / f"{name}_prices.csv"
+    df = None
+    if path.exists():
+        df = pd.read_csv(path, index_col="date", parse_dates=True).sort_index()
+        if getattr(df.index, "tz", None) is not None:
+            df.index = df.index.tz_localize(None)
+    else:
+        log.warning(f"  Price file nahi mili: {path}")
+    _PRICE_CACHE[name] = df
+    return df
+
+
+def get_hedging_score(file_stem: str):
+    """Executive sentences mein se hedging wale sentences ka fraction."""
+    path = DIR_PROCESSED / (file_stem + "_hedging.csv")
+    if not path.exists():
+        log.warning(f"  Hedging file nahi mili: {path}")
         return None
+    df = pd.read_csv(path)
+    return round(df["is_hedging"].sum() / len(df), 4) if len(df) else None
 
-    df = pd.read_csv(hedging_path)
-    score = round(df["is_hedging"].sum() / len(df), 4)
-    return score
 
-def get_price_return(ticker: str, call_date: str, days: int) -> float:
-    """
-    Call ke baad kitne din mein stock kitna gaya.
-    days = 1, 3, ya 7
-    """
-    price_file = DIR_PRICES / f"{ticker.replace('.NS', '')}_prices.csv"
-    if not price_file.exists():
-        log.warning(f"  Price file nahi mili: {price_file}")
+def get_net_sentiment(file_stem: str):
+    """Mean(positive) - mean(negative) FinBERT probability. Sentiment CSV na ho to None."""
+    path = DIR_PROCESSED / (file_stem + "_sentiment.csv")
+    if not path.exists():
         return None
+    df = pd.read_csv(path)
+    return round(df["positive"].mean() - df["negative"].mean(), 4) if len(df) else None
 
-    df = pd.read_csv(price_file, index_col="date", parse_dates=True)
-    df = df.sort_index()
-    try:
-        # Call date ke baad ki prices
-        future = df[df.index > call_date]
-        if len(future) < days:
-            log.warning(f"  {ticker} ke paas {days} din ka data nahi")
-            return None
 
-        price_day0 = df[df.index <= call_date]["close"].iloc[-1]
-        price_dayN = future["close"].iloc[days - 1]
-        return_pct = round((price_dayN - price_day0) / price_day0 * 100, 4)
-        return return_pct
-
-    except Exception as e:
-        log.warning(f"  Price return error {ticker}: {e}")
+def window_return(df, call_date: str, days: int):
+    """Close-to-close % return: last close on/before call_date -> days-th trading close after."""
+    if df is None or "close" not in df:
         return None
-    
+    ts = pd.Timestamp(call_date)
+    past, future = df[df.index <= ts], df[df.index > ts]
+    if past.empty or len(future) < days:
+        return None
+    p0, pn = past["close"].iloc[-1], future["close"].iloc[days - 1]
+    return round((pn / p0 - 1) * 100, 4)
+
+
 def build_dataset() -> pd.DataFrame:
-    """Saare transcripts ka hedging score aur price returns ek table mein."""
+    """Har transcript: signals + raw returns + Nifty-relative (abnormal) returns."""
+    call_dates = load_call_dates()
+    bench = load_prices(BENCHMARK_FILE)
+    if bench is None:
+        log.warning("  Nifty 50 prices nahi mile -> abnormal returns NaN rahenge. "
+                    "Chalao: python ingestion/price_fetcher.py (ab ^NSEI bhi fetch karta hai)")
+
+    n_files = len(list(DIR_PROCESSED.glob("*_clean.txt")))
+    if n_files != len(TRANSCRIPT_MAP):
+        log.warning(f"  MISMATCH: {n_files} transcript files vs {len(TRANSCRIPT_MAP)} TRANSCRIPT_MAP entries")
+
     rows = []
-
-    for file_stem, (ticker, call_date) in TRANSCRIPT_MAP.items():
-        log.info(f"Processing: {file_stem[:40]}...")
-
-        hedging = get_hedging_score(file_stem)
+    for stem, (ticker, fname_date) in TRANSCRIPT_MAP.items():
+        hedging = get_hedging_score(stem)
         if hedging is None:
             continue
+        call_date = call_dates.get(stem, fname_date)
+        stock = load_prices(ticker.replace(".NS", ""))
 
-        r1 = get_price_return(ticker, call_date, 1)
-        r3 = get_price_return(ticker, call_date, 3)
-        r7 = get_price_return(ticker, call_date, 7)
+        row = {"file": stem[:40], "ticker": ticker, "call_date": call_date,
+               "filename_date": fname_date, "hedging_pct": hedging,
+               "net_sentiment": get_net_sentiment(stem)}
+        for n in HORIZONS:
+            r = window_return(stock, call_date, n)
+            b = window_return(bench, call_date, n)
+            row[f"return_t{n}"] = r
+            row[f"abn_t{n}"] = round(r - b, 4) if (r is not None and b is not None) else None
+        rows.append(row)
 
-        rows.append({
-            "file":         file_stem[:40],
-            "ticker":       ticker,
-            "call_date":    call_date,
-            "hedging_pct":  hedging,
-            "return_t1":    r1,
-            "return_t3":    r3,
-            "return_t7":    r7,
-        })
+    df = pd.DataFrame(rows)
+    if df.empty:
+        return df
 
-    return pd.DataFrame(rows)
+    def zscore(s):
+        sd = s.std(ddof=0)
+        return (s - s.mean()) / sd if sd and sd > 0 else s * np.nan
+
+    df["hedging_z"] = df.groupby("ticker")["hedging_pct"].transform(zscore)
+    df["net_sentiment_z"] = df.groupby("ticker")["net_sentiment"].transform(zscore)
+    return df
 
 
-def run_correlation(df: pd.DataFrame, return_col: str):
-    """Hedging % aur stock return ka Pearson correlation nikalta hai."""
-    clean = df[["hedging_pct", return_col]].dropna()
-
-    if len(clean) < 3:
-        log.warning(f"  {return_col}: kam data hai — skip")
-        return
-
-    corr, pvalue = stats.pearsonr(clean["hedging_pct"], clean[return_col])
-
-    log.info(f"  {return_col}:")
-    log.info(f"    Correlation : {round(corr, 4)}")
-    log.info(f"    P-value     : {round(pvalue, 4)}")
-    if pvalue < 0.05:
-        log.info(f"    ✓ SIGNIFICANT — signal real hai!")
-    else:
-        log.info(f"    ✗ Not significant yet — aur data chahiye")
+def correlate(df: pd.DataFrame, signal: str, ret: str) -> dict:
+    sub = df[[signal, ret]].dropna()
+    if len(sub) < 10 or sub[signal].nunique() < 3:
+        return {"signal": signal, "return": ret, "n": len(sub)}
+    r, p = stats.pearsonr(sub[signal], sub[ret])
+    rho, sp = stats.spearmanr(sub[signal], sub[ret])
+    return {"signal": signal, "return": ret, "n": len(sub),
+            "pearson_r": round(r, 4), "pearson_p": round(p, 4),
+            "spearman_rho": round(rho, 4), "spearman_p": round(sp, 4)}
 
 
 def main():
     log.info("=" * 55)
-    log.info("AlphaLens  |  Signal Correlator  |  Week 5")
+    log.info("AlphaLens  |  Signal Correlator v2")
     log.info("=" * 55)
 
     df = build_dataset()
-
     if df.empty:
-        log.error("Koi data nahi mila — TRANSCRIPT_MAP check karo")
+        log.error("Koi data nahi mila — TRANSCRIPT_MAP / hedging CSVs check karo")
         return
 
-    log.info(f"\n  {len(df)} transcripts ka data ready\n")
-    log.info(df[["ticker", "call_date", "hedging_pct",
-                 "return_t1", "return_t3", "return_t7"]].to_string())
+    n_changed = int((df["call_date"] != df["filename_date"]).sum())
+    log.info(f"  {len(df)} transcripts | {n_changed} mein verified call date filename se alag")
 
-    log.info("\n-- Correlation Results " + "-" * 32)
-    run_correlation(df, "return_t1")
-    run_correlation(df, "return_t3")
-    run_correlation(df, "return_t7")
+    signals = ["hedging_pct", "hedging_z"]
+    if df["net_sentiment"].notna().sum() >= 10:
+        signals += ["net_sentiment", "net_sentiment_z"]
+    else:
+        log.info("  (sentiment CSVs nahi mile - sirf hedging signals; pehle sentiment_pipeline.py chalao)")
+    returns = [f"abn_t{n}" for n in HORIZONS] + [f"return_t{n}" for n in HORIZONS]
+    returns = [r for r in returns if df[r].notna().sum() >= 10]
+    if not any(r.startswith("abn_") for r in returns):
+        log.warning("  Abnormal returns available nahi - sirf raw returns pe test ho raha hai")
 
-    out = Path("backtesting/results/correlation_results.csv")
-    out.parent.mkdir(exist_ok=True)
-    df.to_csv(out, index=False)
-    log.info(f"\n  Results saved: {out.resolve()}")
+    res = pd.DataFrame([correlate(df, s, r) for s in signals for r in returns])
+    k = len(res.dropna(subset=["pearson_p"])) if "pearson_p" in res else 0
+    bonf = 0.05 / max(k, 1)
+
+    log.info("\n-- PRIMARY test (pehle se fixed) " + "-" * 22)
+    prim = res[(res.signal == PRIMARY_SIGNAL) & (res["return"] == PRIMARY_RETURN)]
+    if prim.empty or "pearson_p" not in prim or prim["pearson_p"].isna().all():
+        log.info("  Primary test ke liye data nahi (Nifty prices missing?)")
+    else:
+        row = prim.iloc[0]
+        log.info(f"  {PRIMARY_SIGNAL} -> {PRIMARY_RETURN}: n={int(row.n)}  Pearson r={row.pearson_r} (p={row.pearson_p})"
+                 f"  Spearman rho={row.spearman_rho} (p={row.spearman_p})")
+        log.info("  " + ("SIGNIFICANT at 0.05" if row.pearson_p < 0.05 else "Not significant at 0.05"))
+
+    log.info(f"\n-- Exploratory ({k} tests; Bonferroni threshold p < {bonf:.4f}) " + "-" * 6)
+    log.info("\n" + res.to_string(index=False))
+    if "pearson_p" in res:
+        hits = res[(res.pearson_p < bonf)]
+        log.info("  Bonferroni ke baad survive: " + (", ".join(f"{a}->{b}" for a, b in zip(hits.signal, hits['return'])) or "koi nahi"))
+
+    out_dir = Path("backtesting/results")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    df.to_csv(out_dir / "correlation_results.csv", index=False)
+    res.to_csv(out_dir / "correlation_stats.csv", index=False)
+    log.info(f"\n  Saved: {out_dir.resolve()}/correlation_results.csv , correlation_stats.csv")
     log.info("-" * 55)
 
 

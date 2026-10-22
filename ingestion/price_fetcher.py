@@ -98,11 +98,15 @@ def fetch_price_history_with_retry(ticker, retries=3, delay=5):
     print(f"All {retries} attempts failed for {ticker}")
     return None
 
-def save_prices(df: pd.DataFrame, ticker: str) -> Path:
+BENCHMARK = "^NSEI"          # Nifty 50 - abnormal returns ke liye
+BENCHMARK_NAME = "NIFTY50"
+
+
+def save_prices(df: pd.DataFrame, ticker: str, name: str = None) -> Path:
     """Saves DataFrame to CSV. Returns the file path."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     # Strip the .NS suffix for clean filenames: INFY.NS → INFY
-    clean_name = ticker.replace(".NS", "")
+    clean_name = name or ticker.replace(".NS", "")
     path = OUTPUT_DIR / f"{clean_name}_prices.csv"
     df.to_csv(path)
     log.info(f"  → Saved to {path}")
@@ -128,6 +132,14 @@ def main():
 
         time.sleep(SLEEP_BETWEEN)  # don't hammer Yahoo Finance
 
+    # Benchmark (Nifty 50) - signal_correlator abnormal returns ke liye
+    bench = fetch_price_history_with_retry(BENCHMARK)
+    if bench is not None:
+        save_prices(bench, BENCHMARK, name=BENCHMARK_NAME)
+        success.append(BENCHMARK)
+    else:
+        failed.append(BENCHMARK)
+
     # ── Summary ───────────────────────────────────────────────────────────────
     log.info("")
     log.info("── Run Summary ──────────────────────────────────────")
@@ -140,4 +152,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,10 @@
+pdfplumber
+pandas
+numpy
+scipy
+yfinance
+transformers
+torch
+streamlit
+plotly
+psycopg2-binary
